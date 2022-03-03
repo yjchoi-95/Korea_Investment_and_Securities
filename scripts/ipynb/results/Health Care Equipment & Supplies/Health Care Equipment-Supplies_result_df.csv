@@ -1,0 +1,67 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+ABT,Abbott Laboratories,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+MDT,Medtronic PLC,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+SYK,Stryker Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,9,11,11,11
+BDX,Becton Dickinson and Co,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+EW,Edwards Lifesciences Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+BSX,Boston Scientific Corp,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BAX,Baxter International Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+STT,State Street Corp,투자은행 및 서비스,551020.0,2,2,2,2,2,5,8,8,8,8,8,8
+ZBH,Zimmer Biomet Holdings Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,2,2,2,2
+STE,STERIS plc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+COO,Cooper Companies Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,9,11,11,11
+TFX,Teleflex Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,9,11,11,11
+PEN,Penumbra Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,9,11,11,11
+GMED,Globus Medical Inc Class A,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,4,4,9,9,9,9,9
+HAE,Haemonetics Corp,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,12,12
+ITGR,Integer Holdings Corp,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,1,4,9,9,9,9,9
+GKOS,Glaukos Corp,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,12,12
+NVRO,Nevro Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,10,10,10,10
+AVNS,Avanos Medical Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,6,6,6,6,6,6,6
+AORT,Artivion Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ISRG,Intuitive Surgical Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,9,11,11,11
+IDXX,IDEXX Laboratories Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+ALGN,Align Technology Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,4,4,9,9,9,9,9
+HOLX,Hologic Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,2,2,2,2
+PODD,Insulet Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,2,11,11,11
+ABMD,ABIOMED Inc,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,4,4,4,4,4,4,4
+MASI,Masimo Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,2,11,11,11
+XRAY,DENTSPLY SIRONA Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,5,5,5,5,5,5,13
+TNDM,Tandem Diabetes Care Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,2,11,11,11
+IART,Integra Lifesciences Holdings Corp,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,4,4,4,4,4,4,4
+ICUI,ICU Medical Inc,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,4,4,4,4,4,4,4
+QDEL,Quidel Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,10,10,10,10
+LIVN,LivaNova PLC,헬스케어 장비 및 용품,561010.0,2,1,4,5,4,6,6,6,6,6,6,6
+NEOG,Neogen Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,4,4,9,9,9,9,9
+IRTC,iRhythm Technologies Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,10,10,10,10
+STAA,STAAR Surgical Co,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,9,9,9
+MMSI,Merit Medical Systems Inc,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,4,4,4,4,4,4,4
+ATRC,AtriCure Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+NUVA,NuVasive Inc,헬스케어 장비 및 용품,561010.0,2,1,1,1,1,7,7,7,7,7,7,7
+LNTH,Lantheus Holdings Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,4,4,4,4,4,1,1
+MLAB,Mesa Laboratories Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,3,3,3,3,2,2,9,9,11,11,11
+HSKA,Heska Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,4,4,9,9,9,9,9
+ATRI,Atrion Corp,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BLFS,BioLife Solutions Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+VIVO,Meridian Bioscience Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,0,0,0,0,0,0,0
+ATEC,Alphatec Holdings Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,2,2,2,2,2
+VREX,Varex Imaging Corp,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,5,5,5,5,5,5,5
+KIDS,OrthoPediatrics Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,2,11,11,11
+LMAT,LeMaitre Vascular Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,4,4,9,9,9,9,9
+XENT,Intersect Ent Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,3,3,3,3,3,3,3
+CERS,Cerus Corp,헬스케어 장비 및 용품,561010.0,0,3,3,5,5,4,4,9,9,9,9,9
+ANGO,AngioDynamics Inc,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,4,4,4,4,4,4,4
+VRAY,ViewRay Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,6,6,6,6,6,6,6
+NTUS,Natus Medical Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,6,5,5,5,5,5,5,5
+CSII,Cardiovascular Systems Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,12,12
+INGN,Inogen Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,6,6,6,6,6,6,6
+CUTR,Cutera Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,4,8,8,8,8,8,8
+OSUR,OraSure Technologies Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,6,6,8,8,8,8,8,8
+OFIX,Orthofix Medical Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,3,3,3,3,3,3,3
+SRDX,Surmodics Inc,헬스케어 장비 및 용품,561010.0,1,1,1,5,5,4,4,4,4,4,4,4
+SPNE,SeaSpine Holdings Corp,헬스케어 장비 및 용품,561010.0,0,3,3,5,5,4,4,9,9,9,9,9
+ARAY,Accuray Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,6,5,5,5,5,5,5,5
+TCMD,Tactile Systems Technology Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,12,12
+SENS,Senseonics Holdings Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,6,5,5,5,5,5,5,5
+ZOM,Zomedica Corp,생명과학 및 메디컬 리서치,562020.0,2,2,2,2,6,5,5,5,5,5,5,5
+ASXC,Asensus Surgical Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,6,6,6,6,6,6,6

@@ -1,0 +1,487 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+V,Visa Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+HD,Home Depot Inc,전문품 상점,534030.0,1,3,3,1,3,4,8,4,4,4,4,4
+MA,Mastercard Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ACN,Accenture PLC Class A,소프트웨어 및 IT서비스,572010.0,1,3,1,1,1,4,4,4,4,4,4,4
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,1,1,1,1,1,4,4,4,4,4,4,4
+UPS,United Parcel Service Inc Class B,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,4
+LOW,Lowe's Companies Inc,전문품 상점,534030.0,1,1,1,1,1,4,4,4,4,4,4,4
+UNP,Union Pacific Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,8,8
+AXP,American Express Co,은행,551010.0,1,3,1,1,1,4,4,4,4,4,1,4
+RTX,Raytheon Technologies Corp,우주항공 및 국방,521010.0,0,2,2,2,6,3,3,3,3,3,3,3
+SAP,SAP SE ADR,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+BA,Boeing Co,우주항공 및 국방,521010.0,2,2,2,2,2,0,0,0,2,11,11,11
+DE,Deere & Co,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+BLK,BlackRock Inc,투자은행 및 서비스,551020.0,1,1,1,1,1,4,4,4,4,4,4,4
+CAT,Caterpillar Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,1,4,1,4,4,4,12,12
+LMT,Lockheed Martin Corp,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+GE,General Electric Co,복합 기업,544010.0,2,0,4,5,5,5,5,5,6,6,6,6
+MMM,3M Co,복합 기업,544010.0,2,0,0,0,5,5,5,5,3,3,3,3
+CNI,Canadian National Railway Co,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,8,12
+SHW,Sherwin-Williams Co,화학,511010.0,1,3,3,1,3,4,8,4,4,4,4,4
+GM,General Motors Co,자동차 및 자동차 부품,531010.0,0,1,1,4,4,7,7,9,9,9,9,13
+F,Ford Motor Co,자동차 및 자동차 부품,531010.0,0,0,0,4,4,7,7,9,9,9,9,13
+FIS,Fidelity National Information Services Inc,핀테크,573010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ITW,Illinois Tool Works Inc,복합 기업,544010.0,1,3,3,1,3,4,8,8,8,8,12,12
+COF,Capital One Financial Corp,은행,551010.0,1,1,1,4,1,7,4,9,9,9,9,13
+NSC,Norfolk Southern Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,8,8
+NOC,Northrop Grumman Corp,우주항공 및 국방,521010.0,1,3,3,3,3,1,1,1,1,1,8,8
+SQ,Block Inc Class A,전문 및 상업 서비스,522030.0,1,3,3,1,3,4,8,8,8,8,8,8
+FDX,FedEx Corp,화물 및 물류 서비스,524050.0,0,1,0,4,4,7,7,7,7,7,7,7
+ETN,Eaton Corporation PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+WM,Waste Management Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+GD,General Dynamics Corp,우주항공 및 국방,521010.0,0,0,0,0,4,3,3,3,3,3,3,3
+EMR,Emerson Electric Co,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,12,12
+TRI,Thomson Reuters Corp,전문 및 상업 서비스,522030.0,1,3,3,1,3,4,8,4,4,4,4,4
+CP,Canadian Pacific Railway Ltd,화물 및 물류 서비스,524050.0,1,3,3,1,3,1,8,8,8,8,8,8
+JCI,Johnson Controls International PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,9,9,9,9,9
+ROP,Roper Technologies Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+INFO,IHS Markit Ltd,전문 및 상업 서비스,522030.0,1,3,3,1,1,4,4,4,4,4,4,4
+GPN,Global Payments Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+PH,Parker-Hannifin Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+RSG,Republic Services Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,4
+STT,State Street Corp,투자은행 및 서비스,551020.0,0,0,0,0,4,3,3,7,10,10,10,10
+APTV,Aptiv PLC,자동차 및 자동차 부품,531010.0,1,1,1,1,1,4,4,4,4,4,4,4
+PPG,PPG Industries Inc,화학,511010.0,1,1,1,1,1,4,4,4,4,4,4,9
+TT,Trane Technologies PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,3,1,1,1,4,4,4,4,4,4,4
+TDG,TransDigm Group Inc,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+MTD,Mettler-Toledo International Inc,사무기기,571050.0,1,3,1,1,1,4,4,4,4,4,4,4
+DB,Deutsche Bank AG,은행,551010.0,2,0,4,5,5,6,6,6,6,6,6,6
+FERG,Ferguson PLC,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+CMI,Cummins Inc,자동차 및 자동차 부품,531010.0,1,3,3,1,3,4,8,4,4,4,12,12
+WCN,Waste Connections Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+ROK,Rockwell Automation Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+AME,AMETEK Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,1,8,8,8,8,8,4
+KEYS,Keysight Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,4,8,8,8,8,4,4
+BLL,Ball Corp,용기 및 포장,513020.0,1,3,3,3,3,1,8,8,8,8,8,8
+PHG,Koninklijke Philips NV ADR,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,1,8,8,8,8,8,8
+EFX,Equifax Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,4,4,4,4,4,4,4
+DAL,Delta Air Lines Inc,운송업,524060.0,2,2,2,2,2,2,2,2,2,2,2,2
+LUV,Southwest Airlines Co,운송업,524060.0,2,2,2,2,2,3,3,3,3,3,3,3
+SWK,Stanley Black & Decker Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,1,4,4,4,12,12
+VMC,Vulcan Materials Co,건축 자재,512020.0,1,1,1,1,1,4,4,4,4,4,4,4
+ZTO,ZTO Express (Cayman) Inc ADR,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,8,8
+LEN,Lennar Corp Class A,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+LEN,Lennar Corp Class B,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+IT,Gartner Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,4,4,4,4,4,4,4
+MLM,Martin Marietta Materials Inc,건축 자재,512020.0,1,1,1,1,1,4,4,4,4,4,4,4
+FTV,Fortive Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,6,1,1,1,1,1,12,12
+DOV,Dover Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,1,4,4,4,4,4,4,4
+SYF,Synchrony Financial,은행,551010.0,0,1,1,4,4,7,7,9,9,9,9,13
+URI,United Rentals Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,4,4,4,4,4,4,4
+CNHI,CNH Industrial NV,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,4,7,7,7,7,7,7,13
+IR,Ingersoll Rand Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+TDY,Teledyne Technologies Inc,전자 장비 및 부품,571040.0,1,3,3,3,3,1,8,8,8,8,8,8
+WAT,Waters Corp,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,4,4,4,4,4,4,4
+TRU,TransUnion,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+IP,International Paper Co,용기 및 포장,513020.0,0,0,0,0,4,7,7,7,10,10,10,10
+NVR,NVR Inc,주택건설,532030.0,1,3,3,3,3,1,8,8,8,8,8,12
+AMCR,Amcor PLC,용기 및 포장,513020.0,0,0,0,4,4,7,7,7,7,7,7,7
+GNRC,Generac Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+BR,Broadridge Financial Solutions Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+WAB,Westinghouse Air Brake Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,3,3,3,10,10,10,3
+XYL,Xylem Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,1,8,4,4,4,12,12
+J,Jacobs Engineering Group Inc,건설 및 엔지니어링,522010.0,1,3,3,1,3,4,8,8,8,8,4,4
+TXT,Textron Inc,우주항공 및 국방,521010.0,0,1,0,0,4,3,3,3,7,7,7,13
+ROL,Rollins Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+CCK,Crown Holdings Inc,용기 및 포장,513020.0,1,1,1,1,1,4,4,4,4,4,4,4
+HWM,Howmet Aerospace Inc,우주항공 및 국방,521010.0,0,1,0,4,4,7,7,9,9,9,9,13
+IEX,IDEX Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,8,8
+PWR,Quanta Services Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,4,4
+PKG,Packaging Corp of America,용기 및 포장,513020.0,1,1,1,1,6,7,1,1,7,7,12,12
+MAS,Masco Corp,주택건설,532030.0,1,3,3,1,3,4,8,4,4,4,4,4
+FICO,Fair Isaac Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+RHI,Robert Half International Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,4,4,4,4,4,4,4
+BLDR,Builders FirstSource Inc,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+LDOS,Leidos Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+FBHS,Fortune Brands Home & Security Inc,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,9
+GGG,Graco Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,12,12
+CSL,Carlisle Companies Inc,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+FND,Floor & Decor Holdings Inc Class A,전문품 상점,534030.0,1,1,1,1,1,4,4,4,4,4,4,4
+RPM,RPM International Inc,화학,511010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ALLE,Allegion PLC,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,1,8,8,8,8,8,8
+RRX,Regal Rexnord Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+GLOB,Globant SA,소프트웨어 및 IT서비스,572010.0,1,3,1,1,1,4,4,4,4,4,4,4
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ACM,AECOM,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,4,4
+TTC,Toro Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,12,12
+HUBB,Hubbell Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+BAH,Booz Allen Hamilton Holding Corp Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+SNX,TD Synnex Corp,"컴퓨터, 전화 및 가전제품",571060.0,1,1,1,1,1,4,4,4,4,4,4,9
+TREX,Trex Company Inc,주택건설,532030.0,1,3,3,1,1,4,4,4,4,4,4,4
+MHK,Mohawk Industries Inc,가정용품,532040.0,2,0,4,0,5,5,5,5,10,10,10,10
+PNR,Pentair PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,9
+LII,Lennox International Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,8,8
+LEA,Lear Corp,자동차 및 자동차 부품,531010.0,0,0,0,0,4,3,3,7,7,7,7,7
+AGCO,AGCO Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,9
+SEE,Sealed Air Corp,용기 및 포장,513020.0,0,1,1,4,4,7,7,9,9,9,9,13
+HEI,HEICO Corp Class A,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+HEI,HEICO Corp,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ARMK,Aramark,호텔 및 엔터테인먼트,533010.0,2,2,2,2,2,3,3,3,3,3,3,3
+KNX,Knight-Swift Transportation Holdings Inc Class A,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,12
+OC,Owens Corning,주택건설,532030.0,0,1,0,4,4,7,7,7,7,7,7,7
+ST,Sensata Technologies Holding PLC,전자 장비 및 부품,571040.0,0,1,0,4,6,7,7,7,7,7,7,13
+WSO,Watsco Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+WSO,Watsco Inc Class B,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+ALV,Autoliv Inc,자동차 및 자동차 부품,531010.0,0,0,0,0,4,7,7,7,7,7,7,7
+ARW,Arrow Electronics Inc,반도체 및 반도체 장비,571010.0,1,1,1,1,1,4,4,4,4,4,4,4
+G,Genpact Ltd,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+BERY,Berry Global Group Inc,용기 및 포장,513020.0,0,1,0,4,4,7,7,7,7,7,7,7
+WMS,Advanced Drainage Systems Inc,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+WU,Western Union Co,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+CAE,CAE Inc,비즈니스교육,631030.0,1,3,3,3,6,1,1,1,1,1,1,1
+SITE,SiteOne Landscape Supply Inc,식품 및 담배,541020.0,1,1,1,1,1,4,4,4,4,4,4,4
+WEX,WEX Inc,전문 및 상업 서비스,522030.0,1,3,3,3,6,0,1,1,1,11,1,1
+OSK,Oshkosh Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,1,4,4,1,12,12
+XPO,XPO Logistics Inc,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,1,4,4,4,12,12
+ATR,Aptargroup Inc,용기 및 포장,513020.0,1,3,3,3,3,1,8,8,8,8,8,8
+BLD,TopBuild Corp,건설 및 엔지니어링,522010.0,1,3,1,1,1,4,4,4,4,4,4,4
+ITT,ITT Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,1,4,4,4,4,4,4,4
+BC,Brunswick Corp,레저 상품,532050.0,1,1,1,1,1,4,4,4,4,4,4,9
+HII,Huntington Ingalls Industries Inc,우주항공 및 국방,521010.0,2,2,2,2,2,0,0,0,0,11,11,11
+ALK,Alaska Air Group Inc,운송업,524060.0,2,2,4,5,5,5,5,5,5,5,5,5
+MTZ,MasTec Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,12,12
+DCI,Donaldson Company Inc,전문 및 상업 서비스,522030.0,1,3,3,3,6,1,1,1,1,1,12,12
+NLSN,Nielsen Holdings PLC,미디어 및 출판,533020.0,2,0,4,5,5,5,5,5,5,5,5,5
+TOL,Toll Brothers Inc,주택건설,532030.0,1,1,1,4,1,4,4,4,4,4,4,9
+AXTA,Axalta Coating Systems Ltd,화학,511010.0,0,0,0,0,4,3,3,3,10,10,10,10
+AYI,Acuity Brands Inc,주택건설,532030.0,0,0,4,5,5,6,6,6,6,6,6,6
+CFX,Colfax Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,4,7,7,9,9,9,9,7
+PAC,Grupo Aeroportuario del Pacifico SAB de CV ADR,운송 인프라,524070.0,0,1,0,4,4,7,7,9,7,7,7,13
+KBR,KBR Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,4,4,4,4,4,4,4
+ADT,ADT Inc,커뮤니케이션 및 네트워킹,571020.0,2,0,4,5,5,5,5,5,10,10,10,10
+EME,EMCOR Group Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,12,12
+CACI,CACI International Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+LPX,Louisiana-Pacific Corp,종이 및 임산물,513010.0,1,1,1,1,1,4,4,4,4,4,4,4
+CR,Crane Co,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,0,6,3,3,3,3,3,3,3
+MAN,ManpowerGroup Inc,전문 및 상업 서비스,522030.0,0,0,0,0,4,7,7,7,10,10,10,7
+STN,Stantec Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,4,4
+GPK,Graphic Packaging Holding Co,용기 및 포장,513020.0,1,1,1,1,1,4,4,4,4,4,4,4
+ASGN,ASGN Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,4,4,4,4,4,12,12
+EXP,Eagle Materials Inc,건축 자재,512020.0,0,1,1,4,4,7,7,9,9,9,9,13
+MDU,MDU Resources Group Inc,복합 유틸리티,591040.0,0,1,0,4,6,3,1,1,1,1,7,7
+TNET,TriNet Group Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+SON,Sonoco Products Co,용기 및 포장,513020.0,1,3,3,3,6,1,1,1,1,1,1,1
+MSA,MSA Safety Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+CW,Curtiss-Wright Corp,우주항공 및 국방,521010.0,1,3,2,2,6,0,0,0,0,11,11,11
+AQUA,Evoqua Water Technologies Corp,전문 및 상업 서비스,522030.0,1,1,1,4,1,4,4,9,9,9,9,13
+SPR,Spirit AeroSystems Holdings Inc Class A,우주항공 및 국방,521010.0,2,2,2,2,2,2,2,2,2,2,2,2
+CLH,Clean Harbors Inc,전문 및 상업 서비스,522030.0,1,3,1,1,1,4,4,4,4,4,1,1
+FCN,FTI Consulting Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+LEG,Leggett & Platt Inc,가정용품,532040.0,0,0,4,5,5,5,5,5,10,10,10,10
+SSD,Simpson Manufacturing Co Inc,주택건설,532030.0,1,3,3,1,3,1,8,8,8,8,8,8
+TKR,Timken Co,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,12,9
+ATKR,Atkore Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+UNVR,Univar Solutions Inc,화학,511010.0,0,0,0,0,5,5,5,5,10,10,10,10
+WTS,Watts Water Technologies Inc Class A,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+SAIC,Science Applications International Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,6,1,1,1,1,1,12,12
+AL,Air Lease Corp Class A,전문 및 상업 서비스,522030.0,0,2,0,2,6,3,3,3,3,3,3,3
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+VMI,Valmont Industries Inc,건설 및 엔지니어링,522010.0,0,1,1,4,1,7,7,9,9,9,9,9
+AWI,Armstrong World Industries Inc,주택건설,532030.0,1,3,3,3,3,1,8,8,8,8,1,1
+HXL,Hexcel Corp,우주항공 및 국방,521010.0,2,2,2,2,2,2,2,2,2,2,2,2
+HRI,Herc Holdings Inc,전문 및 상업 서비스,522030.0,1,1,1,4,1,4,4,9,9,9,9,13
+MSM,MSC Industrial Direct Co Inc Class A,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,3,3,3,10,10,10,3
+GTES,Gates Industrial Corporation PLC,"건설장비 및 대형차, 기차, 배",521020.0,0,0,4,5,5,5,5,5,10,10,10,10
+GTLS,Chart Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+FLS,Flowserve Corp,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,2,2,2,2,2,2,2,2
+JBT,John Bean Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,3,3,6,1,1,1,1,1,12,12
+TRTN,Triton International Ltd,전문 및 상업 서비스,522030.0,1,1,1,1,1,4,4,4,4,4,12,12
+SKY,Skyline Champion Corp,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+SUM,Summit Materials Inc Class A,건축 자재,512020.0,0,0,0,4,4,7,7,7,7,7,7,7
+ALSN,Allison Transmission Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,0,0,0,0,11,11,11
+BWXT,BWX Technologies Inc,우주항공 및 국방,521010.0,1,3,2,3,6,0,0,0,0,11,11,11
+SWX,Southwest Gas Holdings Inc,천연가스 유틸리티,591020.0,2,2,2,2,2,2,2,2,2,2,2,2
+R,Ryder System Inc,화물 및 물류 서비스,524050.0,0,0,0,0,4,5,5,7,10,10,10,10
+ATCO,Atlas Corp,화물 및 물류 서비스,524050.0,1,1,1,4,1,6,6,6,6,6,6,6
+KEX,Kirby Corp,화물 및 물류 서비스,524050.0,2,2,2,2,2,2,2,2,2,2,2,2
+ASB,Associated Banc-Corp,은행,551010.0,2,0,2,0,2,3,3,3,3,3,3,3
+ZWS,Zurn Water Solutions Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,4,8,4,4,4,12,9
+CPA,Copa Holdings SA Class A,운송업,524060.0,2,2,2,5,2,5,5,5,5,5,5,5
+KFY,Korn Ferry,전문 및 상업 서비스,522030.0,1,1,1,4,6,7,1,1,1,1,12,13
+AIT,Applied Industrial Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,12,12
+MATX,Matson Inc,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,4
+GATX,GATX Corp,은행,551010.0,1,3,3,3,6,1,1,1,1,1,1,1
+FLOW,SPX FLOW Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+ADS,Alliance Data Systems Corp,전문 및 상업 서비스,522030.0,2,2,4,5,5,5,5,5,5,5,5,5
+NSP,Insperity Inc,전문 및 상업 서비스,522030.0,1,3,3,3,6,0,1,1,1,1,1,1
+HI,Hillenbrand Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,3,3,3,3,7,7,3
+MTH,Meritage Homes Corp,주택건설,532030.0,1,3,3,1,3,4,8,8,8,8,4,4
+WBT,Welbilt Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,3,3,3,10,10,10,10
+UNF,UniFirst Corp,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+MLI,Mueller Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,4,1,7,7,9,9,9,9,13
+AJRD,Aerojet Rocketdyne Holdings Inc,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+BCC,Boise Cascade Co,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+FIX,Comfort Systems USA Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,4,4
+ATI,Allegheny Technologies Inc,우주항공 및 국방,521010.0,2,2,2,2,2,2,2,2,3,3,3,3
+TKC,Turkcell Iletisim Hizmetleri AS ADR,통신 서비스,574010.0,2,2,4,5,5,5,5,5,5,5,5,5
+FLR,Fluor Corp,건설 및 엔지니어링,522010.0,2,2,4,5,5,5,5,5,5,5,5,5
+TEX,Terex Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,7,7,7,7,7,7,7
+TRN,Trinity Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,6,7,1,7,7,7,12,12
+ENS,EnerSys,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,6,7,7,7,7,7,7,7
+SAVE,Spirit Airlines Inc,운송업,524060.0,2,2,4,5,5,2,2,2,5,2,2,2
+AIN,Albany International Corp Class A,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,6,1,1,1,1,1,1,1
+ABM,ABM Industries Inc,전문 및 상업 서비스,522030.0,0,1,1,4,4,7,7,9,9,9,9,9
+AMRC,Ameresco Inc Class A,재생에너지,502010.0,1,1,1,1,1,4,4,4,4,4,4,4
+KMT,Kennametal Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,3,3,3,3,3,3,3
+DY,Dycom Industries Inc,건설 및 엔지니어링,522010.0,0,0,0,0,4,5,5,7,10,10,10,10
+ERJ,Embraer SA ADR,우주항공 및 국방,521010.0,2,2,4,5,5,5,5,5,5,5,5,5
+BRC,Brady Corp Class A,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,1,8,1,1
+TPH,Tri Pointe Homes Inc (Delaware),주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+HLIO,Helios Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,4,1,7,4,9,9,9,9,13
+KAI,Kadant Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+DDD,3D Systems Corp,전자 장비 및 부품,571040.0,0,1,1,4,4,7,7,9,9,9,9,9
+CNR,Cornerstone Building Brands Inc,주택건설,532030.0,0,0,0,0,4,5,5,5,10,10,10,10
+SPXC,SPX Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,8,8
+B,Barnes Group Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,2,2,3,3,3,3
+DOOR,Masonite International Corp,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,9
+FSS,Federal Signal Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,8,8
+EURN,Euronav NV,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,6,6,6,6,6,6,6
+GMS,GMS Inc,주택건설,532030.0,0,1,1,4,4,7,7,9,9,9,9,13
+SPCE,Virgin Galactic Holdings Inc Class A,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,9
+BTU,Peabody Energy Corp,석유,501010.0,2,2,4,5,5,5,5,5,5,5,5,5
+NPO,EnPro Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,4,7,7,7,7,7,7,13
+JELD,JELD-WEN Holding Inc,주택건설,532030.0,0,0,4,5,5,5,5,5,10,10,10,10
+CCS,Century Communities Inc,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+DAC,Danaos Corp,화물 및 물류 서비스,524050.0,0,1,1,4,4,6,6,9,9,9,9,13
+VLRS,Controladora Vuela Compania de Aviacion SAB de CV ADR,운송업,524060.0,0,1,1,4,4,7,7,9,9,9,9,13
+MWA,Mueller Water Products Inc Series A,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,4,7,7,9,9,9,7,7
+MAXR,Maxar Technologies Inc,커뮤니케이션 및 네트워킹,571020.0,2,0,4,5,5,5,5,5,10,10,10,10
+CBZ,CBIZ Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+HNI,HNI Corp,전문 및 상업 서비스,522030.0,2,0,4,5,5,6,6,6,6,6,6,6
+ESE,ESCO Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,8,8
+CMRE,Costamare Inc,화물 및 물류 서비스,524050.0,0,1,1,4,4,6,6,9,6,6,6,6
+AZUL,Azul SA ADR,운송업,524060.0,2,2,2,2,2,2,2,2,2,2,2,2
+MTOR,Meritor Inc,자동차 및 자동차 부품,531010.0,1,3,3,3,6,1,1,1,1,1,12,12
+ALG,Alamo Group Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,12,12
+GVA,Granite Construction Inc,건설 및 엔지니어링,522010.0,2,0,4,5,5,5,5,5,5,5,5,5
+FCF,First Commonwealth Financial Corp,은행,551010.0,0,2,2,0,2,3,3,3,3,3,3,3
+PRLB,Proto Labs Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,6,0,0,0,0,11,11,11
+FRO,Frontline Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,3,6,6,6,6,6,6,6
+AIR,AAR Corp,우주항공 및 국방,521010.0,2,2,2,2,2,3,3,3,3,3,3,3
+KAR,KAR Auction Services Inc,전문품 상점,534030.0,2,2,2,2,2,2,2,2,2,11,11,11
+LNN,Lindsay Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,9
+TNC,Tennant Co,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,6,7,7,7,7,7,7,7
+VRTV,Veritiv Corp,용기 및 포장,513020.0,0,1,1,4,4,7,7,9,9,9,9,13
+TGI,Triumph Group Inc,우주항공 및 국방,521010.0,2,2,4,5,5,6,6,6,6,6,6,6
+GBX,Greenbrier Companies Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,5,5,5,5,10,10,10,10
+SCS,Steelcase Inc Class A,전문 및 상업 서비스,522030.0,2,2,2,2,2,2,2,2,2,2,2,2
+DLX,Deluxe Corp,전문 및 상업 서비스,522030.0,2,2,4,5,5,5,5,5,5,5,5,5
+SXI,Standex International Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,4,3,3,7,10,10,10,10
+GFF,Griffon Corp,주택건설,532030.0,0,1,1,4,4,7,7,9,7,9,7,7
+HSC,Harsco Corp,전문 및 상업 서비스,522030.0,2,2,2,2,2,0,0,0,0,11,11,11
+GIC,Global Industrial Co,다양한 산업재 도매업,522020.0,1,3,3,3,6,1,1,1,1,1,12,12
+RGR,Sturm Ruger & Company Inc,레저 상품,532050.0,1,1,1,1,1,4,4,4,4,4,4,9
+SFL,SFL Corporation Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,2,2,2,5,5,5,5
+DFIN,Donnelley Financial Solutions Inc,전문 및 상업 서비스,522030.0,0,1,0,4,4,7,7,9,9,9,9,13
+AZZ,AZZ Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,4,5,5,5,5,5,10,10,10,10
+CXW,CoreCivic Inc,전문 및 상업 서비스,522030.0,2,2,4,5,5,5,5,5,5,5,5,5
+KAMN,Kaman Corp,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,2,2,2,11,11,11
+PGTI,PGT Innovations Inc,주택건설,532030.0,1,3,3,3,6,1,1,1,1,1,12,12
+DNOW,NOW Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,4,5,5,6,6,6,5,5,5,5
+EPAC,Enerpac Tool Group Corp Class A,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,2,5,5,5,5,5,5,5
+GSL,Global Ship Lease Inc Class A,화물 및 물류 서비스,524050.0,0,0,4,4,4,6,6,6,6,6,6,6
+NMM,Navios Maritime Partners Units,화물 및 물류 서비스,524050.0,2,2,4,5,5,6,6,6,6,6,6,6
+GRC,Gorman-Rupp Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,6,1,1,1,1,1,1,1
+TBI,TrueBlue Inc,전문 및 상업 서비스,522030.0,0,0,0,0,4,3,3,3,10,10,10,10
+DHT,DHT Holdings Inc,오일 및 가스 장비 및 서비스,501030.0,1,3,3,3,3,6,6,6,6,6,6,6
+STNG,Scorpio Tankers Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,6,6,6,6,6,6,6
+ASPN,Aspen Aerogels Inc,주택건설,532030.0,1,1,1,1,1,4,4,4,4,4,4,4
+REVG,REV Group Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,0,4,5,5,5,5,5,5,5,5,5
+PBI,Pitney Bowes Inc,사무기기,571050.0,2,0,4,5,5,6,6,6,6,6,6,6
+INSW,International Seaways Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,0,0,0,0,11,11,11
+PLOW,Douglas Dynamics Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,2,2,6,0,0,0,0,11,11,11
+WNC,Wabash National Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,5,5,5,5,10,10,10,10
+ACCO,ACCO Brands Corp,전문 및 상업 서비스,522030.0,2,0,4,5,5,5,5,5,5,5,5,5
+VVI,Viad Corp,미디어 및 출판,533020.0,2,2,2,2,2,2,2,2,2,2,2,2
+GNK,Genco Shipping & Trading Ltd,화물 및 물류 서비스,524050.0,2,2,4,5,5,6,6,6,6,6,6,6
+NX,Quanex Building Products Corp,주택건설,532030.0,0,1,0,4,4,7,7,7,7,9,7,7
+IIIN,Insteel Industries Inc,메탈&마이닝,512010.0,0,0,0,0,4,7,7,7,7,7,7,13
+HY,Hyster-Yale Materials Handling Inc Class A,"건설장비 및 대형차, 기차, 배",521020.0,2,0,4,5,5,5,5,5,5,5,5,5
+TWI,Titan International Inc,자동차 및 자동차 부품,531010.0,0,0,4,0,5,5,5,5,10,10,10,10
+MRC,MRC Global Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,4,5,5,2,2,2,5,5,5,5
+MTW,Manitowoc Company Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,0,4,0,5,5,5,5,10,10,10,10
+AGX,Argan Inc,건설 및 엔지니어링,522010.0,2,0,4,5,5,5,5,5,5,5,5,5
+NPK,National Presto Industries Inc,우주항공 및 국방,521010.0,2,2,2,2,2,2,2,3,3,3,3,3
+THR,Thermon Group Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,2,2,2,2,2,2
+TPC,Tutor Perini Corp,건설 및 엔지니어링,522010.0,2,0,4,5,5,5,5,5,5,5,5,5
+DCO,Ducommun Inc,우주항공 및 국방,521010.0,1,3,3,3,3,1,1,1,1,1,1,1
+VEC,Vectrus Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+KNOP,KNOT Offshore Partners Common Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,5,5,5,5,5,5,5
+LPG,Dorian LPG Ltd,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,4,4,9,9,9,9,9
+SB,Safe Bulkers Inc,화물 및 물류 서비스,524050.0,0,0,0,0,4,7,7,7,7,7,7,13
+EBF,Ennis Inc,전문 및 상업 서비스,522030.0,2,2,2,2,6,0,0,0,0,11,11,11
+LXFR,Luxfer Holdings PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,6,0,1,1,1,1,1,1
+TNK,Teekay Tankers Ltd Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,6,6,6,6,6,6,6
+DSX,Diana Shipping Inc,화물 및 물류 서비스,524050.0,2,0,4,5,5,6,6,6,6,6,6,6
+TK,Teekay Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,6,6,6,6,6,6,6
+NETI,Eneti Inc,화물 및 물류 서비스,524050.0,2,2,4,5,5,6,6,6,6,6,6,6
+NAT,Nordic American Tanker Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,4,5,5,6,6,6,6,6,6,6
+PKE,Park Aerospace Corp,우주항공 및 국방,521010.0,2,2,4,5,5,2,2,2,5,5,5,5
+TSLA,Tesla Inc,자동차 및 자동차 부품,531010.0,1,1,1,1,1,4,4,4,4,4,4,4
+PYPL,PayPal Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+HON,Honeywell International Inc,복합 기업,544010.0,1,3,3,3,3,1,8,8,8,8,12,12
+BKNG,Booking Holdings Inc,호텔 및 엔터테인먼트,533010.0,1,1,1,4,6,7,1,1,1,1,12,12
+ADP,Automatic Data Processing Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,1,1
+CSX,CSX Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,8,12
+FISV,Fiserv Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+KLAC,KLA Corp,반도체 및 반도체 장비,571010.0,1,1,1,1,1,4,4,4,4,4,4,4
+ADSK,Autodesk Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+PAYX,Paychex Inc,전문 및 상업 서비스,522030.0,1,3,3,1,1,4,4,4,4,4,4,4
+CTAS,Cintas Corp,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+ODFL,Old Dominion Freight Line Inc,화물 및 물류 서비스,524050.0,1,3,1,1,1,4,4,4,4,4,4,4
+VRSK,Verisk Analytics Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+EXPE,Expedia Group Inc,호텔 및 엔터테인먼트,533010.0,0,1,0,4,4,7,7,9,9,9,9,13
+FAST,Fastenal Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,4,8,8,8,8,4,4
+CPRT,Copart Inc,전문품 상점,534030.0,1,3,3,3,3,1,8,8,8,8,8,8
+RYAAY,Ryanair Holdings PLC ADR,운송업,524060.0,0,0,0,0,4,7,7,7,7,7,7,7
+CSGP,CoStar Group Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ON,ON Semiconductor Corp,반도체 및 반도체 장비,571010.0,1,1,1,1,1,4,4,4,4,4,4,4
+TSCO,Tractor Supply Co,전문품 상점,534030.0,1,1,1,1,1,4,4,4,4,4,4,4
+CDW,CDW Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+ZBRA,Zebra Technologies Corp Class A,전자 장비 및 부품,571040.0,1,3,1,1,1,4,4,4,4,4,4,4
+ENPH,Enphase Energy Inc,재생에너지,502010.0,1,1,1,1,1,4,4,4,4,4,4,4
+TCOM,Trip.com Group Ltd ADR,호텔 및 엔터테인먼트,533010.0,2,0,4,5,5,5,5,5,5,5,5,5
+EXPD,Expeditors International of Washington Inc,화물 및 물류 서비스,524050.0,1,3,1,1,1,4,4,4,4,4,4,4
+POOL,Pool Corp,레저 상품,532050.0,1,3,1,1,1,4,4,4,4,4,4,4
+TRMB,Trimble Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,4,4,4,4,4,4,4
+UAL,United Airlines Holdings Inc,운송업,524060.0,2,2,2,2,2,2,2,2,2,2,2,2
+PTC,PTC Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,1,1,1,1,12,12
+NDSN,Nordson Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,4,8,8,8,8,4,4
+PLUG,Plug Power Inc,재생에너지,502010.0,1,1,1,1,1,4,4,4,4,4,4,9
+JKHY,Jack Henry & Associates Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+AAL,American Airlines Group Inc,운송업,524060.0,2,2,4,5,5,5,5,5,5,5,5,5
+CGNX,Cognex Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,12,12
+PCTY,Paylocity Holding Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,1,3,4,8,8,8,8,4,4
+MIDD,Middleby Corp,가정용품,532040.0,0,1,1,4,4,7,7,9,9,9,9,13
+CAR,Avis Budget Group Inc,운송업,524060.0,1,1,1,4,1,4,4,9,9,9,9,13
+AXON,Axon Enterprise Inc,우주항공 및 국방,521010.0,1,3,3,1,3,4,8,4,4,4,4,4
+AZPN,Aspen Technology Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+TTEK,Tetra Tech Inc,전문 및 상업 서비스,522030.0,1,3,3,1,3,4,8,4,4,4,4,4
+MKSI,MKS Instruments Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,1,3,1,8,8,8,8,12,12
+ESLT,Elbit Systems Ltd,우주항공 및 국방,521010.0,1,3,3,3,6,1,1,1,1,1,1,1
+LECO,Lincoln Electric Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,12,12
+EEFT,Euronet Worldwide Inc,전문 및 상업 서비스,522030.0,1,3,3,3,6,1,1,1,1,1,1,1
+FSLR,First Solar Inc,재생에너지,502010.0,1,1,1,1,1,4,4,4,4,4,4,4
+WWD,Woodward Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,1,1,1,1,1,1
+GNTX,Gentex Corp,자동차 및 자동차 부품,531010.0,1,3,3,3,3,1,8,8,8,8,8,8
+RGLD,Royal Gold Inc,메탈&마이닝,512010.0,1,3,3,3,3,1,8,8,8,8,8,8
+SAIA,Saia Inc,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,4
+COHR,Coherent Inc,전자 장비 및 부품,571040.0,0,0,0,4,4,7,7,7,7,7,7,7
+LFUS,Littelfuse Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,1,1,4,1,12,12
+LSTR,Landstar System Inc,화물 및 물류 서비스,524050.0,1,3,3,1,3,4,8,4,4,4,12,12
+WTFC,Wintrust Financial Corp,은행,551010.0,0,0,0,0,4,3,3,3,3,3,3,3
+SRCL,Stericycle Inc,전문 및 상업 서비스,522030.0,2,0,4,5,5,6,6,6,6,6,6,6
+AMBA,Ambarella Inc,반도체 및 반도체 장비,571010.0,1,1,1,1,1,4,4,9,9,9,9,4
+ROLL,RBC Bearings Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,1,1,1,1,1,1
+JBLU,JetBlue Airways Corp,운송업,524060.0,2,2,4,5,5,5,5,5,5,5,5,5
+RUN,Sunrun Inc,재생에너지,502010.0,1,3,3,3,3,1,8,8,8,8,8,8
+SLGN,Silgan Holdings Inc,용기 및 포장,513020.0,1,1,1,1,1,4,4,4,4,4,4,4
+IRDM,Iridium Communications Inc,통신 서비스,574010.0,1,3,3,3,3,1,8,8,8,8,8,8
+MNDT,Mandiant Inc,소프트웨어 및 IT서비스,572010.0,2,2,4,5,5,6,6,6,6,6,6,6
+EXPO,Exponent Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+VICR,Vicor Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,1,1,1,4,4,4,4,4,4,4
+BECN,Beacon Roofing Supply Inc,주택건설,532030.0,0,0,0,0,4,7,7,7,10,10,10,7
+FELE,Franklin Electric Co Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+CWST,Casella Waste Systems Inc Class A,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+TSEM,Tower Semiconductor Ltd,반도체 및 반도체 장비,571010.0,0,1,0,4,4,7,7,7,7,7,7,7
+MANT,ManTech International Corp Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,8,8,8,8,8,8
+JOBS,51job Inc ADR,전문 및 상업 서비스,522030.0,1,3,2,2,6,0,0,0,0,11,11,11
+ALGT,Allegiant Travel Co,운송업,524060.0,0,1,1,4,4,7,7,9,9,9,9,9
+VSAT,ViaSat Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,2,2,2,2,2,2,2,2,2,2
+ONB,Old National Bancorp,은행,551010.0,0,2,2,2,6,3,3,3,3,3,3,3
+AIMC,Altra Industrial Motion Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,1,0,4,4,7,7,7,7,7,7,7
+MRCY,Mercury Systems Inc,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+SABR,Sabre Corp,소프트웨어 및 IT서비스,572010.0,2,2,4,5,2,2,2,2,5,2,2,2
+FULT,Fulton Financial Corp,은행,551010.0,2,2,2,0,2,3,3,3,3,3,3,3
+MLKN,MillerKnoll Inc,전문 및 상업 서비스,522030.0,0,2,2,2,6,3,1,1,1,1,1,1
+WERN,Werner Enterprises Inc,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,12,12
+HUBG,Hub Group Inc Class A,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,4
+FWRD,Forward Air Corp,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,4
+SBLK,Star Bulk Carriers Corp,화물 및 물류 서비스,524050.0,0,1,1,4,4,7,7,9,9,9,9,13
+CVCO,Cavco Industries Inc,주택건설,532030.0,1,3,3,3,3,1,1,1,1,1,12,12
+SANM,Sanmina Corp,반도체 및 반도체 장비,571010.0,0,1,0,4,4,7,7,7,7,7,7,7
+FFBC,First Financial Bancorp,은행,551010.0,2,2,2,0,2,3,3,3,3,3,3,3
+FRME,First Merchants Corp,은행,551010.0,0,2,0,0,6,3,3,3,3,3,3,3
+GOGL,Golden Ocean Group Ltd,화물 및 물류 서비스,524050.0,2,0,4,5,5,6,6,6,6,6,6,6
+WIRE,Encore Wire Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+AAWW,Atlas Air Worldwide Holdings Inc,화물 및 물류 서비스,524050.0,0,1,0,4,4,7,7,7,7,7,7,7
+ARCB,ArcBest Corp,화물 및 물류 서비스,524050.0,1,1,1,1,1,4,4,4,4,4,4,13
+HTLF,Heartland Financial USA Inc,은행,551010.0,2,2,2,0,2,3,3,3,3,3,3,3
+KTOS,Kratos Defense and Security Solutions Inc,우주항공 및 국방,521010.0,1,3,3,3,3,1,8,8,8,8,8,8
+RUSHA,Rush Enterprises Inc Class A,전문품 상점,534030.0,1,1,1,1,1,4,4,4,4,4,4,12
+LKFN,Lakeland Financial Corp,은행,551010.0,1,1,1,1,1,4,4,4,4,4,12,12
+ATSG,Air Transport Services Group Inc,화물 및 물류 서비스,524050.0,1,3,3,3,6,1,1,1,1,1,12,12
+MGRC,McGrath RentCorp,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,8,8,8,8,8,8
+CSWI,CSW Industrials Inc,화학,511010.0,1,3,3,1,3,4,8,4,4,4,4,4
+CMPR,Cimpress PLC,전문 및 상업 서비스,522030.0,2,2,2,2,2,0,0,0,0,11,11,11
+ICFI,ICF International Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,1,1,1,1,1,1
+SSYS,Stratasys Ltd,전자 장비 및 부품,571040.0,2,2,4,5,5,6,6,6,6,6,6,6
+NVEE,NV5 Global Inc,건설 및 엔지니어링,522010.0,1,3,3,3,6,1,1,1,1,1,12,12
+ROCK,Gibraltar Industries Inc,주택건설,532030.0,1,3,3,3,3,1,8,8,8,8,8,8
+SKYW,SkyWest Inc,운송업,524060.0,2,2,2,2,2,0,0,0,0,11,11,11
+SHYF,Shyft Group Inc,자동차 및 자동차 부품,531010.0,1,1,1,1,1,4,4,4,4,4,4,4
+MYRG,MYR Group Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,4,4
+FRTA,Forterra Inc,건축 자재,512020.0,1,1,1,4,1,4,4,9,9,9,9,9
+KFRC,Kforce Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,4,4,4,4,4,4,4
+AVAV,AeroVironment Inc,우주항공 및 국방,521010.0,1,3,3,3,3,1,1,1,1,1,12,12
+ECOL,US Ecology Inc,전문 및 상업 서비스,522030.0,2,2,2,2,2,2,2,2,2,2,2,2
+OFLX,Omega Flex Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,1,8,8,8,8,8,8
+OSIS,OSI Systems Inc,전자 장비 및 부품,571040.0,1,3,3,3,6,1,1,1,1,1,1,1
+PRIM,Primoris Services Corp,건설 및 엔지니어링,522010.0,0,0,0,0,4,7,7,7,7,7,7,7
+HEES,H&E Equipment Services Inc,전문 및 상업 서비스,522030.0,0,1,0,0,6,3,3,3,7,7,7,3
+MRTN,Marten Transport Ltd,화물 및 물류 서비스,524050.0,1,3,3,3,3,1,8,8,8,8,8,8
+CMCO,Columbus McKinnon Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,6,1,1,1,1,1,12,12
+ASTE,Astec Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,4,4,7,7,7,7,7,7,7
+SRCE,1st Source Corp,은행,551010.0,2,2,2,2,2,3,3,3,3,3,3,3
+HCSG,Healthcare Services Group Inc,전문 및 상업 서비스,522030.0,2,2,4,5,5,5,5,5,5,5,5,5
+GABC,German American Bancorp Inc,은행,551010.0,0,1,0,4,6,7,1,7,7,7,7,7
+HTLD,Heartland Express Inc,화물 및 물류 서비스,524050.0,2,2,4,5,5,2,2,6,5,5,5,5
+APOG,Apogee Enterprises Inc,주택건설,532030.0,2,0,4,5,5,5,5,5,5,5,5,5
+ERII,Energy Recovery Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,4,4,4
+MATW,Matthews International Corp Class A,미디어 및 출판,533020.0,2,0,4,5,5,5,5,5,5,5,5,5
+BLNK,Blink Charging Co,전기 유틸리티,591010.0,1,1,1,4,1,4,4,9,9,9,9,9
+FORR,Forrester Research Inc,미디어 및 출판,533020.0,0,1,0,4,6,3,3,3,7,7,7,13
+TGLS,Tecnoglass Inc,주택건설,532030.0,0,1,1,4,1,7,7,9,9,9,9,13
+FARO,FARO Technologies Inc,전자 장비 및 부품,571040.0,1,3,3,3,3,1,8,8,8,8,12,12
+HA,Hawaiian Holdings Inc,운송업,524060.0,2,2,4,5,5,5,5,5,5,5,5,5
+HURN,Huron Consulting Group Inc,전문 및 상업 서비스,522030.0,2,2,2,2,6,6,6,6,6,6,6,6
+PEBO,Peoples Bancorp Inc,은행,551010.0,2,2,2,2,2,3,3,3,3,3,3,3
+QCRH,QCR Holdings Inc,은행,551010.0,0,0,0,4,4,7,7,7,7,7,7,7
+GLDD,Great Lakes Dredge & Dock Corp,건설 및 엔지니어링,522010.0,1,3,3,3,3,1,8,8,8,8,8,8
+IESC,IES Holdings Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,4,4
+AMWD,American Woodmark Corp,주택건설,532030.0,2,2,2,2,2,0,0,0,0,11,11,11
+HOLI,Hollysys Automation Technologies Ltd,"건설장비 및 대형차, 기차, 배",521020.0,2,2,4,5,5,5,5,5,5,5,5,5
+SWBI,Smith & Wesson Brands Inc,레저 상품,532050.0,0,1,1,4,1,7,7,9,9,9,9,9
+HSII,Heidrick & Struggles International Inc,전문 및 상업 서비스,522030.0,1,1,1,1,6,4,1,1,1,1,1,1
+STRL,Sterling Construction Company Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,4,4,4,4,4,12,12
+CLFD,Clearfield Inc,커뮤니케이션 및 네트워킹,571020.0,1,1,1,1,1,4,4,4,4,4,4,4
+TILE,Interface Inc,가정용품,532040.0,2,2,4,5,5,5,5,5,5,5,5,5
+EGLE,Eagle Bulk Shipping Inc,화물 및 물류 서비스,524050.0,2,2,4,5,5,6,6,6,6,6,6,6
+TITN,Titan Machinery Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,4,1,7,7,9,9,9,9,13
+DSKE,Daseke Inc,화물 및 물류 서비스,524050.0,0,0,4,0,5,5,5,5,10,10,10,10
+HCCI,Heritage-Crystal Clean Inc,전문 및 상업 서비스,522030.0,1,3,3,3,6,1,1,1,1,1,1,1
+CRAI,CRA International Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,4,4,4,4,4,4,4
+KELYA,Kelly Services Inc Class A,전문 및 상업 서비스,522030.0,2,2,2,2,2,2,2,3,3,3,3,3
+SP,SP Plus Corp,운송 인프라,524070.0,2,2,2,2,2,2,2,2,2,3,3,3
+VSEC,VSE Corp,우주항공 및 국방,521010.0,0,0,0,0,4,7,7,7,7,7,7,7
+MBWM,Mercantile Bank Corp,은행,551010.0,2,2,2,2,2,3,3,3,3,3,3,3
+UFPT,UFP Technologies Inc,헬스케어 장비 및 용품,561010.0,1,3,3,1,3,4,8,4,4,4,4,4
+BLBD,Blue Bird Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,2,2,2,6,3,3,3,3,3,3,3
+RGP,Resources Connection Inc,전문 및 상업 서비스,522030.0,2,2,2,2,2,3,3,3,3,3,3,3
+RADA,Rada Electronic Industries Ltd,커뮤니케이션 및 네트워킹,571020.0,1,3,3,1,3,4,8,4,4,4,4,4
+CMTL,Comtech Telecommunications Corp,커뮤니케이션 및 네트워킹,571020.0,2,2,2,2,2,0,0,0,0,11,11,11
+YELL,Yellow Corp,화물 및 물류 서비스,524050.0,2,0,4,5,5,5,5,5,10,10,10,10
+DXPE,DXP Enterprises Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,2,2,2,2,2,2
+IDEX,Ideanomics Inc,핀테크,573010.0,0,0,0,0,5,3,3,3,10,10,10,10
+WKHS,Workhorse Group Inc,자동차 및 자동차 부품,531010.0,1,3,3,3,3,1,8,8,8,8,8,8
+IEA,Infrastructure and Energy Alternatives Inc,건설 및 엔지니어링,522010.0,0,0,0,4,4,7,7,7,7,7,7,7
+ULH,Universal Logistics Holdings Inc,화물 및 물류 서비스,524050.0,2,2,2,2,6,0,0,0,0,11,11,11
+BBSI,Barrett Business Services Inc,전문 및 상업 서비스,522030.0,2,2,2,2,6,0,0,0,0,11,11,11
+WLDN,Willdan Group Inc,전문 및 상업 서비스,522030.0,1,3,3,3,6,1,1,1,1,1,1,1
+TPIC,TPI Composites Inc,재생에너지,502010.0,1,3,3,3,3,1,8,8,8,8,12,12
+KBAL,Kimball International Inc Class B,전문 및 상업 서비스,522030.0,2,2,2,2,2,2,2,2,2,2,2,2
+NWPX,Northwest Pipe Co,메탈&마이닝,512010.0,1,3,3,3,3,1,8,8,8,8,8,8
+POWL,Powell Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,2,2,2,2,2,2
+AIRT,Air T Inc,화물 및 물류 서비스,524050.0,1,1,1,4,6,4,1,1,1,1,1,1
+PRK,Park National Corp,은행,551010.0,0,1,0,4,4,7,7,7,7,7,7,13

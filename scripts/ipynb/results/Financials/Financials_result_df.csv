@@ -1,0 +1,540 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+V,Visa Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,8,1,1,8,8,8
+JPM,JPMorgan Chase & Co,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+UNH,UnitedHealth Group Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,8
+BRK,Berkshire Hathaway Inc Class B,복합 기업,544010.0,0,3,3,3,3,4,4,4,4,4,4,4
+BRK,Berkshire Hathaway Inc Class A,복합 기업,544010.0,0,3,3,3,3,4,4,4,4,4,4,4
+BAC,Bank of America Corp,은행,551010.0,1,1,0,5,6,5,7,7,7,1,1,1
+MA,Mastercard Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,8,1,1,8,8,8
+WFC,Wells Fargo & Co,은행,551010.0,0,3,2,0,2,0,0,0,10,10,10,10
+MCD,McDonald's Corp,호텔 및 엔터테인먼트,533010.0,1,1,1,1,1,1,8,1,1,1,1,8
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,1,1,0,5,6,5,1,9,9,9,9,9
+SCHW,Charles Schwab Corp,투자은행 및 서비스,551020.0,1,0,0,5,6,5,5,5,5,5,5,9
+RY,Royal Bank of Canada,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,9
+TD,Toronto-Dominion Bank,은행,551010.0,1,0,0,5,5,5,5,5,7,7,7,7
+BX,Blackstone Inc,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,9
+AXP,American Express Co,은행,551010.0,1,1,1,1,6,1,1,1,1,1,1,1
+CVS,CVS Health Corp,헬스케어 업체 및 서비스,561020.0,0,0,0,3,0,4,4,4,4,4,4,4
+C,Citigroup Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+HDB,HDFC Bank Ltd ADR,은행,551010.0,1,1,1,1,1,1,8,1,1,1,1,1
+GS,Goldman Sachs Group Inc,투자은행 및 서비스,551020.0,1,0,0,5,6,5,5,5,5,5,5,9
+BLK,BlackRock Inc,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,9
+CAT,Caterpillar Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,6,1,1,1,1,1,1,1
+ANTM,Anthem Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+PLD,Prologis Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,9,9,8
+SPGI,S&P Global Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,8,8,8
+BAM,Brookfield Asset Management Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,1,9,9,9,8
+BNS,Bank of Nova Scotia,은행,551010.0,2,0,2,2,5,6,6,6,6,6,6,6
+CB,Chubb Ltd,보험,553010.0,1,0,0,5,6,5,5,5,5,5,5,7
+PNC,PNC Financial Services Group Inc,은행,551010.0,1,0,0,5,6,5,5,5,5,7,7,7
+TFC,Truist Financial Corp,은행,551010.0,2,0,0,4,5,7,7,7,7,7,7,7
+MMC,Marsh & McLennan Companies Inc,보험,553010.0,1,1,1,1,1,1,1,1,1,9,9,8
+UBS,UBS Group AG,투자은행 및 서비스,551020.0,0,0,2,2,2,4,6,6,4,6,6,6
+BMO,Bank of Montreal,은행,551010.0,1,0,0,5,5,5,5,5,5,5,5,5
+CI,Cigna Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+IBN,ICICI Bank Ltd ADR,은행,551010.0,1,1,1,1,6,1,1,9,9,9,9,9
+ICE,Intercontinental Exchange Inc,투자은행 및 서비스,551020.0,1,1,1,1,1,1,1,1,1,8,8,8
+FIS,Fidelity National Information Services Inc,핀테크,573010.0,1,1,1,1,1,1,8,8,8,8,8,13
+COF,Capital One Financial Corp,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,5
+SAN,Banco Santander SA ADR,은행,551010.0,0,3,3,3,3,3,3,3,3,3,3,3
+AON,Aon PLC Class A,보험,553010.0,1,1,1,1,1,1,1,1,1,1,1,8
+PGR,Progressive Corp,보험,553010.0,1,1,1,1,1,1,8,1,1,8,8,8
+SQ,Block Inc Class A,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,9,9,8
+MCO,Moody's Corp,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,8,8,8
+MET,MetLife Inc,보험,553010.0,1,0,0,5,5,5,5,5,5,5,5,5
+CM,Canadian Imperial Bank of Commerce,은행,551010.0,1,0,0,5,5,5,5,5,5,5,5,5
+ING,ING Groep NV ADR,은행,551010.0,0,3,2,2,2,6,6,6,10,10,10,10
+HUM,Humana Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,8,1,1,8,8,8
+KKR,KKR & Co Inc,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,9
+WBK,Westpac Banking Corp ADR,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+BK,Bank of New York Mellon Corp,투자은행 및 서비스,551020.0,2,2,2,2,2,6,6,6,6,6,2,2
+LYG,Lloyds Banking Group PLC ADR,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+AIG,American International Group Inc,보험,553010.0,0,3,2,3,2,0,0,0,10,10,10,10
+CNC,Centene Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,8,1,1,1,1,1
+BCS,Barclays PLC ADR,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+PRU,Prudential Financial Inc,보험,553010.0,2,2,2,2,2,6,6,6,6,6,10,10
+BBVA,Banco Bilbao Vizcaya Argentaria SA ADR,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+MSCI,MSCI Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,9,9,8
+AFL,Aflac Inc,보험,553010.0,1,1,4,4,1,7,7,7,7,1,1,1
+TRV,Travelers Companies Inc,보험,553010.0,1,0,0,5,5,7,7,7,7,7,7,7
+MFC,Manulife Financial Corp,보험,553010.0,2,0,2,2,5,6,6,6,6,6,6,6
+GPN,Global Payments Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,8,8,8,8,8,13
+APO,Apollo Global Management Inc,투자은행 및 서비스,551020.0,1,1,1,1,1,1,1,1,1,9,9,8
+DFS,Discover Financial Services,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,5
+STT,State Street Corp,투자은행 및 서비스,551020.0,2,0,2,2,2,6,6,6,6,6,6,6
+ALL,Allstate Corp,보험,553010.0,1,1,1,1,1,1,8,1,1,1,1,1
+AMP,Ameriprise Financial Inc,투자은행 및 서비스,551020.0,1,1,1,5,6,5,1,9,9,9,9,9
+DB,Deutsche Bank AG,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+AJG,Arthur J Gallagher & Co,보험,553010.0,1,1,1,1,1,1,1,1,1,9,9,8
+SLF,Sun Life Financial Inc,보험,553010.0,1,1,1,5,6,5,1,9,9,1,1,9
+WY,Weyerhaeuser Co,주택 및 상업용 리츠,601020.0,2,0,0,2,5,6,6,6,6,6,6,6
+FRC,First Republic Bank,은행,551010.0,1,1,1,1,6,5,1,9,9,9,9,9
+EFX,Equifax Inc,전문 및 상업 서비스,522030.0,1,1,1,1,6,1,1,9,9,9,9,9
+EXR,Extra Space Storage Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,6,1,1,9,9,9,9,9
+KEY,KeyCorp,은행,551010.0,2,0,0,2,5,6,7,7,6,7,7,7
+HIG,Hartford Financial Services Group Inc,보험,553010.0,2,0,0,5,5,5,5,5,5,7,7,7
+ITUB,Itau Unibanco Holding SA ADR,은행,551010.0,0,3,3,0,3,3,3,3,3,3,12,12
+LEN,Lennar Corp Class A,주택건설,532030.0,1,1,1,1,6,1,1,9,9,9,9,9
+LEN,Lennar Corp Class B,주택건설,532030.0,1,1,1,1,6,1,1,9,9,9,9,9
+RF,Regions Financial Corp,은행,551010.0,2,0,0,5,5,7,7,7,7,7,7,7
+MTB,M&T Bank Corp,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+CFG,Citizens Financial Group Inc,은행,551010.0,2,0,0,5,5,6,7,7,7,7,7,7
+ARES,Ares Management Corp Class A,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,8
+RJF,Raymond James Financial Inc,투자은행 및 서비스,551020.0,1,0,0,5,6,5,5,5,5,5,5,9
+CS,Credit Suisse Group AG ADR,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+SYF,Synchrony Financial,은행,551010.0,1,0,0,5,5,5,5,5,5,5,5,5
+KB,KB Financial Group Inc ADR,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+DRE,Duke Realty Corp,주택 및 상업용 리츠,601020.0,1,1,1,1,6,1,1,1,1,9,9,8
+TRU,TransUnion,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,8,1,1,8,8,8
+BBD,Banco Bradesco SA ADR,은행,551010.0,0,3,3,0,3,3,3,3,3,3,12,12
+BRO,Brown & Brown Inc,보험,553010.0,1,1,1,1,1,1,1,1,1,9,9,8
+SHG,Shinhan Financial Group Co Ltd ADR,은행,551010.0,0,3,3,0,3,3,3,3,3,3,3,3
+IP,International Paper Co,용기 및 포장,513020.0,2,0,2,2,2,6,6,6,6,6,6,6
+MOH,Molina Healthcare Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,9,9,8
+NVR,NVR Inc,주택건설,532030.0,1,1,1,1,1,1,1,1,1,1,1,8
+MKL,Markel Corp,보험,553010.0,1,0,4,4,4,7,7,7,7,7,7,7
+BR,Broadridge Financial Solutions Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,8,1,1,1,1,8
+ALLY,Ally Financial Inc,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+BEN,Franklin Resources Inc,투자은행 및 서비스,551020.0,0,3,3,3,3,4,4,4,4,4,4,4
+L,Loews Corp,보험,553010.0,2,0,0,4,5,7,7,7,7,7,7,7
+BAP,Credicorp Ltd,은행,551010.0,0,2,3,0,4,3,3,3,3,3,12,12
+FNF,Fidelity National Financial Inc,보험,553010.0,1,1,1,4,1,7,7,7,7,1,1,1
+LNC,Lincoln National Corp,보험,553010.0,2,2,2,2,2,6,6,6,10,10,10,10
+CMA,Comerica Inc,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+CNA,CNA Financial Corp,보험,553010.0,2,2,2,2,2,2,2,2,2,2,2,2
+RE,Everest Re Group Ltd,보험,553010.0,2,0,4,4,4,7,7,7,7,7,7,7
+AFG,American Financial Group Inc,보험,553010.0,2,0,0,5,5,7,7,7,7,7,7,7
+AEG,Aegon NV ADR,보험,553010.0,0,3,3,3,2,4,4,4,10,10,10,10
+CUBE,CubeSmart,주택 및 상업용 리츠,601020.0,1,1,1,5,6,5,1,9,9,9,9,9
+WBS,Webster Financial Corp,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+NLY,Annaly Capital Management Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+GL,Globe Life Inc,보험,553010.0,1,1,4,4,1,7,7,7,7,11,11,11
+REXR,Rexford Industrial Realty Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,1,1,8
+BCH,Banco de Chile ADR,은행,551010.0,0,3,3,0,3,3,3,3,3,3,12,12
+IVZ,Invesco Ltd,투자은행 및 서비스,551020.0,0,3,3,3,3,4,4,4,4,4,4,4
+SCI,Service Corporation International,"개인, 가정 용품 및 서비스",542010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,8,1,1,8,8,8
+WAL,Western Alliance Bancorp,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,9
+FHN,First Horizon Corp,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+CFR,Cullen/Frost Bankers Inc,은행,551010.0,2,0,0,5,5,7,7,7,7,7,7,7
+BSAC,Banco Santander-Chile ADR,은행,551010.0,0,2,3,0,2,3,3,3,3,3,12,12
+AIZ,Assurant Inc,보험,553010.0,1,1,1,1,1,1,1,1,1,9,9,8
+Y,Alleghany Corp,보험,553010.0,2,2,4,4,4,7,7,7,7,11,11,11
+JEF,Jefferies Financial Group Inc,투자은행 및 서비스,551020.0,1,0,0,5,6,5,5,5,5,5,5,5
+EQT,EQT Corp,오일 및 가스,501020.0,0,3,3,3,3,4,4,4,4,4,4,4
+G,Genpact Ltd,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,1,1,8
+BERY,Berry Global Group Inc,용기 및 포장,513020.0,1,0,0,5,5,5,5,5,5,5,5,7
+SF,Stifel Financial Corp,투자은행 및 서비스,551020.0,1,1,0,5,6,5,1,9,9,9,9,9
+ORI,Old Republic International Corp,보험,553010.0,2,0,0,4,5,7,7,7,7,7,7,7
+WU,Western Union Co,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,8,8,8,8,8,13
+VOYA,Voya Financial Inc,투자은행 및 서비스,551020.0,1,1,1,1,1,1,1,1,1,1,1,1
+FAF,First American Financial Corp,보험,553010.0,1,1,1,1,1,7,7,7,7,1,1,1
+WEX,WEX Inc,전문 및 상업 서비스,522030.0,1,1,4,4,1,7,8,8,8,11,11,13
+SNV,Synovus Financial Corp,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+RGA,Reinsurance Group of America Inc,보험,553010.0,2,2,4,0,4,2,2,2,2,2,12,12
+STWD,Starwood Property Trust Inc,주택 및 상업용 리츠,601020.0,2,0,2,2,0,0,0,0,0,0,0,0
+HLI,Houlihan Lokey Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,1,1,9,9,8
+NYT,New York Times Co Class A,미디어 및 출판,533020.0,1,1,1,1,1,1,8,1,1,8,8,8
+PB,Prosperity Bancshares Inc,은행,551010.0,2,2,4,4,4,7,7,7,2,2,2,2
+BBU,Brookfield Business Partners Units,부동산 운영 관리,601010.0,1,1,1,4,1,7,7,7,7,1,1,1
+OMF,OneMain Holdings Inc,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+HOG,Harley-Davidson Inc,자동차 및 자동차 부품,531010.0,0,3,3,3,3,4,4,4,4,4,4,4
+FSK,FS KKR Capital Corp,다양한 금융서비스,555010.0,0,3,3,3,3,4,4,4,4,4,4,4
+PRI,Primerica Inc,보험,553010.0,1,1,1,1,1,1,8,1,1,1,1,1
+CADE,Cadence Bank,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+UNM,Unum Group,보험,553010.0,0,3,3,3,3,3,3,3,3,3,3,3
+AMG,Affiliated Managers Group Inc,투자은행 및 서비스,551020.0,0,3,2,3,2,4,4,6,4,4,6,6
+GBCI,Glacier Bancorp Inc,은행,551010.0,1,1,1,5,6,7,1,1,7,1,1,1
+JHG,Janus Henderson Group PLC,투자은행 및 서비스,551020.0,2,0,0,5,5,6,6,6,6,6,6,6
+EVR,Evercore Inc Class A,투자은행 및 서비스,551020.0,1,0,0,5,6,5,5,5,5,5,5,7
+NYCB,New York Community Bancorp Inc,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+BXMT,Blackstone Mortgage Trust Inc Class A,주택 및 상업용 리츠,601020.0,2,2,4,0,0,0,0,0,0,0,0,0
+STL,Sterling Bancorp,은행,551010.0,2,2,2,2,5,6,6,6,6,6,6,6
+MTG,MGIC Investment Corp,보험,553010.0,2,0,4,4,4,7,7,7,7,7,7,7
+FCN,FTI Consulting Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,8,1,1,8,8,8
+ESNT,Essent Group Ltd,보험,553010.0,1,1,4,4,4,7,7,7,7,11,11,11
+THG,Hanover Insurance Group Inc,보험,553010.0,1,1,4,4,1,7,7,7,7,11,11,1
+NRZ,New Residential Investment Corp,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+ADC,Agree Realty Corp,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,8,8,8,8,8,13
+SFBS,ServisFirst Bancshares Inc,은행,551010.0,1,0,0,5,6,5,5,9,9,5,5,9
+WD,Walker & Dunlop Inc,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+HE,Hawaiian Electric Industries Inc,전기 유틸리티,591010.0,1,1,1,1,1,7,8,8,8,11,11,13
+IIPR,Innovative Industrial Properties Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,9,9,8
+LAZ,Lazard Ltd Class A,투자은행 및 서비스,551020.0,2,2,2,2,2,6,6,6,6,6,6,6
+LXP,LXP Industrial Trust,주택 및 상업용 리츠,601020.0,1,1,1,1,6,5,1,9,9,9,9,9
+KNSL,Kinsale Capital Group Inc,보험,553010.0,1,1,1,1,1,1,1,1,1,8,8,8
+RDN,Radian Group Inc,보험,553010.0,1,0,4,4,4,7,7,7,7,11,11,11
+TRTN,Triton International Ltd,전문 및 상업 서비스,522030.0,1,1,1,1,6,5,1,9,9,1,1,9
+AGO,Assured Guaranty Ltd,보험,553010.0,2,0,4,4,4,7,7,7,7,7,7,7
+AEL,American Equity Investment Life Holding Co,보험,553010.0,2,0,4,4,4,7,7,7,7,7,7,7
+CRI,Carter's Inc,전문품 상점,534030.0,2,2,2,2,4,2,2,2,2,2,2,2
+HOMB,Home BancShares Inc,은행,551010.0,2,0,2,2,2,6,6,6,6,6,6,6
+CNS,Cohen & Steers Inc,투자은행 및 서비스,551020.0,1,1,1,1,1,1,1,1,1,9,9,8
+DBRG,DigitalBridge Group Inc Class A,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+CBU,Community Bank System Inc,은행,551010.0,1,1,1,1,1,7,8,1,7,1,1,1
+BKU,BankUnited Inc,은행,551010.0,2,0,2,2,5,6,6,6,6,6,6,6
+SPB,Spectrum Brands Holdings Inc,가정용품,532040.0,0,3,2,2,2,4,6,6,4,6,6,6
+CIB,Bancolombia SA ADR,은행,551010.0,0,2,3,0,3,3,3,3,3,3,12,12
+ASB,Associated Banc-Corp,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+SAFE,Safehold Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,8,8,8
+PFSI,PennyMac Financial Services Inc,은행,551010.0,1,1,1,1,1,1,1,1,1,9,9,8
+ADS,Alliance Data Systems Corp,전문 및 상업 서비스,522030.0,0,3,3,3,3,4,4,4,4,4,3,3
+NSP,Insperity Inc,전문 및 상업 서비스,522030.0,1,1,4,4,1,7,7,7,7,11,11,11
+BOH,Bank of Hawaii Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,9,9,8
+MC,Moelis & Co Class A,투자은행 및 서비스,551020.0,2,0,0,5,5,5,5,5,5,7,7,7
+AX,Axos Financial Inc,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,9
+KMPR,Kemper Corp,보험,553010.0,1,1,4,4,1,7,8,8,8,11,11,13
+FHI,Federated Hermes Inc Class B,투자은행 및 서비스,551020.0,2,0,0,5,0,0,0,5,0,0,0,0
+WTM,White Mountains Insurance Group Ltd,보험,553010.0,1,1,1,1,1,7,8,8,8,1,1,13
+CNO,CNO Financial Group Inc,보험,553010.0,2,0,0,5,5,6,6,6,6,6,6,6
+CIM,Chimera Investment Corp,주택 및 상업용 리츠,601020.0,0,3,3,0,0,3,3,3,3,3,12,12
+APAM,Artisan Partners Asset Management Inc Class A,투자은행 및 서비스,551020.0,1,1,1,5,6,5,1,9,9,9,9,9
+NNI,Nelnet Inc Class A,은행,551010.0,1,1,1,1,6,1,1,1,1,1,1,1
+FBP,First Bancorp,은행,551010.0,1,1,1,1,1,7,7,7,7,1,1,1
+GHC,Graham Holdings Co Class B,학교,631020.0,2,2,4,0,0,0,0,0,0,0,0,0
+MAIN,Main Street Capital Corp,은행,551010.0,2,2,4,4,4,7,7,7,7,7,7,7
+MCY,Mercury General Corp,보험,553010.0,2,0,2,2,0,0,0,0,0,0,0,0
+PIPR,Piper Sandler Companies,투자은행 및 서비스,551020.0,1,1,0,5,6,5,1,9,9,9,9,9
+HTH,Hilltop Holdings Inc,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,5
+CNNE,Cannae Holdings Inc,호텔 및 엔터테인먼트,533010.0,1,1,1,1,1,1,8,8,8,8,8,8
+IRT,Independence Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,6,5,1,9,9,9,9,9
+PRG,PROG Holdings Inc,"개인, 가정 용품 및 서비스",542010.0,1,1,1,1,1,7,8,8,8,11,11,13
+ABR,Arbor Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,1,1,1
+FBC,Flagstar Bancorp Inc,은행,551010.0,1,1,0,5,6,5,5,5,7,1,1,1
+BDN,Brandywine Realty Trust,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+PJT,PJT Partners Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,1,1,9,9,8
+BSBR,Banco Santander Brasil SA ADR,은행,551010.0,0,2,4,0,4,2,2,2,2,2,12,12
+AAT,American Assets Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,0,0,0,0,0,0,0,0
+GNW,Genworth Financial Inc Class A,보험,553010.0,0,3,3,3,0,4,4,4,4,4,4,4
+FBK,FB Financial Corp,은행,551010.0,2,2,4,4,4,7,7,7,7,7,7,7
+XHR,Xenia Hotels & Resorts Inc,주택 및 상업용 리츠,601020.0,0,2,2,0,2,2,2,2,10,10,10,10
+HTGC,Hercules Capital Inc,다양한 금융서비스,555010.0,1,0,0,5,5,5,5,5,5,5,5,5
+UE,Urban Edge Properties,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,3,3
+GSBD,Goldman Sachs BDC Inc,은행,551010.0,0,3,3,3,3,3,3,3,3,3,3,3
+CUBI,Customers Bancorp Inc,은행,551010.0,2,0,0,5,5,5,5,5,5,5,5,5
+RLGY,Realogy Holdings Corp,부동산 운영 관리,601010.0,0,3,3,3,3,4,4,4,4,4,4,4
+WRE,Washington Real Estate Investment Trust,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+FCPT,Four Corners Property Trust Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,1,7,8,8,8,11,11,13
+NXRT,NexPoint Residential Trust Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,1,1,1
+MFA,MFA Financial Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+NTB,Bank of N T Butterfield & Son Ltd,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+STC,Stewart Information Services Corp,보험,553010.0,1,0,0,5,6,5,5,9,5,5,5,5
+MMI,Marcus & Millichap Inc,부동산 운영 관리,601010.0,1,1,0,5,6,7,7,7,7,1,1,1
+NOAH,Noah Holdings Ltd ADR,투자은행 및 서비스,551020.0,2,2,4,4,4,2,2,2,2,2,2,11
+PFS,Provident Financial Services Inc,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+TWO,Two Harbors Investment Corp,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+ARI,Apollo Commercial Real Estate Finance Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+STAR,iStar Inc,주택 및 상업용 리츠,601020.0,1,1,1,5,6,5,1,9,9,9,9,9
+DEA,Easterly Government Properties Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,8,8,8,8,8,13
+LC,LendingClub Corp,은행,551010.0,0,3,3,3,3,4,4,4,4,4,4,4
+GDOT,Green Dot Corp Class A,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,11
+SKT,Tanger Factory Outlet Centers Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+AKR,Acadia Realty Trust,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+TSLX,Sixth Street Specialty Lending Inc,다양한 금융서비스,555010.0,1,0,0,5,5,7,5,5,5,7,7,7
+GWB,Great Western Bancorp Inc,은행,551010.0,0,2,2,2,2,2,2,2,10,10,10,10
+HMN,Horace Mann Educators Corp,보험,553010.0,2,2,4,4,4,2,2,2,2,2,2,11
+CODI,Compass Diversified Holdings,기타 금융업,556010.0,1,1,1,5,6,5,1,9,9,9,9,9
+ALEX,Alexander & Baldwin Inc (Hawaii),주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+ENVA,Enova International Inc,은행,551010.0,1,1,0,5,6,7,7,7,7,1,1,1
+FCF,First Commonwealth Financial Corp,은행,551010.0,2,2,4,2,4,2,2,2,2,2,2,2
+PMT,PennyMac Mortgage Investment Trust,주택 및 상업용 리츠,601020.0,2,2,4,4,4,7,7,7,0,11,11,11
+VRE,Veris Residential Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+BHLB,Berkshire Hills Bancorp Inc,은행,551010.0,0,3,2,0,2,3,3,3,10,10,10,10
+GNL,Global Net Lease Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+LADR,Ladder Capital Corp Class A,주택 및 상업용 리츠,601020.0,0,3,3,0,0,3,3,3,3,3,12,12
+ARGO,Argo Group International Holdings Ltd,보험,553010.0,2,2,4,0,4,2,2,2,2,2,12,12
+NBHC,National Bank Holdings Corp Class A,은행,551010.0,2,0,4,4,4,7,7,7,7,7,7,7
+OFG,OFG Bancorp,은행,551010.0,1,1,1,1,1,7,1,1,1,1,1,1
+CSR,Centerspace,주택 및 상업용 리츠,601020.0,1,1,1,1,6,1,1,9,9,9,9,9
+LTC,LTC Properties Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+PRA,ProAssurance Corp,보험,553010.0,0,3,3,3,3,3,3,3,3,3,3,3
+KREF,KKR Real Estate Finance Trust Inc,주택 및 상업용 리츠,601020.0,0,3,2,3,0,0,0,0,0,0,0,0
+GTY,Getty Realty Corp,주택 및 상업용 리츠,601020.0,1,1,4,4,1,7,8,8,8,11,11,13
+RWT,Redwood Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+BANC,Banc of California Inc,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+AHH,Armada Hoffler Properties Inc,주택 및 상업용 리츠,601020.0,2,2,4,0,4,2,2,2,2,2,12,12
+DFIN,Donnelley Financial Solutions Inc,전문 및 상업 서비스,522030.0,1,0,0,5,5,5,5,5,5,5,5,5
+RC,Ready Capital Corp,주택 및 상업용 리츠,601020.0,0,2,2,0,0,0,0,0,0,0,0,0
+AGM,Federal Agricultural Mortgage Corp Class C,은행,551010.0,1,1,0,5,6,7,7,7,7,7,7,1
+AGM,Federal Agricultural Mortgage Corp Class A,은행,551010.0,1,1,0,5,6,7,7,7,7,7,7,1
+MCB,Metropolitan Bank Holding Corp,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,5
+BFS,Saul Centers Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+EIG,Employers Holdings Inc,보험,553010.0,2,2,4,4,4,2,2,2,2,2,2,11
+CHCT,Community Healthcare Trust Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,8,8,8,8,8,8
+RPT,RPT Realty,주택 및 상업용 리츠,601020.0,0,3,3,3,0,0,0,0,0,0,0,0
+INN,Summit Hotel Properties Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+BY,Byline Bancorp Inc,은행,551010.0,2,0,2,2,5,6,6,6,6,6,6,6
+EFC,Ellington Financial Inc,주택 및 상업용 리츠,601020.0,2,0,2,2,0,0,0,0,0,0,0,0
+SCU,Sculptor Capital Management Inc Class A,투자은행 및 서비스,551020.0,0,3,3,3,3,4,4,4,4,4,4,4
+TRTX,TPG RE Finance Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+STNG,Scorpio Tankers Inc,오일 및 가스 장비 및 서비스,501030.0,0,3,3,3,3,4,4,4,4,4,4,4
+CPF,Central Pacific Financial Corp,은행,551010.0,0,2,2,0,2,0,0,0,10,10,10,10
+AC,Associated Capital Group Inc Class A,투자은행 및 서비스,551020.0,1,1,4,4,4,7,7,7,7,11,11,11
+MBI,MBIA Inc,보험,553010.0,2,0,0,5,5,5,5,5,5,5,5,5
+IVR,Invesco Mortgage Capital Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+ARR,ARMOUR Residential REIT Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+UHT,Universal Health Realty Income Trust,주택 및 상업용 리츠,601020.0,2,2,4,4,4,7,8,8,8,11,11,13
+AMBC,Ambac Financial Group Inc,보험,553010.0,0,3,3,0,3,3,3,3,3,3,3,3
+BBDC,Barings BDC Inc,다양한 금융서비스,555010.0,0,3,3,3,3,4,4,4,4,4,4,4
+CLDT,Chatham Lodging Trust,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+ORC,Orchid Island Capital Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+ACRE,Ares Commercial Real Estate Corp,주택 및 상업용 리츠,601020.0,2,2,4,4,0,0,0,0,0,0,0,0
+GPMT,Granite Point Mortgage Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+DX,Dynex Capital Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+GBL,GAMCO Investors Inc Class A,투자은행 및 서비스,551020.0,0,3,3,3,3,4,4,4,4,4,4,4
+UBA,Urstadt Biddle Properties Inc Class A,주택 및 상업용 리츠,601020.0,0,3,3,0,0,0,0,0,0,0,0,0
+CURO,CURO Group Holdings Corp,은행,551010.0,2,2,2,2,2,2,2,2,6,2,2,2
+OPY,Oppenheimer Holdings Inc Class A,투자은행 및 서비스,551020.0,1,1,1,5,6,5,1,9,9,1,1,1
+WSR,Whitestone REIT,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+UVE,Universal Insurance Holdings Inc,보험,553010.0,0,3,3,0,3,3,3,3,3,3,12,12
+HT,Hersha Hospitality Trust Class A,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+GHL,Greenhill & Co Inc,투자은행 및 서비스,551020.0,0,3,3,3,3,4,4,4,4,4,4,4
+MIC,Macquarie Infrastructure Holdings LLC,운송 인프라,524070.0,0,3,3,3,3,4,4,4,4,4,4,4
+AJX,Great Ajax Corp,주택 및 상업용 리츠,601020.0,0,3,2,0,0,0,0,0,0,0,0,0
+MITT,AG Mortgage Investment Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+CHMI,Cherry Hill Mortgage Investment Corp,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+SWZ,Swiss Helvetia Closed Fund,투자은행 및 서비스,551020.0,0,3,3,3,3,4,4,4,4,4,4,4
+WMC,Western Asset Mortgage Capital Corp,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+PYPL,PayPal Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,8,8,8
+CME,CME Group Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,1,1,8,8,8,1,1,1
+ADP,Automatic Data Processing Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+FISV,Fiserv Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,8,8,8,8,8,13
+PAYX,Paychex Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,1,1,1
+SIVB,SVB Financial Group,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+FITB,Fifth Third Bancorp,은행,551010.0,1,0,0,5,5,5,5,5,5,5,5,7
+VRSK,Verisk Analytics Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,8,1,1,8,8,8
+IBKR,Interactive Brokers Group Inc Class A,투자은행 및 서비스,551020.0,1,1,0,5,6,7,7,7,7,7,7,1
+NDAQ,Nasdaq Inc,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,1,1,9,9,8
+WTW,Willis Towers Watson PLC,보험,553010.0,1,1,1,1,1,1,8,1,1,8,8,8
+NTRS,Northern Trust Corp,투자은행 및 서비스,551020.0,2,0,0,5,5,7,7,7,7,7,7,7
+HBAN,Huntington Bancshares Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+SBNY,Signature Bank,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,5
+PFG,Principal Financial Group Inc,보험,553010.0,2,0,2,2,5,6,6,6,6,6,6,6
+CINF,Cincinnati Financial Corp,보험,553010.0,1,1,1,1,1,7,1,1,1,1,1,1
+SSNC,SS&C Technologies Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,8
+VTRS,Viatris Inc,제약,562010.0,0,3,3,3,3,4,4,4,4,4,4,4
+ACGL,Arch Capital Group Ltd,보험,553010.0,1,1,1,1,1,7,8,7,7,1,1,1
+CG,Carlyle Group Inc,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,9
+LPLA,LPL Financial Holdings Inc,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,1,9,9,9,9
+EWBC,East West Bancorp Inc,은행,551010.0,2,0,0,5,5,6,5,5,6,5,5,7
+MORN,Morningstar Inc,전문 및 상업 서비스,522030.0,1,1,1,1,6,1,1,1,1,9,9,8
+JKHY,Jack Henry & Associates Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,8,8,8,8,8,8
+FCNCA,First Citizens BancShares Inc (Delaware) Class A,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+ZION,Zions Bancorporation NA,은행,551010.0,2,0,0,4,5,7,7,7,7,7,7,7
+ARCC,Ares Capital Corp,다양한 금융서비스,555010.0,1,0,0,5,5,5,5,5,5,5,5,5
+PBCT,People's United Financial Inc,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+CBSH,Commerce Bancshares Inc,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ERIE,Erie Indemnity Co Class A,보험,553010.0,1,1,1,1,1,1,8,8,8,8,8,13
+SEIC,SEI Investments Co,투자은행 및 서비스,551020.0,2,2,4,4,4,7,7,7,7,7,2,11
+CACC,Credit Acceptance Corp,은행,551010.0,1,1,1,1,1,7,8,1,1,1,1,1
+PNFP,Pinnacle Financial Partners Inc,은행,551010.0,1,0,0,5,5,5,5,5,5,5,5,5
+EEFT,Euronet Worldwide Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,7,8,8,8,11,11,13
+BPOP,Popular Inc,은행,551010.0,1,1,1,5,6,5,1,9,9,1,1,1
+AGNC,AGNC Investment Corp,주택 및 상업용 리츠,601020.0,0,3,3,3,3,3,3,3,3,3,3,3
+BOKF,BOK Financial Corp,은행,551010.0,2,2,2,2,5,6,6,2,6,2,2,2
+FFIN,First Financial Bankshares Inc,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+VIRT,Virtu Financial Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,1,1,1,1,1
+OZK,Bank Ozk,은행,551010.0,0,3,2,2,2,6,6,6,6,6,6,6
+SSB,SouthState Corp,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+VLY,Valley National Bancorp,은행,551010.0,2,0,0,2,5,6,6,6,6,6,6,6
+WTFC,Wintrust Financial Corp,은행,551010.0,2,2,2,2,2,6,6,6,6,2,2,2
+PACW,PacWest Bancorp,은행,551010.0,0,3,2,2,2,6,6,6,10,10,10,10
+SLM,SLM Corp,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,5
+ANAT,American National Group Inc,보험,553010.0,2,0,0,5,5,5,5,5,5,5,5,5
+UMBF,UMB Financial Corp,은행,551010.0,2,0,0,5,5,5,5,5,5,5,5,5
+UBSI,United Bankshares Inc,은행,551010.0,0,3,2,2,0,0,0,0,0,0,0,0
+ESGR,Enstar Group Ltd,보험,553010.0,2,0,0,5,5,5,5,5,5,5,5,7
+TFSL,TFS Financial Corp,은행,551010.0,1,1,1,1,1,7,1,9,9,1,1,1
+HWC,Hancock Whitney Corp,은행,551010.0,2,2,2,2,2,6,6,6,6,6,2,2
+SIGI,Selective Insurance Group Inc,보험,553010.0,1,1,1,1,1,7,7,7,7,1,1,1
+BHF,Brighthouse Financial Inc,보험,553010.0,0,3,3,3,3,4,4,4,4,4,4,4
+UMPQ,Umpqua Holdings Corp,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+HLNE,Hamilton Lane Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,1,1,1,1,1,8,8,8
+ISBC,Investors Bancorp Inc,은행,551010.0,2,0,2,2,5,6,6,6,6,6,6,6
+FIBK,First Interstate BancSystem Inc Class A,은행,551010.0,2,2,4,4,4,7,7,7,2,2,2,11
+INDB,Independent Bank Corp (Massachusetts),은행,551010.0,2,2,4,4,4,7,7,7,7,11,11,11
+UCBI,United Community Banks Inc,은행,551010.0,2,0,0,4,5,6,7,7,7,7,7,7
+FRHC,Freedom Holding Corp,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,9
+FHB,First Hawaiian Inc,은행,551010.0,0,3,2,2,2,0,0,0,10,10,10,10
+PPBI,Pacific Premier Bancorp Inc,은행,551010.0,2,0,2,2,5,6,6,6,6,6,6,6
+CATY,Cathay General Bancorp,은행,551010.0,2,2,2,2,2,6,6,6,6,6,2,2
+TRUP,Trupanion Inc,보험,553010.0,1,1,1,1,6,1,1,1,1,9,9,8
+NMRK,Newmark Group Inc Class A,부동산 운영 관리,601010.0,0,3,2,2,2,4,6,6,10,10,6,6
+ABCB,Ameris Bancorp,은행,551010.0,2,2,2,2,5,6,6,6,6,6,6,6
+WSFS,WSFS Financial Corp,은행,551010.0,2,2,2,2,5,6,6,6,6,6,2,2
+TCBI,Texas Capital Bancshares Inc,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+CVBF,CVB Financial Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+IBTX,Independent Bank Group Inc,은행,551010.0,2,0,0,2,5,6,6,6,6,6,7,7
+PSEC,Prospect Capital Corp,다양한 금융서비스,555010.0,0,0,2,2,0,0,0,0,0,0,0,0
+SFNC,Simmons First National Corp Class A,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+LOPE,Grand Canyon Education Inc,교육서비스,631010.0,2,2,4,4,4,7,7,8,8,11,11,11
+ONB,Old National Bancorp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+AUB,Atlantic Union Bankshares Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+NAVI,Navient Corp,은행,551010.0,2,0,0,5,5,5,5,5,5,5,5,5
+FULT,Fulton Financial Corp,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+COLB,Columbia Banking System Inc,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+GBDC,Golub Capital Bdc Inc,다양한 금융서비스,555010.0,0,3,3,0,3,3,3,3,3,3,3,3
+UNIT,Uniti Group Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+IBOC,International Bancshares Corp,은행,551010.0,2,2,4,4,4,7,7,7,7,7,2,2
+LOB,Live Oak Bancshares Inc,은행,551010.0,1,1,0,5,6,5,5,9,9,9,9,9
+BANF,BancFirst Corp,은행,551010.0,2,0,4,4,4,7,7,7,7,7,7,7
+FMBI,First Midwest Bancorp Inc,은행,551010.0,0,2,2,2,2,2,2,2,10,10,10,10
+FFBC,First Financial Bancorp,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+VCTR,Victory Capital Holdings Inc Class A,투자은행 및 서비스,551020.0,1,1,1,1,6,1,1,9,9,9,9,9
+FRME,First Merchants Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+WAFD,Washington Federal Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+WSBC,WesBanco Inc,은행,551010.0,0,2,2,0,2,2,2,2,10,10,10,10
+TBK,Triumph Bancorp Inc,은행,551010.0,1,1,0,5,6,5,1,9,9,9,9,9
+STFC,State Auto Financial Corp,보험,553010.0,2,0,0,5,5,7,7,7,7,7,7,7
+SBCF,Seacoast Banking Corporation of Florida,은행,551010.0,1,0,0,4,5,7,7,7,7,7,7,7
+ROIC,Retail Opportunity Investments Corp,주택 및 상업용 리츠,601020.0,0,3,2,3,0,0,0,0,0,10,0,0
+NMIH,NMI Holdings Inc Class A,보험,553010.0,1,1,4,4,1,7,8,8,8,11,11,13
+SASR,Sandy Spring Bancorp Inc,은행,551010.0,2,0,0,2,5,6,6,6,6,6,6,6
+BANR,Banner Corp,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+HTLF,Heartland Financial USA Inc,은행,551010.0,2,2,2,2,4,2,2,2,2,2,2,2
+LKFN,Lakeland Financial Corp,은행,551010.0,1,1,0,5,6,5,5,9,9,5,5,9
+HOPE,Hope Bancorp Inc,은행,551010.0,0,3,2,3,2,4,4,6,10,10,10,10
+RNST,Renasant Corp,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+TRMK,Trustmark Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+ECPG,Encore Capital Group Inc,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,9
+PRAA,PRA Group Inc,은행,551010.0,1,0,0,5,6,5,5,9,9,5,5,9
+VBTX,Veritex Holdings Inc,은행,551010.0,2,0,0,5,5,5,5,5,5,7,7,7
+VRTS,Virtus Investment Partners Inc,투자은행 및 서비스,551020.0,1,1,1,5,6,5,1,9,9,9,9,9
+EGBN,Eagle Bancorp Inc,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+CTRE,CareTrust REIT Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,7,8,8,8,11,11,13
+EFSC,Enterprise Financial Services Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+NWBI,Northwest Bancshares Inc,은행,551010.0,0,2,3,0,2,3,3,3,3,3,12,12
+CASH,Meta Financial Group Inc,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,9
+NBTB,NBT Bancorp Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+TBBK,Bancorp Inc,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+WABC,Westamerica Bancorp,은행,551010.0,2,2,4,4,4,7,8,8,8,11,11,11
+BGCP,BGC Partners Inc Class A,투자은행 및 서비스,551020.0,0,3,3,3,3,3,3,3,10,10,3,3
+BUSE,First Busey Corp,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+CFFN,Capitol Federal Financial Inc,은행,551010.0,0,3,3,0,3,3,3,3,3,3,3,3
+FFWM,First Foundation Inc,은행,551010.0,1,0,0,5,6,5,5,5,5,5,5,9
+SYBT,Stock Yards Bancorp Inc,은행,551010.0,1,1,0,5,6,5,5,9,9,5,5,9
+ILPT,Industrial Logistics Properties Trust,주택 및 상업용 리츠,601020.0,1,0,0,5,5,5,5,5,5,5,5,5
+SVC,Service Properties Trust,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+SBSI,Southside Bancshares Inc,은행,551010.0,2,0,0,5,5,7,7,7,7,7,7,7
+WRLD,World Acceptance Corp,은행,551010.0,1,1,1,5,6,5,1,9,9,1,1,1
+DCOM,Dime Community Bancshares Inc,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+NYMT,New York Mortgage Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,0,3,3,3,3,3,3,3,3
+OCSL,Oaktree Specialty Lending Corp,다양한 금융서비스,555010.0,1,0,0,5,6,5,5,9,9,5,5,9
+NMFC,New Mountain Finance Corp,다양한 금융서비스,555010.0,0,3,2,0,0,0,0,0,0,0,0,0
+BRKL,Brookline Bancorp Inc,은행,551010.0,2,2,2,2,4,2,2,2,2,2,2,2
+MBIN,Merchants Bancorp,은행,551010.0,1,1,0,5,6,5,5,9,9,9,9,9
+OCFC,OceanFirst Financial Corp,은행,551010.0,0,2,2,0,2,2,2,2,10,10,10,10
+CNOB,ConnectOne Bancorp Inc,은행,551010.0,2,0,0,2,5,6,6,6,6,6,6,6
+SAFT,Safety Insurance Group Inc,보험,553010.0,2,2,4,4,4,7,7,8,8,11,11,11
+STBA,S&T Bancorp Inc,은행,551010.0,0,2,2,0,2,2,2,2,2,2,12,12
+SRCE,1st Source Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+CHCO,City Holding Co,은행,551010.0,2,2,4,4,4,7,7,7,7,11,11,11
+LBAI,Lakeland Bancorp Inc,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,2
+OPI,Office Properties Income Trust,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+GABC,German American Bancorp Inc,은행,551010.0,2,0,0,4,5,7,7,7,7,7,7,7
+PFBC,Preferred Bank,은행,551010.0,2,0,0,4,5,6,7,7,7,7,7,7
+NCBS,Nicolet Bankshares Inc,은행,551010.0,1,1,1,1,1,1,8,1,1,1,1,1
+PFC,Premier Financial Corp (OHIO),은행,551010.0,2,2,4,4,4,2,7,2,2,2,2,2
+TSC,TriState Capital Holdings Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+ATLC,Atlanticus Holdings Corp,은행,551010.0,1,1,1,5,6,5,1,9,9,9,9,9
+JRVR,James River Group Holdings Ltd,보험,553010.0,1,1,4,4,1,7,8,8,8,11,11,13
+HMST,HomeStreet Inc,은행,551010.0,1,1,0,5,6,5,5,9,9,9,9,9
+RBCAA,Republic Bancorp Inc Class A,은행,551010.0,2,0,4,4,4,7,7,7,7,7,7,11
+WASH,Washington Trust Bancorp Inc,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+KRNY,Kearny Financial Corp,은행,551010.0,0,3,2,0,2,0,0,0,10,10,10,10
+PEBO,Peoples Bancorp Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+HFWA,Heritage Financial Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+QCRH,QCR Holdings Inc,은행,551010.0,2,0,0,5,5,6,5,5,6,7,7,7
+HBNC,Horizon Bancorp Inc,은행,551010.0,2,2,4,2,4,2,2,2,2,2,2,2
+BCOR,Blucora Inc,투자은행 및 서비스,551020.0,2,2,4,0,4,2,2,2,2,2,12,12
+UVSP,Univest Financial Corp,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+ABTX,Allegiance Bancshares Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+AINV,Apollo Investment Corp,투자은행 및 서비스,551020.0,0,3,3,3,3,3,3,3,3,3,3,3
+AMRK,A-Mark Precious Metals Inc,메탈&마이닝,512010.0,1,1,1,5,6,5,1,9,9,9,9,9
+COWN,Cowen Inc Class A,투자은행 및 서비스,551020.0,1,1,1,5,6,5,1,9,9,9,9,9
+HAFC,Hanmi Financial Corp,은행,551010.0,0,3,2,3,2,4,4,3,10,10,10,10
+GSBC,Great Southern Bancorp Inc,은행,551010.0,2,2,4,4,4,2,7,2,2,2,2,2
+TCPC,BlackRock TCP Capital Corp,투자은행 및 서비스,551020.0,0,3,3,3,3,0,0,0,10,10,3,3
+CTBI,Community Trust Bancorp Inc,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+HIFS,Hingham Institution For Savings,은행,551010.0,1,1,0,5,6,5,5,9,9,5,5,9
+NWLI,National Western Life Group Inc Class A,보험,553010.0,0,3,3,0,3,3,3,3,3,3,3,3
+SLRC,SLR Investment Corp,다양한 금융서비스,555010.0,0,3,3,0,2,3,3,3,3,3,3,3
+HONE,HarborOne Bancorp Inc,은행,551010.0,1,0,0,5,5,5,5,5,5,5,5,5
+NFBK,Northfield Bancorp Inc,은행,551010.0,0,3,2,2,2,0,0,0,10,10,10,10
+FBMS,First Bancshares Inc (Mississippi),은행,551010.0,2,0,4,4,4,7,7,7,7,7,7,7
+CGBD,TCG BDC Inc,은행,551010.0,0,3,3,3,3,4,4,3,3,3,3,3
+FMBH,First Mid Bancshares Inc,은행,551010.0,2,0,4,4,5,7,7,7,7,7,7,7
+CBTX,CBTX Inc,은행,551010.0,0,2,2,0,2,2,2,2,10,10,10,10
+HTBK,Heritage Commerce Corp,은행,551010.0,0,2,2,0,2,2,2,2,10,10,10,10
+CAC,Camden National Corp,은행,551010.0,2,2,4,4,4,7,7,7,7,7,7,7
+FFIC,Flushing Financial Corp,은행,551010.0,0,3,2,2,2,6,6,6,10,10,10,10
+DHC,Diversified Healthcare Trust,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,3,4,3,3
+PGC,Peapack-Gladstone Financial Corp,은행,551010.0,2,2,2,2,2,6,6,6,6,6,2,2
+MSBI,Midland States Bancorp Inc,은행,551010.0,0,3,2,2,2,3,3,3,10,10,10,10
+TRST,TrustCo Bank Corp N Y,은행,551010.0,0,2,2,0,2,2,2,2,3,3,12,12
+LBC,Luther Burbank Corp,은행,551010.0,2,0,2,2,5,6,6,6,6,6,6,6
+NEWT,Newtek Business Services Corp,은행,551010.0,1,1,1,5,6,5,1,9,9,1,1,1
+ACBI,Atlantic Capital Bancshares Inc,은행,551010.0,2,0,0,5,5,5,5,5,5,5,5,5
+CATC,Cambridge Bancorp,은행,551010.0,2,2,4,4,4,7,7,7,7,7,7,11
+CSWC,Capital Southwest Corp,투자은행 및 서비스,551020.0,1,0,0,4,0,7,7,7,0,0,0,0
+MBWM,Mercantile Bank Corp,은행,551010.0,2,2,4,2,4,2,2,2,2,2,2,2
+UFCS,United Fire Group Inc,보험,553010.0,0,3,3,0,3,3,3,3,3,3,12,12
+BMRC,Bank of Marin Bancorp,은행,551010.0,2,2,4,4,4,7,7,7,2,11,11,11
+AROW,Arrow Financial Corp,은행,551010.0,2,2,4,4,4,7,7,7,7,7,7,11
+CASS,Cass Information Systems Inc,전문 및 상업 서비스,522030.0,0,2,4,0,4,2,2,2,2,2,12,12
+DHIL,Diamond Hill Investment Group Inc Class A,투자은행 및 서비스,551020.0,0,3,2,2,2,4,6,6,4,6,6,6
+BFC,Bank First Corp,은행,551010.0,1,1,1,1,1,1,8,8,8,8,8,13
+ATNI,ATN International Inc,통신 서비스,574010.0,0,3,3,3,3,3,4,4,3,4,4,4
+EQBK,Equity Bancshares Inc Class A,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+GAIN,Gladstone Investment Corp,다양한 금융서비스,555010.0,1,1,1,5,1,7,7,7,7,1,1,1
+PFLT,PennantPark Floating Rate Capital Ltd,다양한 금융서비스,555010.0,0,3,2,2,2,0,0,0,10,10,10,10
+FLIC,First of Long Island Corp,은행,551010.0,0,3,2,2,2,3,3,3,10,10,10,10
+RBB,RBB Bancorp,은행,551010.0,2,2,2,2,2,6,6,6,10,10,10,10
+ALRS,Alerus Financial Corp,은행,551010.0,1,1,0,5,6,5,5,9,9,9,9,9
+FISI,Financial Institutions Inc,은행,551010.0,2,2,2,2,2,0,0,0,10,10,10,10
+FCBC,First Community Bankshares Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,11
+WSBF,Waterstone Financial Inc,은행,551010.0,2,0,0,5,5,5,5,5,5,7,7,7
+WTBA,West Bancorporation Inc,은행,551010.0,2,0,0,5,5,6,5,5,5,5,5,5
+INBK,First Internet Bancorp,은행,551010.0,2,0,0,2,5,6,6,6,6,6,6,6
+FMNB,Farmers National Banc Corp,은행,551010.0,2,0,4,4,4,7,7,7,7,7,7,7
+SMBC,Southern Missouri Bancorp Inc,은행,551010.0,2,0,0,5,5,5,5,5,7,7,7,7
+EBTC,Enterprise Bancorp Inc,은행,551010.0,2,2,2,2,5,6,6,6,6,6,2,2
+CSTR,CapStar Financial Holdings Inc,은행,551010.0,2,0,2,2,2,6,6,6,6,6,6,6
+CCBG,Capital City Bank Group Inc,은행,551010.0,2,1,4,4,4,7,7,7,7,11,11,11
+MVBF,MVB Financial Corp,은행,551010.0,1,1,0,5,6,5,1,9,9,9,9,9
+MPB,Mid Penn Bancorp Inc,은행,551010.0,2,2,4,2,4,2,2,2,2,2,2,2
+CCNE,CNB Financial Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+SFST,Southern First Bancshares Inc,은행,551010.0,2,0,0,5,5,7,7,7,7,7,7,7
+FDUS,Fidus Investment Corp,다양한 금융서비스,555010.0,2,0,2,2,0,0,0,0,0,0,0,0
+SMBK,SmartFinancial Inc,은행,551010.0,2,2,2,2,5,6,6,6,6,7,2,2
+EHTH,eHealth Inc,보험,553010.0,1,1,1,1,1,1,8,8,8,8,8,13
+OSBC,Old Second Bancorp Inc,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+BSRR,Sierra Bancorp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+AMNB,American National Bankshares Inc,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+CZNC,Citizens & Northern Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+GLAD,Gladstone Capital Corp,다양한 금융서비스,555010.0,2,0,0,5,5,5,5,5,5,5,5,5
+SHBI,Shore Bancshares Inc,은행,551010.0,2,2,4,2,4,2,2,2,2,2,2,2
+CIVB,Civista Bancshares Inc,은행,551010.0,2,2,4,4,4,2,7,2,2,2,2,2
+SSSS,SuRo Capital Corp,다양한 금융서비스,555010.0,1,1,1,1,6,1,1,9,9,9,9,8
+FRST,Primis Financial Corp,은행,551010.0,2,2,2,2,2,2,2,2,10,10,10,10
+EZPW,EZCORP Inc Class A,은행,551010.0,0,3,3,0,3,3,3,3,3,3,12,12
+DGICA,Donegal Group Inc Class A,보험,553010.0,0,3,3,3,3,4,4,4,4,4,4,4
+WHF,WhiteHorse Finance Inc,다양한 금융서비스,555010.0,2,0,0,4,5,7,7,7,7,7,7,7
+HBCP,Home Bancorp Inc,은행,551010.0,2,2,2,2,4,2,2,2,2,2,2,2
+FNLC,First Bancorp Inc,은행,551010.0,2,2,4,4,4,2,7,7,2,7,2,2
+NBN,Northeast Bank,은행,551010.0,1,0,0,5,6,5,5,5,7,7,7,7
+MCBC,Macatawa Bank Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,12
+PVBC,Provident Bancorp Inc (Maryland),은행,551010.0,1,0,0,5,5,7,7,7,7,7,7,7
+ESQ,Esquire Financial Holdings Inc,은행,551010.0,1,1,0,4,4,7,7,7,7,7,7,1
+FSBW,FS Bancorp Inc,은행,551010.0,1,0,0,4,4,7,7,7,7,7,7,7
+NRIM,Northrim BanCorp Inc,은행,551010.0,2,0,4,4,4,7,7,7,7,7,7,7
+GLRE,Greenlight Capital Re Ltd Class A,보험,553010.0,0,3,3,3,3,4,4,4,4,4,4,4
+PTRS,Partners Bancorp,은행,551010.0,1,0,0,4,4,7,7,7,7,7,7,7
+NNBR,NN Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,3,3,3,3,4,4,4,4,4,4,4
+CBOE,Cboe Global Markets Inc,투자은행 및 서비스,551020.0,1,1,4,4,4,7,7,7,7,7,7,11
+SIM,Grupo Simec SAB de CV ADR,메탈&마이닝,512010.0,1,0,0,5,6,5,5,5,5,5,5,5
+PRK,Park National Corp,은행,551010.0,2,0,0,5,5,5,5,5,5,5,5,5
+TMP,Tompkins Financial Corp,은행,551010.0,2,2,4,4,4,2,2,2,2,2,2,2
+FSP,Franklin Street Properties Corp,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+BHB,Bar Harbor Bankshares,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6

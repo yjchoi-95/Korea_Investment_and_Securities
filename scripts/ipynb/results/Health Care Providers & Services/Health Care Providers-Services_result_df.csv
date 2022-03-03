@@ -1,0 +1,47 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+UNH,UnitedHealth Group Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,9,9,9,12,12
+CVS,CVS Health Corp,헬스케어 업체 및 서비스,561020.0,2,2,2,5,5,4,4,4,10,10,10,13
+ANTM,Anthem Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,9,9,9,12,12
+CI,Cigna Corp,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,1,1,9,9,9,9,9
+HCA,HCA Healthcare Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+HUM,Humana Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,3,3,9,9,9,9,9
+CNC,Centene Corp,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,3,3,9,9,9,9,9
+STT,State Street Corp,투자은행 및 서비스,551020.0,2,2,4,4,4,5,5,5,5,5,5,5
+LH,Laboratory Corporation of America Holdings,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+MOH,Molina Healthcare Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,9,9,9,12,12
+DGX,Quest Diagnostics Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,9,9,9,9,9
+CAH,Cardinal Health Inc,식품 및 약품소매,543010.0,2,2,2,2,2,2,2,2,2,2,2,2
+DVA,DaVita Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,6,6,6,6,6,6,6
+UHS,Universal Health Services Inc Class B,헬스케어 업체 및 서비스,561020.0,0,1,1,3,1,1,8,8,8,8,8,8
+THC,Tenet Healthcare Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,6,6,6,6,6,6,6
+CHE,Chemed Corp,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,3,3,3,3,3,3,3
+EHC,Encompass Health Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,3,3,3,3,8,8,8
+AMN,AMN Healthcare Services Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+SEM,Select Medical Holdings Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+OMI,Owens & Minor Inc,헬스케어 장비 및 용품,561010.0,2,2,2,5,5,4,4,4,4,4,4,4
+MD,MEDNAX Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,2,2,2,2,2,2,2,2,2
+CYH,Community Health Systems Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,5,5,4,4,4,10,10,10,10
+BKD,Brookdale Senior Living Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,2,2,2,2,2,10,10,10,10
+HNGR,Hanger Inc,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,3,8,8,8,8,8,8
+HSIC,Henry Schein Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,6,6,6,6,6,6,6
+RCM,R1 RCM Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,9,9,9,12,12
+ACHC,Acadia Healthcare Company Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,5,5,4,4,4,4,4,4,4
+AMED,Amedisys Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,3,3,3,3,3,3,3
+PINC,Premier Inc Class A,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,7,7,7,7,7,7,7
+OPCH,Option Care Health Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ENSG,Ensign Group Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,12,12
+LHCG,LHC Group Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,3,3,3,3,3,3,3
+SGRY,Surgery Partners Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,6,6,6,6,6,6,6
+AMEH,Apollo Medical Holdings Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+CRVL,CorVel Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+PDCO,Patterson Companies Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,2,2,2,2,2,2,2
+FLGT,Fulgent Genetics Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,6,6,6,6,6,6,6
+MODV,ModivCare Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,12,12
+RDNT,RadNet Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+TVTY,Tivity Health Inc,헬스케어 업체 및 서비스,561020.0,2,2,4,4,4,5,5,5,5,5,5,5
+ADUS,Addus Homecare Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,3,3,3,3,3,3,3
+NRC,National Research Corp,전문 및 상업 서비스,522030.0,0,3,3,3,3,3,3,3,3,3,3,3
+CCRN,Cross Country Healthcare Inc,전문 및 상업 서비스,522030.0,2,2,2,5,5,4,4,4,4,4,4,13
+JYNT,Joint Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+PETQ,PetIQ Inc Class A,제약,562010.0,0,0,0,0,0,0,0,0,0,0,0,0
+NHC,National Healthcare Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,6,7,8,8,8,11,11,11

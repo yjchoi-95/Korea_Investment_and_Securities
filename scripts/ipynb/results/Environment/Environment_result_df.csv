@@ -1,0 +1,105 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+JNJ,Johnson & Johnson,제약,562010.0,0,0,0,0,0,0,2,2,2,2,2,0
+PG,Procter & Gamble Co,"개인, 가정 용품 및 서비스",542010.0,0,0,0,0,0,0,0,0,0,0,0,13
+HD,Home Depot Inc,전문품 상점,534030.0,0,0,0,0,0,0,2,2,2,2,2,0
+DHR,Danaher Corp,헬스케어 장비 및 용품,561010.0,0,2,2,2,2,0,2,2,2,2,2,2
+LOW,Lowe's Companies Inc,전문품 상점,534030.0,2,2,2,2,2,2,2,2,2,2,2,2
+WM,Waste Management Inc,전문 및 상업 서비스,522030.0,0,0,0,0,0,0,2,2,2,2,2,0
+ECL,Ecolab Inc,화학,511010.0,0,0,0,0,0,0,0,0,0,0,0,13
+KMB,Kimberly-Clark Corp,"개인, 가정 용품 및 서비스",542010.0,0,0,0,0,0,0,0,0,0,0,0,13
+MFC,Manulife Financial Corp,보험,553010.0,1,1,1,1,1,1,1,1,1,1,1,1
+STM,STMicroelectronics NV ADR,반도체 및 반도체 장비,571010.0,0,2,2,2,2,2,2,2,2,2,2,2
+DLR,Digital Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,0,0,0,0,0
+RSG,Republic Services Inc,전문 및 상업 서비스,522030.0,0,0,0,0,0,0,2,2,2,2,2,0
+APTV,Aptiv PLC,자동차 및 자동차 부품,531010.0,2,2,2,2,2,2,8,8,8,8,8,8
+TT,Trane Technologies PLC,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,2,2,2,2,2,2
+IFF,International Flavors & Fragrances Inc,식품 및 담배,541020.0,1,1,1,1,1,1,1,1,1,1,1,1
+DB,Deutsche Bank AG,은행,551010.0,1,1,1,5,6,3,3,9,9,9,9,9
+ARE,Alexandria Real Estate Equities Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,0,0,0,0,0
+WCN,Waste Connections Inc,전문 및 상업 서비스,522030.0,0,0,0,0,0,0,2,2,2,2,2,0
+BLL,Ball Corp,용기 및 포장,513020.0,0,0,0,0,0,0,0,0,0,0,0,13
+PHG,Koninklijke Philips NV ADR,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,5,5,5,5,5,5,5
+ES,Eversource Energy,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,13
+AWK,American Water Works Company Inc,수도 유틸리티,591030.0,0,0,0,0,0,0,0,0,0,0,0,0
+ALB,Albemarle Corp,화학,511010.0,2,2,2,2,2,2,8,8,8,8,8,8
+STE,STERIS plc,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,0,2,2,2,2,2,0
+BXP,Boston Properties Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,6,6,6,6,6,12,12
+XYL,Xylem Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,2,2,2,2,2,2,0
+SUZ,Suzano SA ADR,종이 및 임산물,513010.0,0,0,0,0,0,5,5,5,5,5,5,5
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010.0,1,3,3,5,5,3,3,3,3,3,3,3
+WOLF,Wolfspeed Inc,반도체 및 반도체 장비,571010.0,2,2,2,2,2,2,2,2,2,2,2,2
+DAR,Darling Ingredients Inc,식품 및 담배,541020.0,2,2,2,2,2,2,2,2,2,2,2,2
+WFG,West Fraser Timber Co Ltd,종이 및 임산물,513010.0,2,1,2,1,1,2,8,8,8,8,8,8
+WMS,Advanced Drainage Systems Inc,주택건설,532030.0,2,2,2,2,2,2,2,2,2,2,2,2
+VNO,Vornado Realty Trust,주택 및 상업용 리츠,601020.0,1,3,3,5,5,3,3,3,3,3,3,3
+KRC,Kilroy Realty Corp,주택 및 상업용 리츠,601020.0,1,3,3,3,3,6,6,6,6,6,12,12
+DCI,Donaldson Company Inc,전문 및 상업 서비스,522030.0,0,0,0,1,1,5,5,5,5,2,2,5
+SWCH,Switch Inc Class A,"컴퓨터, 전화 및 가전제품",571060.0,2,1,1,2,2,4,4,4,4,4,4,4
+CUZ,Cousins Properties Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,11,11,11
+DEI,Douglas Emmett Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,6,6,6,6,6,12,12
+AQUA,Evoqua Water Technologies Corp,전문 및 상업 서비스,522030.0,2,2,2,2,2,4,4,4,4,4,4,4
+CLH,Clean Harbors Inc,전문 및 상업 서비스,522030.0,2,2,2,2,2,2,2,2,2,2,2,0
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050.0,0,1,1,1,1,5,5,5,10,10,10,10
+HIW,Highwoods Properties Inc,주택 및 상업용 리츠,601020.0,1,3,3,5,5,3,3,3,3,3,3,3
+ORA,Ormat Technologies Inc,전기 유틸리티,591010.0,0,0,0,0,0,5,5,5,5,5,5,5
+JBGS,JBG SMITH Properties,주택 및 상업용 리츠,601020.0,1,3,3,3,3,6,6,6,6,6,12,12
+MTH,Meritage Homes Corp,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+KBH,KB Home,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+BMI,Badger Meter Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,2,2,2,2,2,2,2,2,2,2,2
+DQ,Daqo New Energy Corp ADR,재생에너지,502010.0,2,2,4,4,4,7,7,7,7,7,7,7
+TAC,TransAlta Corp,전기 유틸리티,591010.0,2,2,2,2,2,2,8,8,8,8,8,2
+ABM,ABM Industries Inc,전문 및 상업 서비스,522030.0,2,1,1,1,1,1,1,1,1,1,1,1
+AMRC,Ameresco Inc Class A,재생에너지,502010.0,2,2,2,2,2,2,2,2,2,2,2,2
+BDN,Brandywine Realty Trust,주택 및 상업용 리츠,601020.0,1,3,3,5,5,3,3,3,3,3,3,3
+OI,O-I Glass Inc,용기 및 포장,513020.0,1,3,3,5,5,3,3,3,3,3,3,3
+PDM,Piedmont Office Realty Trust Inc Class A,주택 및 상업용 리츠,601020.0,1,3,3,3,3,6,6,6,6,6,12,12
+PGRE,Paramount Group Inc,주택 및 상업용 리츠,601020.0,1,3,3,5,5,3,3,3,3,3,3,3
+JKS,JinkoSolar Holding Co Ltd ADR,재생에너지,502010.0,2,2,4,4,4,7,7,7,7,7,7,7
+ESRT,Empire State Realty Trust Inc Class A,주택 및 상업용 리츠,601020.0,1,3,3,5,5,3,3,3,3,3,3,3
+TNC,Tennant Co,"건설장비 및 대형차, 기차, 배",521020.0,2,1,1,1,1,1,1,1,1,1,1,1
+LPI,Laredo Petroleum Inc,오일 및 가스,501020.0,1,3,3,5,6,3,3,9,9,9,9,9
+REX,REX American Resources Corp,재생에너지,502010.0,1,1,1,1,1,1,1,1,1,1,1,1
+TWN,Taiwan Closed Fund,투자은행 및 서비스,551020.0,2,2,2,2,2,2,8,8,8,8,8,2
+MSFT,Microsoft Corp,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,0,2,2,2,2,2,0
+TSLA,Tesla Inc,자동차 및 자동차 부품,531010.0,2,2,2,2,2,2,2,2,2,2,2,2
+NVDA,NVIDIA Corp,반도체 및 반도체 장비,571010.0,2,2,2,2,2,2,2,2,2,2,2,2
+INTC,Intel Corp,반도체 및 반도체 장비,571010.0,0,0,0,0,0,5,5,5,5,5,5,5
+TXN,Texas Instruments Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,2,2,2,2,2,0
+CSX,CSX Corp,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,2,2,2,2,2,0
+SWKS,Skyworks Solutions Inc,반도체 및 반도체 장비,571010.0,2,2,4,2,2,7,7,7,7,7,7,2
+ENPH,Enphase Energy Inc,재생에너지,502010.0,2,2,2,2,2,2,2,2,2,2,2,2
+PLUG,Plug Power Inc,재생에너지,502010.0,2,2,4,4,4,7,7,7,7,7,7,7
+TTEK,Tetra Tech Inc,전문 및 상업 서비스,522030.0,0,0,0,0,0,0,2,2,2,2,2,0
+FSLR,First Solar Inc,재생에너지,502010.0,2,2,2,2,2,2,2,2,2,2,2,2
+SRCL,Stericycle Inc,전문 및 상업 서비스,522030.0,1,1,1,5,6,3,3,9,9,9,9,9
+RUN,Sunrun Inc,재생에너지,502010.0,0,0,4,4,4,7,7,7,7,7,7,7
+CWST,Casella Waste Systems Inc Class A,전문 및 상업 서비스,522030.0,0,0,0,0,0,0,2,2,2,2,2,0
+LGIH,LGI Homes Inc,주택건설,532030.0,0,0,0,0,0,0,2,2,2,2,2,0
+SPWR,SunPower Corp,재생에너지,502010.0,2,2,4,4,4,7,7,7,7,7,7,7
+BLDP,Ballard Power Systems Inc,재생에너지,502010.0,0,0,4,4,4,7,7,7,7,7,7,7
+ITRI,Itron Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,1,1,5,5,5,5,5,5,5
+SMCI,Super Micro Computer Inc,"컴퓨터, 전화 및 가전제품",571060.0,2,2,2,2,2,4,4,4,4,4,4,4
+REGI,Renewable Energy Group Inc,재생에너지,502010.0,0,0,4,4,4,7,7,7,7,7,7,7
+CSIQ,Canadian Solar Inc,재생에너지,502010.0,2,2,4,4,4,7,7,7,7,7,7,7
+ECOL,US Ecology Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,6,6,6,6,6,6,6
+OFLX,Omega Flex Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+SGH,SMART Global Holdings Inc.,반도체 및 반도체 장비,571010.0,2,2,2,2,2,2,8,8,8,8,8,8
+CHCO,City Holding Co,은행,551010.0,0,1,0,1,1,5,5,5,5,11,11,11
+SCHN,Schnitzer Steel Industries Inc Class A,메탈&마이닝,512010.0,2,2,2,2,2,2,8,8,8,8,8,8
+ERII,Energy Recovery Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,2,2,2,8,8,8,8,8,8
+BLNK,Blink Charging Co,전기 유틸리티,591010.0,2,2,4,4,4,7,7,7,7,7,7,7
+MERC,Mercer International Inc,종이 및 임산물,513010.0,1,3,3,3,3,6,6,6,6,6,6,6
+HCCI,Heritage-Crystal Clean Inc,전문 및 상업 서비스,522030.0,0,0,0,1,1,5,5,5,5,11,11,11
+UFCS,United Fire Group Inc,보험,553010.0,1,3,3,3,3,6,6,6,6,6,6,6
+SIFY,Sify Technologies Ltd ADR,통신 서비스,574010.0,2,2,2,2,2,2,8,8,8,8,8,8
+WKHS,Workhorse Group Inc,자동차 및 자동차 부품,531010.0,0,0,4,4,4,7,7,7,7,7,7,7
+TPIC,TPI Composites Inc,재생에너지,502010.0,0,0,4,4,4,7,7,7,7,7,7,5
+LOOP,Loop Industries Inc,화학,511010.0,1,3,1,5,6,3,3,9,9,9,9,9
+VTNR,Vertex Energy Inc,오일 및 가스,501020.0,2,2,2,2,2,2,8,8,8,8,8,8
+VEV,Vicinity Motor Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,1,1,1,1,1,1,1
+FCAP,First Capital Inc,은행,551010.0,0,0,0,0,0,5,5,5,5,5,5,13
+SMED,Sharps Compliance Corp,전문 및 상업 서비스,522030.0,2,2,4,4,4,7,7,7,7,7,7,7
+ADES,Advanced Emissions Solutions Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,6,6,6,6,6,12,12
+SND,Smart Sand Inc,건축 자재,512020.0,1,3,3,5,6,3,3,9,9,9,9,9
+DLA,Delta Apparel Inc,섬유 및 의류,532020.0,2,1,2,1,1,1,8,8,8,11,11,11
+DSS,DSS Inc,용기 및 포장,513020.0,1,3,3,5,5,3,3,3,3,3,3,3

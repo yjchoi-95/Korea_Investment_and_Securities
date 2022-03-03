@@ -1,0 +1,79 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,2,2,2,5,5,7,7,7,7,7,7,7
+BLK,BlackRock Inc,투자은행 및 서비스,551020.0,2,2,2,5,2,7,7,7,7,7,7,7
+DUK,Duke Energy Corp,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+SO,Southern Co,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+D,Dominion Energy Inc,전기 유틸리티,591010.0,2,0,0,0,0,5,5,5,5,5,5,13
+WM,Waste Management Inc,전문 및 상업 서비스,522030.0,2,2,2,2,2,7,7,7,7,7,7,7
+NGG,National Grid PLC ADR,복합 유틸리티,591040.0,1,1,1,1,1,1,1,1,1,11,11,11
+SRE,Sempra Energy,복합 유틸리티,591040.0,2,2,2,2,0,5,5,5,5,5,5,13
+RSG,Republic Services Inc,전문 및 상업 서비스,522030.0,2,2,2,2,2,7,7,7,7,7,7,7
+STT,State Street Corp,투자은행 및 서비스,551020.0,1,3,1,5,5,6,6,6,6,6,6,6
+PEG,Public Service Enterprise Group Inc,복합 유틸리티,591040.0,2,2,2,2,2,5,5,5,5,5,7,5
+ED,Consolidated Edison Inc,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,Eversource Energy,전기 유틸리티,591010.0,2,2,2,2,2,3,3,3,3,3,3,3
+WEC,WEC Energy Group Inc,전기 유틸리티,591010.0,2,2,2,2,2,3,3,3,3,3,3,3
+OKE,ONEOK Inc,오일 및 가스 장비 및 서비스,501030.0,0,3,4,4,4,4,4,4,4,4,4,4
+AWK,American Water Works Company Inc,수도 유틸리티,591030.0,2,2,2,2,2,3,3,3,3,3,3,3
+BIP,Brookfield Infrastructure Partners Units,복합 기업,544010.0,2,2,2,2,2,7,7,7,7,7,7,7
+EIX,Edison International,전기 유틸리티,591010.0,1,1,1,1,1,1,1,9,9,9,9,9
+PCG,PG&E Corp,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+FE,FirstEnergy Corp,전기 유틸리티,591010.0,0,0,0,0,0,5,0,0,0,0,0,0
+AEE,Ameren Corp,복합 유틸리티,591040.0,2,2,2,2,2,3,3,3,3,3,3,3
+FTS,Fortis Inc,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+PPL,PPL Corp,복합 유틸리티,591040.0,1,1,1,1,1,1,1,9,9,9,9,9
+ETR,Entergy Corp,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,5,13
+CMS,CMS Energy Corp,복합 유틸리티,591040.0,2,2,2,2,2,3,3,3,3,3,3,3
+AGR,Avangrid Inc,전기 유틸리티,591010.0,2,3,3,3,3,5,5,5,5,5,5,5
+CNP,CenterPoint Energy Inc,복합 유틸리티,591040.0,0,3,4,4,4,4,4,4,4,4,4,4
+ATO,Atmos Energy Corp,천연가스 유틸리티,591020.0,2,2,0,2,0,5,5,5,5,5,5,5
+EVRG,Evergy Inc,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,5,5
+AES,AES Corp,전기 유틸리티,591010.0,2,2,2,2,2,7,7,7,7,7,7,7
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010.0,1,1,1,1,1,6,6,6,10,10,10,10
+WTRG,Essential Utilities Inc,수도 유틸리티,591030.0,2,2,2,2,2,3,3,3,3,3,3,3
+NI,NiSource Inc,복합 유틸리티,591040.0,0,0,0,0,0,0,0,0,0,0,0,0
+VST,Vistra Corp,전기 유틸리티,591010.0,0,0,3,3,6,5,0,0,0,0,5,5
+NRG,NRG Energy Inc,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,5,5
+AQN,Algonquin Power & Utilities Corp,복합 유틸리티,591040.0,2,2,2,2,2,3,3,3,3,3,3,3
+UGI,UGI Corp,천연가스 유틸리티,591020.0,0,3,4,4,4,4,4,4,4,4,4,4
+PNW,Pinnacle West Capital Corp,전기 유틸리티,591010.0,0,0,0,0,6,0,8,8,8,8,8,8
+OGE,OGE Energy Corp,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+NFG,National Fuel Gas Co,천연가스 유틸리티,591020.0,1,1,1,1,1,1,1,1,1,1,1,1
+MDU,MDU Resources Group Inc,복합 유틸리티,591040.0,2,3,3,5,5,7,7,7,7,7,7,5
+CLH,Clean Harbors Inc,전문 및 상업 서비스,522030.0,2,2,2,2,2,7,7,7,7,7,7,7
+POR,Portland General Electric Co,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+HE,Hawaiian Electric Industries Inc,전기 유틸리티,591010.0,2,2,0,2,0,5,5,5,5,5,5,5
+BKH,Black Hills Corp,복합 유틸리티,591040.0,0,0,0,0,0,0,0,0,0,0,0,0
+OGS,ONE Gas Inc,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,0,0,0,5,0
+CWEN,Clearway Energy Inc Class C,전기 유틸리티,591010.0,2,2,2,2,2,7,7,7,7,7,7,7
+CWEN,Clearway Energy Inc Class A,전기 유틸리티,591010.0,2,2,2,2,2,7,7,7,7,7,7,7
+SWX,Southwest Gas Holdings Inc,천연가스 유틸리티,591020.0,0,0,4,4,6,4,8,8,8,8,8,8
+NJR,New Jersey Resources Corp,천연가스 유틸리티,591020.0,0,0,4,4,4,4,4,4,4,4,4,4
+PNM,PNM Resources Inc,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,5,5
+ORA,Ormat Technologies Inc,전기 유틸리티,591010.0,2,2,2,2,2,3,3,3,3,3,3,3
+SR,Spire Inc,천연가스 유틸리티,591020.0,0,0,0,0,6,0,8,8,8,8,8,8
+ALE,ALLETE Inc,전기 유틸리티,591010.0,0,0,4,4,6,4,8,8,8,8,8,8
+AWR,American States Water Co,수도 유틸리티,591030.0,2,2,2,2,2,3,3,3,3,3,3,3
+CWT,California Water Service Group,수도 유틸리티,591030.0,2,2,2,2,2,3,3,3,3,3,7,3
+AVA,Avista Corp,복합 유틸리티,591040.0,0,3,3,3,6,6,6,6,6,6,6,6
+SJI,South Jersey Industries Inc,천연가스 유틸리티,591020.0,1,1,4,4,4,4,8,8,8,8,8,8
+CPK,Chesapeake Utilities Corp,천연가스 유틸리티,591020.0,2,2,2,2,2,7,7,7,7,7,7,7
+SJW,SJW Group,수도 유틸리티,591030.0,2,2,2,2,2,5,5,5,5,5,5,5
+NWN,Northwest Natural Holding Co,천연가스 유틸리티,591020.0,0,0,4,0,6,0,8,8,8,8,8,8
+IDT,IDT Corp Class B,통신 서비스,574010.0,2,2,2,5,5,7,7,7,7,7,12,12
+UTL,Unitil Corp,복합 유틸리티,591040.0,0,0,0,0,6,0,0,0,0,0,0,0
+SGU,Star Group Units,오일 및 가스,501020.0,2,3,3,5,5,7,4,4,4,4,4,4
+EEX,Emerald Holding Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,1,1,1
+AEP,American Electric Power Company Inc,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,5,13
+EXC,Exelon Corp,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,7,5
+XEL,Xcel Energy Inc,전기 유틸리티,591010.0,2,2,2,2,2,3,3,3,3,3,3,3
+LNT,Alliant Energy Corp,전기 유틸리티,591010.0,2,2,2,2,2,3,3,3,3,3,3,3
+APA,APA Corp (US),오일 및 가스,501020.0,1,1,1,1,1,1,1,1,1,1,1,1
+SRCL,Stericycle Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,11,11,11
+RUN,Sunrun Inc,재생에너지,502010.0,2,2,2,2,2,3,3,3,3,3,3,3
+NWE,NorthWestern Corp,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+MGEE,MGE Energy Inc,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,5,5
+OTTR,Otter Tail Corp,전기 유틸리티,591010.0,2,2,2,2,2,5,5,5,5,5,7,5
+MSEX,Middlesex Water Co,수도 유틸리티,591030.0,2,2,2,2,2,7,7,7,7,7,7,7
+UFCS,United Fire Group Inc,보험,553010.0,1,1,4,4,4,6,8,8,8,8,8,8
+YORW,York Water Co,수도 유틸리티,591030.0,2,2,2,2,2,3,3,3,3,3,3,3

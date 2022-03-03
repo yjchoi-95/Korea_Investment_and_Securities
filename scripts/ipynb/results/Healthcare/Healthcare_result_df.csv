@@ -1,0 +1,493 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+UNH,UnitedHealth Group Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,9,9,9,9,9
+JNJ,Johnson & Johnson,제약,562010.0,0,0,0,0,6,2,2,9,9,9,9,9
+PG,Procter & Gamble Co,"개인, 가정 용품 및 서비스",542010.0,0,0,0,0,6,2,2,9,0,9,0,0
+PFE,Pfizer Inc,제약,562010.0,0,0,0,0,6,2,2,9,9,9,9,9
+LLY,Eli Lilly and Co,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+TMO,Thermo Fisher Scientific Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+ABT,Abbott Laboratories,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+DHR,Danaher Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+MRK,Merck & Co Inc,제약,562010.0,0,3,3,3,3,3,3,9,9,9,9,9
+NVS,Novartis AG ADR,제약,562010.0,0,3,3,3,3,0,8,9,8,8,0,0
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,0,0,0,0,6,2,2,2,2,2,2,2
+NVO,Novo Nordisk A/S ADR,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+BMY,Bristol-Myers Squibb Co,제약,562010.0,1,1,1,1,0,1,1,1,10,11,11,10
+MDT,Medtronic PLC,헬스케어 장비 및 용품,561010.0,0,0,3,0,6,2,2,9,0,0,0,0
+CVS,CVS Health Corp,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,7,7,7,7,11,11,11
+BLK,BlackRock Inc,투자은행 및 서비스,551020.0,0,0,0,0,6,2,2,2,2,2,2,2
+GSK,GlaxoSmithKline PLC ADR,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ANTM,Anthem Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,9,9,9,9,9
+SHOP,Shopify Inc Class A,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,2,2,2,2,2,2,2
+SYK,Stryker Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+ZTS,Zoetis Inc Class A,제약,562010.0,0,0,0,0,6,2,2,9,9,9,9,9
+BDX,Becton Dickinson and Co,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,3,9,9,3,3
+CI,Cigna Corp,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,9,9,9,9,9
+HCA,HCA Healthcare Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+EW,Edwards Lifesciences Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+BSX,Boston Scientific Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,9,9,9,9,9
+HUM,Humana Inc,헬스케어 업체 및 서비스,561020.0,0,0,3,3,3,2,2,9,9,9,9,9
+CNC,Centene Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,3,3,9,9,9,9,9
+IQV,IQVIA Holdings Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+TAK,Takeda Pharmaceutical Co Ltd ADR,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+BAX,Baxter International Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,9,9,9,9,9
+A,Agilent Technologies Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+STT,State Street Corp,투자은행 및 서비스,551020.0,1,1,2,2,2,7,7,7,7,11,11,13
+VEEV,Veeva Systems Inc Class A,헬스케어 장비 및 용품,561010.0,0,0,3,3,3,2,2,9,0,0,0,0
+WELL,Welltower Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,7,7,7,7,7,7,7
+MTD,Mettler-Toledo International Inc,사무기기,571050.0,0,0,0,0,6,2,2,2,2,2,2,2
+ARE,Alexandria Real Estate Equities Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,9,9,9,9,9
+PHG,Koninklijke Philips NV ADR,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,8,0,0,0,0
+WST,West Pharmaceutical Services Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+LH,Laboratory Corporation of America Holdings,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+ZBH,Zimmer Biomet Holdings Inc,헬스케어 장비 및 용품,561010.0,0,0,3,3,3,0,0,0,0,0,0,0
+CHD,Church & Dwight Co Inc,"개인, 가정 용품 및 서비스",542010.0,0,0,3,3,3,2,2,9,9,9,9,9
+FTV,Fortive Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,3,0,0,6,3,3,9,9,9,9,9
+STE,STERIS plc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+PKI,PerkinElmer Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+VTR,Ventas Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,1,5,5,5,1,5,5,5
+WAT,Waters Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+COO,Cooper Companies Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+FMS,Fresenius Medical Care AG & Co KGaA ADR,헬스케어 업체 및 서비스,561020.0,1,2,2,5,5,6,6,6,6,6,6,6
+CTLT,Catalent Inc,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+MOH,Molina Healthcare Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+PEAK,Healthpeak Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,1,1,7,7,7,7,11,11,11
+CRL,Charles River Laboratories International Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+DGX,Quest Diagnostics Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+TFX,Teleflex Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,9,9,9,0,0
+CAH,Cardinal Health Inc,식품 및 약품소매,543010.0,1,1,1,1,1,5,5,5,5,5,5,5
+SNN,Smith & Nephew PLC ADR,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,3,8,8,3,3
+MPW,Medical Properties Trust Inc,주택 및 상업용 리츠,601020.0,0,0,3,3,3,2,2,9,9,9,9,9
+TDOC,Teladoc Health Inc,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,0,8,8,0,0,8,8
+DVA,DaVita Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,0,2,2,2,2,2,2,2
+UHS,Universal Health Services Inc Class B,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,7,3,7,7,7,7,7
+SCI,Service Corporation International,"개인, 가정 용품 및 서비스",542010.0,0,0,0,0,6,2,2,9,9,9,9,9
+TEVA,Teva Pharmaceutical Industries Ltd ADR,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BHC,Bausch Health Companies Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BHVN,Biohaven Pharmaceutical Holding Company Ltd,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+THC,Tenet Healthcare Corp,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+PEN,Penumbra Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+BFAM,Bright Horizons Family Solutions Inc,"개인, 가정 용품 및 서비스",542010.0,0,3,3,3,3,3,3,9,9,9,9,9
+CHE,Chemed Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,0,8,9,9,9,9,9
+GMED,Globus Medical Inc Class A,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+OHI,Omega Healthcare Investors Inc,주택 및 상업용 리츠,601020.0,0,3,4,3,4,3,3,3,3,3,3,3
+CFX,Colfax Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,7,7,7,7,11,11,11
+EHC,Encompass Health Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,3,3,9,9,9,3,3
+PRGO,Perrigo Company PLC,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+AMN,AMN Healthcare Services Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+DOC,Physicians Realty Trust,주택 및 상업용 리츠,601020.0,1,1,1,1,1,1,1,1,1,11,11,11
+ZWS,Zurn Water Solutions Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,6,2,2,2,2,2,2,2
+SEM,Select Medical Holdings Corp,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+OMI,Owens & Minor Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,0,7,7,7,7,11,11,11
+HAE,Haemonetics Corp,헬스케어 장비 및 용품,561010.0,2,3,4,4,4,3,3,3,3,3,3,3
+PBH,Prestige Consumer Healthcare Inc,제약,562010.0,1,1,1,1,1,7,7,7,7,11,11,11
+VCRA,Vocera Communications Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,0,0,6,2,2,2,9,9,9,9
+ITGR,Integer Holdings Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,9,9,9,9,9
+GKOS,Glaukos Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,3,3,3,3,3
+NHI,National Health Investors Inc,주택 및 상업용 리츠,601020.0,2,2,4,5,4,4,4,4,4,4,4,4
+NVRO,Nevro Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,8,0,0,8,8
+EBS,Emergent BioSolutions Inc,제약,562010.0,0,3,3,3,3,0,8,8,8,8,8,8
+NVTA,Invitae Corp,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,0,0,0,0
+DDD,3D Systems Corp,전자 장비 및 부품,571040.0,0,0,0,0,0,7,7,7,7,11,11,11
+GCP,GCP Applied Technologies Inc,건축 자재,512020.0,1,1,2,5,5,5,5,5,5,5,5,13
+EVH,Evolent Health Inc Class A,헬스케어 장비 및 용품,561010.0,1,1,1,2,2,7,7,7,7,11,11,11
+MD,MEDNAX Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,5,1,5,5,5,5,5,5,5
+CYH,Community Health Systems Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+TARO,Taro Pharmaceutical Industries Ltd,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+AVNS,Avanos Medical Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,6,6,6,6,6,12,12
+OXM,Oxford Industries Inc,섬유 및 의류,532020.0,2,0,0,2,2,7,7,7,7,7,7,7
+MYOV,Myovant Sciences Ltd,생명과학 및 메디컬 리서치,562020.0,0,3,0,2,2,7,0,0,10,7,7,7
+BKD,Brookdale Senior Living Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,1,1,1,1,1,1,1,1
+MODN,Model N Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,0,8,8,0,0,0,0
+GTS,Triple-S Management Corp Class B,헬스케어 업체 및 서비스,561020.0,0,0,0,2,2,7,7,7,7,7,7,7
+AORT,Artivion Inc,헬스케어 장비 및 용품,561010.0,2,3,4,4,4,3,3,3,3,3,3,3
+HNGR,Hanger Inc,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,3,3,3,9,9,3,3
+ZYME,Zymeworks Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+TTI,Tetra Technologies Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+NLS,Nautilus Inc,레저 상품,532050.0,1,1,1,1,1,1,1,1,1,1,1,13
+ENZ,Enzo Biochem Inc,헬스케어 업체 및 서비스,561020.0,1,1,2,5,5,5,5,5,5,5,5,5
+LCI,Lannett Company Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+AZN,AstraZeneca PLC ADR,제약,562010.0,0,0,3,3,3,2,2,9,9,9,9,9
+SNY,Sanofi SA ADR,제약,562010.0,0,0,0,0,0,0,8,8,0,2,8,8
+AMGN,Amgen Inc,제약,562010.0,0,3,3,3,3,0,8,8,0,0,0,0
+ISRG,Intuitive Surgical Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+GILD,Gilead Sciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+REGN,Regeneron Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,2,2,2,2,2,2,2
+VRTX,Vertex Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+ILMN,Illumina Inc,헬스케어 장비 및 용품,561010.0,0,0,3,3,3,2,2,9,9,9,9,9
+IDXX,IDEXX Laboratories Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+WBA,Walgreens Boots Alliance Inc,식품 및 약품소매,543010.0,1,1,2,5,5,5,5,5,5,5,5,5
+ALGN,Align Technology Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+BIIB,Biogen Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CERN,Cerner Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+SGEN,Seagen Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,3,0,8,8,0,0,0,0
+HZNP,Horizon Therapeutics PLC,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+GMAB,Genmab A/S ADR,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+ICLR,ICON PLC,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,9,9,9,9,9
+VTRS,Viatris Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+ALNY,Alnylam Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+HOLX,Hologic Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,0,0,0,0
+NUAN,Nuance Communications Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,2,2,2,2,2,2,2
+PODD,Insulet Corp,헬스케어 장비 및 용품,561010.0,0,0,3,0,6,2,2,9,0,0,0,0
+TECH,Bio-Techne Corp,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+INCY,Incyte Corp,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+ARGX,argenx SE ADR,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,9,0,0,0,0
+EXAS,Exact Sciences Corp,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,3,9,0,0,0,0
+ABMD,ABIOMED Inc,헬스케어 장비 및 용품,561010.0,0,3,4,4,2,3,3,3,3,3,3,3
+MASI,Masimo Corp,헬스케어 장비 및 용품,561010.0,0,0,3,3,3,2,2,9,0,0,0,0
+XRAY,DENTSPLY SIRONA Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,7,7,7,7,11,11,11
+HSIC,Henry Schein Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,7,2,2,2,2,2,11
+RGEN,Repligen Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+BRKR,Bruker Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+SYNH,Syneos Health Inc Class A,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+UTHR,United Therapeutics Corp,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,7,7,7,7,11,11,11
+JAZZ,Jazz Pharmaceuticals PLC,제약,562010.0,1,1,1,2,2,7,7,7,7,7,7,13
+NBIX,Neurocrine Biosciences Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,3,3,3,3,3,3
+TNDM,Tandem Diabetes Care Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+FSLR,First Solar Inc,재생에너지,502010.0,0,0,0,0,6,2,2,2,2,2,2,2
+RCM,R1 RCM Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,9,0,0,0,0
+ASND,Ascendis Pharma A/S ADR,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,9,0,0,0,0
+SRPT,Sarepta Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+NVAX,Novavax Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,7,0,0,10,10,10,10
+NTLA,Intellia Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+OMCL,Omnicell Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+OLED,Universal Display Corp,반도체 및 반도체 장비,571010.0,0,3,3,3,3,0,8,9,0,0,0,0
+NTRA,Natera Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+AZTA,Azenta Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,6,2,2,2,2,2,2,2
+MEDP,Medpace Holdings Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+EXEL,Exelixis Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+ARNA,Arena Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,2,2,9,9,9,9,9
+MRTX,Mirati Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,3,0,8,9,0,0,0,0
+IART,Integra Lifesciences Holdings Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,3,3,9,9,9,9,9
+SRCL,Stericycle Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,1,1,1
+ARWR,Arrowhead Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,3,2,2,9,0,0,0,0
+ZLAB,Zai Lab Ltd ADR,제약,562010.0,0,0,0,0,0,0,0,0,0,0,0,0
+RARE,Ultragenyx Pharmaceutical Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,0,0,0,0,0,10,10,10,10
+ITCI,Intra-Cellular Therapies Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,7,7,2,10,2,2,10
+NOVT,Novanta Inc,전자 장비 및 부품,571040.0,0,0,0,0,6,2,2,9,9,9,9,9
+BPMC,Blueprint Medicines Corp,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,3,9,9,9,9,9
+HALO,Halozyme Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,0,0,0,2,2,2
+ICUI,ICU Medical Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,2,3,3,3,3,3,3,3
+ACHC,Acadia Healthcare Company Inc,헬스케어 업체 및 서비스,561020.0,1,1,1,1,0,7,7,7,7,11,11,11
+IONS,Ionis Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,4,4,4,4,4,4,4
+CRSP,CRISPR Therapeutics AG,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,3,0,0,0,0,0,0,0
+AMED,Amedisys Inc,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,0,8,8,0,0,0,0
+APLS,Apellis Pharmaceuticals Inc,제약,562010.0,0,0,0,0,6,2,2,2,0,0,0,0
+HCM,HUTCHMED (China) Ltd ADR,제약,562010.0,0,3,0,2,2,3,3,9,9,9,9,9
+PINC,Premier Inc Class A,헬스케어 업체 및 서비스,561020.0,2,3,4,2,2,3,3,3,3,7,7,7
+OPCH,Option Care Health Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+ENSG,Ensign Group Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,9,0,0,0,0
+GLPG,Galapagos NV ADR,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,8,8,3,3
+DNLI,Denali Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,2,0,0,10,10,10,10
+ACAD,ACADIA Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,3,3,3,3,0,8,8,8,8,8,8
+QDEL,Quidel Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,8,0,0,8,8
+LHCG,LHC Group Inc,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,0,8,8,0,0,0,0
+SGRY,Surgery Partners Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+LIVN,LivaNova PLC,헬스케어 장비 및 용품,561010.0,2,2,4,2,2,6,6,6,6,7,12,12
+NEOG,Neogen Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,2,2,9,9,9,9,9
+ALKS,Alkermes Plc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+CGC,Canopy Growth Corp,제약,562010.0,2,3,4,4,4,3,3,3,3,3,3,3
+IRTC,iRhythm Technologies Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,8,8,8,8,8
+STAA,STAAR Surgical Co,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+FATE,Fate Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,2,0,0,0,0,0,0
+CYTK,Cytokinetics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+AMEH,Apollo Medical Holdings Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+MMSI,Merit Medical Systems Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,3,3,9,9,9,9,9
+BCRX,BioCryst Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,7,7,7,7,11,11,11
+EYE,National Vision Holdings Inc,전문품 상점,534030.0,0,0,0,0,6,2,0,2,2,2,2,2
+LOPE,Grand Canyon Education Inc,교육서비스,631010.0,2,3,4,4,4,3,3,3,3,3,3,3
+PTCT,PTC Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+ATRC,AtriCure Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+SBRA,Sabra Health Care REIT Inc,주택 및 상업용 리츠,601020.0,1,1,2,5,5,5,5,5,5,5,5,5
+PCRX,Pacira Biosciences Inc,제약,562010.0,0,0,0,0,0,0,0,0,10,10,10,10
+CRVL,CorVel Corp,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+GRFS,Grifols SA ADR,제약,562010.0,2,2,2,4,4,4,4,4,4,4,4,6
+INSM,Insmed Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,0,0,0,0,0,0
+PDCO,Patterson Companies Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+IOVA,Iovance Biotherapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+MDRX,Allscripts Healthcare Solutions Inc,헬스케어 장비 및 용품,561010.0,0,0,0,2,0,7,7,7,7,11,11,11
+NUVA,NuVasive Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,11
+SAGE,SAGE Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,4,4,4,4,4
+FOLD,Amicus Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+PACB,Pacific Biosciences of California Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,2,0,0,10,10,10,10
+AUPH,Aurinia Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,9,9,9,9,9
+CORT,Corcept Therapeutics Inc,제약,562010.0,0,0,0,0,6,2,0,9,9,9,9,9
+CDNA,CareDx Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,0,0,0,0,0,0
+VCYT,Veracyte Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,3,0,2,9,0,0,0,0
+OPK,OPKO Health Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+FLGT,Fulgent Genetics Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+MYGN,Myriad Genetics Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,6,6,6,6,7,12,12
+SAVA,Cassava Sciences Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+IDCC,InterDigital Inc,커뮤니케이션 및 네트워킹,571020.0,1,2,2,2,2,6,6,6,6,6,6,13
+LGND,Ligand Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,2,2,6,6,6,6,6,12,12
+NKTR,Nektar Therapeutics,생명과학 및 메디컬 리서치,562020.0,2,2,2,4,2,6,6,6,6,6,6,6
+GBT,Global Blood Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,8,8,3,3
+XNCR,Xencor Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,3,3,3,3,3,3
+LNTH,Lantheus Holdings Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,3,3,9,9,9,9,9
+IRWD,Ironwood Pharmaceuticals Inc Class A,생명과학 및 메디컬 리서치,562020.0,1,2,2,2,2,6,6,6,6,6,6,13
+TVTX,Travere Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,1,2,2,7,7,7,7,7,7,13
+AGIO,Agios Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,2,2,5,5,6,6,6,6,6,6,12
+NSTG,NanoString Technologies Inc,헬스케어 장비 및 용품,561010.0,0,0,3,0,0,0,0,0,0,0,0,0
+PRTA,Prothena Corporation PLC,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,7,7,7,7,11,11,11
+VCEL,Vericel Corp,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+KRYS,Krystal Biotech Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,3,2,2,9,0,0,0,0
+SUPN,Supernus Pharmaceuticals Inc,제약,562010.0,2,2,2,2,2,6,6,6,6,6,12,12
+GPRE,Green Plains Inc,재생에너지,502010.0,0,0,0,0,0,7,7,7,7,11,11,11
+XENE,Xenon Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+DVAX,Dynavax Technologies Corp,생명과학 및 메디컬 리서치,562020.0,1,1,1,2,2,1,1,1,1,1,1,13
+MODV,ModivCare Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+CRON,Cronos Group Inc,제약,562010.0,2,2,4,4,4,4,4,4,4,4,4,4
+MDGL,Madrigal Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+TGTX,TG Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,0,0,0,0,0,10,10,10,10
+CLDX,Celldex Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ZGNX,Zogenix Inc,제약,562010.0,2,2,4,4,4,4,4,4,4,4,4,4
+FGEN,FibroGen Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,4,4,4,4,4
+OSIS,OSI Systems Inc,전자 장비 및 부품,571040.0,0,3,3,3,3,3,3,9,9,9,9,9
+AMRN,Amarin Corporation PLC ADR,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+MLAB,Mesa Laboratories Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,3,3,3,3,2,2,9,9,9,9,9
+HSKA,Heska Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+RDNT,RadNet Inc,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+INVA,Innoviva Inc,제약,562010.0,2,2,4,2,2,7,7,7,7,7,7,7
+STRA,Strategic Education Inc,교육서비스,631010.0,2,3,4,4,4,3,3,3,3,3,3,3
+PTGX,Protagonist Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,2,2,2,2,2,2,2
+ENTA,Enanta Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,3,3,3,3,12,4
+AMRS,Amyris Inc,화학,511010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CDMO,Avid Bioservices Inc,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+AMPH,Amphastar Pharmaceuticals Inc,제약,562010.0,0,3,4,3,3,3,3,9,9,9,9,9
+ATRA,Atara Biotherapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,2,2,6,6,6,6,6,12,12
+CDXS,Codexis Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,9,9,9,9,9
+NXGN,NextGen Healthcare Inc,소프트웨어 및 IT서비스,572010.0,2,2,4,2,2,3,3,3,3,7,7,7
+TVTY,Tivity Health Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,2,2,6,6,6,6,6,6,13
+IMGN,ImmunoGen Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,2,2,1,1,1,1,1,1,13
+QTRX,Quanterix Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,2,0,0,0,0,0,0
+RCKT,Rocket Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,0,0,0,0,0,10,10,10,10
+AXSM,Axsome Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+ADUS,Addus Homecare Corp,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,0,8,9,0,0,0,0
+HCSG,Healthcare Services Group Inc,전문 및 상업 서비스,522030.0,1,2,2,5,5,5,5,5,5,5,6,5
+MTLS,Materialise NV ADR,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,0,8,8,0,0,0,0
+ATRI,Atrion Corp,헬스케어 장비 및 용품,561010.0,2,3,4,4,4,3,3,3,3,3,3,3
+BLFS,BioLife Solutions Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,2,2,2,2
+MRUS,Merus NV,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,7,7,7,7,11,11,11
+VIVO,Meridian Bioscience Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,7,0,0,10,10,10,10
+EDIT,Editas Medicine Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,0,0,0,0,0,10,10,10,10
+MNKD,MannKind Corp,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ATEC,Alphatec Holdings Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,2,0,0,10,10,10,10
+SRNE,Sorrento Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,1,1,1,0,1,0,0,10,10,10,10
+CHRS,Coherus BioSciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ORGO,Organogenesis Holdings Inc Class A,제약,562010.0,1,1,1,2,2,7,7,7,7,7,7,7
+NRC,National Research Corp,전문 및 상업 서비스,522030.0,0,3,3,3,3,3,3,9,8,8,3,3
+AVXL,Anavex Life Sciences Corp,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,2,2,2,2,2
+VREX,Varex Imaging Corp,헬스케어 장비 및 용품,561010.0,1,2,2,5,5,5,5,5,5,5,6,5
+KIDS,OrthoPediatrics Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,9,9,9,9,9
+LMAT,LeMaitre Vascular Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,2,2,2,9,2,9,9
+RVNC,Revance Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,2,2,1,1,1,10,1,1,13
+XENT,Intersect Ent Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,6,6,6,6,6,12,12
+CERS,Cerus Corp,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,3,3,3,3,3
+RETA,Reata Pharmaceuticals Inc Class A,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,8,8,8,8,8,8
+HRTX,Heron Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,4,4,4,12,12
+ACB,Aurora Cannabis Inc,제약,562010.0,2,2,4,4,4,4,4,4,4,4,4,4
+AINV,Apollo Investment Corp,투자은행 및 서비스,551020.0,1,1,2,5,5,5,5,5,5,5,5,5
+KURA,Kura Oncology Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,0,0,0,0,0,0
+PAHC,Phibro Animal Health Corp Class A,제약,562010.0,2,2,2,5,5,6,6,6,6,6,6,12
+SGMO,Sangamo Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,2,6,6,6,6,6,12,6
+ANGO,AngioDynamics Inc,헬스케어 장비 및 용품,561010.0,0,0,0,2,2,7,7,7,7,7,7,7
+ANAB,AnaptysBio Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,4,2,6,6,6,6,6,12,12
+CCRN,Cross Country Healthcare Inc,전문 및 상업 서비스,522030.0,0,0,0,0,6,7,7,7,7,11,11,11
+CPRX,Catalyst Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,2,2,9,9,9,9,9
+HAFC,Hanmi Financial Corp,은행,551010.0,1,1,2,5,5,5,5,5,5,5,5,5
+SLP,Simulations Plus Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,8,0,0,0,0
+VRAY,ViewRay Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,6,6,6,6,6,12,12
+NTUS,Natus Medical Inc,헬스케어 장비 및 용품,561010.0,1,1,2,5,5,5,5,5,5,5,5,5
+ACRS,Aclaris Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,13
+KPTI,Karyopharm Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,8,1,1,1
+CSII,Cardiovascular Systems Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,3,3,3,3,3
+JYNT,Joint Corp,헬스케어 업체 및 서비스,561020.0,0,0,0,0,6,2,2,2,2,2,2,2
+BLU,BELLUS Health Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,8,9,8,8,8,8
+OCGN,Ocugen Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+MCRB,Seres Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+HSTM,HealthStream Inc,소프트웨어 및 IT서비스,572010.0,2,2,4,2,2,7,7,7,7,7,7,7
+VNDA,Vanda Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,2,2,6,6,6,6,7,7,7
+SNDX,Syndax Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,0,0,0,10,10,10,10
+ENDP,Endo International PLC,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SRRA,Sierra Oncology Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+INGN,Inogen Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,6,6,6,6,6,12,12
+INO,Inovio Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,0,0,8,8,8,10,8,8
+TBPH,Theravance Biopharma Inc,제약,562010.0,1,2,2,5,5,5,5,5,5,5,5,5
+KDNY,Chinook Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+CUTR,Cutera Inc,헬스케어 장비 및 용품,561010.0,2,2,0,2,2,7,7,7,7,11,11,13
+ARCT,Arcturus Therapeutics Holdings Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,0,0,0,0,10,10,10,10
+ANIP,ANI Pharmaceuticals Inc,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,4
+MGNX,MacroGenics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,10,1,1,1
+OSUR,OraSure Technologies Inc,헬스케어 장비 및 용품,561010.0,2,2,2,5,2,6,6,6,6,6,6,6
+EGRX,Eagle Pharmaceuticals Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+AGEN,Agenus Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ALBO,Albireo Pharma Inc,생명과학 및 메디컬 리서치,562020.0,0,3,4,4,2,3,3,3,3,3,3,3
+VXRT,Vaxart Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+OFIX,Orthofix Medical Inc,헬스케어 장비 및 용품,561010.0,2,2,4,4,4,4,4,4,4,4,12,12
+ATRS,Antares Pharma Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,3,3,9,9,9,9,9
+COLL,Collegium Pharmaceutical Inc,제약,562010.0,0,3,3,3,0,0,0,0,10,10,10,10
+ACET,Adicet Bio Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+SRDX,Surmodics Inc,헬스케어 장비 및 용품,561010.0,0,3,4,4,4,3,3,3,3,3,3,3
+MNMD,Mind Medicine (MindMed) Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,2,0,0,10,10,10,10
+CARA,Cara Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+PETQ,PetIQ Inc Class A,제약,562010.0,0,3,3,3,3,3,3,3,3,3,3,3
+DCPH,Deciphera Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+MDXG,MiMedx Group Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,11,11,13
+MESO,Mesoblast Ltd ADR,생명과학 및 메디컬 리서치,562020.0,1,3,1,1,1,0,8,8,8,8,8,8
+AFMD,Affimed NV,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,7,0,0,10,10,10,10
+CMRX,Chimerix Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+EOLS,Evolus Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,4,4,4,12,12
+RLMD,Relmada Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+SIGA,SIGA Technologies Inc,제약,562010.0,0,3,3,3,3,3,3,9,9,9,9,9
+ADAP,Adaptimmune Therapeutics PLC ADR,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ICPT,Intercept Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+BLUE,bluebird bio Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,6,6
+LXRX,Lexicon Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+RIGL,Rigel Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,2,2,7,7,7,10,11,11,13
+PGEN,Precigen Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SPNE,SeaSpine Holdings Corp,헬스케어 장비 및 용품,561010.0,0,3,3,0,0,3,0,0,10,7,7,7
+VRDN,Viridian Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ANIK,Anika Therapeutics Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+ORMP,Oramed Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,7,7,7,7,11,11,11
+GTHX,G1 Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,6,6,6,6,6,12,12
+ABUS,Arbutus Biopharma Corp,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+MRNS,Marinus Pharmaceuticals Inc,제약,562010.0,1,1,1,2,2,1,1,1,1,1,1,1
+EPIX,ESSA Pharma Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+OCUL,Ocular Therapeutix Inc,제약,562010.0,1,1,1,1,0,1,1,1,10,10,10,10
+EHTH,eHealth Inc,보험,553010.0,0,3,3,3,3,3,8,8,8,8,8,8
+CPSI,Computer Programs and Systems Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+JNCE,Jounce Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+OMER,Omeros Corp,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,12
+VUZI,Vuzix Corp,전자 장비 및 부품,571040.0,0,0,0,0,0,7,0,0,10,10,10,10
+AADI,Aadi Bioscience Inc,제약,562010.0,0,0,0,0,6,7,7,7,7,11,11,11
+VBIV,VBI Vaccines Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+DMTK,DermTech Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,7,0,0,10,10,10,10
+AVDL,Avadel Pharmaceuticals PLC ADR,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ENOB,Enochian Biosciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,2,2,7,7,7,7,7,7,7
+ARAY,Accuray Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BDSI,BioDelivery Sciences International Inc,제약,562010.0,1,3,1,1,1,1,1,1,1,1,1,1
+IMUX,Immunic Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+RDUS,Radius Health Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+ACIU,AC Immune SA,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+GERN,Geron Corp,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+EYPT,EyePoint Pharmaceuticals Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SPRO,Spero Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,0,7,0,0,10,10,10,10
+ADMA,ADMA Biologics Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+TCMD,Tactile Systems Technology Inc,헬스케어 장비 및 용품,561010.0,2,3,4,4,4,3,3,3,3,3,3,3
+CRIS,Curis Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,11
+MRSN,Mersana Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,10,10,10,13
+AERI,Aerie Pharmaceuticals Inc,제약,562010.0,2,2,2,5,5,6,6,6,6,6,6,6
+VTGN,VistaGen Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+AKBA,Akebia Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+RYTM,Rhythm Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,12
+XBIT,XBiotech Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,0,0,8,8,8,8,8,8
+ALT,Altimmune Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+VKTX,Viking Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+OTLK,Outlook Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+FLDM,Fluidigm Corp,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ZYXI,Zynex Inc,헬스케어 장비 및 용품,561010.0,0,3,3,3,3,0,8,8,0,0,8,8
+CTMX,CytomX Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,6,6,6,6,6,6
+FDBC,Fidelity D&D Bancorp Inc,은행,551010.0,2,3,4,4,4,3,3,3,3,3,3,3
+KMDA,Kamada Ltd,제약,562010.0,0,3,3,3,3,0,8,8,8,8,8,8
+EPZM,Epizyme Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,4,4,4,4,4,4,6
+CGEN,Compugen Ltd,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,0,8,8,8,8,8,8
+MEIP,MEI Pharma Inc,제약,562010.0,2,3,4,4,2,3,3,3,3,3,3,3
+SELB,Selecta Biosciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+PIRS,Pieris Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,2,2,6,6,6,6,6,6,6
+VSTM,Verastem Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,2,2,6,6,6,6,6,12,12
+CLVS,Clovis Oncology Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+CLLS,Cellectis SA ADR,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+HBIO,Harvard Bioscience Inc,헬스케어 장비 및 용품,561010.0,0,0,0,0,6,7,7,7,7,2,2,2
+ALDX,Aldeyra Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,3,4,2,2,7,0,0,10,7,7,7
+TRHC,Tabula Rasa HealthCare Inc,헬스케어 장비 및 용품,561010.0,2,3,4,4,4,3,3,3,3,3,3,3
+ESPR,Esperion Therapeutics Inc,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,6
+RCEL,AVITA Medical Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,3,3,8,8,8,8,8,8
+CTXR,Citius Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+HROW,Harrow Health Inc,제약,562010.0,0,0,0,0,6,2,2,2,2,2,2,2
+ATHX,Athersys Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,1,1,1,8,3,8,8
+OVID,Ovid Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+ALPN,Alpine Immune Sciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+KMPH,KemPharm Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+OPTN,OptiNose Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+SMMT,Summit Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,13
+AXDX,Accelerate Diagnostics Inc,헬스케어 장비 및 용품,561010.0,1,2,2,5,5,5,5,5,5,5,5,5
+CODX,Co-Diagnostics Inc,헬스케어 장비 및 용품,561010.0,0,0,3,3,0,0,8,8,8,10,8,8
+CUE,Cue Biopharma Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,8,1,8,8
+IMMP,Immutep Ltd ADR,생명과학 및 메디컬 리서치,562020.0,1,0,1,1,0,7,7,7,7,11,11,11
+LPTX,Leap Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+FBIO,Fortress Biotech Inc,제약,562010.0,1,1,1,1,1,5,5,5,5,11,11,13
+PDSB,PDS Biotechnology Corp,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+PRTK,Paratek Pharmaceuticals Inc,제약,562010.0,1,1,1,5,5,5,5,5,5,5,5,5
+TCRT,Alaunos Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+SIEN,Sientra Inc,헬스케어 장비 및 용품,561010.0,2,2,2,5,5,6,6,6,6,6,12,12
+CKPT,Checkpoint Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+NMTR,9 Meters Biopharma Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ATOS,Atossa Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+NRXP,NRX Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,3,0,0,0,0,10,10,10,10
+AGLE,Aeglea Bio Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,3,4,4,4,3,3,3,3,3,3,3
+PAVM,PAVmed Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+PLXP,PLx Pharma Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+DBVT,DBV Technologies SA ADR,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+MTEM,Molecular Templates Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+EIGR,Eiger BioPharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+CRMD,CorMedix Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+LRMR,Larimar Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,0,1,1,1,10,1,1,10
+IFRX,InflaRx NV,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,6,6,6,6,12,12
+DRIO,DarioHealth Corp,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,0,0,0,0,10,10,10
+ADVM,Adverum Biotechnologies Inc,생명과학 및 메디컬 리서치,562020.0,1,3,1,1,1,1,1,1,8,8,8,8
+SESN,Sesen Bio Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+CRDF,Cardiff Oncology Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+AWH,Aspira Women's Health Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,0,0,0,0,0,10,10,10,10
+VYGR,Voyager Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+GALT,Galectin Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,3,3,3,12,12
+NLTX,Neoleukin Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,5,1,5,1,5,13
+CFRX,ContraFect Corp,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+SLDB,Solid Biosciences Inc,생명과학 및 메디컬 리서치,562020.0,1,2,2,5,5,5,5,5,5,5,5,5
+HGEN,Humanigen Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+MNOV,MediciNova Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,4,4,4,4,4
+BTX,Brooklyn Immunotherapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+LJPC,La Jolla Pharmaceutical Co,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+SEEL,Seelos Therapeutics Inc,제약,562010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SPPI,Spectrum Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,6,6,6,6,6,6
+VIRX,Viracta Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+CNCE,Concert Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,6,6,6,6,6,6
+ZYNE,Zynerba Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+IMV,IMV Inc,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,4,4,4,4,4,12,12
+TXMD,TherapeuticsMD Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+INFI,Infinity Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+TNXP,Tonix Pharmaceuticals Holding Corp,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+CLSD,Clearside Biomedical Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+PRQR,ProQR Therapeutics NV,생명과학 및 메디컬 리서치,562020.0,2,2,4,4,4,3,3,3,3,7,7,7
+SYRS,Syros Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+ATNX,Athenex Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,6
+MBIO,Mustang Bio Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+CRVS,Corvus Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+PBYI,Puma Biotechnology Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+ADMP,Adamis Pharmaceuticals Corp,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+PDEX,Pro-Dex Inc,헬스케어 장비 및 용품,561010.0,0,0,3,3,3,0,8,9,0,0,0,0
+ARDX,Ardelyx Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ASMB,Assembly Biosciences Inc,제약,562010.0,2,2,2,5,5,6,6,6,6,6,6,6
+TTOO,T2 Biosystems Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SRGA,Surgalign Holdings Inc,헬스케어 장비 및 용품,561010.0,2,2,2,5,5,4,4,4,4,4,4,6
+TYME,Tyme Technologies Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+OTRK,Ontrak Inc,헬스케어 업체 및 서비스,561020.0,0,3,3,3,3,0,8,8,8,8,8,8
+GLYC,GlycoMimetics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,6,6,6,6,6,6
+NEPT,Neptune Wellness Solutions Inc,제약,562010.0,2,2,4,4,4,4,4,4,4,4,4,4
+CRBP,Corbus Pharmaceuticals Holdings Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,6
+KALA,Kala Pharmaceuticals Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+TOPS,Top Ships Inc,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+CALA,Calithera Biosciences Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5
+JAGX,Jaguar Health Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+SOFO,Sonic Foundry Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ABEO,Abeona Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,6,6,6,6,6,6
+FBRX,Forte Biosciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+ACOR,Acorda Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+ENVB,Enveric Biosciences Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,5,5,5,5,5,5,5,5,5
+SENS,Senseonics Holdings Inc,헬스케어 장비 및 용품,561010.0,1,2,2,2,2,7,7,7,7,7,7,7
+NHC,National Healthcare Corp,헬스케어 업체 및 서비스,561020.0,2,3,4,4,4,3,3,3,3,3,3,3
+ZOM,Zomedica Corp,생명과학 및 메디컬 리서치,562020.0,1,1,2,5,5,5,5,5,5,5,5,5
+LCTX,Lineage Cell Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,1,1,13
+CVM,CEL-SCI Corp,제약,562010.0,0,3,3,3,0,0,8,8,8,10,8,8
+ASXC,Asensus Surgical Inc,헬스케어 장비 및 용품,561010.0,2,2,2,5,5,6,6,6,6,6,12,12
+MTNB,Matinas BioPharma Holdings Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,5,5,5,5,5,5,5
+AMPE,Ampio Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,1,1,1,1,1,1,1
+YCBD,cbdMD Inc,제약,562010.0,1,1,2,5,5,5,5,5,5,5,5,5

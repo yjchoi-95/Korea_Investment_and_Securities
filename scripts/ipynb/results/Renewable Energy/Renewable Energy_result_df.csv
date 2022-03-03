@@ -1,0 +1,114 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+JNJ,Johnson & Johnson,제약,562010.0,0,0,0,5,5,4,4,4,4,11,11,11
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,0,3,0,0,0,0,8,8,8,8,8,8
+GE,General Electric Co,복합 기업,544010.0,1,1,1,1,1,3,3,3,3,3,3,3
+ENB,Enbridge Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,7,7,7,7,7,7,13
+DUK,Duke Energy Corp,전기 유틸리티,591010.0,0,0,0,5,5,4,4,4,4,11,11,11
+D,Dominion Energy Inc,전기 유틸리티,591010.0,2,2,2,2,2,4,4,4,10,10,10,10
+ETN,Eaton Corporation PLC,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+STT,State Street Corp,투자은행 및 서비스,551020.0,1,3,3,3,6,5,5,9,9,9,9,9
+APTV,Aptiv PLC,자동차 및 자동차 부품,531010.0,0,0,0,0,0,0,8,8,8,8,8,8
+MPLX,MPLX Common Units,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,7,7,7,7,7,7,7
+PEG,Public Service Enterprise Group Inc,복합 유틸리티,591040.0,0,0,0,5,5,4,4,4,4,11,11,11
+CMI,Cummins Inc,자동차 및 자동차 부품,531010.0,0,0,0,5,5,0,0,0,0,0,0,0
+ED,Consolidated Edison Inc,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+ALB,Albemarle Corp,화학,511010.0,0,3,0,0,3,0,8,8,8,8,8,8
+GNRC,Generac Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+AGR,Avangrid Inc,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,11,11,11
+XYL,Xylem Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,5,0,0,0,0,0,11,11,11
+AES,AES Corp,전기 유틸리티,591010.0,0,0,0,5,5,0,0,0,0,0,0,0
+PWR,Quanta Services Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,0,8,8,8,8,8,8
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010.0,2,2,2,2,6,3,3,3,3,3,3,3
+WOLF,Wolfspeed Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,0,0,0,0,0,0
+DAR,Darling Ingredients Inc,식품 및 담배,541020.0,0,0,0,0,0,0,0,0,0,0,0,0
+HUBB,Hubbell Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+AQN,Algonquin Power & Utilities Corp,복합 유틸리티,591040.0,0,0,0,5,5,4,4,4,4,11,11,11
+BEP,Brookfield Renewable Partners Non Voting Units,전기 유틸리티,591010.0,0,0,0,4,4,6,0,0,0,0,0,0
+SQM,Sociedad Quimica y Minera de Chile SA ADR,화학,511010.0,0,3,3,3,6,5,5,5,5,5,5,5
+ST,Sensata Technologies Holding PLC,전자 장비 및 부품,571040.0,0,3,3,3,3,5,8,8,8,8,8,8
+EBR,Centrais Eletricas Brasileiras SA ADR,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+EBR,Centrais Eletricas Brasileiras SA ADR,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+HUN,Huntsman Corp,화학,511010.0,0,3,3,3,6,5,5,9,9,9,9,9
+AYI,Acuity Brands Inc,주택건설,532030.0,1,1,1,1,1,7,7,7,7,7,7,13
+LPL,LG Display Co Ltd ADR,전자 장비 및 부품,571040.0,1,1,1,1,1,3,3,3,3,3,3,3
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050.0,0,3,3,3,6,5,5,9,9,9,9,9
+EVA,Enviva Inc,종이 및 임산물,513010.0,0,0,0,0,0,0,0,0,0,0,0,0
+VMI,Valmont Industries Inc,건설 및 엔지니어링,522010.0,0,3,0,0,3,0,8,8,8,8,8,8
+HXL,Hexcel Corp,우주항공 및 국방,521010.0,2,2,2,2,2,2,2,2,2,2,2,2
+GTLS,Chart Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+CWEN,Clearway Energy Inc Class C,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+CWEN,Clearway Energy Inc Class A,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+NJR,New Jersey Resources Corp,천연가스 유틸리티,591020.0,2,2,2,2,2,2,2,2,2,2,2,2
+ORA,Ormat Technologies Inc,전기 유틸리티,591010.0,0,0,0,5,5,4,4,4,4,4,4,4
+LAC,Lithium Americas Corp,메탈&마이닝,512010.0,0,3,0,0,0,0,8,8,8,8,8,8
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,0,0,0,0,0
+ALE,ALLETE Inc,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+MCY,Mercury General Corp,보험,553010.0,1,1,1,1,1,7,7,7,7,7,12,12
+ENS,EnerSys,"건설장비 및 대형차, 기차, 배",521020.0,0,3,3,3,3,5,5,5,5,5,5,5
+DQ,Daqo New Energy Corp ADR,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+TAC,TransAlta Corp,전기 유틸리티,591010.0,0,0,0,0,0,0,8,8,8,8,8,8
+CIG,Companhia Energetica de Minas Gerais CEMIG ADR,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+CIG,Companhia Energetica de Minas Gerais CEMIG ADR,전기 유틸리티,591010.0,2,2,2,2,2,2,2,2,2,2,2,2
+AMRC,Ameresco Inc Class A,재생에너지,502010.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENIC,Enel Chile SA ADR,전기 유틸리티,591010.0,2,1,1,1,1,3,3,3,3,3,3,3
+FSS,Federal Signal Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,5,5,4,0,0,4,11,11,11
+JKS,JinkoSolar Holding Co Ltd ADR,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+ELP,Companhia Paranaense de Energia ADR,전기 유틸리티,591010.0,0,0,0,5,5,4,4,4,10,10,10,10
+ESE,ESCO Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,5,5,4,4,4,4,11,11,11
+VVNT,Vivint Smart Home Inc Class A,커뮤니케이션 및 네트워킹,571020.0,0,0,4,4,4,6,6,6,6,6,6,6
+CAAP,Corporacion America Airports SA,운송 인프라,524070.0,1,1,1,1,1,3,3,3,3,3,3,3
+AZRE,Azure Power Global Ltd,전기 유틸리티,591010.0,0,0,4,4,4,6,6,6,6,6,6,6
+HY,Hyster-Yale Materials Handling Inc Class A,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,6,5,5,5,5,5,5,5
+SOL,ReneSola Ltd ADR,건설 및 엔지니어링,522010.0,0,0,4,4,4,6,6,6,6,6,6,6
+TSLA,Tesla Inc,자동차 및 자동차 부품,531010.0,0,0,0,0,0,0,0,0,0,0,0,0
+AMAT,Applied Materials Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,8,8,8,8,8,8
+ADI,Analog Devices Inc,반도체 및 반도체 장비,571010.0,0,0,0,5,0,0,0,0,0,0,0,0
+CSX,CSX Corp,화물 및 물류 서비스,524050.0,0,0,0,5,5,4,4,4,4,11,11,11
+NXPI,NXP Semiconductors NV,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,8,8,8,8,8,8
+EXC,Exelon Corp,전기 유틸리티,591010.0,0,2,0,5,2,2,2,2,2,11,11,11
+ON,ON Semiconductor Corp,반도체 및 반도체 장비,571010.0,0,3,0,0,0,0,8,8,8,8,8,8
+ENPH,Enphase Energy Inc,재생에너지,502010.0,0,0,0,0,0,0,0,0,0,0,0,0
+TRMB,Trimble Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNT,Alliant Energy Corp,전기 유틸리티,591010.0,0,0,0,5,5,4,4,4,4,11,11,11
+PLUG,Plug Power Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+FSLR,First Solar Inc,재생에너지,502010.0,0,0,0,0,0,0,0,0,0,0,0,0
+WWD,Woodward Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,5,5,4,4,4,4,11,11,11
+OLED,Universal Display Corp,반도체 및 반도체 장비,571010.0,0,0,0,5,5,4,4,4,4,11,11,11
+POWI,Power Integrations Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,0,0,0,0,0,0
+RUN,Sunrun Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+VICR,Vicor Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+AY,Atlantica Sustainable Infrastructure PLC,전기 유틸리티,591010.0,0,0,0,0,0,0,0,0,0,0,0,0
+AEIS,Advanced Energy Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,5,5,4,4,4,4,4,4,4
+THRM,Gentherm Inc,자동차 및 자동차 부품,531010.0,0,0,0,0,0,0,8,8,8,8,8,8
+SPWR,SunPower Corp,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+BLDP,Ballard Power Systems Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+ITRI,Itron Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,5,5,4,4,4,4,4,4,4
+SMCI,Super Micro Computer Inc,"컴퓨터, 전화 및 가전제품",571060.0,0,3,0,0,3,0,8,8,8,8,8,8
+REGI,Renewable Energy Group Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+CENX,Century Aluminum Co,메탈&마이닝,512010.0,1,3,3,3,6,5,5,9,9,9,9,9
+CSIQ,Canadian Solar Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+GPRE,Green Plains Inc,재생에너지,502010.0,1,3,3,3,3,0,8,8,8,8,8,8
+MYRG,MYR Group Inc,건설 및 엔지니어링,522010.0,0,3,0,0,0,0,8,8,8,8,8,8
+SGH,SMART Global Holdings Inc.,반도체 및 반도체 장비,571010.0,0,3,0,0,0,0,8,8,8,8,8,8
+BLNK,Blink Charging Co,전기 유틸리티,591010.0,0,0,4,4,3,6,6,6,6,6,6,6
+PLL,Piedmont Lithium Inc,화학,511010.0,0,3,0,0,3,0,8,8,8,8,8,8
+GEVO,Gevo Inc,재생에너지,502010.0,1,1,1,1,1,7,7,7,7,7,7,7
+VERI,Veritone Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,5,1,5,5,5,5,5
+WKHS,Workhorse Group Inc,자동차 및 자동차 부품,531010.0,0,0,4,4,4,6,6,6,6,6,6,6
+IEA,Infrastructure and Energy Alternatives Inc,건설 및 엔지니어링,522010.0,1,3,3,3,3,1,1,1,1,1,1,1
+ABST,Absolute Software Corp,소프트웨어 및 IT서비스,572010.0,0,0,4,4,4,6,6,6,6,6,6,6
+TPIC,TPI Composites Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+AMTX,Aemetis Inc,재생에너지,502010.0,0,3,0,0,3,0,8,8,8,8,8,8
+FDBC,Fidelity D&D Bancorp Inc,은행,551010.0,2,2,2,2,2,2,2,2,2,11,11,11
+KNDI,Kandi Technologies Group Inc,자동차 및 자동차 부품,531010.0,1,1,1,1,1,7,7,7,7,7,7,7
+MRBK,Meridian Corp,은행,551010.0,0,3,0,0,3,0,8,8,8,8,8,8
+AMSC,American Superconductor Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,4,4,4,6,6,6,6,6,6,6
+FUV,Arcimoto Inc,자동차 및 자동차 부품,531010.0,0,0,4,4,4,6,6,6,6,6,6,6
+LYTS,LSI Industries Inc,주택건설,532030.0,1,1,1,1,1,1,1,1,1,1,1,1
+BEEM,Beam Global,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,6,6,6
+CBAT,CBAK Energy Technology Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,4,4,4,6,6,6,6,6,6,6
+SND,Smart Sand Inc,건축 자재,512020.0,1,1,1,1,1,3,3,3,3,3,3,3
+SPI,SPI Energy Co Ltd,재생에너지,502010.0,1,1,1,1,1,7,7,7,7,7,7,7
+SUNW,Sunworks Inc,재생에너지,502010.0,1,1,1,1,1,7,7,7,7,7,7,7
+GIGM,Giga Media Ltd,소프트웨어 및 IT서비스,572010.0,2,2,2,2,6,5,5,5,5,5,5,5
+OPTT,Ocean Power Technologies Inc,재생에너지,502010.0,1,1,1,1,1,7,7,7,7,7,7,7

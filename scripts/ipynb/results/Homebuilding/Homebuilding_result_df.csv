@@ -1,0 +1,112 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+JPM,JPMorgan Chase & Co,은행,551010.0,0,3,4,4,4,3,3,3,3,3,3,3
+BAC,Bank of America Corp,은행,551010.0,1,3,3,3,3,3,3,3,3,3,3,3
+WMT,Walmart Inc,식품 및 약품소매,543010.0,0,0,4,4,4,7,7,7,7,7,7,7
+HD,Home Depot Inc,전문품 상점,534030.0,0,0,4,4,4,7,7,7,7,7,7,7
+WFC,Wells Fargo & Co,은행,551010.0,2,2,2,2,6,5,5,5,5,5,5,13
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,0,0,0,0,0,0,0,0,0,0,0,0
+LOW,Lowe's Companies Inc,전문품 상점,534030.0,0,0,4,0,0,0,0,0,0,0,0,0
+TGT,Target Corp,다양한 소매업,534020.0,0,0,4,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,은행,551010.0,1,1,1,3,1,3,3,3,3,3,3,3
+TFC,Truist Financial Corp,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SHW,Sherwin-Williams Co,화학,511010.0,0,0,4,4,4,7,7,7,7,7,7,7
+PSA,Public Storage,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+PGR,Progressive Corp,보험,553010.0,0,0,4,4,4,7,7,7,7,7,7,7
+JCI,Johnson Controls International PLC,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+TRV,Travelers Companies Inc,보험,553010.0,1,1,1,1,1,3,3,3,3,3,3,3
+STT,State Street Corp,투자은행 및 서비스,551020.0,2,2,2,2,2,2,2,2,2,2,2,2
+PPG,PPG Industries Inc,화학,511010.0,0,0,0,0,0,0,0,0,0,0,0,0
+TT,Trane Technologies PLC,"건설장비 및 대형차, 기차, 배",521020.0,0,0,4,0,0,0,0,0,0,0,0,0
+ALL,Allstate Corp,보험,553010.0,0,3,4,4,4,3,3,3,3,3,3,3
+WELL,Welltower Inc,주택 및 상업용 리츠,601020.0,1,1,3,1,3,1,8,8,8,8,8,8
+EQR,Equity Residential,주택 및 상업용 리츠,601020.0,1,3,3,3,3,4,8,8,8,8,8,8
+WY,Weyerhaeuser Co,주택 및 상업용 리츠,601020.0,2,2,2,5,5,2,2,2,2,2,2,2
+FRC,First Republic Bank,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+EXR,Extra Space Storage Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,0,4,4,4,4,4,4,4
+MAA,Mid-America Apartment Communities Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+INVH,Invitation Homes Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,0,4,4,4,4,4,4,4
+LEN,Lennar Corp Class A,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+LEN,Lennar Corp Class B,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+MTB,M&T Bank Corp,은행,551010.0,2,2,1,1,1,1,1,1,1,1,1,1
+CFG,Citizens Financial Group Inc,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SUI,Sun Communities Inc,주택 및 상업용 리츠,601020.0,0,3,4,4,4,7,7,7,7,7,7,7
+ESS,Essex Property Trust Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,4,8,8,8,8,8,8
+VTR,Ventas Inc,주택 및 상업용 리츠,601020.0,2,2,2,2,6,5,5,5,5,5,5,5
+UDR,UDR Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,4,8,8,8,8,8,8
+NVR,NVR Inc,주택건설,532030.0,0,0,4,4,4,7,7,7,7,7,7,7
+CPT,Camden Property Trust,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+W,Wayfair Inc Class A,다양한 소매업,534020.0,0,0,4,4,4,7,7,7,7,7,7,7
+ELS,Equity LifeStyle Properties Inc,주택 및 상업용 리츠,601020.0,0,3,4,4,4,7,7,7,7,7,7,7
+AMH,American Homes 4 Rent Class A,주택 및 상업용 리츠,601020.0,0,0,4,0,0,0,4,4,4,4,4,4
+MAS,Masco Corp,주택건설,532030.0,0,0,4,4,4,7,7,7,7,7,7,7
+FNF,Fidelity National Financial Inc,보험,553010.0,1,3,3,3,3,3,3,3,3,3,3,3
+BLDR,Builders FirstSource Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+FBHS,Fortune Brands Home & Security Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+CSL,Carlisle Companies Inc,주택건설,532030.0,0,3,3,3,3,4,4,4,4,4,4,4
+WHR,Whirlpool Corp,가정용품,532040.0,0,0,0,5,5,6,6,9,9,9,9,9
+FND,Floor & Decor Holdings Inc Class A,전문품 상점,534030.0,0,0,0,0,0,0,0,0,0,0,0,0
+WSM,Williams-Sonoma Inc,전문품 상점,534030.0,0,0,0,0,0,0,0,0,0,0,0,0
+CUBE,CubeSmart,주택 및 상업용 리츠,601020.0,0,3,3,3,0,4,4,4,4,4,4,4
+NLY,Annaly Capital Management Inc,주택 및 상업용 리츠,601020.0,2,2,2,2,6,5,5,5,5,5,5,5
+ALLE,Allegion PLC,커뮤니케이션 및 네트워킹,571020.0,0,3,4,4,4,7,7,7,7,7,7,7
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010.0,0,0,4,4,4,7,7,7,7,7,7,7
+TREX,Trex Company Inc,주택건설,532030.0,0,0,4,0,0,7,7,7,7,7,7,7
+MHK,Mohawk Industries Inc,가정용품,532040.0,2,2,2,2,2,2,2,2,2,2,2,2
+LII,Lennox International Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,4,4,4,7,7,7,7,7,7,7
+OC,Owens Corning,주택건설,532030.0,0,0,0,5,5,6,6,6,6,6,6,6
+RH,RH,전문품 상점,534030.0,0,0,4,0,0,0,0,0,0,0,0,0
+WSO,Watsco Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+WSO,Watsco Inc Class B,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+ORI,Old Republic International Corp,보험,553010.0,1,1,1,1,1,1,1,1,1,1,1,1
+TPX,Tempur Sealy International Inc,가정용품,532040.0,0,0,0,0,0,0,0,0,0,0,0,0
+FAF,First American Financial Corp,보험,553010.0,1,3,3,3,3,3,3,3,3,3,3,3
+BLD,TopBuild Corp,건설 및 엔지니어링,522010.0,0,0,4,0,0,0,0,0,0,0,0,0
+ACC,American Campus Communities Inc,주택 및 상업용 리츠,601020.0,1,1,1,1,3,1,8,8,8,8,8,8
+TOL,Toll Brothers Inc,주택건설,532030.0,0,0,0,5,5,6,6,6,6,6,6,6
+LPX,Louisiana-Pacific Corp,종이 및 임산물,513010.0,0,0,0,0,0,0,0,0,0,0,0,0
+EXP,Eagle Materials Inc,건축 자재,512020.0,1,1,0,5,5,6,6,6,6,6,6,6
+MTG,MGIC Investment Corp,보험,553010.0,1,1,1,1,1,1,1,1,1,1,1,1
+LEG,Leggett & Platt Inc,가정용품,532040.0,2,2,2,2,2,2,2,2,2,2,2,2
+SSD,Simpson Manufacturing Co Inc,주택건설,532030.0,0,0,4,4,4,7,7,7,7,7,7,7
+NRZ,New Residential Investment Corp,주택 및 상업용 리츠,601020.0,2,2,2,2,6,5,5,5,5,5,5,13
+AWI,Armstrong World Industries Inc,주택건설,532030.0,0,3,3,4,4,4,7,7,7,7,7,7
+RDN,Radian Group Inc,보험,553010.0,1,1,1,1,1,1,1,1,1,1,3,3
+SKY,Skyline Champion Corp,주택건설,532030.0,0,3,3,3,0,4,4,4,4,4,4,4
+TMHC,Taylor Morrison Home Corp,주택건설,532030.0,0,0,0,5,5,6,6,6,6,6,6,6
+MTH,Meritage Homes Corp,주택건설,532030.0,0,0,4,0,0,7,7,7,7,7,7,7
+KBH,KB Home,주택건설,532030.0,0,0,4,4,4,7,7,7,7,7,7,7
+CIM,Chimera Investment Corp,주택 및 상업용 리츠,601020.0,2,2,2,2,6,5,5,5,5,5,5,13
+IBP,Installed Building Products Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,0,0,0,0,0,0,0
+IRT,Independence Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+TPH,Tri Pointe Homes Inc (Delaware),주택건설,532030.0,0,0,0,0,0,0,0,6,6,6,6,6
+DOOR,Masonite International Corp,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+JELD,JELD-WEN Holding Inc,주택건설,532030.0,2,2,2,2,2,2,2,2,2,2,2,2
+CCS,Century Communities Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+RLGY,Realogy Holdings Corp,부동산 운영 관리,601010.0,2,2,2,2,2,2,2,2,2,2,2,5
+NXRT,NexPoint Residential Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,4,4,4,4,4,4,4
+TWO,Two Harbors Investment Corp,주택 및 상업용 리츠,601020.0,2,2,2,2,6,5,5,5,5,5,5,5
+LZB,La-Z-Boy Inc,가정용품,532040.0,0,0,0,4,4,6,6,6,6,6,12,12
+MHO,M/I Homes Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+GRBK,Green Brick Partners Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+PGTI,PGT Innovations Inc,주택건설,532030.0,0,0,4,4,4,3,3,3,3,3,12,12
+NX,Quanex Building Products Corp,주택건설,532030.0,1,1,0,5,5,6,6,9,9,9,9,9
+ETD,Ethan Allen Interiors Inc,가정용품,532040.0,2,2,2,2,2,2,2,2,2,2,2,2
+BZH,Beazer Homes USA Inc,주택건설,532030.0,1,1,0,5,5,6,6,6,6,6,6,6
+LL,LL Flooring Holdings Inc,전문품 상점,534030.0,2,2,2,2,2,2,2,2,2,2,2,2
+AMZN,Amazon.com Inc,다양한 소매업,534020.0,0,0,4,4,4,7,7,7,7,7,7,7
+COST,Costco Wholesale Corp,다양한 소매업,534020.0,0,3,4,4,4,7,7,7,7,7,7,7
+CSGP,CoStar Group Inc,소프트웨어 및 IT서비스,572010.0,0,0,4,4,4,7,7,7,7,7,7,7
+HBAN,Huntington Bancshares Inc,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+MIDD,Middleby Corp,가정용품,532040.0,1,1,1,5,5,6,6,6,6,6,6,6
+Z,Zillow Group Inc Class C,부동산 운영 관리,601010.0,0,0,0,0,4,0,0,0,0,0,0,0
+AGNC,AGNC Investment Corp,주택 및 상업용 리츠,601020.0,2,2,2,2,6,5,5,5,5,5,5,5
+FSLR,First Solar Inc,재생에너지,502010.0,0,0,0,0,0,0,0,0,0,0,0,0
+BECN,Beacon Roofing Supply Inc,주택건설,532030.0,2,2,2,5,5,2,2,2,2,2,2,2
+RDFN,Redfin Corp,부동산 운영 관리,601010.0,0,0,0,0,0,0,0,0,0,0,0,0
+LGIH,LGI Homes Inc,주택건설,532030.0,0,0,4,4,4,7,7,7,7,7,7,7
+MLKN,MillerKnoll Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,1,1,1,1,1,1,1
+CVCO,Cavco Industries Inc,주택건설,532030.0,0,3,4,4,4,3,3,3,3,3,7,7
+IRBT,iRobot Corp,전자 장비 및 부품,571040.0,1,1,1,1,1,1,1,1,10,10,10,10
+SNBR,Sleep Number Corp,가정용품,532040.0,0,0,0,0,0,0,0,0,0,0,0,0
+AMWD,American Woodmark Corp,주택건설,532030.0,2,2,2,2,2,2,2,2,2,11,11,11
+UFPT,UFP Technologies Inc,헬스케어 장비 및 용품,561010.0,0,3,4,4,4,7,4,4,4,4,4,4

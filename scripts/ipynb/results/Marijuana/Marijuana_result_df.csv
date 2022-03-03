@@ -1,0 +1,35 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+PM,Philip Morris International Inc,식품 및 담배,541020.0,1,1,1,1,1,7,7,9,9,9,9,9
+BTI,British American Tobacco PLC ADR,식품 및 담배,541020.0,1,1,1,1,1,1,1,9,9,9,9,9
+MO,Altria Group Inc,식품 및 담배,541020.0,1,1,1,1,1,1,1,9,9,9,9,9
+STZ,Constellation Brands Inc Class A,음료,541010.0,2,2,3,3,6,5,5,5,5,5,5,5
+STZ,Constellation Brands Inc Class B,음료,541010.0,2,2,3,3,6,5,5,5,5,5,5,5
+PKI,PerkinElmer Inc,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,2,2,2,2,2,2,2
+WAT,Waters Corp,헬스케어 장비 및 용품,561010.0,2,2,2,2,2,2,2,2,2,2,2,2
+SMG,Scotts Miracle-Gro Co,화학,511010.0,2,2,2,2,2,2,8,8,8,8,8,8
+IIPR,Innovative Industrial Properties Inc,주택 및 상업용 리츠,601020.0,2,2,2,2,2,2,2,2,2,2,2,2
+VGR,Vector Group Ltd,식품 및 담배,541020.0,1,1,1,1,1,1,1,1,1,1,1,1
+UVV,Universal Corp,식품 및 담배,541020.0,1,1,1,1,1,7,7,9,9,9,12,12
+SWM,Schweitzer-Mauduit International Inc,종이 및 임산물,513010.0,1,0,0,0,0,0,0,0,0,0,0,0
+TPB,Turning Point Brands Inc,식품 및 담배,541020.0,2,2,3,3,3,2,2,2,2,2,2,2
+TTI,Tetra Technologies Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+JAZZ,Jazz Pharmaceuticals PLC,제약,562010.0,1,0,0,0,0,0,0,0,0,0,0,0
+FSLR,First Solar Inc,재생에너지,502010.0,2,2,2,2,2,2,2,2,2,2,2,2
+ARNA,Arena Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,2,3,2,2,2,2,2,2,2
+CGC,Canopy Growth Corp,제약,562010.0,0,3,3,5,5,4,4,4,4,4,4,4
+CRON,Cronos Group Inc,제약,562010.0,0,3,4,5,5,4,4,4,4,4,4,4
+AMRS,Amyris Inc,화학,511010.0,1,0,0,0,0,0,0,0,0,11,11,11
+ACB,Aurora Cannabis Inc,제약,562010.0,0,3,4,4,4,3,3,3,3,3,3,3
+CARA,Cara Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,3,3,5,5,4,4,4,4,4,4,13
+GRWG,GrowGeneration Corp,전문품 상점,534030.0,2,2,2,2,2,2,8,8,8,8,8,8
+XXII,22nd Century Group Inc,식품 및 담배,541020.0,2,2,3,3,6,5,5,5,5,5,5,5
+XXII,22nd Century Group Inc,전문 및 상업 서비스,522030.0,2,2,3,3,6,5,5,5,5,5,5,5
+MYMD,MyMD Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,7,7,7,7,7,7,7
+ZYNE,Zynerba Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,1,1,1,1,7,7,7,7,7,7,7
+NEPT,Neptune Wellness Solutions Inc,제약,562010.0,0,3,4,5,5,4,4,4,4,4,4,4
+CRBP,Corbus Pharmaceuticals Holdings Inc,생명과학 및 메디컬 리서치,562020.0,1,1,4,4,4,6,6,6,6,6,6,6
+KERN,Akerna Corp,소프트웨어 및 IT서비스,572010.0,1,1,4,4,4,6,6,6,6,6,6,6
+NVFY,Nova LifeStyle Inc,가정용품,532040.0,1,1,1,1,1,1,1,1,1,1,1,1
+PW,Power REIT,주택 및 상업용 리츠,601020.0,2,2,2,2,2,2,2,2,2,2,2,2
+IGC,India Globalization Capital Inc,전문 및 상업 서비스,522030.0,2,3,3,3,3,4,4,4,10,10,10,10
+YCBD,cbdMD Inc,제약,562010.0,1,1,1,1,1,7,7,7,7,7,7,7

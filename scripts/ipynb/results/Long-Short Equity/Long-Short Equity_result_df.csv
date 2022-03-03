@@ -1,0 +1,62 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+V,Visa Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,3,3,3,5,5,5,5,5,1,13
+HD,Home Depot Inc,전문품 상점,534030.0,1,3,3,3,4,5,5,5,5,5,5,5
+MA,Mastercard Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,3,3,3,5,5,5,5,5,1,13
+TMO,Thermo Fisher Scientific Inc,헬스케어 장비 및 용품,561010.0,1,3,3,4,4,6,6,6,6,6,6,6
+ABT,Abbott Laboratories,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,5,5,5,5,5,5,5
+DHR,Danaher Corp,헬스케어 장비 및 용품,561010.0,0,3,4,4,4,6,6,6,6,6,6,6
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,0,0,0,0,0,0,0,0,0,0,0,0
+LOW,Lowe's Companies Inc,전문품 상점,534030.0,0,3,4,4,4,6,6,6,6,6,6,6
+GS,Goldman Sachs Group Inc,투자은행 및 서비스,551020.0,0,0,0,0,0,0,0,0,0,0,0,0
+TGT,Target Corp,다양한 소매업,534020.0,0,3,4,4,4,6,6,6,6,6,6,6
+ZTS,Zoetis Inc Class A,제약,562010.0,1,3,3,3,3,5,5,5,5,5,5,5
+SPGI,S&P Global Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,5,5,5,5,5,5,5
+SHW,Sherwin-Williams Co,화학,511010.0,1,3,3,3,4,6,6,6,6,6,5,5
+EOG,EOG Resources Inc,오일 및 가스,501020.0,2,2,2,2,2,2,8,8,8,8,8,8
+CL,Colgate-Palmolive Co,"개인, 가정 용품 및 서비스",542010.0,0,0,4,4,0,3,3,3,3,3,3,3
+MCO,Moody's Corp,전문 및 상업 서비스,522030.0,1,3,3,3,3,5,5,5,5,5,5,5
+DG,Dollar General Corp,다양한 소매업,534020.0,1,3,3,3,3,5,5,5,5,5,5,5
+APH,Amphenol Corp Class A,전자 장비 및 부품,571040.0,0,3,4,4,4,6,6,6,6,6,6,6
+MSCI,MSCI Inc,전문 및 상업 서비스,522030.0,1,3,3,4,4,6,6,6,6,6,6,6
+AFL,Aflac Inc,보험,553010.0,1,1,1,1,6,7,7,9,9,9,9,9
+BAX,Baxter International Inc,헬스케어 장비 및 용품,561010.0,1,1,1,1,1,1,1,1,1,1,1,13
+HSY,Hershey Co,식품 및 담배,541020.0,1,3,3,3,3,5,5,5,5,5,5,5
+A,Agilent Technologies Inc,헬스케어 장비 및 용품,561010.0,0,3,4,4,4,6,6,6,6,6,6,6
+HPQ,HP Inc,"컴퓨터, 전화 및 가전제품",571060.0,0,0,0,0,6,7,7,7,7,7,7,7
+PH,Parker-Hannifin Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,0,0,0,0,0,0
+DFS,Discover Financial Services,은행,551010.0,0,0,0,0,6,7,7,7,7,7,7,7
+NUE,Nucor Corp,메탈&마이닝,512010.0,0,0,0,0,6,7,7,7,10,10,10,10
+WCN,Waste Connections Inc,전문 및 상업 서비스,522030.0,1,1,1,1,1,5,5,5,5,5,1,1
+WST,West Pharmaceutical Services Inc,헬스케어 장비 및 용품,561010.0,0,3,4,4,4,6,6,6,6,6,6,6
+BBY,Best Buy Co Inc,전문품 상점,534030.0,1,1,1,3,1,1,1,1,1,1,1,13
+BRO,Brown & Brown Inc,보험,553010.0,1,3,3,3,3,5,5,5,5,5,5,5
+CE,Celanese Corp,화학,511010.0,0,0,0,0,6,7,7,7,7,7,7,7
+ALLY,Ally Financial Inc,은행,551010.0,0,0,0,0,6,7,7,7,7,7,7,7
+DPZ,Domino's Pizza Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,3,3,5,5,5,5,5,5,5
+BEN,Franklin Resources Inc,투자은행 및 서비스,551020.0,2,2,2,2,2,2,2,2,2,2,2,2
+AVY,Avery Dennison Corp,용기 및 포장,513020.0,0,0,0,0,0,0,0,0,0,0,0,0
+UI,Ubiquiti Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,4,4,4,4,4,4,4
+WSM,Williams-Sonoma Inc,전문품 상점,534030.0,0,0,4,4,0,0,0,0,0,0,0,0
+AAPL,Apple Inc,"컴퓨터, 전화 및 가전제품",571060.0,0,3,4,4,4,6,6,6,6,6,6,6
+MSFT,Microsoft Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,4,5,5,5,5,6,5,5
+AVGO,Broadcom Inc,반도체 및 반도체 장비,571010.0,0,3,4,4,4,6,6,6,6,6,6,6
+QCOM,Qualcomm Inc,반도체 및 반도체 장비,571010.0,0,3,4,4,4,6,6,6,6,6,6,6
+TXN,Texas Instruments Inc,반도체 및 반도체 장비,571010.0,1,3,3,3,3,5,5,5,5,5,5,5
+INTU,Intuit Inc,핀테크,573010.0,0,3,3,4,4,6,6,6,6,6,6,6
+AMAT,Applied Materials Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,0,0,0,0,0,0
+ADI,Analog Devices Inc,반도체 및 반도체 장비,571010.0,1,3,3,3,3,5,5,5,5,5,5,5
+LRCX,Lam Research Corp,반도체 및 반도체 장비,571010.0,0,3,4,4,4,6,6,6,6,6,6,6
+CSX,CSX Corp,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+ATVI,Activision Blizzard Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,1,1,1,1,1,12,12
+KLAC,KLA Corp,반도체 및 반도체 장비,571010.0,0,3,4,4,4,6,6,6,6,6,6,6
+ODFL,Old Dominion Freight Line Inc,화물 및 물류 서비스,524050.0,0,3,4,4,4,6,6,6,6,6,6,6
+TSCO,Tractor Supply Co,전문품 상점,534030.0,0,3,4,4,4,6,6,6,6,6,6,6
+CDW,CDW Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,5,5,5,5,5,5,5
+SWKS,Skyworks Solutions Inc,반도체 및 반도체 장비,571010.0,0,0,4,4,0,0,0,0,0,0,0,0
+MPWR,Monolithic Power Systems Inc,반도체 및 반도체 장비,571010.0,0,3,4,4,4,6,6,6,6,6,6,6
+SSNC,SS&C Technologies Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+TER,Teradyne Inc,반도체 및 반도체 장비,571010.0,0,3,4,4,4,6,6,6,6,6,6,6
+EXPD,Expeditors International of Washington Inc,화물 및 물류 서비스,524050.0,0,3,4,4,4,6,6,6,6,6,6,6
+POOL,Pool Corp,레저 상품,532050.0,0,3,4,4,4,6,6,6,6,6,6,6
+NDSN,Nordson Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,4,5,5,5,5,5,5,5
+FSLR,First Solar Inc,재생에너지,502010.0,0,0,4,4,4,6,6,6,6,11,11,11

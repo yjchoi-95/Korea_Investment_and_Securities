@@ -1,0 +1,1312 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+V,Visa Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+JPM,JPMorgan Chase & Co,은행,551010.0,1,3,3,4,6,2,2,2,2,1,1,1
+UNH,UnitedHealth Group Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,4,3,7,7,7,7,7,7,7
+JNJ,Johnson & Johnson,제약,562010.0,1,3,3,3,3,7,7,7,7,7,12,12
+BRK,Berkshire Hathaway Inc Class B,복합 기업,544010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BRK,Berkshire Hathaway Inc Class A,복합 기업,544010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BAC,Bank of America Corp,은행,551010.0,1,3,4,4,6,2,2,2,2,2,2,2
+WMT,Walmart Inc,식품 및 약품소매,543010.0,1,3,3,3,3,7,7,7,7,7,12,12
+PG,Procter & Gamble Co,"개인, 가정 용품 및 서비스",542010.0,1,3,3,3,3,7,7,7,7,7,12,12
+HD,Home Depot Inc,전문품 상점,534030.0,1,3,3,4,3,7,7,7,7,7,7,7
+MA,Mastercard Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+XOM,Exxon Mobil Corp,오일 및 가스,501020.0,2,2,0,2,2,0,0,9,0,0,9,13
+PFE,Pfizer Inc,제약,562010.0,1,3,4,4,6,2,2,2,2,1,2,2
+DIS,Walt Disney Co,미디어 및 출판,533020.0,1,3,3,4,3,7,3,3,3,7,3,3
+CVX,Chevron Corp,오일 및 가스,501020.0,0,0,1,0,0,5,5,9,9,5,5,5
+KO,Coca-Cola Co,음료,541010.0,1,3,3,3,3,7,7,1,1,1,1,1
+WFC,Wells Fargo & Co,은행,551010.0,2,0,0,2,0,0,0,9,9,9,9,9
+LLY,Eli Lilly and Co,제약,562010.0,1,3,3,4,3,7,7,7,7,3,7,7
+VZ,Verizon Communications Inc,통신 서비스,574010.0,1,3,3,3,3,1,1,1,1,10,12,12
+TMO,Thermo Fisher Scientific Inc,헬스케어 장비 및 용품,561010.0,1,3,3,4,3,7,7,7,7,7,7,7
+ABT,Abbott Laboratories,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ORCL,Oracle Corp,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,2,3,7,7
+CRM,Salesforce.Com Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+DHR,Danaher Corp,헬스케어 장비 및 용품,561010.0,1,3,3,4,3,7,7,7,7,7,7,7
+MRK,Merck & Co Inc,제약,562010.0,1,3,3,3,3,1,1,1,1,7,12,12
+NVS,Novartis AG ADR,제약,562010.0,1,3,3,3,3,1,1,1,1,7,12,12
+MCD,McDonald's Corp,호텔 및 엔터테인먼트,533010.0,1,3,3,3,3,7,7,7,7,7,12,12
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,1,3,4,4,6,2,2,2,2,3,7,7
+UPS,United Parcel Service Inc Class B,화물 및 물류 서비스,524050.0,1,3,4,4,6,2,2,7,3,3,7,7
+BHP,BHP Group Ltd ADR,메탈&마이닝,512010.0,1,3,3,3,3,7,3,3,3,7,3,3
+T,AT&T Inc,통신 서비스,574010.0,2,2,0,2,2,4,4,0,0,0,0,13
+SCHW,Charles Schwab Corp,투자은행 및 서비스,551020.0,1,1,4,4,6,2,2,2,2,2,2,2
+PM,Philip Morris International Inc,식품 및 담배,541020.0,2,2,2,5,5,6,8,8,8,8,8,8
+RY,Royal Bank of Canada,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+TD,Toronto-Dominion Bank,은행,551010.0,1,1,4,1,6,2,2,2,5,2,2,2
+TTE,TotalEnergies SE ADR,오일 및 가스,501020.0,0,0,0,0,0,0,0,9,9,5,9,0
+LOW,Lowe's Companies Inc,전문품 상점,534030.0,1,3,3,4,6,7,7,7,7,3,7,7
+UNP,Union Pacific Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,7,7,12,12
+LIN,Linde PLC,화학,511010.0,1,3,3,4,3,7,7,7,7,7,7,7
+BX,Blackstone Inc,투자은행 및 서비스,551020.0,1,3,4,4,6,7,7,7,2,3,7,7
+BMY,Bristol-Myers Squibb Co,제약,562010.0,1,1,4,5,5,3,6,6,6,11,11,11
+AXP,American Express Co,은행,551010.0,1,3,3,4,6,7,2,7,2,1,7,7
+RTX,Raytheon Technologies Corp,우주항공 및 국방,521010.0,0,0,1,1,1,5,5,5,5,5,5,1
+MDT,Medtronic PLC,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,7,7,7,7,7,12,12
+CVS,CVS Health Corp,헬스케어 업체 및 서비스,561020.0,2,1,2,5,5,6,6,6,6,6,6,6
+UL,Unilever PLC ADR,"개인, 가정 용품 및 서비스",542010.0,1,3,3,3,1,1,1,1,10,10,1,10
+C,Citigroup Inc,은행,551010.0,0,0,1,0,0,5,5,5,5,5,5,5
+BA,Boeing Co,우주항공 및 국방,521010.0,0,0,1,0,0,5,5,5,10,10,10,10
+GS,Goldman Sachs Group Inc,투자은행 및 서비스,551020.0,1,1,4,4,6,2,2,2,2,2,2,2
+DE,Deere & Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,7,7,7,3,3,7,7
+IBM,International Business Machines Corp,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,4,4,0,0,0,0,13
+BLK,BlackRock Inc,투자은행 및 서비스,551020.0,1,3,4,4,6,7,7,7,3,3,7,7
+DEO,Diageo PLC ADR,음료,541010.0,1,3,3,3,6,7,7,7,1,1,1,1
+GSK,GlaxoSmithKline PLC ADR,제약,562010.0,0,0,2,5,5,1,6,6,4,11,11,4
+CAT,Caterpillar Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,2,3,3,3,3,3,3
+ANTM,Anthem Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,7,7,7,7,1,7,7
+BP,BP PLC ADR,오일 및 가스,501020.0,2,0,0,0,0,0,0,9,9,9,9,0
+PLD,Prologis Inc,주택 및 상업용 리츠,601020.0,1,3,3,4,3,7,7,7,7,7,7,7
+LMT,Lockheed Martin Corp,우주항공 및 국방,521010.0,1,3,3,3,3,1,1,1,1,1,12,12
+AMT,American Tower Corp,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+EL,Estee Lauder Companies Inc Class A,"개인, 가정 용품 및 서비스",542010.0,1,3,3,4,3,7,7,7,7,7,7,7
+GE,General Electric Co,복합 기업,544010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BTI,British American Tobacco PLC ADR,식품 및 담배,541020.0,2,2,2,2,2,4,4,0,0,0,0,13
+EQNR,Equinor ASA ADR,오일 및 가스,501020.0,0,1,1,1,4,5,5,5,5,5,5,5
+TGT,Target Corp,다양한 소매업,534020.0,1,3,4,4,6,7,7,7,3,3,7,7
+RIO,Rio Tinto PLC ADR,메탈&마이닝,512010.0,1,3,3,3,3,7,3,3,3,7,3,3
+SYK,Stryker Corp,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ZTS,Zoetis Inc Class A,제약,562010.0,1,3,3,3,3,7,7,7,7,7,12,12
+SPGI,S&P Global Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,7,7,7,7,12,12
+MO,Altria Group Inc,식품 및 담배,541020.0,2,2,0,2,2,0,4,0,0,0,0,13
+MMM,3M Co,복합 기업,544010.0,0,0,0,0,0,5,8,8,8,8,8,8
+BAM,Brookfield Asset Management Inc Class A,투자은행 및 서비스,551020.0,1,3,3,4,6,7,7,7,2,3,7,7
+BNS,Bank of Nova Scotia,은행,551010.0,0,1,1,1,4,6,8,8,5,8,5,5
+CB,Chubb Ltd,보험,553010.0,1,1,4,4,6,2,2,2,2,2,2,2
+SE,Sea Ltd ADR,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,3,3,7,7
+PNC,PNC Financial Services Group Inc,은행,551010.0,1,1,4,1,6,2,2,2,2,2,2,2
+ENB,Enbridge Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,6,6,6,6,6,6,6
+USB,US Bancorp,은행,551010.0,0,1,1,1,4,5,5,5,5,5,5,5
+VALE,Vale SA ADR,메탈&마이닝,512010.0,1,3,3,3,1,2,3,3,3,1,3,3
+CNI,Canadian National Railway Co,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,7,7,7,7
+TFC,Truist Financial Corp,은행,551010.0,0,1,1,1,4,2,2,2,5,2,2,2
+TJX,TJX Companies Inc,다양한 소매업,534020.0,1,3,3,3,3,7,7,7,7,7,12,12
+BDX,Becton Dickinson and Co,헬스케어 장비 및 용품,561010.0,1,3,3,3,1,1,1,1,1,10,1,10
+MMC,Marsh & McLennan Companies Inc,보험,553010.0,1,3,3,4,3,7,7,7,7,7,7,7
+DUK,Duke Energy Corp,전기 유틸리티,591010.0,1,3,3,3,3,7,7,7,1,1,7,7
+UBS,UBS Group AG,투자은행 및 서비스,551020.0,2,2,2,5,5,6,8,8,8,8,8,8
+BMO,Bank of Montreal,은행,551010.0,1,1,4,1,4,2,2,2,5,2,2,2
+CI,Cigna Corp,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,2,3,3,3,1,3,3
+HCA,HCA Healthcare Inc,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,7,7,7,2,3,7,7
+CCI,Crown Castle International Corp,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+IBN,ICICI Bank Ltd ADR,은행,551010.0,1,3,4,4,6,7,7,7,2,3,7,7
+SHW,Sherwin-Williams Co,화학,511010.0,1,3,3,4,3,7,7,7,7,7,7,7
+GM,General Motors Co,자동차 및 자동차 부품,531010.0,1,1,4,1,6,2,2,2,2,2,2,2
+SO,Southern Co,전기 유틸리티,591010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ICE,Intercontinental Exchange Inc,투자은행 및 서비스,551020.0,1,3,3,3,3,7,7,7,7,7,12,12
+F,Ford Motor Co,자동차 및 자동차 부품,531010.0,0,1,4,1,4,6,6,6,6,6,6,6
+EOG,EOG Resources Inc,오일 및 가스,501020.0,0,0,0,0,0,0,0,9,9,5,9,9
+FIS,Fidelity National Information Services Inc,핀테크,573010.0,1,3,3,3,3,1,1,1,7,7,12,12
+ITW,Illinois Tool Works Inc,복합 기업,544010.0,1,3,3,4,3,7,7,7,7,7,7,7
+CL,Colgate-Palmolive Co,"개인, 가정 용품 및 서비스",542010.0,1,3,4,4,3,3,3,3,3,3,11,11
+COF,Capital One Financial Corp,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+SAN,Banco Santander SA ADR,은행,551010.0,2,2,0,2,2,0,0,0,0,0,0,13
+NSC,Norfolk Southern Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,7,7,12,12
+D,Dominion Energy Inc,전기 유틸리티,591010.0,1,3,3,3,3,1,1,1,1,11,11,11
+FCX,Freeport-McMoRan Inc,메탈&마이닝,512010.0,1,1,4,4,6,2,2,2,2,3,3,3
+PSA,Public Storage,주택 및 상업용 리츠,601020.0,1,1,4,4,6,2,2,2,2,3,7,7
+AON,Aon PLC Class A,보험,553010.0,1,3,3,3,3,7,7,7,7,7,7,7
+CNQ,Canadian Natural Resources Ltd,오일 및 가스,501020.0,0,1,1,1,4,6,8,8,5,6,5,5
+NOC,Northrop Grumman Corp,우주항공 및 국방,521010.0,1,3,3,3,1,1,1,1,1,1,1,1
+PGR,Progressive Corp,보험,553010.0,1,3,3,3,3,7,7,7,7,7,12,12
+SQ,Block Inc Class A,전문 및 상업 서비스,522030.0,1,3,3,4,3,7,3,3,3,7,3,3
+MCO,Moody's Corp,전문 및 상업 서비스,522030.0,1,3,3,4,3,7,7,7,7,7,12,12
+FDX,FedEx Corp,화물 및 물류 서비스,524050.0,1,1,4,1,4,2,3,3,3,2,3,3
+BSX,Boston Scientific Corp,헬스케어 장비 및 용품,561010.0,1,3,3,3,1,1,1,1,1,1,1,1
+ETN,Eaton Corporation PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,7,7,7,2,3,7,7
+MET,MetLife Inc,보험,553010.0,1,1,4,1,4,2,2,2,2,2,2,2
+WM,Waste Management Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,7,7,7,7,12,12
+GD,General Dynamics Corp,우주항공 및 국방,521010.0,0,0,1,1,4,5,5,8,5,5,5,5
+STLA,Stellantis NV,자동차 및 자동차 부품,531010.0,0,1,1,1,4,5,5,5,5,2,5,5
+CM,Canadian Imperial Bank of Commerce,은행,551010.0,1,1,4,1,4,2,2,2,2,2,2,2
+SLB,Schlumberger NV,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,0,0,0,0,13
+PXD,Pioneer Natural Resources Co,오일 및 가스,501020.0,0,1,1,1,4,6,8,8,8,8,5,9
+EMR,Emerson Electric Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,2,2,2,2,2,3,3
+ING,ING Groep NV ADR,은행,551010.0,2,2,0,2,2,6,8,8,8,8,8,8
+E,Eni SpA ADR,오일 및 가스,501020.0,2,0,0,2,0,0,0,9,9,9,9,0
+HUM,Humana Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,7,7,7,7,7,12,12
+APD,Air Products and Chemicals Inc,화학,511010.0,1,3,3,3,3,7,7,7,7,7,12,12
+KKR,KKR & Co Inc,투자은행 및 서비스,551020.0,1,3,4,4,6,7,7,7,2,3,7,7
+EPD,Enterprise Products Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,0,0,0,0,0,0,9,9,9,9,0
+ECL,Ecolab Inc,화학,511010.0,1,3,3,3,3,7,7,7,7,7,12,12
+VMW,VMware Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,1,1,1,1,10,10,1,10
+WBK,Westpac Banking Corp ADR,은행,551010.0,2,2,2,2,2,0,4,0,0,0,0,13
+TRP,TC Energy Corp,오일 및 가스 장비 및 서비스,501030.0,0,1,1,3,1,1,1,1,1,11,11,11
+BK,Bank of New York Mellon Corp,투자은행 및 서비스,551020.0,0,1,1,1,4,5,5,8,5,5,5,5
+SCCO,Southern Copper Corp,메탈&마이닝,512010.0,1,3,4,4,6,2,3,3,3,2,3,3
+NEM,Newmont Corporation,메탈&마이닝,512010.0,1,3,3,3,3,3,3,3,7,7,12,12
+LYG,Lloyds Banking Group PLC ADR,은행,551010.0,2,2,0,2,2,0,4,0,0,0,0,13
+AIG,American International Group Inc,보험,553010.0,2,2,2,2,2,6,8,8,8,8,8,9
+TRI,Thomson Reuters Corp,전문 및 상업 서비스,522030.0,1,3,3,4,3,7,7,7,7,7,7,7
+MPC,Marathon Petroleum Corp,오일 및 가스,501020.0,0,0,1,0,0,5,5,5,5,5,5,5
+PANW,Palo Alto Networks Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,2,3,7,7
+CNC,Centene Corp,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,7,1,1,7,1,12,12
+JCI,Johnson Controls International PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,1,4,4,6,2,2,2,2,3,7,7
+IQV,IQVIA Holdings Inc,생명과학 및 메디컬 리서치,562020.0,1,3,3,4,3,7,7,7,7,7,7,7
+SPG,Simon Property Group Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,9,9,9,9,9
+DG,Dollar General Corp,다양한 소매업,534020.0,1,3,3,3,3,7,7,7,7,7,12,12
+BCS,Barclays PLC ADR,은행,551010.0,2,2,2,5,5,6,4,4,4,4,4,9
+ROP,Roper Technologies Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+DELL,Dell Technologies Inc Class C,"컴퓨터, 전화 및 가전제품",571060.0,1,3,4,4,6,7,7,7,2,3,7,7
+APH,Amphenol Corp Class A,전자 장비 및 부품,571040.0,1,3,3,4,6,7,7,7,7,3,7,7
+PRU,Prudential Financial Inc,보험,553010.0,0,0,1,1,4,6,8,8,8,8,5,5
+KMB,Kimberly-Clark Corp,"개인, 가정 용품 및 서비스",542010.0,1,3,3,3,3,3,7,7,7,11,12,12
+INFO,IHS Markit Ltd,전문 및 상업 서비스,522030.0,1,3,3,4,3,7,7,7,7,7,7,7
+BBVA,Banco Bilbao Vizcaya Argentaria SA ADR,은행,551010.0,2,2,2,2,2,6,4,0,8,0,8,13
+NTR,Nutrien Ltd,화학,511010.0,0,1,1,1,4,6,6,6,6,6,6,6
+SRE,Sempra Energy,복합 유틸리티,591040.0,1,3,3,3,1,1,1,1,1,1,1,1
+MSCI,MSCI Inc,전문 및 상업 서비스,522030.0,1,3,3,4,3,7,7,7,7,7,7,7
+SU,Suncor Energy Inc,오일 및 가스,501020.0,2,0,0,0,0,0,0,9,9,9,9,0
+AFL,Aflac Inc,보험,553010.0,1,3,1,3,1,1,1,1,1,1,1,1
+BAX,Baxter International Inc,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,1,1,1,1,1,12,12
+ADM,Archer-Daniels-Midland Co,식품 및 담배,541020.0,1,1,4,4,6,2,2,2,2,3,2,2
+HSY,Hershey Co,식품 및 담배,541020.0,1,3,3,3,3,7,7,7,7,7,7,7
+TRV,Travelers Companies Inc,보험,553010.0,1,1,4,1,1,2,2,2,5,2,2,2
+SYY,Sysco Corp,식품 및 약품소매,543010.0,1,3,3,3,1,1,1,1,1,1,1,1
+MFC,Manulife Financial Corp,보험,553010.0,0,1,1,1,4,5,8,8,5,8,5,5
+GPN,Global Payments Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,1,1,7,7,12,12
+HLT,Hilton Worldwide Holdings Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,4,6,7,7,7,2,1,7,7
+A,Agilent Technologies Inc,헬스케어 장비 및 용품,561010.0,1,3,3,4,6,7,7,7,3,3,7,7
+GIS,General Mills Inc,식품 및 담배,541020.0,1,3,4,4,3,3,6,6,6,11,11,11
+PSX,Phillips 66,오일 및 가스,501020.0,0,0,0,0,0,5,5,9,9,5,10,0
+HPQ,HP Inc,"컴퓨터, 전화 및 가전제품",571060.0,1,1,4,4,6,2,2,2,2,2,2,2
+OXY,Occidental Petroleum Corp,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+WIT,Wipro Ltd ADR,소프트웨어 및 IT서비스,572010.0,1,1,4,4,6,2,2,2,6,6,2,6
+KMI,Kinder Morgan Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+APO,Apollo Global Management Inc,투자은행 및 서비스,551020.0,1,3,3,4,3,7,7,7,7,7,7,7
+STZ,Constellation Brands Inc Class A,음료,541010.0,0,1,1,1,1,2,2,2,5,2,1,2
+STZ,Constellation Brands Inc Class B,음료,541010.0,0,1,1,1,1,2,2,2,5,2,1,2
+CRH,CRH PLC ADR,건축 자재,512020.0,1,3,4,4,6,2,2,2,3,3,3,3
+DLR,Digital Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+PH,Parker-Hannifin Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,7,3,3,3,3,3,3
+O,Realty Income Corp,주택 및 상업용 리츠,601020.0,1,3,3,3,1,1,1,1,1,1,1,1
+RSG,Republic Services Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,7,7,7,7,7,7
+VLO,Valero Energy Corp,오일 및 가스,501020.0,0,0,1,0,0,5,5,5,9,5,10,5
+BSMX,Banco Santander Mexico SA Institucion de Banca Multiple Grupo Financiero,은행,551010.0,2,2,0,2,2,0,0,0,0,0,0,13
+WMB,Williams Companies Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+DVN,Devon Energy Corp,오일 및 가스,501020.0,2,2,2,5,5,6,4,4,4,6,4,9
+MSI,Motorola Solutions Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,7,7,7,7,7,7,7
+DFS,Discover Financial Services,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+STT,State Street Corp,투자은행 및 서비스,551020.0,0,1,1,1,4,6,8,8,8,8,8,8
+APTV,Aptiv PLC,자동차 및 자동차 부품,531010.0,1,3,4,4,6,2,2,2,3,3,3,3
+YUM,Yum! Brands Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,3,3,7,7,1,1,1,1,1
+GLW,Corning Inc,전자 장비 및 부품,571040.0,1,3,4,4,6,2,3,3,3,2,3,3
+PPG,PPG Industries Inc,화학,511010.0,1,3,4,4,6,2,2,2,3,3,3,3
+TT,Trane Technologies PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,4,3,7,7,7,3,3,7,7
+TSN,Tyson Foods Inc Class A,식품 및 담배,541020.0,0,1,1,3,1,1,1,1,1,1,1,1
+TDG,TransDigm Group Inc,우주항공 및 국방,521010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ALL,Allstate Corp,보험,553010.0,1,3,3,3,3,7,7,1,1,1,1,1
+WELL,Welltower Inc,주택 및 상업용 리츠,601020.0,0,1,1,1,1,1,6,6,6,6,1,1
+LVS,Las Vegas Sands Corp,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,0,0,9,9,5,10,0
+MPLX,MPLX Common Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+IFF,International Flavors & Fragrances Inc,식품 및 담배,541020.0,0,1,1,1,4,5,5,5,5,2,5,5
+AMP,Ameriprise Financial Inc,투자은행 및 서비스,551020.0,1,3,4,4,6,2,2,2,2,3,7,7
+CBRE,CBRE Group Inc Class A,부동산 운영 관리,601010.0,1,3,4,4,6,2,2,2,2,3,7,7
+LYB,LyondellBasell Industries NV Class A,화학,511010.0,0,1,1,1,4,5,8,8,5,8,5,5
+KR,Kroger Co,식품 및 약품소매,543010.0,1,3,4,4,6,3,7,7,2,3,7,7
+NUE,Nucor Corp,메탈&마이닝,512010.0,1,1,4,1,6,2,2,2,2,2,2,2
+PEG,Public Service Enterprise Group Inc,복합 유틸리티,591040.0,1,3,3,3,1,1,1,1,1,1,1,1
+ORAN,Orange SA ADR,통신 서비스,574010.0,2,2,0,2,2,0,0,0,0,0,0,13
+DB,Deutsche Bank AG,은행,551010.0,2,2,2,5,5,4,4,4,4,4,4,4
+CVE,Cenovus Energy Inc,오일 및 가스,501020.0,2,2,2,5,5,4,6,4,4,6,6,9
+ET,Energy Transfer Units,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,4,4,0,0,0,0,13
+CMI,Cummins Inc,자동차 및 자동차 부품,531010.0,1,3,3,4,3,3,3,3,3,7,3,3
+ARE,Alexandria Real Estate Equities Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+ROK,Rockwell Automation Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,7,7,7,3,3,7,7
+WY,Weyerhaeuser Co,주택 및 상업용 리츠,601020.0,0,1,1,1,4,6,8,8,8,8,8,8
+EC,Ecopetrol SA ADR,오일 및 가스,501020.0,0,0,1,0,1,5,5,5,10,10,10,10
+FRC,First Republic Bank,은행,551010.0,1,3,4,4,6,7,2,7,2,3,7,7
+KEYS,Keysight Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,4,3,7,7,7,7,7,7,7
+HAL,Halliburton Co,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+BLL,Ball Corp,용기 및 포장,513020.0,1,3,3,3,3,7,7,7,7,7,12,12
+ED,Consolidated Edison Inc,전기 유틸리티,591010.0,0,0,1,0,1,1,1,5,10,10,10,10
+HES,Hess Corp,오일 및 가스,501020.0,1,1,4,4,6,2,2,2,2,2,2,2
+ES,Eversource Energy,전기 유틸리티,591010.0,1,3,3,3,3,7,7,7,7,7,12,12
+WEC,WEC Energy Group Inc,전기 유틸리티,591010.0,1,3,3,3,3,7,7,1,7,7,12,12
+OKE,ONEOK Inc,오일 및 가스 장비 및 서비스,501030.0,0,0,1,0,0,5,5,5,9,5,10,5
+TWTR,Twitter Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,3,3,3,7,3,3
+TEF,Telefonica SA ADR,통신 서비스,574010.0,2,2,0,2,2,4,4,0,0,0,0,13
+MT,ArcelorMittal SA ADR,메탈&마이닝,512010.0,0,1,1,1,4,6,8,8,8,8,8,8
+EFX,Equifax Inc,전문 및 상업 서비스,522030.0,1,3,4,4,6,7,7,7,2,3,7,7
+DAL,Delta Air Lines Inc,운송업,524060.0,0,0,0,0,0,0,0,9,9,9,9,0
+ALB,Albemarle Corp,화학,511010.0,1,1,4,4,6,2,2,2,2,3,2,2
+LUV,Southwest Airlines Co,운송업,524060.0,0,0,1,0,0,5,5,5,9,5,5,5
+SWK,Stanley Black & Decker Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,2,3,3,3,2,3,3
+LH,Laboratory Corporation of America Holdings,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,2,2,7,2,3,7,7
+BIP,Brookfield Infrastructure Partners Units,복합 기업,544010.0,1,3,3,4,3,7,7,7,7,7,7,7
+LYV,Live Nation Entertainment Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,4,6,7,7,7,2,1,7,7
+HRL,Hormel Foods Corp,식품 및 담배,541020.0,1,3,3,3,3,7,7,7,7,7,12,12
+MKC,McCormick & Company Inc,식품 및 담배,541020.0,1,3,3,3,3,7,7,7,7,7,12,12
+MKC,McCormick & Company Inc,식품 및 담배,541020.0,1,3,3,3,3,7,7,7,7,7,12,12
+MAA,Mid-America Apartment Communities Inc,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,7,7,2,3,7,7
+INVH,Invitation Homes Inc,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,7,7,2,3,7,7
+VMC,Vulcan Materials Co,건축 자재,512020.0,1,3,4,4,6,2,2,2,2,3,7,7
+CVNA,Carvana Co Class A,전문품 상점,534030.0,1,3,3,4,3,7,3,7,3,7,7,7
+KEY,KeyCorp,은행,551010.0,0,1,1,1,4,5,5,2,5,2,5,5
+HIG,Hartford Financial Services Group Inc,보험,553010.0,0,1,1,1,4,2,2,2,5,2,2,2
+ZBH,Zimmer Biomet Holdings Inc,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,3,3,3,3,7,3,3
+ITUB,Itau Unibanco Holding SA ADR,은행,551010.0,2,0,0,0,0,0,0,9,9,9,9,0
+LEN,Lennar Corp Class A,주택건설,532030.0,1,3,4,4,6,7,7,7,3,3,7,7
+LEN,Lennar Corp Class B,주택건설,532030.0,1,3,4,4,6,7,7,7,3,3,7,7
+IT,Gartner Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,2,2,2,2,3,7,7
+RCL,Royal Caribbean Cruises Ltd,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,0,0,9,9,9,9,0
+RF,Regions Financial Corp,은행,551010.0,0,1,1,1,4,2,2,2,5,2,2,2
+MLM,Martin Marietta Materials Inc,건축 자재,512020.0,1,3,4,4,6,2,2,2,2,3,7,7
+CHD,Church & Dwight Co Inc,"개인, 가정 용품 및 서비스",542010.0,1,3,3,3,3,7,7,7,7,7,12,12
+MTB,M&T Bank Corp,은행,551010.0,0,0,1,0,0,5,5,5,9,5,5,5
+FTV,Fortive Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,1,1,1,1,1,1,1,1
+CFG,Citizens Financial Group Inc,은행,551010.0,0,1,1,1,4,5,5,2,5,2,2,2
+RJF,Raymond James Financial Inc,투자은행 및 서비스,551020.0,1,1,4,4,6,2,2,2,2,2,2,2
+DOV,Dover Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,4,3,7,7,7,7,3,7,7
+CS,Credit Suisse Group AG ADR,은행,551010.0,2,2,2,5,5,4,4,4,4,4,4,4
+EIX,Edison International,전기 유틸리티,591010.0,2,2,0,2,2,0,0,0,0,9,0,13
+SYF,Synchrony Financial,은행,551010.0,1,1,4,1,4,2,2,2,2,2,2,2
+PCG,PG&E Corp,전기 유틸리티,591010.0,2,2,2,2,2,4,4,0,0,0,0,13
+PKI,PerkinElmer Inc,헬스케어 장비 및 용품,561010.0,1,3,3,4,3,7,7,7,7,3,7,7
+MGA,Magna International Inc,자동차 및 자동차 부품,531010.0,1,1,4,4,6,2,2,2,3,2,3,3
+URI,United Rentals Inc,전문 및 상업 서비스,522030.0,1,3,4,4,6,2,2,2,3,3,3,3
+FE,FirstEnergy Corp,전기 유틸리티,591010.0,0,3,3,3,1,1,1,1,1,10,1,1
+HPE,Hewlett Packard Enterprise Co,"컴퓨터, 전화 및 가전제품",571060.0,0,0,1,0,0,5,5,5,5,5,5,5
+AEE,Ameren Corp,복합 유틸리티,591040.0,1,3,3,3,3,7,7,1,7,7,12,12
+CNHI,CNH Industrial NV,"건설장비 및 대형차, 기차, 배",521020.0,1,1,4,1,4,2,2,2,5,2,2,2
+CLR,Continental Resources Inc,오일 및 가스,501020.0,0,0,0,0,0,0,0,9,9,5,5,9
+K,Kellogg Co,식품 및 담배,541020.0,2,2,2,5,5,4,4,4,4,4,4,4
+CCL,Carnival Corp,호텔 및 엔터테인먼트,533010.0,2,2,0,2,2,0,0,0,0,0,0,13
+FTS,Fortis Inc,전기 유틸리티,591010.0,1,3,3,3,3,7,7,7,7,7,12,12
+PPL,PPL Corp,복합 유틸리티,591040.0,2,2,2,2,2,4,4,4,4,4,4,4
+TTM,Tata Motors Ltd ADR,자동차 및 자동차 부품,531010.0,2,2,2,5,5,6,4,4,8,8,8,8
+MGM,MGM Resorts International,호텔 및 엔터테인먼트,533010.0,0,1,4,1,4,2,2,2,5,2,2,2
+ETR,Entergy Corp,전기 유틸리티,591010.0,1,3,3,3,3,1,1,1,1,1,12,12
+DRE,Duke Realty Corp,주택 및 상업용 리츠,601020.0,1,3,3,4,6,7,7,7,7,3,7,7
+ESS,Essex Property Trust Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,1,1,1,1,1,1,1,1
+VTR,Ventas Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,0,0,0,9,9,9,9,9
+RCI,Rogers Communications Inc Class B,통신 서비스,574010.0,0,0,1,0,1,5,5,5,10,10,10,10
+FLT,Fleetcor Technologies Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,1,1,1,1,12,12
+TDY,Teledyne Technologies Inc,전자 장비 및 부품,571040.0,1,3,3,3,3,7,7,7,7,7,12,12
+CTRA,Coterra Energy Inc,오일 및 가스,501020.0,2,2,0,2,2,0,4,0,0,0,0,13
+BBD,Banco Bradesco SA ADR,은행,551010.0,2,0,0,0,0,0,0,9,9,9,9,0
+TYL,Tyler Technologies Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,4,3,7,7,7,7,7,7,7
+FMS,Fresenius Medical Care AG & Co KGaA ADR,헬스케어 업체 및 서비스,561020.0,2,2,0,2,2,0,4,0,0,0,0,13
+WPM,Wheaton Precious Metals Corp,메탈&마이닝,512010.0,1,3,3,3,3,3,7,7,7,7,12,12
+BRO,Brown & Brown Inc,보험,553010.0,1,3,3,4,3,7,7,7,7,7,7,7
+WPP,WPP PLC ADR,미디어 및 출판,533020.0,2,2,2,5,5,4,4,4,4,4,4,4
+DRI,Darden Restaurants Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,3,1,2,2,2,1,1,1,1
+BXP,Boston Properties Inc,주택 및 상업용 리츠,601020.0,2,0,0,0,0,0,0,9,9,9,9,0
+GIB,CGI Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,1,1,1,1,1
+CMS,CMS Energy Corp,복합 유틸리티,591040.0,1,3,3,3,3,1,1,1,7,7,12,12
+SHG,Shinhan Financial Group Co Ltd ADR,은행,551010.0,2,2,0,2,2,0,0,0,0,0,0,13
+GPC,Genuine Parts Co,자동차 및 자동차 부품,531010.0,1,1,4,4,6,2,2,2,2,3,2,2
+IP,International Paper Co,용기 및 포장,513020.0,0,1,1,1,4,6,8,8,8,8,8,8
+CTLT,Catalent Inc,제약,562010.0,1,3,3,4,3,7,7,7,7,7,7,7
+VICI,VICI Properties Inc,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,2,7,3,3,7,7
+MOS,Mosaic Co,화학,511010.0,0,1,1,1,4,6,6,6,6,6,6,6
+CLX,Clorox Co,"개인, 가정 용품 및 서비스",542010.0,1,3,3,3,3,3,3,3,7,7,12,12
+OMC,Omnicom Group Inc,미디어 및 출판,533020.0,2,0,0,0,0,0,0,9,9,9,9,9
+UDR,UDR Inc,주택 및 상업용 리츠,601020.0,1,3,3,4,1,2,2,2,1,1,1,1
+NVR,NVR Inc,주택건설,532030.0,1,3,3,3,3,7,7,7,7,7,7,7
+AMCR,Amcor PLC,용기 및 포장,513020.0,0,1,4,1,4,6,8,8,6,8,11,11
+PEAK,Healthpeak Properties Inc,주택 및 상업용 리츠,601020.0,1,1,4,3,1,1,6,6,6,11,11,11
+MRO,Marathon Oil Corp,오일 및 가스,501020.0,2,0,0,0,0,0,0,9,9,5,9,9
+AGR,Avangrid Inc,전기 유틸리티,591010.0,0,3,1,3,1,1,1,1,10,10,1,10
+CNP,CenterPoint Energy Inc,복합 유틸리티,591040.0,0,0,1,0,0,5,5,9,9,5,9,5
+CAG,Conagra Brands Inc,식품 및 담배,541020.0,2,2,2,5,5,6,8,8,8,8,8,8
+MKL,Markel Corp,보험,553010.0,0,1,1,1,1,1,5,1,5,1,1,1
+CPT,Camden Property Trust,주택 및 상업용 리츠,601020.0,1,3,4,4,6,2,2,2,2,3,7,7
+BR,Broadridge Financial Solutions Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,7,7,7,7,12,12
+CE,Celanese Corp,화학,511010.0,1,3,4,4,6,2,2,2,2,2,3,3
+ALLY,Ally Financial Inc,은행,551010.0,1,3,4,4,6,2,2,2,2,3,2,2
+FMX,Fomento Economico Mexicano SAB de CV ADR,음료,541010.0,2,0,0,0,0,0,0,9,9,9,9,0
+CRL,Charles River Laboratories International Inc,생명과학 및 메디컬 리서치,562020.0,1,3,4,4,6,7,7,7,3,3,7,7
+WAB,Westinghouse Air Brake Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,1,4,6,8,8,5,8,5,9
+CF,CF Industries Holdings Inc,화학,511010.0,0,1,1,1,1,2,2,2,5,2,2,2
+EMN,Eastman Chemical Co,화학,511010.0,1,1,4,1,4,2,2,2,5,2,2,2
+DGX,Quest Diagnostics Inc,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,7,7,7,3,3,7,7
+XYL,Xylem Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,4,3,7,7,7,3,7,7,7
+J,Jacobs Engineering Group Inc,건설 및 엔지니어링,522010.0,1,3,3,4,3,7,7,7,7,7,7,7
+BEN,Franklin Resources Inc,투자은행 및 서비스,551020.0,2,2,2,2,2,4,4,0,0,0,0,13
+TXT,Textron Inc,우주항공 및 국방,521010.0,0,1,1,1,4,5,5,2,5,2,5,2
+BURL,Burlington Stores Inc,다양한 소매업,534020.0,1,3,3,3,3,7,7,7,7,7,12,12
+L,Loews Corp,보험,553010.0,0,1,1,1,4,5,5,5,5,2,5,5
+AVY,Avery Dennison Corp,용기 및 포장,513020.0,1,3,4,4,6,7,7,7,3,3,7,7
+AER,AerCap Holdings NV,전문 및 상업 서비스,522030.0,0,1,1,1,4,5,5,5,5,5,5,5
+TFX,Teleflex Inc,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,7,1,1,7,7,12,12
+FMC,FMC Corp,화학,511010.0,1,3,3,3,3,7,3,3,7,7,12,12
+CCK,Crown Holdings Inc,용기 및 포장,513020.0,1,3,4,4,6,7,7,7,3,3,7,7
+BBWI,Bath & Body Works Inc,전문품 상점,534030.0,2,1,2,5,5,6,6,6,6,6,6,6
+SUZ,Suzano SA ADR,종이 및 임산물,513010.0,1,3,3,3,1,1,1,1,1,10,1,10
+KIM,Kimco Realty Corp,주택 및 상업용 리츠,601020.0,2,2,2,5,5,6,6,6,6,6,6,6
+TRGP,Targa Resources Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,6,4,4,4,6,4,9
+CAH,Cardinal Health Inc,식품 및 약품소매,543010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BAP,Credicorp Ltd,은행,551010.0,0,0,0,0,0,0,0,9,10,9,10,0
+HWM,Howmet Aerospace Inc,우주항공 및 국방,521010.0,1,1,4,1,4,2,2,2,6,2,2,2
+ATO,Atmos Energy Corp,천연가스 유틸리티,591020.0,1,3,3,3,1,1,1,1,1,10,1,1
+EVRG,Evergy Inc,전기 유틸리티,591010.0,1,3,3,3,1,1,1,1,1,1,1,1
+AES,AES Corp,전기 유틸리티,591010.0,1,3,3,4,3,7,7,7,3,7,7,7
+BG,Bunge Ltd,식품 및 담배,541020.0,0,1,4,1,4,6,8,8,6,6,6,6
+PWR,Quanta Services Inc,건설 및 엔지니어링,522010.0,1,3,4,4,6,2,2,7,2,3,7,7
+PKG,Packaging Corp of America,용기 및 포장,513020.0,1,3,4,4,6,2,3,3,3,2,3,3
+AMH,American Homes 4 Rent Class A,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,7,7,7,3,7,7
+AAP,Advance Auto Parts Inc,전문품 상점,534030.0,1,3,4,4,6,2,2,2,2,3,7,7
+FNF,Fidelity National Financial Inc,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+IPG,Interpublic Group of Companies Inc,미디어 및 출판,533020.0,1,1,4,4,6,2,2,2,2,2,2,2
+AA,Alcoa Corp,메탈&마이닝,512010.0,0,1,1,1,4,6,8,8,8,8,5,5
+SSL,Sasol Ltd ADR,화학,511010.0,2,2,0,2,2,0,0,0,0,0,0,13
+FICO,Fair Isaac Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+CPB,Campbell Soup Co,식품 및 담배,541020.0,2,2,2,5,5,4,4,4,4,4,4,4
+WLK,Westlake Chemical Corp,화학,511010.0,0,1,1,1,4,5,8,8,5,2,5,5
+LNC,Lincoln National Corp,보험,553010.0,0,0,1,1,4,5,8,8,8,8,5,5
+BLDR,Builders FirstSource Inc,주택건설,532030.0,1,3,4,4,6,2,2,7,2,3,7,7
+CMA,Comerica Inc,은행,551010.0,0,0,1,1,0,5,5,5,5,5,5,5
+IRM,Iron Mountain Inc,주택 및 상업용 리츠,601020.0,0,1,4,1,4,6,2,2,6,6,2,6
+CNA,CNA Financial Corp,보험,553010.0,0,0,1,0,0,5,5,5,9,5,5,5
+SC,Santander Consumer USA Holdings Inc,은행,551010.0,1,3,4,4,6,2,2,2,2,3,7,7
+LDOS,Leidos Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010.0,2,0,0,2,2,0,0,0,0,0,0,0
+FBHS,Fortune Brands Home & Security Inc,주택건설,532030.0,1,3,4,4,6,3,3,3,3,3,3,3
+KEP,Korea Electric Power Corp ADR,전기 유틸리티,591010.0,2,2,2,5,2,4,4,4,4,4,4,4
+CSL,Carlisle Companies Inc,주택건설,532030.0,1,3,4,4,6,7,7,7,2,3,7,7
+AFG,American Financial Group Inc,보험,553010.0,0,1,1,1,4,5,5,2,5,2,2,2
+WHR,Whirlpool Corp,가정용품,532040.0,1,1,4,4,6,3,6,6,6,3,11,11
+NI,NiSource Inc,복합 유틸리티,591040.0,0,0,1,0,1,1,1,5,10,10,10,10
+WES,Western Midstream Partners Common Units,오일 및 가스,501020.0,2,2,2,2,2,4,4,0,0,0,0,13
+OVV,Ovintiv Inc,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+CUBE,CubeSmart,주택 및 상업용 리츠,601020.0,1,3,4,4,6,2,2,2,2,3,7,7
+RPM,RPM International Inc,화학,511010.0,1,3,3,3,3,7,7,7,7,7,12,12
+WBS,Webster Financial Corp,은행,551010.0,0,0,1,1,0,5,5,5,5,5,5,5
+MTN,Vail Resorts Inc,호텔 및 엔터테인먼트,533010.0,1,3,4,3,1,2,2,2,3,2,1,3
+JNPR,Juniper Networks Inc,커뮤니케이션 및 네트워킹,571020.0,0,1,1,1,4,6,8,8,5,6,5,6
+LSI,Life Storage Inc,주택 및 상업용 리츠,601020.0,1,3,4,4,6,2,2,7,2,3,7,7
+H,Hyatt Hotels Corp Class A,호텔 및 엔터테인먼트,533010.0,0,1,1,1,1,5,5,5,5,1,1,1
+NLY,Annaly Capital Management Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+DVA,DaVita Inc,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,3,3,3,3,3,3,3
+ALLE,Allegion PLC,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,7,7,7,7,7,12,12
+UHS,Universal Health Services Inc Class B,헬스케어 업체 및 서비스,561020.0,1,1,1,3,1,1,1,1,1,1,1,1
+GL,Globe Life Inc,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+BCH,Banco de Chile ADR,은행,551010.0,2,0,0,0,0,0,0,9,9,9,9,0
+DAR,Darling Ingredients Inc,식품 및 담배,541020.0,1,3,4,4,6,7,3,7,3,3,7,7
+IVZ,Invesco Ltd,투자은행 및 서비스,551020.0,2,2,2,5,5,6,4,8,8,8,8,8
+VST,Vistra Corp,전기 유틸리티,591010.0,0,0,1,0,1,1,1,5,10,10,10,10
+SCI,Service Corporation International,"개인, 가정 용품 및 서비스",542010.0,1,3,3,3,3,7,7,7,7,1,7,7
+WFG,West Fraser Timber Co Ltd,종이 및 임산물,513010.0,1,1,4,1,4,2,2,2,5,2,2,2
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+TPR,Tapestry Inc,전문품 상점,534030.0,0,2,1,1,4,6,8,8,8,8,8,8
+LUMN,Lumen Technologies Inc,통신 서비스,574010.0,2,2,2,5,5,4,4,4,4,4,4,4
+MMP,Magellan Midstream Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+ACM,AECOM,건설 및 엔지니어링,522010.0,1,3,4,4,6,2,2,7,2,3,7,7
+GFI,Gold Fields Ltd ADR,메탈&마이닝,512010.0,1,3,3,3,3,3,7,7,7,7,12,12
+WAL,Western Alliance Bancorp,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+RS,Reliance Steel & Aluminum Co,메탈&마이닝,512010.0,1,3,4,4,6,7,7,7,3,3,7,7
+TAP,Molson Coors Beverage Co Class B,음료,541010.0,2,2,2,2,2,4,4,0,0,0,0,13
+TAP,Molson Coors Beverage Co Class A,음료,541010.0,2,2,2,2,2,4,4,0,0,0,0,13
+HUBB,Hubbell Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,7,7,7,3,3,7,7
+SKM,SK Telecom Co Ltd ADR,통신 서비스,574010.0,0,1,1,1,4,6,8,8,5,8,8,8
+BAH,Booz Allen Hamilton Holding Corp Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+CLF,Cleveland-Cliffs Inc,메탈&마이닝,512010.0,1,1,4,4,6,2,2,2,2,3,2,2
+SNX,TD Synnex Corp,"컴퓨터, 전화 및 가전제품",571060.0,1,3,4,4,6,2,2,2,3,3,3,3
+MHK,Mohawk Industries Inc,가정용품,532040.0,2,2,2,2,2,6,8,8,8,8,8,8
+NRG,NRG Energy Inc,전기 유틸리티,591010.0,1,3,3,3,1,1,1,1,1,1,1,1
+FHN,First Horizon Corp,은행,551010.0,0,0,1,1,4,6,8,8,8,8,5,5
+AMC,AMC Entertainment Holdings Inc Class A,호텔 및 엔터테인먼트,533010.0,2,1,2,5,5,6,6,6,6,6,6,6
+LII,Lennox International Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,7,7,7,7,7,12,12
+LW,Lamb Weston Holdings Inc,식품 및 담배,541020.0,1,3,3,3,1,1,1,1,1,10,1,10
+LAD,Lithia Motors Inc Class A,전문품 상점,534030.0,1,3,4,4,6,3,3,3,3,3,3,3
+FRT,Federal Realty Investment Trust,주택 및 상업용 리츠,601020.0,2,2,0,2,0,0,0,9,9,9,9,9
+SEE,Sealed Air Corp,용기 및 포장,513020.0,1,1,4,1,4,2,2,6,6,6,6,6
+TEVA,Teva Pharmaceutical Industries Ltd ADR,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,4
+CABO,Cable One Inc,통신 서비스,574010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ARMK,Aramark,호텔 및 엔터테인먼트,533010.0,0,0,1,0,0,5,5,9,9,5,5,5
+BSAC,Banco Santander-Chile ADR,은행,551010.0,0,0,0,0,0,0,0,9,9,5,9,0
+AIZ,Assurant Inc,보험,553010.0,1,3,3,4,3,7,7,7,7,7,7,7
+SQM,Sociedad Quimica y Minera de Chile SA ADR,화학,511010.0,0,1,1,1,4,2,8,8,5,2,2,2
+Y,Alleghany Corp,보험,553010.0,0,0,1,3,1,1,1,1,1,1,1,1
+HESM,Hess Midstream LP Class A,오일 및 가스 장비 및 서비스,501030.0,0,1,2,5,4,6,6,6,6,6,6,6
+JEF,Jefferies Financial Group Inc,투자은행 및 서비스,551020.0,1,1,4,4,6,2,2,2,2,2,2,2
+WF,Woori Financial Group Inc ADR,은행,551010.0,0,0,0,0,0,0,0,9,9,5,9,13
+BHC,Bausch Health Companies Inc,제약,562010.0,2,2,2,5,5,4,6,4,4,4,4,4
+DXC,DXC Technology Co,소프트웨어 및 IT서비스,572010.0,2,0,0,2,0,0,0,0,0,0,0,13
+OC,Owens Corning,주택건설,532030.0,1,1,4,1,6,2,2,2,3,2,3,3
+ST,Sensata Technologies Holding PLC,전자 장비 및 부품,571040.0,0,1,4,1,4,2,2,2,5,2,2,2
+THC,Tenet Healthcare Corp,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,2,2,2,2,3,7,7
+JBL,Jabil Inc,전자 장비 및 부품,571040.0,1,3,4,4,6,2,2,7,2,3,7,7
+RL,Ralph Lauren Corp Class A,섬유 및 의류,532020.0,0,1,1,1,1,5,5,5,5,5,5,5
+EQT,EQT Corp,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+TPL,Texas Pacific Land Corp,오일 및 가스,501020.0,1,3,3,4,6,2,2,2,3,1,3,3
+AU,AngloGold Ashanti Ltd ADR,메탈&마이닝,512010.0,1,3,3,3,3,3,7,7,7,7,12,12
+ARW,Arrow Electronics Inc,반도체 및 반도체 장비,571010.0,1,1,4,4,6,2,2,2,2,3,2,2
+G,Genpact Ltd,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,7,7,7,7,12,12
+BERY,Berry Global Group Inc,용기 및 포장,513020.0,1,1,4,1,4,2,2,2,5,2,2,2
+EBR,Centrais Eletricas Brasileiras SA ADR,전기 유틸리티,591010.0,0,3,3,3,1,1,1,1,1,10,1,1
+EBR,Centrais Eletricas Brasileiras SA ADR,전기 유틸리티,591010.0,0,3,3,3,1,1,1,1,1,10,1,1
+OLN,Olin Corp,화학,511010.0,0,1,4,1,4,2,2,2,5,2,2,2
+KSS,Kohls Corp,다양한 소매업,534020.0,0,0,1,0,0,5,5,9,9,5,5,5
+SF,Stifel Financial Corp,투자은행 및 서비스,551020.0,1,3,4,4,6,2,2,2,2,3,2,2
+PFGC,Performance Food Group Co,식품 및 약품소매,543010.0,1,3,3,3,1,1,1,1,1,1,1,1
+ORI,Old Republic International Corp,보험,553010.0,0,1,1,1,1,5,5,2,5,2,2,1
+PLNT,Planet Fitness Inc Class A,호텔 및 엔터테인먼트,533010.0,1,3,3,3,3,7,1,1,1,1,12,12
+WU,Western Union Co,전문 및 상업 서비스,522030.0,1,3,3,3,3,1,1,1,1,11,11,11
+VNO,Vornado Realty Trust,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+KRC,Kilroy Realty Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,0
+COTY,Coty Inc Class A,"개인, 가정 용품 및 서비스",542010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BYD,Boyd Gaming Corp,호텔 및 엔터테인먼트,533010.0,1,1,4,4,6,2,2,2,2,2,2,2
+VOYA,Voya Financial Inc,투자은행 및 서비스,551020.0,1,3,3,3,3,7,7,7,1,1,1,1
+SMG,Scotts Miracle-Gro Co,화학,511010.0,1,3,3,4,3,3,3,3,3,7,3,3
+PNW,Pinnacle West Capital Corp,전기 유틸리티,591010.0,0,0,1,0,1,1,1,5,10,10,10,10
+TPX,Tempur Sealy International Inc,가정용품,532040.0,1,3,4,4,6,7,7,7,2,3,7,7
+FAF,First American Financial Corp,보험,553010.0,1,3,3,3,1,2,2,2,1,1,1,1
+OSK,Oshkosh Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,2,2,2,3,2,3,3
+SNV,Synovus Financial Corp,은행,551010.0,0,1,1,1,4,5,8,8,5,8,5,5
+FR,First Industrial Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,3,3,4,3,7,7,7,7,7,7,7
+XPO,XPO Logistics Inc,화물 및 물류 서비스,524050.0,1,3,4,4,6,2,3,3,3,2,3,3
+RGA,Reinsurance Group of America Inc,보험,553010.0,0,0,1,0,0,5,5,5,10,5,10,0
+M,Macy's Inc,다양한 소매업,534020.0,2,2,2,5,5,4,4,4,4,4,4,4
+PAG,Penske Automotive Group Inc,전문품 상점,534030.0,1,1,4,4,6,2,2,2,2,3,2,2
+BRX,Brixmor Property Group Inc,주택 및 상업용 리츠,601020.0,0,1,2,5,5,6,6,6,6,6,6,6
+NNN,National Retail Properties Inc,주택 및 상업용 리츠,601020.0,0,0,1,0,1,1,1,5,10,9,1,1
+HST,Host Hotels & Resorts Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,9
+STWD,Starwood Property Trust Inc,주택 및 상업용 리츠,601020.0,0,1,1,1,4,5,5,6,5,6,5,5
+BC,Brunswick Corp,레저 상품,532050.0,1,3,4,4,6,2,2,2,3,3,3,3
+HII,Huntington Ingalls Industries Inc,우주항공 및 국방,521010.0,0,0,1,0,0,5,5,5,10,5,10,10
+OGE,OGE Energy Corp,전기 유틸리티,591010.0,0,0,1,0,1,1,1,5,10,10,10,10
+PII,Polaris Inc,레저 상품,532050.0,0,1,4,1,4,6,8,6,6,2,3,2
+KGC,Kinross Gold Corp,메탈&마이닝,512010.0,1,3,3,3,3,3,3,3,7,7,12,12
+ALK,Alaska Air Group Inc,운송업,524060.0,2,2,2,2,2,0,0,0,0,0,0,13
+ACC,American Campus Communities Inc,주택 및 상업용 리츠,601020.0,0,1,1,1,4,6,6,6,6,6,6,6
+NYT,New York Times Co Class A,미디어 및 출판,533020.0,1,3,3,3,3,7,7,7,7,7,12,12
+OHI,Omega Healthcare Investors Inc,주택 및 상업용 리츠,601020.0,0,0,3,3,1,1,1,1,1,11,11,1
+AN,AutoNation Inc,전문품 상점,534030.0,1,1,4,4,6,2,2,2,2,3,7,7
+PVH,PVH Corp,섬유 및 의류,532020.0,0,0,0,0,0,5,8,8,9,5,5,5
+HTA,Healthcare Trust Of America Inc Class A,주택 및 상업용 리츠,601020.0,0,1,1,1,4,6,6,6,6,6,11,6
+ATUS,Altice USA Inc Class A,통신 서비스,574010.0,2,2,2,5,5,4,6,4,4,11,11,11
+OMF,OneMain Holdings Inc,은행,551010.0,1,3,4,4,6,2,2,2,3,3,3,3
+MTZ,MasTec Inc,건설 및 엔지니어링,522010.0,1,3,4,4,6,2,2,2,3,3,3,3
+PSO,Pearson PLC ADR,미디어 및 출판,533020.0,2,2,2,5,5,4,4,4,4,4,4,4
+POST,Post Holdings Inc,식품 및 담배,541020.0,1,3,3,3,1,1,1,1,1,1,1,1
+DCI,Donaldson Company Inc,전문 및 상업 서비스,522030.0,1,3,3,3,1,7,3,3,1,1,1,3
+DCP,DCP Midstream Units,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,9,9,0,9,9
+NLSN,Nielsen Holdings PLC,미디어 및 출판,533020.0,2,2,2,5,5,4,4,4,4,4,4,4
+TOL,Toll Brothers Inc,주택건설,532030.0,1,1,4,4,6,2,2,2,2,3,2,2
+AXTA,Axalta Coating Systems Ltd,화학,511010.0,0,1,1,1,4,6,8,8,8,8,8,8
+HOG,Harley-Davidson Inc,자동차 및 자동차 부품,531010.0,2,2,2,5,5,4,4,4,4,4,4,4
+RBA,Ritchie Bros Auctioneers Inc,전문 및 상업 서비스,522030.0,1,3,3,4,3,7,7,7,7,7,7,7
+AR,Antero Resources Corp,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+EHC,Encompass Health Corp,헬스케어 업체 및 서비스,561020.0,1,3,3,3,3,1,1,1,1,7,12,12
+SWCH,Switch Inc Class A,"컴퓨터, 전화 및 가전제품",571060.0,1,1,4,4,6,3,6,6,6,3,11,11
+KT,KT Corp ADR,통신 서비스,574010.0,2,2,2,2,2,6,8,0,8,8,8,8
+HFC,HollyFrontier Corp,오일 및 가스,501020.0,0,0,0,0,0,5,5,5,10,5,10,0
+FSK,FS KKR Capital Corp,다양한 금융서비스,555010.0,2,2,2,2,2,4,4,0,0,0,0,13
+ADT,ADT Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,2,5,5,4,4,4,4,4,4,4
+X,United States Steel Corp,메탈&마이닝,512010.0,2,2,0,2,4,6,8,8,8,8,8,8
+EME,EMCOR Group Inc,건설 및 엔지니어링,522010.0,1,3,4,4,6,2,2,2,2,2,2,2
+HGV,Hilton Grand Vacations Inc,호텔 및 엔터테인먼트,533010.0,0,1,1,1,4,2,8,8,5,2,2,2
+TV,Grupo Televisa SAB ADR,미디어 및 출판,533020.0,2,2,2,5,5,4,4,4,4,4,4,4
+PRI,Primerica Inc,보험,553010.0,1,3,3,3,3,7,7,1,1,1,1,12
+GGB,Gerdau SA ADR,메탈&마이닝,512010.0,1,1,4,1,1,2,2,2,5,2,3,3
+MGP,MGM Growth Properties LLC Class A,주택 및 상업용 리츠,601020.0,1,3,4,4,6,2,2,2,2,2,2,2
+IGT,International Game Technology PLC,호텔 및 엔터테인먼트,533010.0,0,1,1,1,4,6,8,8,8,8,8,8
+CADE,Cadence Bank,은행,551010.0,0,0,1,0,0,5,5,5,5,5,5,5
+LPX,Louisiana-Pacific Corp,종이 및 임산물,513010.0,1,3,4,4,6,2,2,2,2,3,7,7
+UNM,Unum Group,보험,553010.0,2,2,0,2,2,0,0,0,0,0,0,13
+CR,Crane Co,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,1,4,5,5,5,5,2,5,5
+GPS,Gap Inc,전문품 상점,534030.0,2,2,2,5,5,6,8,8,8,8,8,8
+FLO,Flowers Foods Inc,식품 및 담배,541020.0,1,3,3,3,3,7,7,7,7,7,12,12
+SRC,Spirit Realty Capital Inc,주택 및 상업용 리츠,601020.0,0,1,1,5,5,6,6,6,6,6,6,6
+AMG,Affiliated Managers Group Inc,투자은행 및 서비스,551020.0,2,2,2,5,5,6,8,8,8,8,8,8
+INGR,Ingredion Inc,식품 및 담배,541020.0,2,2,2,2,2,0,4,0,0,0,0,13
+ESI,Element Solutions Inc,화학,511010.0,1,1,4,4,6,2,2,2,2,3,2,6
+LPL,LG Display Co Ltd ADR,전자 장비 및 부품,571040.0,2,2,2,5,2,4,4,0,8,8,8,8
+JHG,Janus Henderson Group PLC,투자은행 및 서비스,551020.0,0,1,4,1,4,6,8,8,8,8,8,8
+GPK,Graphic Packaging Holding Co,용기 및 포장,513020.0,1,3,4,4,6,2,2,2,2,3,7,7
+ASGN,ASGN Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,2,2,2,2,2,2,2
+NFG,National Fuel Gas Co,천연가스 유틸리티,591020.0,2,2,2,5,5,6,8,8,8,6,8,9
+EXP,Eagle Materials Inc,건축 자재,512020.0,1,1,4,1,6,2,2,2,2,2,2,2
+NCR,NCR Corp,소프트웨어 및 IT서비스,572010.0,0,1,1,1,4,6,8,8,6,6,6,6
+SON,Sonoco Products Co,용기 및 포장,513020.0,1,3,3,3,1,1,1,1,1,1,1,1
+DEI,Douglas Emmett Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,0
+RRC,Range Resources Corp,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+NSA,National Storage Affiliates Trust,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,7,7,2,3,7,7
+ASH,Ashland Global Holdings Inc,화학,511010.0,1,3,3,4,1,2,2,2,2,1,1,1
+NYCB,New York Community Bancorp Inc,은행,551010.0,2,2,2,5,5,4,4,4,4,4,4,4
+RYN,Rayonier Inc,주택 및 상업용 리츠,601020.0,0,1,1,1,4,2,2,2,5,2,2,2
+MUR,Murphy Oil Corp,오일 및 가스,501020.0,2,2,0,2,2,0,0,9,9,9,9,9
+BXMT,Blackstone Mortgage Trust Inc Class A,주택 및 상업용 리츠,601020.0,0,0,1,0,0,5,5,9,9,9,9,0
+HHC,Howard Hughes Corp,부동산 운영 관리,601010.0,2,0,0,2,0,0,0,9,9,9,9,0
+STL,Sterling Bancorp,은행,551010.0,0,1,1,1,4,5,8,8,5,8,5,5
+SPR,Spirit AeroSystems Holdings Inc Class A,우주항공 및 국방,521010.0,0,0,0,0,0,0,0,9,9,9,9,0
+MTDR,Matador Resources Co,오일 및 가스,501020.0,0,1,1,1,4,6,8,8,5,8,5,5
+TMX,Terminix Global Holdings Inc,전문 및 상업 서비스,522030.0,1,3,3,3,1,1,1,1,1,1,1,1
+CLH,Clean Harbors Inc,전문 및 상업 서비스,522030.0,1,3,3,4,6,7,7,7,2,1,7,7
+SEAS,SeaWorld Entertainment Inc,호텔 및 엔터테인먼트,533010.0,1,3,4,4,6,2,2,2,2,3,7,7
+MTG,MGIC Investment Corp,보험,553010.0,0,1,1,1,1,5,5,5,5,2,1,1
+ROG,Rogers Corp,반도체 및 반도체 장비,571010.0,1,3,4,4,6,2,2,2,2,2,2,2
+LEG,Leggett & Platt Inc,가정용품,532040.0,2,2,2,5,5,6,8,8,8,8,8,8
+TNL,Travel + Leisure Co,호텔 및 엔터테인먼트,533010.0,0,1,1,1,4,2,2,2,5,2,2,2
+SLG,SL Green Realty Corp,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+PRGO,Perrigo Company PLC,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,4
+TKR,Timken Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,3,3,3,3,3,3,3
+ELC,Entergy Louisiana Collateral Mortgage Bonds 4.875 Series Exp 01 Sept 2066,전기 유틸리티,591010.0,1,3,4,4,6,2,2,2,2,3,7,7
+THG,Hanover Insurance Group Inc,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+MGY,Magnolia Oil & Gas Corp Class A,오일 및 가스,501020.0,0,1,1,1,4,2,2,2,5,2,2,2
+ATKR,Atkore Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,2,2,2,2,3,7,7
+NRZ,New Residential Investment Corp,주택 및 상업용 리츠,601020.0,2,0,0,0,0,0,0,9,9,9,9,0
+SWN,Southwestern Energy Co,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+AM,Antero Midstream Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,0,0,0,0,13
+HLF,Herbalife Nutrition Ltd,식품 및 담배,541020.0,0,3,3,3,1,1,1,1,10,10,1,10
+AVNT,Avient Corp,화학,511010.0,0,1,4,1,4,2,2,2,5,2,2,2
+CC,Chemours Co,화학,511010.0,0,0,1,1,4,5,8,8,8,8,8,8
+NEWR,New Relic Inc,소프트웨어 및 IT서비스,572010.0,0,0,1,3,1,1,1,5,10,10,1,10
+AXS,AXIS Capital Holdings Ltd,보험,553010.0,2,0,0,0,0,0,0,9,9,9,9,0
+KRG,Kite Realty Group Trust,주택 및 상업용 리츠,601020.0,2,2,2,5,5,6,6,6,6,6,6,6
+AL,Air Lease Corp Class A,전문 및 상업 서비스,522030.0,0,1,1,1,4,5,5,5,5,5,5,5
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050.0,0,1,1,1,4,5,5,5,5,2,5,10
+EVA,Enviva Inc,종이 및 임산물,513010.0,1,3,4,4,6,7,7,7,2,3,7,7
+POR,Portland General Electric Co,전기 유틸리티,591010.0,0,0,1,3,1,1,1,1,1,1,1,1
+MUSA,Murphy Usa Inc,오일 및 가스,501020.0,1,3,3,4,3,7,7,7,7,7,7,7
+WD,Walker & Dunlop Inc,은행,551010.0,1,3,4,4,6,2,2,2,2,3,7,7
+HE,Hawaiian Electric Industries Inc,전기 유틸리티,591010.0,1,3,3,3,1,1,1,1,1,1,1,1
+HXL,Hexcel Corp,우주항공 및 국방,521010.0,0,0,1,0,0,5,5,5,10,5,10,0
+SM,SM Energy Co,오일 및 가스,501020.0,2,2,2,5,5,6,6,4,4,6,6,9
+CIVI,Civitas Resources Inc,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+HR,Healthcare Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,0,1,0,1,1,1,1,1,11,11,11
+HRI,Herc Holdings Inc,전문 및 상업 서비스,522030.0,1,1,4,4,6,2,2,2,2,3,2,2
+HIW,Highwoods Properties Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,9,9,9,9,9
+PSB,PS Business Parks Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,1,1,1,1,1,1,1,1
+ENLC,EnLink Midstream Common Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,0,0,0,0,13
+LAZ,Lazard Ltd Class A,투자은행 및 서비스,551020.0,0,2,1,1,4,6,8,8,8,8,8,8
+GTES,Gates Industrial Corporation PLC,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,5,6,8,8,8,8,8,8
+LXP,LXP Industrial Trust,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,7,7,2,3,7,7
+CMC,Commercial Metals Co,메탈&마이닝,512010.0,1,1,4,4,6,2,2,2,2,3,2,2
+RDN,Radian Group Inc,보험,553010.0,0,1,1,3,1,1,1,1,1,1,1,1
+ADNT,Adient PLC,자동차 및 자동차 부품,531010.0,2,2,2,5,5,6,8,8,8,8,8,8
+BKH,Black Hills Corp,복합 유틸리티,591040.0,0,0,1,3,1,1,1,1,1,10,1,1
+MSGS,Madison Square Garden Sports Corp Class A,미디어 및 출판,533020.0,0,0,1,3,1,1,1,5,10,10,10,10
+AUY,Yamana Gold Inc,메탈&마이닝,512010.0,1,3,3,3,3,3,3,3,7,7,12,12
+JBT,John Bean Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,2,2,2,2,2,2,2
+TRTN,Triton International Ltd,전문 및 상업 서비스,522030.0,1,3,4,4,6,2,2,2,3,3,3,3
+SUM,Summit Materials Inc Class A,건축 자재,512020.0,0,1,4,1,4,6,8,8,8,8,2,8
+ALSN,Allison Transmission Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,1,0,1,1,1,5,10,10,10,10
+BWXT,BWX Technologies Inc,우주항공 및 국방,521010.0,0,3,1,3,1,1,1,5,10,10,10,10
+AGO,Assured Guaranty Ltd,보험,553010.0,0,1,1,1,1,5,5,5,5,1,1,1
+OGS,ONE Gas Inc,천연가스 유틸리티,591020.0,0,0,3,3,1,1,1,1,10,10,10,10
+CWEN,Clearway Energy Inc Class C,전기 유틸리티,591010.0,1,3,4,4,6,7,7,7,3,3,7,7
+CWEN,Clearway Energy Inc Class A,전기 유틸리티,591010.0,1,3,4,4,6,7,7,7,3,3,7,7
+SWX,Southwest Gas Holdings Inc,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,5,10,9,10,0
+R,Ryder System Inc,화물 및 물류 서비스,524050.0,2,1,2,1,4,6,8,8,8,8,8,8
+CBT,Cabot Corp,화학,511010.0,0,1,1,1,4,6,8,8,8,8,5,8
+UAA,Under Armour Inc Class A,섬유 및 의류,532020.0,2,2,2,5,5,4,6,4,4,4,4,4
+CPG,Crescent Point Energy Corp,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+ATCO,Atlas Corp,화물 및 물류 서비스,524050.0,1,1,4,4,6,3,6,6,6,6,6,6
+NJR,New Jersey Resources Corp,천연가스 유틸리티,591020.0,0,0,1,0,0,5,5,5,10,5,10,0
+BKU,BankUnited Inc,은행,551010.0,0,1,1,1,4,6,8,8,5,8,5,5
+BRFS,BRF SA ADR,식품 및 담배,541020.0,2,2,2,5,5,4,4,4,4,4,4,4
+SPB,Spectrum Brands Holdings Inc,가정용품,532040.0,2,2,2,5,5,6,8,8,8,8,8,8
+SIX,Six Flags Entertainment Corp,호텔 및 엔터테인먼트,533010.0,2,0,0,2,0,0,0,9,9,0,9,13
+CIB,Bancolombia SA ADR,은행,551010.0,0,0,0,0,0,0,0,9,9,9,9,0
+ASB,Associated Banc-Corp,은행,551010.0,0,0,0,0,0,5,8,9,9,5,5,5
+XRX,Xerox Holdings Corp,사무기기,571050.0,2,0,0,0,0,0,0,9,9,9,9,0
+ABG,Asbury Automotive Group Inc,전문품 상점,534030.0,1,3,4,4,6,7,7,7,3,3,7,7
+HPP,Hudson Pacific Properties Inc,주택 및 상업용 리츠,601020.0,2,0,0,0,0,0,0,9,9,9,9,0
+SUN,Sunoco Common Units,오일 및 가스,501020.0,0,1,4,1,4,6,6,6,6,6,6,6
+GATX,GATX Corp,은행,551010.0,1,3,3,3,1,2,2,2,1,1,1,1
+PFSI,PennyMac Financial Services Inc,은행,551010.0,1,3,3,4,3,7,7,7,7,7,7,7
+KWR,Quaker Chemical Corp,화학,511010.0,1,3,3,3,3,7,3,3,3,7,3,3
+FUN,Cedar Fair Units,호텔 및 엔터테인먼트,533010.0,2,2,0,2,2,0,0,0,0,0,0,13
+TROX,Tronox Holdings PLC,화학,511010.0,0,1,1,1,4,6,8,8,8,8,8,8
+JWN,Nordstrom Inc,다양한 소매업,534020.0,2,2,0,2,2,0,0,0,0,0,0,13
+HI,Hillenbrand Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,1,4,5,5,8,5,2,5,5
+MTH,Meritage Homes Corp,주택건설,532030.0,1,3,3,4,3,7,7,7,7,7,7,7
+KBH,KB Home,주택건설,532030.0,1,3,3,3,3,7,3,3,7,7,3,3
+WBT,Welbilt Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,1,4,6,8,8,8,8,5,5
+SR,Spire Inc,천연가스 유틸리티,591020.0,0,0,1,0,1,1,1,5,10,10,10,10
+MLI,Mueller Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,4,4,6,2,2,2,2,3,2,2
+EPR,EPR Properties,주택 및 상업용 리츠,601020.0,2,0,0,0,0,0,0,9,9,9,9,0
+KMPR,Kemper Corp,보험,553010.0,1,3,3,3,1,1,1,1,10,10,1,10
+NEU,NewMarket Corp,화학,511010.0,2,0,0,2,2,0,0,0,0,9,9,0
+CNX,CNX Resources Corp,오일 및 가스,501020.0,2,2,2,5,5,6,8,4,8,8,8,8
+WTM,White Mountains Insurance Group Ltd,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+CNO,CNO Financial Group Inc,보험,553010.0,0,1,4,1,4,6,8,8,8,8,8,8
+CIM,Chimera Investment Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,0
+SEM,Select Medical Holdings Corp,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,2,3,3,3,3,3,3
+BCC,Boise Cascade Co,주택건설,532030.0,1,3,4,4,6,2,2,2,2,3,3,3
+IBP,Installed Building Products Inc,건설 및 엔지니어링,522010.0,1,3,4,4,6,7,3,3,3,3,3,3
+CPE,Callon Petroleum Co,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+OMI,Owens & Minor Inc,헬스케어 장비 및 용품,561010.0,1,1,4,5,5,6,6,6,6,6,6,6
+KW,Kennedy-Wilson Holdings Inc,부동산 운영 관리,601010.0,0,0,1,5,5,6,6,6,6,6,6,9
+FTI,TechnipFMC PLC,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+GPI,Group 1 Automotive Inc,전문품 상점,534030.0,1,3,4,4,6,2,2,2,2,3,7,7
+NNI,Nelnet Inc Class A,은행,551010.0,1,3,3,4,6,7,7,7,2,3,7,7
+ATI,Allegheny Technologies Inc,우주항공 및 국방,521010.0,0,0,0,0,0,5,5,9,9,5,9,0
+TKC,Turkcell Iletisim Hizmetleri AS ADR,통신 서비스,574010.0,2,2,2,2,2,4,4,4,4,4,4,4
+DAN,Dana Inc,자동차 및 자동차 부품,531010.0,0,1,1,1,4,6,8,8,8,8,8,8
+UGP,Ultrapar Participacoes SA ADR,오일 및 가스,501020.0,2,2,2,2,2,4,4,0,0,0,0,13
+FLR,Fluor Corp,건설 및 엔지니어링,522010.0,2,2,0,2,2,0,0,0,0,0,0,13
+GHC,Graham Holdings Co Class B,학교,631020.0,0,0,1,0,0,5,5,9,9,9,9,5
+MAIN,Main Street Capital Corp,은행,551010.0,0,1,1,1,1,5,5,5,5,5,5,5
+TRN,Trinity Industries Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,4,1,6,2,2,2,5,2,2,2
+MCY,Mercury General Corp,보험,553010.0,0,1,1,1,4,6,6,6,6,6,6,6
+ENS,EnerSys,"건설장비 및 대형차, 기차, 배",521020.0,1,1,4,1,4,2,3,3,3,2,3,3
+OFC,Corporate Office Properties Trust,주택 및 상업용 리츠,601020.0,2,2,2,2,2,6,8,8,8,8,8,8
+GOOS,Canada Goose Holdings Inc,섬유 및 의류,532020.0,0,0,1,0,1,1,1,5,10,10,10,10
+SAVE,Spirit Airlines Inc,운송업,524060.0,2,2,0,2,2,0,0,9,0,9,9,0
+AIN,Albany International Corp Class A,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,1,1,1,1,1,1,1,1
+VET,Vermilion Energy Inc,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+JOE,St Joe Co,부동산 운영 관리,601010.0,1,3,4,4,6,2,2,7,3,3,7,7
+TAC,TransAlta Corp,전기 유틸리티,591010.0,1,3,4,4,6,2,2,2,2,3,7,7
+AGI,Alamos Gold Inc Class A,메탈&마이닝,512010.0,1,3,3,3,3,3,3,3,7,11,11,11
+WLL,Whiting Petroleum Corp,오일 및 가스,501020.0,2,1,2,5,5,6,6,6,6,6,6,6
+WOR,Worthington Industries Inc,메탈&마이닝,512010.0,1,1,4,1,4,2,2,2,3,2,3,3
+SJI,South Jersey Industries Inc,천연가스 유틸리티,591020.0,2,0,0,2,0,0,0,9,9,9,9,0
+DY,Dycom Industries Inc,건설 및 엔지니어링,522010.0,2,2,2,1,4,6,8,8,8,8,8,8
+ERJ,Embraer SA ADR,우주항공 및 국방,521010.0,2,2,0,2,2,0,0,0,0,0,9,13
+PIPR,Piper Sandler Companies,투자은행 및 서비스,551020.0,1,3,4,4,6,2,2,2,2,3,2,2
+FTAI,Fortress Transportation and Infrastructure Investors LLC,은행,551010.0,1,1,4,4,6,2,2,2,3,2,3,3
+PVG,Pretium Resources Inc,메탈&마이닝,512010.0,1,3,3,3,3,3,7,7,7,11,11,11
+ENIC,Enel Chile SA ADR,전기 유틸리티,591010.0,2,2,0,2,2,0,0,0,0,0,0,13
+CSTM,Constellium SE Class A,메탈&마이닝,512010.0,1,1,4,4,6,2,2,2,2,2,2,2
+NGVT,Ingevity Corp,화학,511010.0,0,0,1,0,1,5,5,5,10,10,10,10
+IRT,Independence Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,3,4,4,6,7,7,7,2,3,7,7
+EBS,Emergent BioSolutions Inc,제약,562010.0,1,3,3,3,3,3,3,3,7,7,12,12
+RIG,Transocean Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+ABR,Arbor Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,3,3,4,6,7,7,7,1,1,7,1
+RLJ,RLJ Lodging Trust,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,4,0,0,0,0,13
+ENR,Energizer Holdings Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,0,0,0,0,0,0,0,0,5,10,0
+FBC,Flagstar Bancorp Inc,은행,551010.0,1,3,4,4,6,2,2,2,2,2,2,2
+UNFI,United Natural Foods Inc,식품 및 약품소매,543010.0,2,2,2,5,5,6,8,4,8,8,8,8
+GCP,GCP Applied Technologies Inc,건축 자재,512020.0,2,2,2,2,2,6,8,8,8,8,8,8
+CNR,Cornerstone Building Brands Inc,주택건설,532030.0,2,2,2,5,4,6,8,8,8,8,8,8
+MTX,Minerals Technologies Inc,화학,511010.0,0,1,1,1,4,6,8,8,8,8,8,8
+BVN,Compania de Minas Buenaventura SAA ADR,메탈&마이닝,512010.0,0,0,0,0,0,0,0,5,10,9,10,0
+CPK,Chesapeake Utilities Corp,천연가스 유틸리티,591020.0,1,3,3,4,3,7,7,7,7,1,7,7
+BDN,Brandywine Realty Trust,주택 및 상업용 리츠,601020.0,2,0,0,2,2,0,0,9,9,9,9,13
+FSS,Federal Signal Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,7,7,7,7,7,12,12
+WGO,Winnebago Industries Inc,레저 상품,532050.0,1,3,3,4,3,7,3,3,3,7,3,3
+MANU,Manchester United PLC Class A,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,0,0,5,10,5,10,0
+ANF,Abercrombie & Fitch Co Class A,전문품 상점,534030.0,1,1,4,4,6,2,2,2,2,2,2,2
+TSE,Trinseo PLC,화학,511010.0,0,0,1,1,4,6,8,8,8,8,8,8
+CVI,CVR Energy Inc,오일 및 가스,501020.0,0,0,0,0,0,0,0,9,10,9,10,0
+KOS,Kosmos Energy Ltd,오일 및 가스,501020.0,2,0,0,2,2,0,0,9,9,9,9,0
+LBRT,Liberty Oilfield Services Inc Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+BTU,Peabody Energy Corp,석유,501010.0,2,2,0,2,2,0,0,0,0,0,0,13
+BSBR,Banco Santander Brasil SA ADR,은행,551010.0,0,0,0,0,0,5,5,5,10,9,10,0
+WWW,Wolverine World Wide Inc,섬유 및 의류,532020.0,0,1,1,1,1,5,5,5,5,10,1,10
+AAT,American Assets Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,0
+GNW,Genworth Financial Inc Class A,보험,553010.0,2,2,2,5,5,4,6,4,4,4,4,4
+MD,MEDNAX Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,5,5,4,4,4,4,4,4,4
+JELD,JELD-WEN Holding Inc,주택건설,532030.0,2,2,2,5,5,6,8,8,8,8,8,8
+VSTO,Vista Outdoor Inc,레저 상품,532050.0,1,1,4,5,5,6,6,6,6,6,6,6
+MNR,Monmouth Real Estate Investment Corp,주택 및 상업용 리츠,601020.0,1,1,4,1,6,2,2,2,2,2,2,2
+HTGC,Hercules Capital Inc,다양한 금융서비스,555010.0,1,1,4,1,6,2,2,2,6,2,2,2
+GSBD,Goldman Sachs BDC Inc,은행,551010.0,2,2,0,2,2,0,0,9,0,9,9,9
+CNK,Cinemark Holdings Inc,호텔 및 엔터테인먼트,533010.0,2,0,0,2,2,0,0,9,0,9,9,0
+RLGY,Realogy Holdings Corp,부동산 운영 관리,601010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BGS,B&G Foods Inc,식품 및 담배,541020.0,2,2,2,5,5,4,4,4,4,4,4,4
+EPC,Edgewell Personal Care Co,"개인, 가정 용품 및 서비스",542010.0,2,2,2,5,5,4,4,4,4,4,4,4
+GTN,Gray Television Inc,미디어 및 출판,533020.0,1,3,3,3,1,1,1,1,1,1,1,1
+GTN,Gray Television Inc Class A,미디어 및 출판,533020.0,1,3,3,3,1,1,1,1,1,1,1,1
+PGRE,Paramount Group Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+AVAL,Grupo Aval Acciones y Valores SA ADR,은행,551010.0,2,2,0,2,2,0,0,0,0,0,9,13
+MFA,MFA Financial Inc,주택 및 상업용 리츠,601020.0,2,0,0,2,2,0,0,9,9,9,9,0
+SBH,Sally Beauty Holdings Inc,전문품 상점,534030.0,2,2,2,5,5,4,4,4,4,4,4,4
+DKL,Delek Logistics Partners Common Units,오일 및 가스 장비 및 서비스,501030.0,1,1,4,1,4,2,2,6,6,6,6,6
+CRS,Carpenter Technology Corp,메탈&마이닝,512010.0,0,0,0,0,0,0,0,9,9,5,9,0
+NS,NuStar Energy Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+EAT,Brinker International Inc,호텔 및 엔터테인먼트,533010.0,0,1,4,1,4,3,6,6,6,6,6,6
+TWO,Two Harbors Investment Corp,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+CMP,Compass Minerals International Inc,화학,511010.0,2,2,2,5,5,4,4,4,4,4,4,4
+CEQP,Crestwood Equity Partners Units,오일 및 가스 장비 및 서비스,501030.0,0,0,1,0,0,5,5,9,9,9,9,9
+STAR,iStar Inc,주택 및 상업용 리츠,601020.0,1,3,4,4,6,2,2,2,2,3,7,7
+CRK,Comstock Resources Inc,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+SKT,Tanger Factory Outlet Centers Inc,주택 및 상업용 리츠,601020.0,2,2,2,5,5,4,4,4,4,4,4,4
+CYH,Community Health Systems Inc,헬스케어 업체 및 서비스,561020.0,2,2,2,5,5,4,6,6,4,4,4,4
+VGR,Vector Group Ltd,식품 및 담배,541020.0,2,2,2,5,5,4,4,4,8,4,8,8
+TSLX,Sixth Street Specialty Lending Inc,다양한 금융서비스,555010.0,1,1,4,1,4,2,2,2,5,2,2,2
+AZUL,Azul SA ADR,운송업,524060.0,0,0,0,0,0,0,0,9,9,9,9,0
+GWB,Great Western Bancorp Inc,은행,551010.0,0,0,0,0,0,0,0,9,9,5,9,5
+MTOR,Meritor Inc,자동차 및 자동차 부품,531010.0,1,3,3,3,1,1,3,3,1,1,1,3
+HMN,Horace Mann Educators Corp,보험,553010.0,0,0,1,0,0,5,5,5,10,5,10,10
+YPF,YPF SA ADR,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+ALG,Alamo Group Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,7,3,3,3,7,3,3
+CODI,Compass Diversified Holdings,기타 금융업,556010.0,1,3,4,4,6,2,2,2,2,3,7,7
+ENVA,Enova International Inc,은행,551010.0,1,1,4,4,1,2,2,2,2,2,2,2
+KRO,Kronos Worldwide Inc,화학,511010.0,0,0,1,0,0,5,8,8,8,8,8,8
+USAC,USA Compression Partners Common Units,오일 및 가스 장비 및 서비스,501030.0,0,0,0,0,0,0,0,9,9,9,9,9
+CCO,Clear Channel Outdoor Holdings Inc,미디어 및 출판,533020.0,2,2,2,2,2,4,4,4,4,4,4,4
+ESRT,Empire State Realty Trust Inc Class A,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+HCC,Warrior Met Coal Inc,메탈&마이닝,512010.0,0,0,1,0,0,5,5,5,9,5,5,5
+LZB,La-Z-Boy Inc,가정용품,532040.0,1,3,3,3,6,3,3,3,3,1,3,3
+GEF,Greif Inc Class A,용기 및 포장,513020.0,0,1,1,1,4,6,8,8,8,8,8,8
+GEF,Greif Inc Class B,용기 및 포장,513020.0,0,1,1,1,4,6,8,8,8,8,8,8
+GEL,Genesis Energy Units Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,4,4,4,4,4
+BHLB,Berkshire Hills Bancorp Inc,은행,551010.0,2,0,0,2,0,0,0,9,9,9,9,0
+KRA,Kraton Corp,화학,511010.0,0,1,1,1,4,5,8,8,5,8,5,5
+GNL,Global Net Lease Inc,주택 및 상업용 리츠,601020.0,2,2,2,5,5,4,4,4,4,4,4,4
+OXM,Oxford Industries Inc,섬유 및 의류,532020.0,0,1,1,1,4,5,5,2,5,2,5,5
+OII,Oceaneering International Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+LADR,Ladder Capital Corp Class A,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,0
+KAR,KAR Auction Services Inc,전문품 상점,534030.0,0,0,1,0,0,5,5,5,10,10,10,10
+NBHC,National Bank Holdings Corp Class A,은행,551010.0,0,1,1,1,1,5,5,5,5,2,1,2
+BIF,Boulder Growth and Income Closed Fund,다양한 금융서비스,555010.0,1,3,4,4,6,2,2,2,2,1,2,2
+TGI,Triumph Group Inc,우주항공 및 국방,521010.0,2,2,2,5,5,4,4,4,4,4,4,4
+HYT,Blackrock Coporate High Yield Mutual Fund,다양한 금융서비스,555010.0,1,1,4,4,6,2,2,2,6,2,11,11
+ALX,Alexander's Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+FPF,First Trust Intermediate Duration Preferred & Inc,다양한 금융서비스,555010.0,0,1,4,1,4,6,6,6,6,6,11,11
+AROC,Archrock Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+PRA,ProAssurance Corp,보험,553010.0,2,2,0,2,2,0,0,0,0,0,0,13
+KREF,KKR Real Estate Finance Trust Inc,주택 및 상업용 리츠,601020.0,2,2,2,5,5,6,6,6,6,6,6,9
+GFF,Griffon Corp,주택건설,532030.0,1,1,4,4,6,3,2,2,6,2,11,11
+LPI,Laredo Petroleum Inc,오일 및 가스,501020.0,2,2,2,2,2,4,4,0,0,0,0,13
+AVYA,Avaya Holdings Corp,커뮤니케이션 및 네트워킹,571020.0,0,1,4,1,4,6,8,8,8,8,8,8
+UIS,Unisys Corp,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,2,3,3,3,3,3,3
+BANC,Banc of California Inc,은행,551010.0,0,1,1,1,4,6,8,8,8,8,8,8
+SAND,Sandstorm Gold Ltd,메탈&마이닝,512010.0,1,3,3,3,3,3,7,3,7,7,12,12
+GIC,Global Industrial Co,다양한 산업재 도매업,522020.0,1,3,4,3,1,2,3,3,3,2,3,3
+POLY,Plantronics Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,0,2,2,0,0,0,0,0,0,13
+RC,Ready Capital Corp,주택 및 상업용 리츠,601020.0,0,0,1,0,0,5,5,9,9,9,9,9
+CXW,CoreCivic Inc,전문 및 상업 서비스,522030.0,2,2,0,2,2,4,4,0,0,0,0,13
+UMH,UMH Properties Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,6,2,2,2,2,2,2,2
+AGM,Federal Agricultural Mortgage Corp Class C,은행,551010.0,1,3,4,4,1,2,2,2,2,2,2,2
+AGM,Federal Agricultural Mortgage Corp Class A,은행,551010.0,1,3,4,4,1,2,2,2,2,2,2,2
+BIG,Big Lots Inc,다양한 소매업,534020.0,2,1,2,5,4,6,8,8,8,8,8,8
+MCB,Metropolitan Bank Holding Corp,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+PAM,Pampa Energia SA ADR,전기 유틸리티,591010.0,2,2,0,2,2,0,0,0,0,0,0,13
+PGTI,PGT Innovations Inc,주택건설,532030.0,1,3,3,3,1,2,3,3,3,2,3,3
+CEIX,CONSOL Energy Inc,석유,501010.0,0,0,0,0,0,0,0,9,9,5,9,9
+CARS,Cars.com Inc,소프트웨어 및 IT서비스,572010.0,2,2,0,2,2,0,0,0,0,0,0,13
+UAN,CVR Partners Units,화학,511010.0,2,1,2,5,5,6,6,6,6,6,6,6
+NBR,Nabors Industries Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,4,4,4,4,4
+GMRE,Global Medical REIT Inc,주택 및 상업용 리츠,601020.0,1,3,3,4,3,7,7,7,7,7,7,7
+SMP,Standard Motor Products Inc,자동차 및 자동차 부품,531010.0,0,0,1,0,1,5,5,5,10,5,10,10
+AOD,Aberdeen Total Dynamic Dividend Fund,다양한 금융서비스,555010.0,0,1,4,1,4,2,2,2,5,2,2,2
+EFC,Ellington Financial Inc,주택 및 상업용 리츠,601020.0,0,1,1,1,4,5,6,6,6,6,6,9
+ATEN,A10 Networks Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,4,6,2,2,2,2,3,7,7
+GRC,Gorman-Rupp Co,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,1,1,2,1,1,1,1,1
+FOR,Forestar Group Inc,건설 및 엔지니어링,522010.0,0,1,1,1,1,5,5,5,5,10,1,10
+DHT,DHT Holdings Inc,오일 및 가스 장비 및 서비스,501030.0,1,3,3,3,3,1,1,1,1,11,11,11
+SPH,Suburban Propane Partners Common Units,오일 및 가스,501020.0,2,2,2,2,2,4,4,4,4,4,4,4
+RFP,Resolute Forest Products Inc,종이 및 임산물,513010.0,0,1,1,1,4,2,2,2,5,2,2,2
+GPRK,GeoPark Ltd,오일 및 가스,501020.0,0,0,1,0,1,1,1,5,10,10,10,10
+SWM,Schweitzer-Mauduit International Inc,종이 및 임산물,513010.0,2,2,2,5,5,6,8,8,8,8,8,8
+CAAP,Corporacion America Airports SA,운송 인프라,524070.0,2,2,2,2,2,4,4,0,0,0,0,13
+AXL,American Axle & Manufacturing Holdings Inc,자동차 및 자동차 부품,531010.0,2,2,2,2,2,4,4,0,0,0,0,13
+PBFX,PBF Logistics Units,오일 및 가스 장비 및 서비스,501030.0,2,0,0,2,0,0,0,9,9,9,9,0
+MYI,BlackRock MuniYield Quality Closed Fund III,다양한 금융서비스,555010.0,1,1,4,5,5,3,6,6,6,11,11,11
+RYI,Ryerson Holding Corp,메탈&마이닝,512010.0,1,1,4,4,6,2,2,2,2,2,2,2
+PARR,Par Pacific Holdings Inc,오일 및 가스,501020.0,0,0,0,0,0,0,0,9,9,9,9,0
+PBI,Pitney Bowes Inc,사무기기,571050.0,2,2,2,5,5,4,4,4,4,4,4,4
+GCI,Gannett Co Inc,미디어 및 출판,533020.0,2,2,0,2,2,0,0,0,0,0,0,13
+BHE,Benchmark Electronics Inc,반도체 및 반도체 장비,571010.0,0,0,1,0,0,5,8,8,8,8,8,5
+BTO,John Hancock Financial Opportunities Fund,다양한 금융서비스,555010.0,0,1,1,1,4,5,5,8,5,2,5,5
+CPF,Central Pacific Financial Corp,은행,551010.0,0,0,0,0,0,0,0,9,9,9,9,5
+HFRO,Highland Income Fund,다양한 금융서비스,555010.0,2,2,0,2,2,0,0,0,0,0,0,13
+IVR,Invesco Mortgage Capital Inc,주택 및 상업용 리츠,601020.0,2,0,0,2,2,0,0,9,0,9,9,0
+TEN,Tenneco Inc Class A,자동차 및 자동차 부품,531010.0,2,2,2,2,2,4,4,0,0,0,0,13
+RRD,RR Donnelley & Sons Co,전문 및 상업 서비스,522030.0,2,2,2,5,5,4,4,4,4,4,4,4
+ACCO,ACCO Brands Corp,전문 및 상업 서비스,522030.0,2,2,0,2,2,0,0,0,0,0,0,13
+CIO,City Office REIT Inc,주택 및 상업용 리츠,601020.0,0,1,1,1,4,6,6,6,6,6,6,6
+LOMA,Loma Negra Compania Industrial Argentina SA ADR,건축 자재,512020.0,2,2,2,2,2,4,4,0,0,0,0,13
+SBR,Sabine Royalty Units,오일 및 가스,501020.0,0,0,1,0,0,5,5,9,9,5,5,5
+BBDC,Barings BDC Inc,다양한 금융서비스,555010.0,2,2,2,5,5,4,4,4,4,4,4,4
+PDS,Precision Drilling Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+TEO,Telecom Argentina SA ADR,통신 서비스,574010.0,2,2,0,2,2,0,0,0,0,0,0,13
+CLDT,Chatham Lodging Trust,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,9,13
+EXK,Endeavour Silver Corp,메탈&마이닝,512010.0,1,1,4,4,6,3,3,3,3,3,3,3
+GIM,Templeton Global Income Fund,투자은행 및 서비스,551020.0,2,2,0,2,2,0,0,0,0,0,0,13
+TPB,Turning Point Brands Inc,식품 및 담배,541020.0,1,3,3,3,1,1,1,1,1,1,1,1
+DBD,Diebold Nixdorf Inc,"컴퓨터, 전화 및 가전제품",571060.0,2,2,2,5,5,4,4,4,4,4,4,4
+WTI,W&T Offshore Inc,오일 및 가스,501020.0,0,0,1,0,0,5,5,5,10,5,10,10
+GLT,Glatfelter Corp,종이 및 임산물,513010.0,2,2,2,5,5,4,4,4,4,4,4,4
+SXC,SunCoke Energy Inc,메탈&마이닝,512010.0,2,2,0,2,2,0,0,0,0,0,0,13
+BW,Babcock & Wilcox Enterprises Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,5,4,4,4,4,4,4,4
+KOP,Koppers Holdings Inc,화학,511010.0,0,0,1,1,4,6,8,8,8,8,8,8
+GPMT,Granite Point Mortgage Trust Inc,주택 및 상업용 리츠,601020.0,2,0,0,2,0,0,0,9,9,9,9,0
+MTW,Manitowoc Company Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,0,2,2,6,8,8,8,8,8,8
+BGB,Blackstone Strategic Credit Fund,다양한 금융서비스,555010.0,2,2,0,2,2,0,0,0,0,0,9,13
+REV,Revlon Inc Class A,"개인, 가정 용품 및 서비스",542010.0,2,2,0,2,2,4,4,4,4,4,4,4
+RAD,Rite Aid Corp,식품 및 약품소매,543010.0,2,2,2,5,5,4,4,4,4,4,4,4
+TPC,Tutor Perini Corp,건설 및 엔지니어링,522010.0,2,2,2,2,2,4,4,0,0,0,0,13
+CHS,Chico's FAS Inc,전문품 상점,534030.0,2,2,2,5,5,4,4,4,4,4,4,4
+IFN,India Closed Fund,다양한 금융서비스,555010.0,2,2,2,2,2,0,8,0,8,0,8,13
+CLW,Clearwater Paper Corp,종이 및 임산물,513010.0,2,2,2,5,5,4,4,4,4,4,4,4
+BZH,Beazer Homes USA Inc,주택건설,532030.0,1,1,4,1,4,2,2,2,6,2,2,2
+RM,Regional Management Corp,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+PRTY,Party City Holdco Inc,전문품 상점,534030.0,2,2,2,2,2,4,4,0,0,0,0,13
+EBF,Ennis Inc,전문 및 상업 서비스,522030.0,0,0,1,0,1,5,5,5,10,10,10,10
+EVN,Eaton Vance Municipal Income Closed Fund,다양한 금융서비스,555010.0,1,1,4,4,6,3,6,6,6,11,11,11
+NRP,Natural Resource Partners Units,석유,501010.0,2,0,0,0,0,0,0,9,9,9,9,9
+FPH,Five Point Holdings LLC Class A,부동산 운영 관리,601010.0,2,2,2,2,2,4,4,0,0,0,0,13
+PMO,Putnam Municipal Opportunities Trust,투자은행 및 서비스,551020.0,1,3,3,4,3,3,7,7,7,11,11,11
+OIS,Oil States International Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+SRI,Stoneridge Inc,자동차 및 자동차 부품,531010.0,0,0,1,3,1,1,1,5,10,10,10,10
+GBLI,Global Indemnity Group LLC Class A,보험,553010.0,2,2,0,2,2,0,0,0,0,0,0,13
+SOI,Solaris Oilfield Infrastructure Inc Class A,오일 및 가스 장비 및 서비스,501030.0,2,0,0,0,0,0,0,9,9,9,9,0
+MLR,Miller Industries Inc,자동차 및 자동차 부품,531010.0,1,3,3,3,3,7,3,3,1,7,12,12
+TGS,Transportadora de Gas del Sur SA ADR,오일 및 가스,501020.0,2,0,0,2,2,0,0,0,0,0,0,13
+TCI,Transcontinental Realty Investors Inc,주택 및 상업용 리츠,601020.0,0,0,1,3,1,5,5,5,10,10,1,10
+AUD,Audacy Inc Class A,미디어 및 출판,533020.0,2,2,2,2,2,4,4,0,0,0,0,13
+SAR,Saratoga Investment Corp,투자은행 및 서비스,551020.0,0,1,1,1,1,5,5,2,5,2,1,1
+MIC,Macquarie Infrastructure Holdings LLC,운송 인프라,524070.0,2,2,2,2,2,4,4,4,4,4,4,4
+TK,Teekay Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+SJT,San Juan Basin Royalty Units,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+CPS,Cooper-Standard Holdings Inc,자동차 및 자동차 부품,531010.0,2,2,0,2,2,0,0,0,0,0,0,13
+CDR,Cedar Realty Trust Inc,주택 및 상업용 리츠,601020.0,2,2,2,2,2,4,4,4,4,4,4,4
+AHT,Ashford Hospitality Trust Inc,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+AJX,Great Ajax Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,9,9,9,9,9
+NGL,NGL Energy Partners Units,오일 및 가스,501020.0,2,2,0,2,2,4,4,4,0,4,4,4
+EXPR,Express Inc,전문품 상점,534030.0,2,2,2,5,5,4,4,4,4,4,4,4
+TVE,Tennessee Valley Authority Power Bonds 1999 Series A due May 1 2029 (Putable,전기 유틸리티,591010.0,1,3,3,3,3,3,7,7,7,11,11,11
+TVC,Tennessee Valley Authority Power Bonds 1998 Series D due 01 June 2028,전기 유틸리티,591010.0,1,3,3,3,3,3,1,1,1,11,11,11
+NAT,Nordic American Tanker Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+PKE,Park Aerospace Corp,우주항공 및 국방,521010.0,2,0,0,2,2,0,0,0,0,0,9,13
+EMP,Entergy Mississippi 4.90 First Mortgage Bonds Exp 1 Oct 2066,전기 유틸리티,591010.0,2,2,2,5,5,4,4,4,4,4,4,4
+VNTR,Venator Materials PLC,화학,511010.0,2,2,2,2,2,4,4,0,0,0,0,13
+EEX,Emerald Holding Inc,전문 및 상업 서비스,522030.0,2,2,0,2,2,0,0,0,0,0,0,13
+MXF,Mexico Closed Fund,다양한 금융서비스,555010.0,2,2,2,5,5,6,4,4,4,4,4,9
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,다양한 금융서비스,555010.0,2,2,2,5,5,6,4,4,4,4,4,9
+IVH,Delaware Ivy High Income Opportunities Fund,다양한 금융서비스,555010.0,2,2,2,2,2,6,8,8,8,8,8,9
+ENO,Entergy New Orleans First Mortgage Bonds 5 50 Series Pref Shs Exp 1 April 2066,전기 유틸리티,591010.0,0,0,3,3,1,1,1,1,10,11,11,11
+CIA,Citizens Inc Class A,보험,553010.0,2,2,0,2,2,0,0,0,0,0,0,13
+DDT,Dillards Capital Trust I 7.50% Capital Securities Exp 01 Aug 2038,은행,551010.0,0,0,1,1,0,5,5,9,9,6,5,9
+TSQ,Townsquare Media Inc Class A,미디어 및 출판,533020.0,0,1,4,5,4,6,6,6,6,6,6,6
+GLOP,Gaslog Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+MLP,Maui Land & Pineapple Company Inc,부동산 운영 관리,601010.0,0,0,1,0,1,5,5,5,10,10,10,10
+EXTN,Exterran Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+GER,Goldman Sachs MLP and Energy Renaissance Fund,다양한 금융서비스,555010.0,2,2,0,2,2,4,4,0,0,0,0,13
+UBP,Urstadt Biddle Properties Inc,주택 및 상업용 리츠,601020.0,2,0,0,0,0,0,0,9,9,9,9,9
+AMPY,Amplify Energy Corp,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+SMLP,Summit Midstream Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,0,0,0,0,13
+KF,Korea Closed Fund,다양한 금융서비스,555010.0,0,1,2,1,4,6,8,8,8,8,8,8
+OSG,Overseas Shipholding Group Inc Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+ARGD,Argo Group International Holdings 6 5 Senior Notes Exp 15 Sep 2042,보험,553010.0,0,1,1,1,1,1,6,6,6,11,11,11
+WHG,Westwood Holdings Group Inc,투자은행 및 서비스,551020.0,2,2,0,2,2,0,0,0,0,0,0,13
+CHMI,Cherry Hill Mortgage Investment Corp,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+EDN,Empresa Distribuidora y Comercializadora Norte SA ADR,전기 유틸리티,591010.0,2,2,0,2,2,0,0,0,0,0,0,13
+DS,Drive Shack Inc,호텔 및 엔터테인먼트,533010.0,2,0,0,0,0,0,0,9,9,9,9,0
+KFS,Kingsway Financial Services Inc,보험,553010.0,2,2,2,5,5,6,8,8,8,8,8,8
+SWZ,Swiss Helvetia Closed Fund,투자은행 및 서비스,551020.0,2,2,2,2,2,6,8,8,8,8,8,8
+AAIC,Arlington Asset Investment Corp Class A,투자은행 및 서비스,551020.0,2,2,2,2,2,4,4,4,0,4,4,4
+VOC,VOC Energy Units,오일 및 가스,501020.0,0,0,1,0,0,5,5,9,9,5,5,5
+NM,Navios Maritime Holdings Inc,운송 인프라,524070.0,2,2,2,5,5,4,4,4,4,4,4,4
+PEI,Pennsylvania Real Estate Investment Trust,주택 및 상업용 리츠,601020.0,2,2,2,5,5,4,4,4,4,4,4,4
+EEA,European Equity Closed Fund,다양한 금융서비스,555010.0,1,1,4,4,6,2,2,2,3,2,3,3
+FMY,First Trust Mortgage Income Fund,다양한 금융서비스,555010.0,2,2,2,5,5,4,4,4,4,4,4,4
+KTN,Structured Products 8.205% Credit-Enhanced Corporate-Backed Trust Securities,은행,551010.0,1,1,2,5,5,3,6,6,6,11,11,11
+NINE,Nine Energy Service Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+LCI,Lannett Company Inc,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,4
+PYT,Merrill Lynch Depositor PPLUS Floating Rate TRUPS Series GSC-2,은행,551010.0,1,3,4,4,6,7,3,3,3,3,3,3
+AFI,Armstrong Flooring Inc,주택건설,532030.0,2,2,0,2,2,0,4,0,0,0,0,13
+ENJ,Entergy Orleans 5% Mortgage Bonds Series Exp 01 Dec 2052,전기 유틸리티,591010.0,1,3,3,3,3,3,3,3,7,11,11,11
+MTR,Mesa Royalty Trust,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+AAPL,Apple Inc,"컴퓨터, 전화 및 가전제품",571060.0,1,3,3,4,3,7,7,7,7,7,7,7
+MSFT,Microsoft Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,4,3,7,7,7,7,7,7,7
+AMZN,Amazon.com Inc,다양한 소매업,534020.0,1,3,3,3,3,7,7,7,7,7,12,12
+GOOGL,Alphabet Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,2,3,7,7
+TSLA,Tesla Inc,자동차 및 자동차 부품,531010.0,1,3,4,4,6,7,7,7,3,3,7,7
+NVDA,NVIDIA Corp,반도체 및 반도체 장비,571010.0,1,3,4,4,6,7,7,7,2,3,7,7
+AVGO,Broadcom Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,6,7,7,7,7,3,7,7
+PEP,PepsiCo Inc,음료,541010.0,1,3,3,3,3,7,7,7,7,7,7,7
+CSCO,Cisco Systems Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,1,1,1,1,1,1,1,1
+COST,Costco Wholesale Corp,다양한 소매업,534020.0,1,3,3,4,3,7,7,7,7,7,7,7
+ADBE,Adobe Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+CMCSA,Comcast Corp Class A,미디어 및 출판,533020.0,1,3,3,4,3,7,7,7,3,7,3,3
+INTC,Intel Corp,반도체 및 반도체 장비,571010.0,1,3,3,3,3,1,1,1,1,10,12,12
+AZN,AstraZeneca PLC ADR,제약,562010.0,1,3,3,3,3,7,7,7,7,7,12,12
+NFLX,Netflix Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+TMUS,T-Mobile US Inc,통신 서비스,574010.0,1,3,3,3,3,7,7,3,7,7,12,12
+TXN,Texas Instruments Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,3,7,7,7,7,7,7,7
+INTU,Intuit Inc,핀테크,573010.0,1,3,3,4,3,7,7,7,7,3,7,7
+AMD,Advanced Micro Devices Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,3,7,7,7,7,7,7,7
+PYPL,PayPal Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,4,3,7,3,3,7,7,12,12
+SNY,Sanofi SA ADR,제약,562010.0,1,3,3,3,3,3,3,3,7,11,11,11
+HON,Honeywell International Inc,복합 기업,544010.0,1,3,3,3,3,7,7,7,3,7,3,3
+AMGN,Amgen Inc,제약,562010.0,1,3,3,3,3,7,3,3,7,7,12,12
+AMAT,Applied Materials Inc,반도체 및 반도체 장비,571010.0,1,3,4,4,6,2,2,7,2,3,7,7
+SBUX,Starbucks Corp,호텔 및 엔터테인먼트,533010.0,1,3,3,3,3,7,7,7,7,7,7,7
+CHTR,Charter Communications Inc Class A,통신 서비스,574010.0,1,3,3,3,3,7,7,7,7,7,12,12
+BKNG,Booking Holdings Inc,호텔 및 엔터테인먼트,533010.0,1,1,4,1,1,2,2,2,5,2,2,2
+MU,Micron Technology Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,3,7,3,3,3,7,3,3
+MDLZ,Mondelez International Inc Class A,식품 및 담배,541020.0,1,3,3,3,3,7,7,7,7,7,12,12
+CME,CME Group Inc Class A,투자은행 및 서비스,551020.0,1,3,3,3,1,1,1,1,1,1,1,1
+ADP,Automatic Data Processing Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,1,7,7
+ADI,Analog Devices Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,3,7,7,7,7,7,7,7
+LRCX,Lam Research Corp,반도체 및 반도체 장비,571010.0,1,3,4,4,6,7,7,7,3,3,7,7
+GILD,Gilead Sciences Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+CSX,CSX Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,7,7,12,12
+REGN,Regeneron Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,3,4,4,3,3,7,7,7,3,7,7
+FISV,Fiserv Inc,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,1,1,7,7,12,12
+ATVI,Activision Blizzard Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,7,3,3
+EQIX,Equinix Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+MRVL,Marvell Technology Inc,반도체 및 반도체 장비,571010.0,1,3,4,4,6,7,7,7,2,3,7,7
+KLAC,KLA Corp,반도체 및 반도체 장비,571010.0,1,3,4,4,6,7,7,7,7,3,7,7
+MAR,Marriott International Inc Class A,호텔 및 엔터테인먼트,533010.0,0,1,1,1,1,1,5,5,5,1,1,1
+KDP,Keurig Dr Pepper Inc,음료,541010.0,2,2,2,2,2,4,4,0,0,0,0,13
+ILMN,Illumina Inc,헬스케어 장비 및 용품,561010.0,1,3,3,3,3,7,7,7,7,7,12,12
+FTNT,Fortinet Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,2,3,7,7
+VOD,Vodafone Group PLC ADR,통신 서비스,574010.0,2,2,2,2,2,4,4,4,0,4,0,13
+ADSK,Autodesk Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+NXPI,NXP Semiconductors NV,반도체 및 반도체 장비,571010.0,1,3,4,4,6,2,2,2,3,3,7,7
+XLNX,Xilinx Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,3,7,7,7,7,7,7,7
+ORLY,O'Reilly Automotive Inc,전문품 상점,534030.0,1,3,3,4,3,7,7,7,7,7,7,7
+AEP,American Electric Power Company Inc,전기 유틸리티,591010.0,1,3,3,3,3,1,1,1,1,1,12,12
+KHC,Kraft Heinz Co,식품 및 담배,541020.0,2,2,2,2,2,4,4,0,0,0,0,13
+WBA,Walgreens Boots Alliance Inc,식품 및 약품소매,543010.0,2,2,2,2,2,4,4,0,0,0,0,13
+EXC,Exelon Corp,전기 유틸리티,591010.0,1,3,3,3,1,1,1,1,1,1,1,1
+MCHP,Microchip Technology Inc,반도체 및 반도체 장비,571010.0,1,3,4,4,6,7,3,7,3,3,3,3
+CDNS,Cadence Design Systems Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,4,3,7,7,7,7,7,7,7
+CTAS,Cintas Corp,전문 및 상업 서비스,522030.0,1,3,3,3,3,7,7,7,7,7,12,12
+ERIC,Telefonaktiebolaget LM Ericsson ADR,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,3,3,3,7,7,12,12
+EA,Electronic Arts Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,7,3,3
+SIVB,SVB Financial Group,은행,551010.0,1,3,4,4,6,2,2,2,2,3,7,7
+EBAY,eBay Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,3,3,7,7
+XEL,Xcel Energy Inc,전기 유틸리티,591010.0,1,3,3,3,3,7,7,7,7,7,12,12
+SBAC,SBA Communications Corp Class A,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+ROST,Ross Stores Inc,전문품 상점,534030.0,1,3,3,3,3,1,1,1,1,1,12,12
+FITB,Fifth Third Bancorp,은행,551010.0,1,1,4,1,4,2,2,2,5,2,2,2
+MTCH,Match Group Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+BIIB,Biogen Inc,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,4
+VRSK,Verisk Analytics Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+DLTR,Dollar Tree Inc,다양한 소매업,534020.0,1,3,3,3,1,2,2,1,1,1,1,1
+BKR,Baker Hughes Co Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+EXPE,Expedia Group Inc,호텔 및 엔터테인먼트,533010.0,0,1,4,1,4,2,2,2,5,2,2,2
+NDAQ,Nasdaq Inc,투자은행 및 서비스,551020.0,1,3,3,4,6,7,7,7,7,3,7,7
+WTW,Willis Towers Watson PLC,보험,553010.0,1,3,3,3,3,7,7,7,7,7,12,12
+CCEP,Coca-Cola Europacific Partners PLC,음료,541010.0,1,3,3,3,1,1,1,1,1,1,1,1
+NTRS,Northern Trust Corp,투자은행 및 서비스,551020.0,0,1,1,1,4,2,2,2,5,2,2,2
+ON,ON Semiconductor Corp,반도체 및 반도체 장비,571010.0,1,3,4,4,6,2,2,2,2,3,7,7
+FANG,Diamondback Energy Inc,오일 및 가스,501020.0,0,0,0,0,0,5,5,9,9,5,5,5
+SIRI,Sirius XM Holdings Inc,미디어 및 출판,533020.0,0,3,1,3,1,1,1,1,10,10,1,10
+CDW,CDW Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,7,7
+STX,Seagate Technology Holdings PLC,"컴퓨터, 전화 및 가전제품",571060.0,1,3,4,4,6,2,2,2,2,3,7,7
+HBAN,Huntington Bancshares Inc,은행,551010.0,0,1,1,1,4,5,5,5,5,5,5,5
+LBRDK,Liberty Broadband Corp Series C,미디어 및 출판,533020.0,1,3,3,3,3,7,7,7,7,7,12,12
+HZNP,Horizon Therapeutics PLC,제약,562010.0,1,3,3,4,3,7,7,7,7,3,7,7
+VIAC,ViacomCBS Inc Class B,미디어 및 출판,533020.0,2,2,0,2,2,0,0,0,0,0,0,13
+SWKS,Skyworks Solutions Inc,반도체 및 반도체 장비,571010.0,1,3,4,4,6,3,3,3,3,3,3,3
+SBNY,Signature Bank,은행,551010.0,1,1,4,4,6,2,2,2,2,3,2,2
+PFG,Principal Financial Group Inc,보험,553010.0,0,1,1,1,4,6,8,8,8,8,5,5
+NTAP,NetApp Inc,"컴퓨터, 전화 및 가전제품",571060.0,1,1,1,1,1,2,2,2,5,2,1,2
+MPWR,Monolithic Power Systems Inc,반도체 및 반도체 장비,571010.0,1,3,4,4,6,7,7,7,7,3,7,7
+CINF,Cincinnati Financial Corp,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+SSNC,SS&C Technologies Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+VTRS,Viatris Inc,제약,562010.0,2,2,2,2,2,4,4,0,0,4,0,13
+HOLX,Hologic Inc,헬스케어 장비 및 용품,561010.0,1,3,3,4,3,7,7,7,7,7,7,7
+ACGL,Arch Capital Group Ltd,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+CZR,Caesars Entertainment Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,4,6,7,7,7,3,3,3,3
+NUAN,Nuance Communications Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,3,3,7,7
+NLOK,NortonLifeLock Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,5,5,6,8,8,8,8,8,8
+WDC,Western Digital Corp,"컴퓨터, 전화 및 가전제품",571060.0,2,2,2,2,2,6,8,8,8,8,8,8
+CG,Carlyle Group Inc,투자은행 및 서비스,551020.0,1,3,4,4,6,7,7,7,2,3,7,7
+TRMB,Trimble Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,3,3,7,7
+DISH,DISH Network Corp Class A,미디어 및 출판,533020.0,2,2,2,5,5,4,4,4,4,4,4,4
+UAL,United Airlines Holdings Inc,운송업,524060.0,0,0,0,0,0,0,0,9,9,9,9,0
+IEP,Icahn Enterprises Units,오일 및 가스,501020.0,0,0,0,0,0,0,0,9,10,9,10,0
+LNT,Alliant Energy Corp,전기 유틸리티,591010.0,1,3,3,3,3,7,7,7,7,7,12,12
+QRVO,Qorvo Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,3,3,3,3,3,7,3,3
+PTC,PTC Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,3,3,3,7,3,3
+HAS,Hasbro Inc,레저 상품,532050.0,0,0,1,0,1,5,5,5,10,5,5,5
+EWBC,East West Bancorp Inc,은행,551010.0,0,1,1,1,4,2,2,2,5,2,2,2
+CTXS,Citrix Systems Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,1,1,1,7,7,12,12
+STLD,Steel Dynamics Inc,메탈&마이닝,512010.0,1,1,4,1,4,2,2,2,5,2,2,2
+OTEX,Open Text Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,7,7,7,7,7,12,12
+CONE,CyrusOne Inc,주택 및 상업용 리츠,601020.0,1,3,3,3,3,7,7,7,7,7,12,12
+FCNCA,First Citizens BancShares Inc (Delaware) Class A,은행,551010.0,1,3,4,4,6,2,2,2,2,3,7,7
+REG,Regency Centers Corp,주택 및 상업용 리츠,601020.0,0,0,1,5,0,6,6,9,9,6,9,9
+AAL,American Airlines Group Inc,운송업,524060.0,2,2,0,2,2,0,0,0,0,0,0,13
+LAMR,Lamar Advertising Co Class A,주택 및 상업용 리츠,601020.0,1,3,4,4,6,2,2,2,2,3,2,2
+WYNN,Wynn Resorts Ltd,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,0,0,5,9,5,10,0
+HSIC,Henry Schein Inc,헬스케어 장비 및 용품,561010.0,1,1,4,4,6,2,2,2,2,3,2,2
+ARCC,Ares Capital Corp,다양한 금융서비스,555010.0,0,1,4,1,4,2,2,2,5,2,2,2
+NWL,Newell Brands Inc,가정용품,532040.0,2,2,2,5,5,4,4,4,4,4,4,4
+CAR,Avis Budget Group Inc,운송업,524060.0,1,1,4,4,6,2,2,2,2,3,2,2
+DISCK,Discovery Inc Series C,미디어 및 출판,533020.0,0,1,1,1,1,1,6,6,6,6,6,6
+FIVE,Five Below Inc,다양한 소매업,534020.0,1,3,3,3,3,7,7,7,7,7,12,12
+UTHR,United Therapeutics Corp,생명과학 및 메디컬 리서치,562020.0,1,1,4,4,6,2,2,2,6,3,6,6
+PBCT,People's United Financial Inc,은행,551010.0,0,0,1,1,4,6,8,8,8,8,5,5
+NWSA,News Corp Class A,미디어 및 출판,533020.0,1,1,4,4,6,2,2,2,3,3,3,3
+CBSH,Commerce Bancshares Inc,은행,551010.0,1,3,3,3,3,7,3,3,3,1,3,3
+JAZZ,Jazz Pharmaceuticals PLC,제약,562010.0,0,1,1,1,4,6,8,8,8,8,8,8
+ERIE,Erie Indemnity Co Class A,보험,553010.0,1,3,3,3,3,7,7,1,7,7,12,12
+MAT,Mattel Inc,레저 상품,532050.0,2,2,2,5,5,4,6,6,4,6,6,6
+CHDN,Churchill Downs Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,4,3,7,7,7,7,7,7,7
+PENN,Penn National Gaming Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,4,3,3,3,3,3,7,3,3
+MANH,Manhattan Associates Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,7,7,7,7,3,7,7
+MKSI,MKS Instruments Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,4,3,7,3,3,3,7,3,3
+FLEX,Flex Ltd,전자 장비 및 부품,571040.0,0,1,4,1,4,6,8,8,8,8,8,8
+PAA,Plains All American Pipeline Units,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,4,4,0,0,0,0,13
+CACC,Credit Acceptance Corp,은행,551010.0,1,3,3,3,1,1,1,1,1,1,1,1
+BPOP,Popular Inc,은행,551010.0,1,3,4,4,6,2,2,2,2,1,2,2
+AGNC,AGNC Investment Corp,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+NXST,Nexstar Media Group Inc Class A,미디어 및 출판,533020.0,1,3,3,4,6,7,7,7,2,1,7,7
+RGLD,Royal Gold Inc,메탈&마이닝,512010.0,1,3,3,3,3,1,1,1,7,7,12,12
+IIVI,II-VI Inc,전자 장비 및 부품,571040.0,1,3,4,4,6,3,3,3,3,3,3,3
+CIGI,Colliers International Group Inc,부동산 운영 관리,601010.0,1,3,4,4,6,2,2,2,2,3,7,7
+COLM,Columbia Sportswear Co,섬유 및 의류,532020.0,1,3,3,3,1,1,1,1,1,1,1,1
+OZK,Bank Ozk,은행,551010.0,2,2,2,5,4,6,8,8,8,8,8,8
+SSB,SouthState Corp,은행,551010.0,0,0,1,1,4,6,8,8,8,8,5,5
+SGMS,Scientific Games Corp,호텔 및 엔터테인먼트,533010.0,1,1,4,1,6,2,2,2,2,2,2,2
+VLY,Valley National Bancorp,은행,551010.0,0,1,1,1,4,6,8,8,5,2,5,5
+SLM,SLM Corp,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+SLAB,Silicon Laboratories Inc,반도체 및 반도체 장비,571010.0,1,3,3,4,6,7,7,7,2,3,7,7
+PDCE,PDC Energy Inc,오일 및 가스,501020.0,2,2,2,5,5,6,8,8,8,8,8,9
+COKE,Coca-Cola Consolidated Inc,음료,541010.0,1,3,4,4,6,7,7,7,2,3,7,7
+SRCL,Stericycle Inc,전문 및 상업 서비스,522030.0,2,2,2,5,5,4,4,4,4,4,4,4
+NATI,National Instruments Corp,소프트웨어 및 IT서비스,572010.0,0,0,1,0,1,5,5,5,10,10,10,10
+MLCO,Melco Resorts & Entertainment Ltd ADR,호텔 및 엔터테인먼트,533010.0,2,0,0,0,0,0,0,0,0,0,10,0
+CDK,CDK Global Inc,소프트웨어 및 IT서비스,572010.0,2,2,0,2,2,0,0,0,0,0,0,13
+UMBF,UMB Financial Corp,은행,551010.0,0,1,4,1,4,2,2,2,5,2,2,2
+ESGR,Enstar Group Ltd,보험,553010.0,1,1,4,1,4,2,2,2,5,2,2,2
+SLGN,Silgan Holdings Inc,용기 및 포장,513020.0,1,3,4,4,3,3,7,7,3,3,7,7
+ACHC,Acadia Healthcare Company Inc,헬스케어 업체 및 서비스,561020.0,1,1,4,5,5,6,6,6,6,6,6,6
+BHF,Brighthouse Financial Inc,보험,553010.0,2,2,2,5,5,4,4,4,4,4,4,4
+PINC,Premier Inc Class A,헬스케어 업체 및 서비스,561020.0,0,1,1,3,1,1,1,5,10,10,1,10
+GT,Goodyear Tire & Rubber Co,자동차 및 자동차 부품,531010.0,2,2,2,2,2,4,4,0,0,0,0,13
+LANC,Lancaster Colony Corp,식품 및 담배,541020.0,1,3,3,3,3,7,3,3,7,7,12,12
+ENSG,Ensign Group Inc,헬스케어 업체 및 서비스,561020.0,1,3,3,4,3,7,7,7,7,7,7,7
+HLNE,Hamilton Lane Inc Class A,투자은행 및 서비스,551020.0,1,3,3,3,3,7,7,7,7,7,12,12
+AVT,Avnet Inc,전자 장비 및 부품,571040.0,0,0,0,0,0,0,0,9,9,9,9,9
+SGRY,Surgery Partners Inc,헬스케어 업체 및 서비스,561020.0,1,1,4,4,6,2,2,2,3,3,3,3
+ACIW,ACI Worldwide Inc,핀테크,573010.0,1,3,3,3,3,1,1,1,1,1,12,12
+BECN,Beacon Roofing Supply Inc,주택건설,532030.0,0,1,1,1,4,6,8,8,8,8,8,8
+MEOH,Methanex Corp,화학,511010.0,0,0,0,0,0,0,0,9,9,5,9,5
+NMRK,Newmark Group Inc Class A,부동산 운영 관리,601010.0,2,2,2,5,5,6,8,8,8,8,8,9
+TCBI,Texas Capital Bancshares Inc,은행,551010.0,0,0,0,2,0,0,8,8,8,8,8,8
+PSEC,Prospect Capital Corp,다양한 금융서비스,555010.0,2,1,2,5,4,6,6,6,6,6,6,6
+JOBS,51job Inc ADR,전문 및 상업 서비스,522030.0,0,0,3,3,1,1,1,1,10,10,10,10
+LOPE,Grand Canyon Education Inc,교육서비스,631010.0,0,0,1,0,1,1,1,5,10,10,10,10
+ALGT,Allegiant Travel Co,운송업,524060.0,1,1,4,1,4,2,6,6,6,6,6,6
+VSAT,ViaSat Inc,커뮤니케이션 및 네트워킹,571020.0,2,0,0,0,0,0,0,9,9,9,9,0
+CCOI,Cogent Communications Holdings Inc,통신 서비스,574010.0,1,3,3,3,3,7,7,7,7,7,12,12
+ONB,Old National Bancorp,은행,551010.0,0,0,1,1,4,5,5,5,5,5,5,5
+SABR,Sabre Corp,소프트웨어 및 IT서비스,572010.0,2,2,0,2,2,0,0,9,0,9,9,0
+NAVI,Navient Corp,은행,551010.0,0,1,4,1,4,6,6,6,6,6,6,6
+FULT,Fulton Financial Corp,은행,551010.0,0,0,1,0,0,5,5,9,9,5,5,5
+TWNK,Hostess Brands Inc Class A,식품 및 담배,541020.0,1,1,4,1,6,2,2,2,2,2,2,2
+WERN,Werner Enterprises Inc,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,3,3,7,7,12,12
+GRFS,Grifols SA ADR,제약,562010.0,2,0,0,0,0,0,0,5,10,10,10,0
+PTEN,Patterson-UTI Energy Inc,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,0,0,0,0,0,13
+OAS,Oasis Petroleum Inc,오일 및 가스,501020.0,1,1,4,4,6,2,2,2,2,3,2,2
+GBDC,Golub Capital Bdc Inc,다양한 금융서비스,555010.0,2,0,0,2,0,0,0,9,9,9,9,0
+UNIT,Uniti Group Inc,주택 및 상업용 리츠,601020.0,2,2,2,5,5,4,4,4,4,4,4,4
+IBOC,International Bancshares Corp,은행,551010.0,0,1,1,1,1,5,5,5,5,5,5,5
+RCII,Rent-A-Center Inc,전문품 상점,534030.0,1,3,3,4,3,7,7,7,3,3,7,7
+VEON,VEON Ltd ADR,통신 서비스,574010.0,2,2,2,2,2,4,4,0,0,4,0,13
+OTTR,Otter Tail Corp,전기 유틸리티,591010.0,1,3,1,3,1,1,1,1,1,1,1,1
+SANM,Sanmina Corp,반도체 및 반도체 장비,571010.0,1,1,4,1,4,2,2,2,6,2,2,2
+FFBC,First Financial Bancorp,은행,551010.0,0,0,0,0,0,5,5,9,9,5,5,5
+CDEV,Centennial Resource Development Inc Class A,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+WAFD,Washington Federal Inc,은행,551010.0,0,0,1,0,0,5,5,5,5,5,5,5
+HMHC,Houghton Mifflin Harcourt Co,전문 및 상업 서비스,522030.0,2,2,2,5,5,6,6,6,4,6,6,6
+ROIC,Retail Opportunity Investments Corp,주택 및 상업용 리츠,601020.0,2,2,0,2,0,0,0,9,9,9,9,9
+NMIH,NMI Holdings Inc Class A,보험,553010.0,1,3,3,3,1,1,1,1,1,1,1,1
+SBGI,Sinclair Broadcast Group Inc Class A,미디어 및 출판,533020.0,0,0,0,0,0,0,0,9,9,9,9,0
+SASR,Sandy Spring Bancorp Inc,은행,551010.0,0,1,1,1,4,6,8,8,5,2,5,5
+LKFN,Lakeland Financial Corp,은행,551010.0,1,3,4,4,6,2,2,2,2,2,2,2
+LILAK,Liberty Latin America Ltd Class C,통신 서비스,574010.0,2,2,2,5,5,4,4,4,4,4,4,4
+PRGS,Progress Software Corp,소프트웨어 및 IT서비스,572010.0,1,3,3,3,1,1,1,1,1,1,1,1
+PRAA,PRA Group Inc,은행,551010.0,1,1,4,5,5,3,6,6,6,11,11,11
+PLAY,Dave & Buster's Entertainment Inc,호텔 및 엔터테인먼트,533010.0,2,0,0,2,0,0,0,9,9,9,9,9
+REGI,Renewable Energy Group Inc,재생에너지,502010.0,1,3,3,4,3,3,3,3,3,7,3,3
+AMCX,AMC Networks Inc Class A,미디어 및 출판,533020.0,2,2,0,2,2,0,0,9,0,0,9,9
+COMM,CommScope Holding Company Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,0,2,2,0,4,0,0,0,0,13
+NWBI,Northwest Bancshares Inc,은행,551010.0,0,0,0,0,0,0,0,9,9,9,9,0
+CMPR,Cimpress PLC,전문 및 상업 서비스,522030.0,0,0,0,0,0,5,5,5,10,5,10,0
+ARLP,Alliance Resource Partners Units,석유,501010.0,2,2,0,2,2,0,0,0,0,0,0,13
+MSEX,Middlesex Water Co,수도 유틸리티,591030.0,1,3,3,4,3,7,7,7,7,7,7,7
+CENX,Century Aluminum Co,메탈&마이닝,512010.0,0,1,1,1,4,6,8,8,8,8,8,8
+CSIQ,Canadian Solar Inc,재생에너지,502010.0,1,3,3,4,3,3,3,3,3,7,3,3
+ROCK,Gibraltar Industries Inc,주택건설,532030.0,1,3,3,4,3,3,3,3,3,7,3,3
+PATK,Patrick Industries Inc,주택건설,532030.0,1,3,4,4,6,2,3,3,3,2,3,3
+GPRE,Green Plains Inc,재생에너지,502010.0,1,1,4,1,4,6,6,6,6,6,6,6
+KALU,Kaiser Aluminum Corp,메탈&마이닝,512010.0,0,1,1,1,4,5,5,5,5,5,5,5
+BGCP,BGC Partners Inc Class A,투자은행 및 서비스,551020.0,2,2,0,2,2,0,0,0,0,0,0,13
+GDEN,Golden Entertainment Inc,호텔 및 엔터테인먼트,533010.0,1,1,4,1,4,2,2,2,2,2,2,2
+FRTA,Forterra Inc,건축 자재,512020.0,1,1,4,4,6,3,6,6,6,3,6,6
+MODV,ModivCare Inc,헬스케어 업체 및 서비스,561020.0,1,3,4,4,6,7,3,3,3,3,3,3
+BBBY,Bed Bath & Beyond Inc,전문품 상점,534030.0,2,2,2,5,5,4,4,4,4,4,4,4
+ECOL,US Ecology Inc,전문 및 상업 서비스,522030.0,0,0,0,0,0,0,0,9,9,9,9,0
+ILPT,Industrial Logistics Properties Trust,주택 및 상업용 리츠,601020.0,1,1,4,1,4,6,6,6,6,6,6,6
+SVC,Service Properties Trust,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+WRLD,World Acceptance Corp,은행,551010.0,1,3,4,4,6,2,2,2,2,1,2,2
+NYMT,New York Mortgage Trust Inc,주택 및 상업용 리츠,601020.0,2,0,0,2,0,0,0,9,9,9,9,0
+GIII,G-III Apparel Group Ltd,섬유 및 의류,532020.0,2,2,2,5,5,4,4,4,4,4,4,9
+OCSL,Oaktree Specialty Lending Corp,다양한 금융서비스,555010.0,1,1,4,4,6,2,6,6,6,6,6,6
+AVID,Avid Technology Inc,소프트웨어 및 IT서비스,572010.0,1,3,4,4,6,2,2,2,2,3,7,7
+CNOB,ConnectOne Bancorp Inc,은행,551010.0,0,1,1,1,4,5,8,8,5,2,5,5
+CLMT,Calumet Specialty Products Partners Units,오일 및 가스,501020.0,2,2,2,5,5,4,6,6,4,4,4,4
+ANDE,Andersons Inc,식품 및 담배,541020.0,2,2,2,5,5,6,8,8,8,8,8,9
+CMCO,Columbus McKinnon Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,1,2,3,3,1,1,1,3
+CNXN,PC Connection Inc,통합 하드웨어 및 소프트웨어,571070.0,1,3,3,3,3,7,7,7,7,7,12,12
+RCKT,Rocket Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,1,3,3,4,3,3,3,3,3,7,3,3
+CHCO,City Holding Co,은행,551010.0,0,3,1,3,1,1,1,5,1,1,1,1
+OPI,Office Properties Income Trust,주택 및 상업용 리츠,601020.0,2,2,2,2,2,4,4,0,0,0,0,13
+OMP,Oasis Midstream Partners LP Unit,오일 및 가스 장비 및 서비스,501030.0,0,1,1,1,4,5,5,8,5,6,5,5
+HTLD,Heartland Express Inc,화물 및 물류 서비스,524050.0,2,2,0,2,2,4,4,4,4,4,4,4
+TSAT,Telesat Corp Class A,통신 서비스,574010.0,2,2,2,5,5,4,4,4,4,4,4,9
+MATW,Matthews International Corp Class A,미디어 및 출판,533020.0,2,2,2,2,2,4,4,0,0,0,0,13
+ATLC,Atlanticus Holdings Corp,은행,551010.0,1,3,4,4,6,2,2,7,2,3,7,7
+WASH,Washington Trust Bancorp Inc,은행,551010.0,0,0,1,1,0,5,5,5,5,5,5,5
+PLCE,Children's Place Inc,전문품 상점,534030.0,0,0,0,0,0,0,0,9,9,5,9,5
+HA,Hawaiian Holdings Inc,운송업,524060.0,2,2,0,2,2,0,0,0,0,0,0,13
+HURN,Huron Consulting Group Inc,전문 및 상업 서비스,522030.0,1,3,3,3,1,1,1,1,1,11,11,1
+VREX,Varex Imaging Corp,헬스케어 장비 및 용품,561010.0,2,2,0,2,2,0,0,9,9,0,9,13
+GLDD,Great Lakes Dredge & Dock Corp,건설 및 엔지니어링,522010.0,1,3,3,3,3,7,7,7,7,7,12,12
+LIND,Lindblad Expeditions Holdings Inc,호텔 및 엔터테인먼트,533010.0,0,3,1,3,1,1,1,1,1,1,1,1
+ACB,Aurora Cannabis Inc,제약,562010.0,0,0,0,0,0,0,0,5,10,5,10,0
+HWKN,Hawkins Inc,화학,511010.0,1,3,4,4,6,2,2,2,2,3,7,7
+MERC,Mercer International Inc,종이 및 임산물,513010.0,0,0,1,0,0,5,5,5,9,5,5,5
+DMLP,Dorchester Minerals Units,오일 및 가스,501020.0,0,0,1,0,0,5,5,9,9,5,5,9
+PLL,Piedmont Lithium Inc,화학,511010.0,1,1,4,4,6,2,2,2,3,3,3,3
+MGI,MoneyGram International Inc,전문 및 상업 서비스,522030.0,2,2,2,5,5,6,8,8,8,8,8,8
+TILE,Interface Inc,가정용품,532040.0,2,2,0,2,2,0,0,0,0,0,0,13
+HIFS,Hingham Institution For Savings,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+VNDA,Vanda Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,1,0,0,5,5,5,10,5,10,10
+ENDP,Endo International PLC,제약,562010.0,2,2,2,5,5,4,4,4,4,4,4,4
+DHC,Diversified Healthcare Trust,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,4,0,0,0,0,13
+CONN,Conn's Inc,전문품 상점,534030.0,0,0,1,0,0,5,5,5,9,5,5,5
+FOSL,Fossil Group Inc,섬유 및 의류,532020.0,2,2,2,5,5,4,4,4,4,4,4,4
+NEWT,Newtek Business Services Corp,은행,551010.0,1,3,4,4,6,2,2,2,2,1,2,2
+SP,SP Plus Corp,운송 인프라,524070.0,0,0,1,0,0,5,5,5,9,5,10,0
+ATRS,Antares Pharma Inc,헬스케어 장비 및 용품,561010.0,1,3,3,3,1,1,1,1,1,1,1,1
+CATC,Cambridge Bancorp,은행,551010.0,0,1,1,1,1,5,5,5,5,5,5,5
+CSWC,Capital Southwest Corp,투자은행 및 서비스,551020.0,0,1,1,5,5,1,6,6,6,6,6,6
+CENT,Central Garden & Pet Co,식품 및 담배,541020.0,1,3,4,4,6,2,3,3,3,2,3,3
+DHIL,Diamond Hill Investment Group Inc Class A,투자은행 및 서비스,551020.0,2,2,2,5,5,6,8,8,8,8,8,8
+YORW,York Water Co,수도 유틸리티,591030.0,1,3,3,3,3,7,7,7,7,7,12,12
+BLBD,Blue Bird Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,1,1,1,1,5,5,5,5,5,5,5
+GAIN,Gladstone Investment Corp,다양한 금융서비스,555010.0,1,3,3,3,1,2,2,2,1,1,1,1
+WTBA,West Bancorporation Inc,은행,551010.0,0,1,1,1,4,2,2,2,5,2,2,2
+LOCO,El Pollo Loco Holdings Inc,호텔 및 엔터테인먼트,533010.0,1,3,3,3,3,3,3,3,3,11,11,11
+FMNB,Farmers National Banc Corp,은행,551010.0,0,1,1,1,1,5,5,5,5,2,1,1
+EBTC,Enterprise Bancorp Inc,은행,551010.0,0,1,1,1,4,5,5,8,5,5,5,5
+DLTH,Duluth Holdings Inc Class B,섬유 및 의류,532020.0,2,2,0,2,2,0,0,0,0,0,0,9
+FITBI,Fifth Third Bancorp Depositary Shares Representing 1/1000th Perp Pref Shs,은행,551010.0,2,2,2,5,5,6,6,4,8,4,11,11
+GILT,Gilat Satellite Networks Ltd,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,1,1,1,1,1,10,1,10
+TACO,Del Taco Restaurants Inc,호텔 및 엔터테인먼트,533010.0,2,2,2,2,2,0,0,0,0,0,0,13
+BSRR,Sierra Bancorp,은행,551010.0,0,0,1,0,0,5,5,5,5,5,5,5
+VIA,Via Renewables Inc Class A,전기 유틸리티,591010.0,2,2,2,5,5,6,4,4,8,8,8,8
+CZNC,Citizens & Northern Corp,은행,551010.0,0,0,1,0,0,5,5,5,9,5,5,5
+DGICA,Donegal Group Inc Class A,보험,553010.0,2,2,2,5,5,4,4,4,8,4,8,8
+NATR,Natures Sunshine Products Inc,식품 및 담배,541020.0,1,1,4,4,6,2,2,2,3,3,3,3
+UTMD,Utah Medical Products Inc,헬스케어 장비 및 용품,561010.0,1,3,3,3,1,1,1,1,1,10,1,10
+LNDC,Landec Corp,식품 및 담배,541020.0,2,2,0,2,2,0,0,0,0,0,0,13
+GCBC,Greene County Bancorp Inc,은행,551010.0,0,0,1,1,1,5,5,5,5,5,5,10
+CBAN,Colony Bankcorp Inc,은행,551010.0,0,1,1,1,1,5,5,5,5,1,1,1
+NBN,Northeast Bank,은행,551010.0,1,1,4,4,6,2,2,2,2,2,2,2
+IRCP,IRSA Propiedades Comerciales SA ADR,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,4,0,0,0,0,13
+STRS,Stratus Properties Inc,부동산 운영 관리,601010.0,0,1,1,1,4,5,5,5,5,5,5,5
+FLL,Full House Resorts Inc,호텔 및 엔터테인먼트,533010.0,1,1,4,4,6,2,2,2,2,3,2,2
+VKTX,Viking Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,0,0,3,3,1,1,1,1,10,10,10,10
+JSM,Navient 6 Prcnt Senior Notes Exp 15 Dec 2043,은행,551010.0,1,1,4,1,4,2,2,2,6,2,11,11
+FDBC,Fidelity D&D Bancorp Inc,은행,551010.0,1,3,3,3,1,1,1,1,10,10,1,10
+WPRT,Westport Fuel Systems Inc,자동차 및 자동차 부품,531010.0,1,1,4,4,6,3,3,3,3,2,3,3
+FSBW,FS Bancorp Inc,은행,551010.0,1,1,1,1,1,2,2,2,5,2,1,2
+NCMI,National Cinemedia Inc,미디어 및 출판,533020.0,2,2,2,5,5,4,4,4,4,4,4,4
+PFSW,PFSweb Inc,소프트웨어 및 IT서비스,572010.0,2,1,2,5,5,6,6,6,6,6,6,6
+CLVS,Clovis Oncology Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,2,2,4,4,0,0,0,0,13
+MRCC,Monroe Capital Corp,다양한 금융서비스,555010.0,2,2,0,2,2,0,0,0,0,0,0,13
+NWFL,Norwood Financial Corp,은행,551010.0,0,0,1,0,1,5,5,5,10,10,10,10
+SLMBP,SLM Floating Rate Non Cumulative Pref Shs Series B,은행,551010.0,0,0,0,0,0,0,0,9,9,5,9,5
+PLBC,Plumas Bancorp,은행,551010.0,1,3,3,3,1,2,2,2,1,1,1,1
+CPSS,Consumer Portfolio Services Inc,은행,551010.0,1,1,4,1,4,2,6,6,6,6,6,6
+PKOH,Park Ohio Holdings Corp,"건설장비 및 대형차, 기차, 배",521020.0,2,2,0,2,2,0,0,0,0,0,0,13
+ATLO,Ames National Corp,은행,551010.0,2,0,0,2,0,0,0,9,9,9,9,0
+CHMG,Chemung Financial Corp,은행,551010.0,0,0,1,0,0,5,5,5,5,5,5,5
+WNEB,Western New England Bancorp Inc,은행,551010.0,0,0,0,0,0,0,0,9,9,5,9,0
+LEE,Lee Enterprises Inc,미디어 및 출판,533020.0,0,1,1,1,4,6,5,8,5,6,5,9
+SMMT,Summit Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,8,4,8,8
+CCLP,CSI Compressco Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,5,5,4,4,4,4,4,4,4
+CECE,CECO Environmental Corp,전문 및 상업 서비스,522030.0,2,2,2,5,5,4,4,4,4,4,4,4
+WMPN,William Penn Bancorp,은행,551010.0,0,0,0,0,0,1,1,5,10,10,10,10
+MNSB,MainStreet Bancshares Inc,은행,551010.0,0,1,1,3,1,1,1,5,1,1,1,1
+VABK,Virginia National Bankshares Corp,은행,551010.0,0,0,1,0,0,5,5,5,10,5,10,10
+CMCT,CIM Commercial Trust Corp,주택 및 상업용 리츠,601020.0,2,2,0,2,2,0,0,0,0,0,0,13
+CALB,California BanCorp,은행,551010.0,2,2,0,2,2,0,0,0,0,0,0,13
+SNCR,Synchronoss Technologies Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,5,5,4,4,4,4,4,4,4
+SNFCA,Security National Financial Corp Class A,은행,551010.0,1,3,4,4,6,3,3,7,3,3,7,7
+TWIN,Twin Disc Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,0,0,2,2,0,0,0,0,0,0,13
+HDSN,Hudson Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,5,4,4,4,8,8,8,8
+DBVT,DBV Technologies SA ADR,제약,562010.0,2,2,2,2,2,4,4,0,0,0,0,13
+RELL,Richardson Electronics Ltd,전자 장비 및 부품,571040.0,0,1,1,1,4,2,2,2,5,2,2,2
+EML,Eastern Co,"건설장비 및 대형차, 기차, 배",521020.0,0,0,1,0,1,5,5,5,10,5,10,5
+OVLY,Oak Valley Bancorp,은행,551010.0,0,0,1,0,1,5,5,5,10,10,10,10
+OVBC,Ohio Valley Banc Corp,은행,551010.0,0,0,0,0,0,5,0,5,9,5,10,0
+LMST,Limestone Bancorp Inc,은행,551010.0,1,3,1,3,1,1,1,1,1,1,1,1
+TAST,Carrols Restaurant Group Inc,호텔 및 엔터테인먼트,533010.0,2,2,0,2,2,0,0,0,0,0,0,13
+VEV,Vicinity Motor Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,1,2,1,4,6,8,8,8,8,8,8
+FCRD,First Eagle Alternative Capital BDC Inc,다양한 금융서비스,555010.0,2,2,0,2,2,4,4,0,0,0,0,13
+OFED,Oconee Federal Financial Corp,은행,551010.0,0,0,1,0,0,5,5,5,10,5,10,10
+XELA,Exela Technologies Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,4,4,4,4,4,4,4
+MMLP,Martin Midstream Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,4,4,4,4,4,4,4
+CFRX,ContraFect Corp,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+AUBN,Auburn National Bancorporation Inc,은행,551010.0,0,3,3,3,1,1,1,1,10,10,10,10
+BTX,Brooklyn Immunotherapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+CWBC,Community West Bancshares,은행,551010.0,0,1,1,1,4,5,5,2,5,2,5,2
+CFBK,CF Bankshares Inc,은행,551010.0,1,3,4,4,6,2,2,2,2,2,2,2
+RNDB,Randolph Bancorp Inc,은행,551010.0,1,1,4,1,6,2,2,2,2,2,2,2
+PRTG,Portage Biotech Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,6,8,8,8,8,8,8
+AFBI,Affinity Bancshares Inc,은행,551010.0,2,1,2,5,4,6,6,6,6,6,6,6
+SALM,Salem Media Group Inc Class A,미디어 및 출판,533020.0,2,2,2,5,2,4,4,4,4,4,4,4
+BPOPM,Popular Capital Trust II 6 125 Cumulative Monthly Income Pref Shs,다양한 금융서비스,555010.0,1,3,3,3,3,1,1,1,1,1,12,12
+CULL,Cullman Bancorp  Inc.,은행,551010.0,2,0,0,0,0,1,1,5,10,10,10,10
+PBYI,Puma Biotechnology Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+RDI,Reading International Inc Class A,호텔 및 엔터테인먼트,533010.0,2,2,0,2,2,0,0,0,0,0,0,13
+LSBK,Lake Shore Bancorp Inc,은행,551010.0,0,0,0,0,0,5,5,9,9,5,5,5
+USIO,Usio Inc,전문 및 상업 서비스,522030.0,1,3,4,4,6,2,2,2,3,3,3,3
+MACK,Merrimack Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+BOTJ,Bank of the James,은행,551010.0,0,1,1,1,4,5,5,8,5,5,5,5
+AIRT,Air T Inc,화물 및 물류 서비스,524050.0,1,1,4,1,6,2,2,2,2,2,2,2
+LRFC,Logan Ridge Finance Corp,투자은행 및 서비스,551020.0,2,2,2,2,2,4,4,4,4,4,4,4
+OXLCM,Oxford Lane Cap 6 75 Pref Shs Series 2024,다양한 금융서비스,555010.0,0,0,1,0,0,5,5,9,9,9,5,9
+AQMS,Aqua Metals Inc,메탈&마이닝,512010.0,2,2,2,5,5,4,4,4,4,4,4,4
+KFFB,Kentucky First Federal Bancorp,은행,551010.0,2,2,0,2,2,0,0,0,0,0,0,13
+KTCC,Key Tronic Corp,"컴퓨터, 전화 및 가전제품",571060.0,2,2,2,5,5,4,4,4,4,4,4,4
+NEON,Neonode Inc,전자 장비 및 부품,571040.0,2,2,2,5,5,4,4,4,4,4,4,4
+BBGI,Beasley Broadcast Group Inc Class A,미디어 및 출판,533020.0,2,2,0,2,2,0,0,0,0,0,0,13
+AAME,Atlantic American Corp,보험,553010.0,2,2,2,5,5,6,6,6,6,6,6,6
+DWSN,Dawson Geophysical Co,오일 및 가스 장비 및 서비스,501030.0,2,2,0,2,2,0,4,0,0,0,0,13
+GURE,Gulf Resources Inc,화학,511010.0,2,2,2,5,5,4,4,4,4,4,4,4
+GEG,Great Elm Group Inc,헬스케어 장비 및 용품,561010.0,2,2,2,5,5,4,4,4,4,4,4,4
+CPIX,Cumberland Pharmaceuticals Inc,제약,562010.0,2,2,0,2,2,0,0,0,0,0,0,13
+NEPT,Neptune Wellness Solutions Inc,제약,562010.0,0,0,0,0,1,1,1,5,10,10,10,10
+MRIN,Marin Software Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,5,5,4,4,4,4,4,4,4
+FKWL,Franklin Wireless Corp,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,3,3,3,3,7,3,3
+CPSH,CPS Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,3,3,3,3,3,3,3
+POLA,Polar Power Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,5,6,6,6,6,6,6,6
+TAYD,Taylor Devices Inc,"건설장비 및 대형차, 기차, 배",521020.0,2,2,2,5,5,4,4,4,4,4,4,4
+ALNA,Allena Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,0,2,2,0,0,0,0,0,0,13
+JAGX,Jaguar Health Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+BBI,Brickell Biotech Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+SGBX,SG Blocks Inc,주택건설,532030.0,2,2,0,2,2,4,4,0,0,0,0,13
+TRIB,Trinity Biotech PLC ADR,헬스케어 장비 및 용품,561010.0,2,2,2,5,5,4,4,4,4,4,4,4
+TPST,Tempest Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+RKDA,Arcadia Biosciences Inc,화학,511010.0,2,2,2,5,5,4,4,4,4,4,4,4
+SUMR,Summer Infant Inc,레저 상품,532050.0,2,2,2,5,5,4,4,4,4,4,4,4
+YMTX,Yumanity Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+BOSC,BOS Better Online Solutions Ltd,"건설장비 및 대형차, 기차, 배",521020.0,1,3,4,4,6,3,3,3,3,3,3,3
+SNOA,Sonoma Pharmaceuticals Inc,제약,562010.0,2,2,2,2,2,4,4,4,0,4,0,13
+YVR,Liquid Media Group Ltd,소프트웨어 및 IT서비스,572010.0,2,2,2,5,5,4,4,4,4,4,4,4
+AEHL,Antelope Enterprise Holdings Ltd,주택건설,532030.0,2,2,2,5,5,4,4,4,4,4,4,4
+LNG,Cheniere Energy Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,4,4,6,2,2,2,2,2,2,2
+CQP,Cheniere Energy Partners Units,오일 및 가스 장비 및 서비스,501030.0,1,3,3,3,1,1,1,1,1,1,1,1
+CBOE,Cboe Global Markets Inc,투자은행 및 서비스,551020.0,0,3,1,3,1,1,1,1,1,1,1,1
+SIM,Grupo Simec SAB de CV ADR,메탈&마이닝,512010.0,1,1,4,4,6,2,2,2,2,3,2,2
+NOG,Northern Oil and Gas Inc,오일 및 가스,501020.0,2,2,2,5,5,4,4,4,4,4,4,4
+NGD,New Gold Inc,메탈&마이닝,512010.0,2,2,2,5,5,4,4,4,4,4,4,4
+TELL,Tellurian Inc,오일 및 가스,501020.0,2,0,0,2,0,0,0,9,9,9,9,0
+TMP,Tompkins Financial Corp,은행,551010.0,0,0,1,0,0,5,5,5,5,5,5,5
+CCF,Chase Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,1,3,1,1,1,5,10,10,10,10
+TGB,Taseko Mines Ltd,메탈&마이닝,512010.0,1,1,4,1,4,6,8,8,8,8,8,8
+GTE,Gran Tierra Energy Inc,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+NBH,Neuberger Berman Municipal Fund Inc,다양한 금융서비스,555010.0,1,1,4,5,5,3,6,6,6,11,11,11
+TMQ,Trilogy Metals Inc,메탈&마이닝,512010.0,1,3,3,3,1,1,1,1,1,10,1,10
+DLA,Delta Apparel Inc,섬유 및 의류,532020.0,1,1,4,1,6,2,2,2,2,2,2,2
+CMCL,Caledonia Mining Corporation PLC,메탈&마이닝,512010.0,1,3,3,3,3,3,3,3,7,7,12,12
+ECF,Ellsworth Growth and Income Fund Ltd,다양한 금융서비스,555010.0,1,3,3,3,3,7,3,3,3,7,3,3
+AE,Adams Resources & Energy Inc,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+NTIP,Network-1 Technologies Inc,미디어 및 출판,533020.0,2,2,2,5,5,6,8,8,8,8,8,8
+JOB,GEE Group Inc,전문 및 상업 서비스,522030.0,2,2,2,5,5,4,4,4,4,4,4,4
+DSS,DSS Inc,용기 및 포장,513020.0,2,2,0,2,2,0,0,0,0,0,0,13
+CVU,CPI Aerostructures Inc,우주항공 및 국방,521010.0,2,2,0,2,2,0,0,0,0,0,0,13
+CVR,Chicago Rivet & Machine Co,"건설장비 및 대형차, 기차, 배",521020.0,2,2,0,2,2,0,0,0,0,0,0,13
+TMBR,Timber Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,2,2,2,5,5,4,4,4,4,4,4,4
+GBR,New Concept Energy Inc,오일 및 가스,501020.0,1,1,4,4,6,2,3,3,3,3,3,3
+HUSA,Houston American Energy Corp,오일 및 가스,501020.0,2,2,0,2,2,0,0,0,0,0,0,13
+IPB,Merrill Lynch Depositor Corporate Backed Trust Certificates Series 2003-1 Exp,은행,551010.0,1,3,4,4,6,3,3,3,3,3,3,3

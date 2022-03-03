@@ -1,0 +1,167 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+BABA,Alibaba Group Holding Ltd ADR,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,5,5,9,9,9,9,9
+DIS,Walt Disney Co,미디어 및 출판,533020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ORCL,Oracle Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,1,1,1,5,5,4,4,4,4,4,4,4
+SAP,SAP SE ADR,소프트웨어 및 IT서비스,572010.0,1,1,2,1,1,1,1,1,1,1,1,1
+IBM,International Business Machines Corp,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,7,7,7,7,7,7,7
+NOW,ServiceNow Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,11,11,11
+SHOP,Shopify Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,11,11,11
+INFY,Infosys Ltd ADR,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+SE,Sea Ltd ADR,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+SNAP,Snap Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,4,4,4
+SQ,Block Inc Class A,전문 및 상업 서비스,522030.0,1,1,4,1,1,1,1,1,1,1,1,1
+EMR,Emerson Electric Co,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,5,5,4,4,4,4,4,4,4
+VMW,VMware Inc Class A,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,5,5,5,5,5,5,5
+PANW,Palo Alto Networks Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+JCI,Johnson Controls International PLC,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,5,5,4,4,4,4,4,4,4
+STM,STMicroelectronics NV ADR,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,11,11,11
+ANET,Arista Networks Inc,커뮤니케이션 및 네트워킹,571020.0,1,1,1,5,5,4,4,4,4,11,11,11
+STT,State Street Corp,투자은행 및 서비스,551020.0,0,0,0,0,0,2,2,2,2,2,2,2
+VEEV,Veeva Systems Inc Class A,헬스케어 장비 및 용품,561010.0,1,1,4,1,1,1,1,1,1,1,1,1
+TWLO,Twilio Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+ROK,Rockwell Automation Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,5,5,4,4,4,4,11,11,11
+TWTR,Twitter Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+LYV,Live Nation Entertainment Inc,호텔 및 엔터테인먼트,533010.0,1,1,1,5,5,4,4,4,4,11,11,11
+HUBS,HubSpot Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+CVNA,Carvana Co Class A,전문품 상점,534030.0,1,1,4,1,1,1,1,1,1,1,1,1
+GRMN,Garmin Ltd,커뮤니케이션 및 네트워킹,571020.0,1,1,1,1,1,1,1,1,1,11,11,11
+PAYC,Paycom Software Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+TYL,Tyler Technologies Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,11,11,11
+RNG,RingCentral Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,12,12
+W,Wayfair Inc Class A,다양한 소매업,534020.0,1,1,4,1,1,1,1,1,1,1,1,1
+ZEN,Zendesk Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+GDDY,GoDaddy Inc Class A,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,1,1,1,1,1,1,1
+TDOC,Teladoc Health Inc,헬스케어 업체 및 서비스,561020.0,1,1,4,4,4,1,1,9,9,9,12,12
+JNPR,Juniper Networks Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,0,0,0,0,0,0,0,0,0,2
+LUMN,Lumen Technologies Inc,통신 서비스,574010.0,0,3,3,3,3,7,7,7,7,7,7,7
+RS,Reliance Steel & Aluminum Co,메탈&마이닝,512010.0,1,1,1,5,5,4,4,4,4,11,11,11
+CIEN,Ciena Corp,커뮤니케이션 및 네트워킹,571020.0,1,1,1,1,1,1,1,1,1,11,11,11
+ST,Sensata Technologies Holding PLC,전자 장비 및 부품,571040.0,1,0,1,5,0,4,0,0,0,4,4,4
+XPO,XPO Logistics Inc,화물 및 물류 서비스,524050.0,1,1,1,5,5,4,4,4,4,4,1,1
+VIPS,Vipshop Holdings Ltd ADR,소프트웨어 및 IT서비스,572010.0,1,1,4,4,4,6,6,6,6,6,6,6
+SWCH,Switch Inc Class A,"컴퓨터, 전화 및 가전제품",571060.0,1,1,1,5,5,4,4,4,4,4,4,4
+ADT,ADT Inc,커뮤니케이션 및 네트워킹,571020.0,0,3,3,3,3,7,7,7,7,7,7,7
+PAGS,PagSeguro Digital Ltd Class A,전문 및 상업 서비스,522030.0,1,1,4,4,4,6,6,6,6,6,6,6
+NEWR,New Relic Inc,소프트웨어 및 IT서비스,572010.0,2,0,0,2,0,0,0,0,0,0,0,0
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050.0,2,0,0,0,0,0,0,0,0,0,0,0
+CHGG,Chegg Inc,전문 및 상업 서비스,522030.0,1,1,4,4,4,1,1,1,1,1,12,12
+BOX,Box Inc Class A,소프트웨어 및 IT서비스,572010.0,2,0,0,0,0,0,0,0,0,0,0,0
+ATHM,Autohome Inc ADR,미디어 및 출판,533020.0,2,2,2,2,2,5,5,5,5,5,5,5
+XRX,Xerox Holdings Corp,사무기기,571050.0,0,3,3,3,6,3,8,8,8,8,8,8
+ENV,Envestnet Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+SSTK,Shutterstock Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,4,4,4
+BMI,Badger Meter Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,1,1,1,4,4,4,4,11,11,11
+YELP,Yelp Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,2,2,2,2,2,2,2
+EDU,New Oriental Education & Technology Group Inc ADR,교육서비스,631010.0,2,2,2,2,2,5,5,9,9,9,9,9
+BDC,Belden Inc,커뮤니케이션 및 네트워킹,571020.0,0,3,3,3,3,7,7,7,10,10,10,10
+TAL,TAL Education Group ADR,교육서비스,631010.0,2,2,2,2,2,5,5,9,9,9,9,9
+MAXR,Maxar Technologies Inc,커뮤니케이션 및 네트워킹,571020.0,0,3,3,3,3,7,7,7,7,7,7,7
+VVNT,Vivint Smart Home Inc Class A,커뮤니케이션 및 네트워킹,571020.0,1,2,4,4,4,6,6,9,9,9,12,12
+FINV,FinVolution Group ADR,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,7,7,7,7,7,7,7
+CARS,Cars.com Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,7,3,3,10,10,10,10
+DESP,Despegar.com Corp,호텔 및 엔터테인먼트,533010.0,0,3,3,3,3,7,3,3,10,10,10,10
+QUOT,Quotient Technology Inc,미디어 및 출판,533020.0,0,3,0,0,6,3,3,3,3,3,3,3
+NAT,Nordic American Tanker Ltd,오일 및 가스 장비 및 서비스,501030.0,0,3,3,3,3,7,7,7,7,7,7,7
+QD,Qudian Inc ADR,핀테크,573010.0,0,3,3,3,3,7,7,7,7,7,7,7
+SUPV,Grupo Supervielle SA ADR,은행,551010.0,0,3,3,3,3,3,3,3,10,10,10,10
+AAPL,Apple Inc,"컴퓨터, 전화 및 가전제품",571060.0,1,1,1,1,5,4,4,4,4,11,11,11
+MSFT,Microsoft Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,11,11,11
+AMZN,Amazon.com Inc,다양한 소매업,534020.0,1,1,4,1,1,1,1,1,1,1,1,1
+GOOGL,Alphabet Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+TSLA,Tesla Inc,자동차 및 자동차 부품,531010.0,1,1,1,5,5,4,4,4,4,11,11,11
+NVDA,NVIDIA Corp,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,11,11,11
+FB,Meta Platforms Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CSCO,Cisco Systems Inc,커뮤니케이션 및 네트워킹,571020.0,1,1,1,1,1,1,1,1,1,1,1,1
+ADBE,Adobe Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+INTC,Intel Corp,반도체 및 반도체 장비,571010.0,2,2,2,2,2,5,5,9,9,9,9,9
+QCOM,Qualcomm Inc,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,11,11,11
+NFLX,Netflix Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+INTU,Intuit Inc,핀테크,573010.0,1,1,1,5,5,4,4,4,4,11,11,11
+AMD,Advanced Micro Devices Inc,반도체 및 반도체 장비,571010.0,1,1,1,1,5,4,4,4,4,11,11,11
+PYPL,PayPal Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+HON,Honeywell International Inc,복합 기업,544010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BKNG,Booking Holdings Inc,호텔 및 엔터테인먼트,533010.0,1,1,1,5,5,4,4,0,0,4,4,4
+TEAM,Atlassian Corporation PLC Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,5,4,4,4,4,11,11,11
+ADI,Analog Devices Inc,반도체 및 반도체 장비,571010.0,1,1,1,1,1,4,4,1,1,11,11,11
+NTES,NetEase Inc ADR,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+ATVI,Activision Blizzard Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,4,4,1,1,1,1,1,1,1
+EQIX,Equinix Inc,주택 및 상업용 리츠,601020.0,1,1,4,1,1,1,1,1,1,1,1,1
+WDAY,Workday Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BIDU,Baidu Inc ADR,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,2,2,2,2,2,2,13
+FTNT,Fortinet Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+ADSK,Autodesk Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+NXPI,NXP Semiconductors NV,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,4,4,4
+EA,Electronic Arts Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+TTD,Trade Desk Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,11,11,11
+EBAY,eBay Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+MTCH,Match Group Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+EXPE,Expedia Group Inc,호텔 및 엔터테인먼트,533010.0,1,0,1,5,0,4,4,4,4,4,4,4
+OKTA,Okta Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+MDB,MongoDB Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,5,4,4,4,4,11,11,11
+CSGP,CoStar Group Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+CDW,CDW Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,11,11,11
+ROKU,Roku Inc Class A,미디어 및 출판,533020.0,1,1,4,1,1,1,1,1,1,1,6,6
+SWKS,Skyworks Solutions Inc,반도체 및 반도체 장비,571010.0,1,1,4,5,5,4,4,4,4,4,4,4
+TTWO,Take-Two Interactive Software Inc,레저 상품,532050.0,1,1,4,1,1,1,1,1,1,1,1,1
+TCOM,Trip.com Group Ltd ADR,호텔 및 엔터테인먼트,533010.0,0,3,3,3,3,3,3,3,3,3,3,3
+SPLK,Splunk Inc,소프트웨어 및 IT서비스,572010.0,1,2,2,2,2,1,1,9,9,9,9,9
+AKAM,Akamai Technologies Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+YNDX,Yandex NV Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+PTC,PTC Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CTXS,Citrix Systems Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,5,5,9,9,9,9,9
+OTEX,Open Text Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+PCTY,Paylocity Holding Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,11,11,11
+ZNGA,Zynga Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,12,12
+Z,Zillow Group Inc Class C,부동산 운영 관리,601010.0,1,1,4,4,4,6,6,6,6,6,6,6
+COUP,Coupa Software Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,12,12
+WB,Weibo Corp ADR,미디어 및 출판,533020.0,0,0,0,0,6,2,2,2,2,2,2,13
+FSLR,First Solar Inc,재생에너지,502010.0,1,1,1,5,5,4,4,4,4,11,11,11
+SLAB,Silicon Laboratories Inc,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,11,11,11
+NTNX,Nutanix Inc Class A,소프트웨어 및 IT서비스,572010.0,2,0,0,0,0,0,0,0,0,0,0,0
+VG,Vonage Holdings Corp,통신 서비스,574010.0,1,1,1,5,5,4,4,4,4,11,11,11
+AMBA,Ambarella Inc,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,4,4,4
+ZD,Ziff Davis Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,4,4,4
+APPS,Digital Turbine Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,4,4,4
+SPSC,SPS Commerce Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,11,11,11
+ANGI,Angi Inc Class A,소프트웨어 및 IT서비스,572010.0,2,0,0,0,2,0,0,5,5,5,5,5
+CARG,CarGurus Inc Class A,소프트웨어 및 IT서비스,572010.0,2,0,0,0,6,0,8,8,8,8,8,8
+YY,JOYY Inc ADR,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,5,5,5,5,5,5,13
+ALRM,Alarm.com Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+RDFN,Redfin Corp,부동산 운영 관리,601010.0,1,1,4,4,4,6,6,6,6,6,6,6
+JOBS,51job Inc ADR,전문 및 상업 서비스,522030.0,2,2,2,2,2,5,5,5,5,5,5,5
+RMBS,Rambus Inc,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,4,4,4
+MMYT,MakeMyTrip Ltd,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,2,2,2,2,2,2,2
+QRTEA,Qurate Retail Inc Series A,다양한 소매업,534020.0,0,3,3,3,3,7,3,3,10,10,10,10
+ITRI,Itron Inc,"건설장비 및 대형차, 기차, 배",521020.0,1,1,4,4,4,6,6,6,6,6,6,6
+VCYT,Veracyte Inc,생명과학 및 메디컬 리서치,562020.0,1,1,4,1,1,1,1,1,1,1,12,12
+OSTK,Overstock.com Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,5,5,4,4,4,4,4,4,4
+CRTO,Criteo SA ADR,미디어 및 출판,533020.0,0,3,3,3,3,7,7,7,7,7,7,7
+IDCC,InterDigital Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,0,0,0,2,2,2,2,2,2,2
+LPSN,LivePerson Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,1,1,1,1,1,1,1,1,1
+MOMO,Hello Group Inc ADR,소프트웨어 및 IT서비스,572010.0,0,3,0,0,6,3,8,8,8,8,8,8
+COMM,CommScope Holding Company Inc,커뮤니케이션 및 네트워킹,571020.0,0,3,3,3,3,7,3,3,10,10,10,10
+CMPR,Cimpress PLC,전문 및 상업 서비스,522030.0,2,0,0,0,6,2,8,5,5,5,5,13
+PI,Impinj Inc,반도체 및 반도체 장비,571010.0,1,1,1,5,5,4,4,4,4,4,4,4
+SFIX,Stitch Fix Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,4,4,4,6,6,6,6,6,6,6
+VNET,VNET Group Inc ADR,소프트웨어 및 IT서비스,572010.0,1,1,4,4,4,6,6,6,6,6,12,12
+STBA,S&T Bancorp Inc,은행,551010.0,0,0,0,0,6,2,8,8,8,8,8,8
+NNDM,Nano Dimension Ltd ADR,전자 장비 및 부품,571040.0,0,3,3,3,3,7,7,7,7,7,7,7
+BZUN,Baozun Inc ADR,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,5,5,5,5,5,5,5
+TCX,Tucows Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+NTGR,NETGEAR Inc,커뮤니케이션 및 네트워킹,571020.0,2,0,0,0,0,0,0,0,0,0,0,0
+SOHU,Sohu.com Ltd ADR,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,7,7,7,7,7,7,7
+GRPN,Groupon Inc,다양한 소매업,534020.0,0,3,3,3,3,3,3,3,10,10,10,10
+DGII,Digi International Inc,커뮤니케이션 및 네트워킹,571020.0,1,1,1,5,5,4,4,4,4,11,11,11
+LX,Lexinfintech Holdings Ltd ADR,은행,551010.0,0,3,3,3,6,3,3,3,3,3,3,3
+TWOU,2U Inc,소프트웨어 및 IT서비스,572010.0,2,0,0,0,6,2,2,2,2,2,2,13
+LQDT,Liquidity Services Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,5,5,4,4,4,4,4,4,4
+SWIR,Sierra Wireless Inc,커뮤니케이션 및 네트워킹,571020.0,0,3,3,3,3,7,7,7,7,7,7,7
+LLNW,Limelight Networks Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,5,5,9,9,9,9,9
+QIWI,Qiwi PLC ADR,전문 및 상업 서비스,522030.0,0,3,3,3,3,3,8,8,8,8,8,8
+VIA,Via Renewables Inc Class A,전기 유틸리티,591010.0,0,3,3,3,3,7,7,7,7,7,7,7
+EGAN,eGain Corp,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,1,1,1,1,1,1,1
+VUZI,Vuzix Corp,전자 장비 및 부품,571040.0,1,1,1,4,4,6,6,6,6,4,4,4
+BCOV,Brightcove Inc,소프트웨어 및 IT서비스,572010.0,1,1,4,4,4,6,6,6,6,6,6,6
+GSAT,Globalstar Inc,통신 서비스,574010.0,0,3,3,3,3,7,7,7,7,7,7,7
+EPM,Evolution Petroleum Corp,오일 및 가스,501020.0,0,3,0,0,6,2,8,8,10,10,10,10

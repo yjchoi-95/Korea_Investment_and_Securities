@@ -1,0 +1,79 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,1,1,1,5,5,5,5,5,10,10,10,10
+ENB,Enbridge Inc,오일 및 가스 장비 및 서비스,501030.0,2,3,3,3,3,7,7,7,7,7,7,7
+DUK,Duke Energy Corp,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SO,Southern Co,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+D,Dominion Energy Inc,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,11,11,11
+EPD,Enterprise Products Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,4,6,4,8,8,8,8,8,8
+TRP,TC Energy Corp,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+MPC,Marathon Petroleum Corp,오일 및 가스,501020.0,0,3,3,3,3,4,4,4,4,4,12,12
+SRE,Sempra Energy,복합 유틸리티,591040.0,1,1,1,1,1,1,1,1,1,1,1,1
+PSX,Phillips 66,오일 및 가스,501020.0,0,0,0,0,6,4,8,9,9,9,12,12
+KMI,Kinder Morgan Inc,오일 및 가스 장비 및 서비스,501030.0,2,3,2,2,2,6,6,6,6,6,6,6
+WMB,Williams Companies Inc,오일 및 가스 장비 및 서비스,501030.0,2,3,2,3,3,2,2,2,2,2,2,2
+MPLX,MPLX Common Units,오일 및 가스 장비 및 서비스,501030.0,2,3,2,2,3,2,2,2,2,2,2,2
+PEG,Public Service Enterprise Group Inc,복합 유틸리티,591040.0,1,1,1,1,1,1,1,1,5,5,5,5
+ET,Energy Transfer Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,6,6,6,6,6,6,6
+ES,Eversource Energy,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+WEC,WEC Energy Group Inc,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+OKE,ONEOK Inc,오일 및 가스 장비 및 서비스,501030.0,0,0,0,0,0,4,4,9,9,9,9,9
+AWK,American Water Works Company Inc,수도 유틸리티,591030.0,1,1,1,1,1,1,1,1,1,1,1,1
+FTS,Fortis Inc,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+PPL,PPL Corp,복합 유틸리티,591040.0,2,2,2,2,2,6,6,6,6,6,6,6
+CMS,CMS Energy Corp,복합 유틸리티,591040.0,1,1,1,1,1,1,1,1,1,1,1,1
+PBA,Pembina Pipeline Corp,오일 및 가스 장비 및 서비스,501030.0,0,0,0,0,6,4,4,9,9,9,9,9
+CNP,CenterPoint Energy Inc,복합 유틸리티,591040.0,0,0,0,0,6,4,4,9,9,9,9,9
+TRGP,Targa Resources Corp,오일 및 가스 장비 및 서비스,501030.0,2,3,3,3,3,2,2,2,2,2,2,2
+ATO,Atmos Energy Corp,천연가스 유틸리티,591020.0,1,1,1,1,1,1,1,1,1,1,1,1
+AES,AES Corp,전기 유틸리티,591010.0,1,1,1,5,5,5,5,5,10,10,10,13
+PWR,Quanta Services Inc,건설 및 엔지니어링,522010.0,1,1,1,5,5,5,5,5,10,10,10,10
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010.0,2,2,4,4,6,2,8,8,8,8,8,8
+NI,NiSource Inc,복합 유틸리티,591040.0,0,0,0,0,0,0,0,0,0,0,0,0
+WES,Western Midstream Partners Common Units,오일 및 가스,501020.0,2,2,2,2,4,2,2,2,2,2,2,2
+MMP,Magellan Midstream Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,4,4,6,6,6,6,6,6,6
+HESM,Hess Midstream LP Class A,오일 및 가스 장비 및 서비스,501030.0,2,3,3,3,3,7,7,7,7,7,7,7
+UGI,UGI Corp,천연가스 유틸리티,591020.0,0,0,0,0,6,4,4,9,9,9,9,9
+DCP,DCP Midstream Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,4,4,2,2,2,2,2,2,2
+NFG,National Fuel Gas Co,천연가스 유틸리티,591020.0,2,3,3,3,3,3,3,3,3,3,3,3
+SHLX,Shell Midstream Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,6,6,6,6,6,6,6
+AM,Antero Midstream Corp,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,2,2,2,2,2,2,2
+ENLC,EnLink Midstream Common Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,2,2,2,2,2,2,2
+BKH,Black Hills Corp,복합 유틸리티,591040.0,0,0,0,0,0,0,0,0,0,0,0,0
+OGS,ONE Gas Inc,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,0,0,0,0,0
+CWEN,Clearway Energy Inc Class C,전기 유틸리티,591010.0,1,1,1,5,5,5,5,5,10,10,10,10
+CWEN,Clearway Energy Inc Class A,전기 유틸리티,591010.0,1,1,1,5,5,5,5,5,10,10,10,10
+SWX,Southwest Gas Holdings Inc,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,0,0,0,0,0
+NJR,New Jersey Resources Corp,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,9,9,9,9,9
+SUN,Sunoco Common Units,오일 및 가스,501020.0,1,3,3,3,3,7,7,7,7,7,7,7
+SR,Spire Inc,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,0,0,0,0,0
+SJI,South Jersey Industries Inc,천연가스 유틸리티,591020.0,2,2,4,4,6,6,8,8,8,8,8,8
+CPK,Chesapeake Utilities Corp,천연가스 유틸리티,591020.0,1,1,1,5,5,5,5,5,5,1,1,1
+HEP,Holly Energy Patners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,4,4,2,2,2,2,2,2,2
+BPMP,BP Midstream Partners Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,4,4,2,2,2,2,2,2,2
+DKL,Delek Logistics Partners Common Units,오일 및 가스 장비 및 서비스,501030.0,1,3,3,5,5,7,7,7,7,7,7,7
+NS,NuStar Energy Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,6,6,6,6,6,6,6
+CEQP,Crestwood Equity Partners Units,오일 및 가스 장비 및 서비스,501030.0,0,3,3,3,3,4,4,4,4,4,4,4
+USAC,USA Compression Partners Common Units,오일 및 가스 장비 및 서비스,501030.0,2,3,3,3,3,4,4,4,4,4,4,4
+GEL,Genesis Energy Units Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,6,6,6,6,6,6,6
+NWN,Northwest Natural Holding Co,천연가스 유틸리티,591020.0,0,0,0,0,0,0,0,0,0,0,0,0
+AROC,Archrock Inc,오일 및 가스 장비 및 서비스,501030.0,2,3,2,2,3,6,6,6,6,6,6,6
+WLKP,Westlake Chemical Partners Units,화학,511010.0,0,3,3,3,3,7,4,4,4,4,4,4
+GLP,Global Partners Units,오일 및 가스,501020.0,2,3,3,3,3,7,7,7,7,7,7,7
+PBFX,PBF Logistics Units,오일 및 가스 장비 및 서비스,501030.0,2,2,4,4,6,6,8,8,8,8,8,8
+CAPL,CrossAmerica Partners Common Units,오일 및 가스,501020.0,2,2,2,2,2,2,2,2,2,2,2,2
+SRLP,Sprague Resources Common Units,오일 및 가스,501020.0,2,2,4,4,4,2,2,2,2,2,2,2
+MIC,Macquarie Infrastructure Holdings LLC,운송 인프라,524070.0,2,2,2,2,2,6,6,6,6,6,6,6
+NGL,NGL Energy Partners Units,오일 및 가스,501020.0,2,2,2,2,4,6,6,6,6,6,6,6
+EEX,Emerald Holding Inc,전문 및 상업 서비스,522030.0,2,2,4,4,4,2,2,2,2,2,2,2
+AEP,American Electric Power Company Inc,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+EXC,Exelon Corp,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,5,5,5,5
+XEL,Xcel Energy Inc,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ENPH,Enphase Energy Inc,재생에너지,502010.0,1,1,1,5,5,5,5,5,10,10,10,10
+LNT,Alliant Energy Corp,전기 유틸리티,591010.0,1,1,1,1,1,1,1,1,1,1,1,1
+PAA,Plains All American Pipeline Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,6,6,6,6,6,6,6
+PAGP,Plains GP Holdings LP Class A,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,4,6,6,6,6,6,6,6
+CSIQ,Canadian Solar Inc,재생에너지,502010.0,1,1,1,5,5,5,5,5,10,10,10,13
+ALTM,Altus Midstream Co Class A,오일 및 가스 장비 및 서비스,501030.0,1,1,1,5,5,5,5,5,10,10,10,10
+LNG,Cheniere Energy Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,1,5,5,5,5,5,5,5,5,5
+CQP,Cheniere Energy Partners Units,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,5,5,5,5
+TELL,Tellurian Inc,오일 및 가스,501020.0,2,2,4,4,6,2,8,8,8,8,8,8

@@ -1,0 +1,301 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+HD,Home Depot Inc,전문품 상점,534030.0,0,0,0,0,6,5,8,8,8,8,8,8
+MS,Morgan Stanley,투자은행 및 서비스,551020.0,0,0,0,0,0,0,8,8,8,8,8,8
+UNP,Union Pacific Corp,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,8,8,8,8,8,8
+LIN,Linde PLC,화학,511010.0,0,0,0,0,6,5,8,8,8,8,8,8
+AXP,American Express Co,은행,551010.0,0,0,0,0,0,5,8,8,8,8,8,8
+BLK,BlackRock Inc,투자은행 및 서비스,551020.0,0,0,0,0,0,5,8,8,8,8,8,8
+PLD,Prologis Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,8,8,8,8,8,8
+AMT,American Tower Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+BTI,British American Tobacco PLC ADR,식품 및 담배,541020.0,1,1,4,4,4,3,3,3,3,11,11,11
+TGT,Target Corp,다양한 소매업,534020.0,0,0,0,0,0,5,5,5,5,5,5,5
+USB,US Bancorp,은행,551010.0,2,3,3,3,3,6,6,6,6,6,6,0
+CCI,Crown Castle International Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,5,5,5,5,5,5
+D,Dominion Energy Inc,전기 유틸리티,591010.0,0,3,3,3,6,2,2,2,2,2,2,2
+PSA,Public Storage,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+NGG,National Grid PLC ADR,복합 유틸리티,591040.0,2,1,4,5,5,3,3,3,10,3,10,13
+SPG,Simon Property Group Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+CMG,Chipotle Mexican Grill Inc,호텔 및 엔터테인먼트,533010.0,0,0,0,0,6,5,5,5,5,5,5,5
+MFC,Manulife Financial Corp,보험,553010.0,2,3,3,3,3,6,0,0,0,0,0,0
+HLT,Hilton Worldwide Holdings Inc,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,5,8,8,8,8,8,8
+DLR,Digital Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,2,2,2,2,2,2
+O,Realty Income Corp,주택 및 상업용 리츠,601020.0,2,3,3,3,3,2,7,2,9,9,2,9
+STT,State Street Corp,투자은행 및 서비스,551020.0,2,1,4,4,4,6,0,0,0,0,0,0
+WELL,Welltower Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,9,9,9
+CBRE,CBRE Group Inc Class A,부동산 운영 관리,601010.0,0,0,0,0,0,0,8,8,8,8,8,8
+CHT,Chunghwa Telecom Co Ltd ADR,통신 서비스,574010.0,0,0,0,0,0,5,8,8,8,8,8,8
+DB,Deutsche Bank AG,은행,551010.0,1,1,4,4,4,3,3,3,3,3,3,11
+EQR,Equity Residential,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,9,9,9
+ARE,Alexandria Real Estate Equities Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,8,8,8,8,8,8
+WY,Weyerhaeuser Co,주택 및 상업용 리츠,601020.0,2,1,4,5,5,0,0,0,0,0,0,0
+ES,Eversource Energy,전기 유틸리티,591010.0,0,0,0,0,6,2,2,2,2,2,2,2
+WEC,WEC Energy Group Inc,전기 유틸리티,591010.0,0,0,0,0,6,2,2,2,2,2,2,2
+AWK,American Water Works Company Inc,수도 유틸리티,591030.0,0,0,0,0,6,5,5,5,5,5,5,5
+EXR,Extra Space Storage Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+MAA,Mid-America Apartment Communities Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+INVH,Invitation Homes Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+MLM,Martin Marietta Materials Inc,건축 자재,512020.0,0,0,0,0,0,0,8,8,8,8,8,8
+SYF,Synchrony Financial,은행,551010.0,2,3,3,5,0,0,0,0,0,0,0,0
+SUI,Sun Communities Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,8,2,2,2,2,2
+DRE,Duke Realty Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+ESS,Essex Property Trust Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,9,9,9
+VTR,Ventas Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+BXP,Boston Properties Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,7,7,12,12
+CMS,CMS Energy Corp,복합 유틸리티,591040.0,0,0,0,0,6,2,2,2,2,2,2,2
+SHG,Shinhan Financial Group Co Ltd ADR,은행,551010.0,1,2,1,1,1,4,4,4,4,4,4,4
+VICI,VICI Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+UDR,UDR Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,0,0,8,8,9,8,9,9
+PEAK,Healthpeak Properties Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,9,9,9,9
+CPT,Camden Property Trust,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+KIM,Kimco Realty Corp,주택 및 상업용 리츠,601020.0,2,1,4,5,5,7,7,9,10,10,10,10
+AES,AES Corp,전기 유틸리티,591010.0,0,0,0,0,6,5,5,5,5,5,5,5
+ELS,Equity LifeStyle Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+AMH,American Homes 4 Rent Class A,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+MPW,Medical Properties Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+IRM,Iron Mountain Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,0,0,0,0,0,0,0
+JLL,Jones Lang LaSalle Inc,부동산 운영 관리,601010.0,0,0,0,0,0,0,8,8,8,8,8,0
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010.0,1,2,1,1,1,1,1,1,1,1,1,1
+CUBE,CubeSmart,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+LSI,Life Storage Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+H,Hyatt Hotels Corp Class A,호텔 및 엔터테인먼트,533010.0,0,3,3,3,3,6,6,6,6,6,6,6
+NLY,Annaly Capital Management Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,4,4,4,4
+GL,Globe Life Inc,보험,553010.0,0,3,3,3,3,6,6,6,6,6,6,6
+REXR,Rexford Industrial Realty Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,8,8,8,8,8,8
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,5,5,5,5,5,5,5
+FRT,Federal Realty Investment Trust,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+AIZ,Assurant Inc,보험,553010.0,0,0,0,0,0,5,8,8,8,8,8,8
+STOR,STORE Capital Corp,주택 및 상업용 리츠,601020.0,0,3,3,3,3,2,7,2,9,9,2,9
+CHH,Choice Hotels International Inc,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,5,8,8,8,8,8,8
+VNO,Vornado Realty Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+KRC,Kilroy Realty Corp,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,7,7,7,7,7
+FR,First Industrial Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+BRX,Brixmor Property Group Inc,주택 및 상업용 리츠,601020.0,2,1,4,5,5,7,7,9,10,10,10,10
+COLD,Americold Realty Trust,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+NNN,National Retail Properties Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,7,9,7,7,7
+HST,Host Hotels & Resorts Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,4,4
+STWD,Starwood Property Trust Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,10,9,10
+ACC,American Campus Communities Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,10,9,10
+OHI,Omega Healthcare Investors Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,7,9,9,7,7
+STAG,STAG Industrial Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+HTA,Healthcare Trust Of America Inc Class A,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,9,9,9
+SWCH,Switch Inc Class A,"컴퓨터, 전화 및 가전제품",571060.0,0,0,0,5,5,0,0,0,0,0,0,13
+MGP,MGM Growth Properties LLC Class A,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+SRC,Spirit Realty Capital Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,10,10,10
+CUZ,Cousins Properties Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,6,6,6,6,6,6,6
+NFG,National Fuel Gas Co,천연가스 유틸리티,591020.0,1,1,4,4,4,4,4,4,4,4,4,4
+EXP,Eagle Materials Inc,건축 자재,512020.0,0,0,0,0,0,0,0,0,0,0,0,0
+DEI,Douglas Emmett Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,7,7,7,7,7
+NSA,National Storage Affiliates Trust,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+RYN,Rayonier Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,0,6,6,6,6,6,6,0
+TRNO,Terreno Realty Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,8,2,2,2,2,2
+BXMT,Blackstone Mortgage Trust Inc Class A,주택 및 상업용 리츠,601020.0,2,3,2,2,2,7,7,7,7,7,7,7
+HHC,Howard Hughes Corp,부동산 운영 관리,601010.0,1,2,2,2,2,4,4,4,4,4,4,4
+TNL,Travel + Leisure Co,호텔 및 엔터테인먼트,533010.0,2,3,3,3,3,6,6,0,0,0,0,0
+SLG,SL Green Realty Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+NRZ,New Residential Investment Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+ADC,Agree Realty Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+RHP,Ryman Hospitality Properties Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,6,6,6,6,6,6,6
+NEWR,New Relic Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,6,6,6,6,6,6,6
+KRG,Kite Realty Group Trust,주택 및 상업용 리츠,601020.0,2,1,4,5,5,3,3,3,10,3,10,13
+IIPR,Innovative Industrial Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,5,5,5,5,5,5
+CIVI,Civitas Resources Inc,오일 및 가스,501020.0,1,1,4,4,4,3,3,3,3,3,3,3
+HR,Healthcare Realty Trust Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,7,9,9,9,9
+PK,Park Hotels & Resorts Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,4,4,4,1,1
+HIW,Highwoods Properties Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,4,4
+PSB,PS Business Parks Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,2,2,2,2,2,2,2
+LXP,LXP Industrial Trust,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+CMC,Commercial Metals Co,메탈&마이닝,512010.0,0,0,0,0,0,0,8,8,8,8,8,0
+RDN,Radian Group Inc,보험,553010.0,2,3,3,3,3,6,6,6,6,6,6,9
+JBT,John Bean Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,6,6,8,8,8,8,8
+DBRG,DigitalBridge Group Inc Class A,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,11,11
+BRFS,BRF SA ADR,식품 및 담배,541020.0,1,1,4,4,4,3,3,3,3,3,11,3
+APLE,Apple Hospitality REIT Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,4,4,4,4,4,4,4
+DOC,Physicians Realty Trust,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,9,9,9,9
+SIX,Six Flags Entertainment Corp,호텔 및 엔터테인먼트,533010.0,1,2,1,1,1,4,4,4,4,4,4,4
+HPP,Hudson Pacific Properties Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,1,7,7,1,12
+OUT,OUTFRONT Media Inc,주택 및 상업용 리츠,601020.0,2,3,2,5,5,7,7,9,10,10,9,10
+SAFE,Safehold Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,5,5,5,5,5,5
+JBGS,JBG SMITH Properties,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,7,7,7,7,7
+FUN,Cedar Fair Units,호텔 및 엔터테인먼트,533010.0,1,2,1,1,1,4,4,4,4,4,4,4
+MAC,Macerich Co,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,3,1,1,1,3,3
+EPR,EPR Properties,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,4,7,7,12,12
+CIM,Chimera Investment Corp,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,7,7,12,12
+APAM,Artisan Partners Asset Management Inc Class A,투자은행 및 서비스,551020.0,0,0,0,0,0,5,5,5,5,5,5,5
+KW,Kennedy-Wilson Holdings Inc,부동산 운영 관리,601010.0,2,3,2,5,5,7,7,9,10,10,10,10
+GPI,Group 1 Automotive Inc,전문품 상점,534030.0,0,0,0,0,0,0,8,8,8,8,8,8
+PEB,Pebblebrook Hotel Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,4,4,4,4
+EQC,Equity Commonwealth,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,7,7,7,7,7
+OFC,Corporate Office Properties Trust,주택 및 상업용 리츠,601020.0,1,1,4,4,4,4,4,4,4,11,11,11
+IRT,Independence Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+SHO,Sunstone Hotel Investors Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,4,4,4,4,4,4,4
+NHI,National Health Investors Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,7,7,7,7,7
+HLIO,Helios Technologies Inc,"건설장비 및 대형차, 기차, 배",521020.0,0,0,0,0,0,0,8,8,8,8,8,0
+PRG,PROG Holdings Inc,"개인, 가정 용품 및 서비스",542010.0,0,3,3,3,3,2,2,2,2,2,2,2
+ABR,Arbor Realty Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+RLJ,RLJ Lodging Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,3,3
+BDN,Brandywine Realty Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,4,4,4,4,4,4,4
+AAT,American Assets Trust Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,7,7,7,12,12
+PDM,Piedmont Office Realty Trust Inc Class A,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,7,7,7,12,12
+VSTO,Vista Outdoor Inc,레저 상품,532050.0,2,1,4,5,5,0,0,0,0,0,10,13
+XHR,Xenia Hotels & Resorts Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,4,4
+MNR,Monmouth Real Estate Investment Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,0,0,0,0,0,0
+UE,Urban Edge Properties,주택 및 상업용 리츠,601020.0,1,2,1,1,1,4,4,4,4,4,4,4
+RLGY,Realogy Holdings Corp,부동산 운영 관리,601010.0,1,1,4,4,4,3,3,3,3,11,3,11
+WRE,Washington Real Estate Investment Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+FCPT,Four Corners Property Trust Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,2,2,2,2,2,2,2
+NXRT,NexPoint Residential Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+PGRE,Paramount Group Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+MFA,MFA Financial Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+MMI,Marcus & Millichap Inc,부동산 운영 관리,601010.0,0,3,3,3,0,6,6,6,6,6,6,6
+TWO,Two Harbors Investment Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+ARI,Apollo Commercial Real Estate Finance Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+STAR,iStar Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+DEA,Easterly Government Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+SKT,Tanger Factory Outlet Centers Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,3,3,3
+AKR,Acadia Realty Trust,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,4,1,1,1,12,12
+ALEX,Alexander & Baldwin Inc (Hawaii),주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,11,11
+CCO,Clear Channel Outdoor Holdings Inc,미디어 및 출판,533020.0,1,2,1,1,1,1,3,3,1,3,3,3
+ESRT,Empire State Realty Trust Inc Class A,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+PMT,PennyMac Mortgage Investment Trust,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,7,9,7,7,7
+VRE,Veris Residential Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,1,1,1,12,12
+GNL,Global Net Lease Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,3,11,3
+LRN,Stride Inc,교육서비스,631010.0,0,0,0,0,6,2,2,2,2,2,2,2
+LADR,Ladder Capital Corp Class A,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,7,7,7,12,12
+CSR,Centerspace,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+LTC,LTC Properties Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,1,1,1,1,1
+ALX,Alexander's Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+KREF,KKR Real Estate Finance Trust Inc,주택 및 상업용 리츠,601020.0,2,1,2,5,5,4,4,4,10,10,10,10
+GTY,Getty Realty Corp,주택 및 상업용 리츠,601020.0,0,3,3,3,3,2,2,2,2,2,2,2
+LPI,Laredo Petroleum Inc,오일 및 가스,501020.0,1,1,4,4,4,3,3,3,3,11,11,11
+RWT,Redwood Trust Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+AHH,Armada Hoffler Properties Inc,주택 및 상업용 리츠,601020.0,2,3,2,2,3,7,7,7,7,7,7,7
+APTS,Preferred Apartment Communities Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,4,4
+RC,Ready Capital Corp,주택 및 상업용 리츠,601020.0,2,2,2,2,2,4,4,4,4,4,12,12
+UMH,UMH Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+BIG,Big Lots Inc,다양한 소매업,534020.0,2,1,4,4,4,3,0,0,0,0,0,13
+BFS,Saul Centers Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+CHCT,Community Healthcare Trust Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,2,2,2,2,2,2,2
+RPT,RPT Realty,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,3,12,12
+INN,Summit Hotel Properties Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,4,4,4,4,4,4,4
+GMRE,Global Medical REIT Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,8,8,8,8,8,8
+AIV,Apartment Investment and Management Co Class A,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,9,9,9
+EFC,Ellington Financial Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,10,10,10
+PLYM,Plymouth Industrial REIT Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,0,0,9,10,10,9,10
+FOR,Forestar Group Inc,건설 및 엔지니어링,522010.0,0,3,3,3,3,6,6,6,6,6,6,6
+CAAP,Corporacion America Airports SA,운송 인프라,524070.0,1,1,4,4,4,3,3,3,3,11,11,11
+RA,Brookfield Real Assets Income Closed Fund,다양한 금융서비스,555010.0,1,2,2,2,2,4,4,4,4,4,4,4
+GTS,Triple-S Management Corp Class B,헬스케어 업체 및 서비스,561020.0,0,0,0,0,0,0,0,0,0,0,0,0
+IVR,Invesco Mortgage Capital Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+ARR,ARMOUR Residential REIT Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+UHT,Universal Health Realty Income Trust,주택 및 상업용 리츠,601020.0,2,3,3,3,3,2,2,7,7,7,7,7
+CIO,City Office REIT Inc,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,10,9,10
+CLDT,Chatham Lodging Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+ORC,Orchid Island Capital Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,11,11
+ACRE,Ares Commercial Real Estate Corp,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,10,9,10
+OLP,One Liberty Properties Inc,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,10,9,10
+GPMT,Granite Point Mortgage Trust Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,4,4,4,12,12
+AGX,Argan Inc,건설 및 엔지니어링,522010.0,1,1,4,4,4,3,3,3,3,11,11,11
+DX,Dynex Capital Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,11,11
+UBA,Urstadt Biddle Properties Inc Class A,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+NXDT,NexPoint Diversified Real Estate CEF,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,3
+EVC,Entravision Communications Corp Class A,미디어 및 출판,533020.0,1,1,4,4,4,3,3,3,3,3,3,13
+RM,Regional Management Corp,은행,551010.0,0,0,0,0,0,0,8,8,8,8,8,0
+WSR,Whitestone REIT,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,1,1,1,12,12
+FPI,Farmland Partners Inc,주택 및 상업용 리츠,601020.0,2,1,4,5,5,0,0,0,0,0,0,13
+FPH,Five Point Holdings LLC Class A,부동산 운영 관리,601010.0,1,1,4,4,4,3,3,3,3,11,11,11
+TRC,Tejon Ranch Co,부동산 운영 관리,601010.0,1,1,4,4,4,3,3,3,3,3,3,3
+BRT,BRT Apartments Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+SRG,Seritage Growth Properties Class A,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+CTT,CatchMark Timber Trust Inc Class A,주택 및 상업용 리츠,601020.0,1,1,4,4,4,4,4,4,4,4,4,4
+BHR,Braemar Hotels & Resorts Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,3
+AFB,AllianceBernstein National Municipal Income Fund,다양한 금융서비스,555010.0,0,0,0,5,5,0,0,5,5,9,5,13
+HT,Hersha Hospitality Trust Class A,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+NTP,Nam Tai Property Inc,부동산 운영 관리,601010.0,0,0,0,0,0,0,0,0,0,0,0,0
+CTO,CTO Realty Growth Inc,부동산 운영 관리,601010.0,2,3,3,3,3,6,6,6,6,6,6,0
+CDR,Cedar Realty Trust Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,3,3,3
+AHT,Ashford Hospitality Trust Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+AJX,Great Ajax Corp,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+TWN,Taiwan Closed Fund,투자은행 및 서비스,551020.0,0,0,0,0,0,0,8,8,8,8,8,8
+MITT,AG Mortgage Investment Trust Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+UBP,Urstadt Biddle Properties Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,12,12
+KF,Korea Closed Fund,다양한 금융서비스,555010.0,2,1,4,4,4,3,0,0,0,0,0,13
+CLPR,Clipper Realty Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,1,1,1,12,3
+CHMI,Cherry Hill Mortgage Investment Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+EARN,Ellington Residential Mortgage REIT,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,11,11
+SWZ,Swiss Helvetia Closed Fund,투자은행 및 서비스,551020.0,1,1,4,4,4,3,3,3,3,11,11,11
+WMC,Western Asset Mortgage Capital Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+SMHI,SEACOR Marine Holdings Inc,오일 및 가스 장비 및 서비스,501030.0,1,2,1,1,1,1,1,1,1,1,1,1
+PEI,Pennsylvania Real Estate Investment Trust,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,3,3,3
+EEA,European Equity Closed Fund,다양한 금융서비스,555010.0,0,0,0,0,0,0,0,0,0,0,0,0
+NVDA,NVIDIA Corp,반도체 및 반도체 장비,571010.0,0,0,0,0,0,5,8,8,8,8,8,8
+INTC,Intel Corp,반도체 및 반도체 장비,571010.0,0,0,0,0,6,2,2,2,2,2,2,2
+INTU,Intuit Inc,핀테크,573010.0,0,0,0,0,0,5,8,8,8,8,8,8
+AMD,Advanced Micro Devices Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,6,5,5,5,5,5,5,5
+CHTR,Charter Communications Inc Class A,통신 서비스,574010.0,0,0,0,0,6,5,5,5,5,5,5,5
+MU,Micron Technology Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,5,8,8,8,8,8,8
+EQIX,Equinix Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,5,5,5,5,5,5
+MAR,Marriott International Inc Class A,호텔 및 엔터테인먼트,533010.0,0,3,3,3,3,6,6,6,6,6,6,6
+MCHP,Microchip Technology Inc,반도체 및 반도체 장비,571010.0,0,0,0,0,0,5,8,8,8,8,8,8
+SBAC,SBA Communications Corp Class A,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,5,2,2,2,2,2
+CSGP,CoStar Group Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,5,5,5,5,5,5,5
+SIRI,Sirius XM Holdings Inc,미디어 및 출판,533020.0,0,3,3,3,3,6,6,6,6,6,6,6
+PFG,Principal Financial Group Inc,보험,553010.0,2,3,3,5,5,6,0,0,0,0,0,0
+LOGI,Logitech International SA,"컴퓨터, 전화 및 가전제품",571060.0,0,0,0,0,6,5,5,5,5,5,5,5
+CONE,CyrusOne Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,6,5,2,2,2,2,2,2
+REG,Regency Centers Corp,주택 및 상업용 리츠,601020.0,2,2,2,2,2,4,4,9,10,10,12,10
+LAMR,Lamar Advertising Co Class A,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+GLPI,Gaming and Leisure Properties Inc,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+Z,Zillow Group Inc Class C,부동산 운영 관리,601010.0,0,0,0,0,6,5,5,5,5,5,5,5
+GDS,GDS Holdings Ltd ADR,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,5,5,5,5,5,5,5
+AGNC,AGNC Investment Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,4,4,4,4
+FSLR,First Solar Inc,재생에너지,502010.0,0,0,0,0,0,5,5,5,5,5,5,5
+FSV,FirstService Corp,부동산 운영 관리,601010.0,0,0,0,0,6,5,8,8,8,8,8,8
+CIGI,Colliers International Group Inc,부동산 운영 관리,601010.0,0,0,0,0,0,0,8,8,8,8,8,8
+ARNA,Arena Pharmaceuticals Inc,생명과학 및 메디컬 리서치,562020.0,0,0,0,0,6,5,5,5,5,5,5,5
+ANGI,Angi Inc Class A,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,6,6,6,6,6,6,6
+EXPI,eXp World Holdings Inc,부동산 운영 관리,601010.0,0,0,0,0,0,5,5,5,5,5,5,5
+CATY,Cathay General Bancorp,은행,551010.0,2,3,3,3,3,6,6,6,6,6,0,0
+NMRK,Newmark Group Inc Class A,부동산 운영 관리,601010.0,1,1,4,4,4,4,4,4,4,4,4,4
+RDFN,Redfin Corp,부동산 운영 관리,601010.0,0,0,0,0,6,5,5,5,5,5,5,5
+LOPE,Grand Canyon Education Inc,교육서비스,631010.0,0,3,3,3,3,6,6,6,6,6,6,6
+NWE,NorthWestern Corp,전기 유틸리티,591010.0,2,3,3,3,3,7,7,7,7,7,7,7
+CCOI,Cogent Communications Holdings Inc,통신 서비스,574010.0,0,0,0,0,6,2,2,2,2,2,2,2
+SBRA,Sabra Health Care REIT Inc,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,3
+UNIT,Uniti Group Inc,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,3,11
+ROIC,Retail Opportunity Investments Corp,주택 및 상업용 리츠,601020.0,1,2,2,2,2,4,4,4,4,4,4,4
+CTRE,CareTrust REIT Inc,주택 및 상업용 리츠,601020.0,0,3,3,3,3,2,2,2,2,2,2,2
+CSIQ,Canadian Solar Inc,재생에너지,502010.0,0,0,0,0,6,5,5,5,5,5,5,5
+GDEN,Golden Entertainment Inc,호텔 및 엔터테인먼트,533010.0,0,0,0,0,0,0,0,0,0,0,0,0
+ILPT,Industrial Logistics Properties Trust,주택 및 상업용 리츠,601020.0,2,3,3,5,5,0,0,0,0,0,0,13
+SVC,Service Properties Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+VNET,VNET Group Inc ADR,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,5,5,5,5,5,5,5
+NYMT,New York Mortgage Trust Inc,주택 및 상업용 리츠,601020.0,1,2,2,2,2,1,1,1,1,1,1,12
+SGH,SMART Global Holdings Inc.,반도체 및 반도체 장비,571010.0,0,0,0,0,0,0,8,8,8,8,8,8
+SCWX,SecureWorks Corp Class A,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,2,8,8,9,8,8,9
+CHCO,City Holding Co,은행,551010.0,0,3,3,3,3,6,6,6,6,6,6,6
+OPI,Office Properties Income Trust,주택 및 상업용 리츠,601020.0,1,1,4,4,4,3,3,3,3,11,11,11
+LAND,Gladstone Land Corp,주택 및 상업용 리츠,601020.0,0,0,0,0,0,0,8,8,8,8,8,8
+RMR,RMR Group Inc Class A,부동산 운영 관리,601010.0,1,2,1,1,1,1,1,1,1,1,1,1
+GOOD,Gladstone Commercial Corp,주택 및 상업용 리츠,601020.0,2,3,3,3,3,7,7,9,9,9,9,9
+DHC,Diversified Healthcare Trust,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+CSWC,Capital Southwest Corp,투자은행 및 서비스,551020.0,2,3,3,5,5,7,7,9,10,10,10,10
+FRPH,FRP Holdings Inc,기타 금융업,556010.0,0,3,3,3,3,6,6,6,6,6,6,6
+EZPW,EZCORP Inc Class A,은행,551010.0,1,2,1,1,1,1,1,1,1,1,1,1
+HMTV,Hemisphere Media Group Inc Class A,미디어 및 출판,533020.0,1,2,2,2,2,1,1,7,7,7,7,7
+SMMT,Summit Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,4,4,4,3,3,3,3,11,11,11
+CMCT,CIM Commercial Trust Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,1,1,1,1,1,1
+PMTS,CPI Card Group Inc,은행,551010.0,2,1,4,5,5,3,3,3,3,3,10,13
+EML,Eastern Co,"건설장비 및 대형차, 기차, 배",521020.0,2,3,3,3,3,6,6,6,6,6,6,6
+VEV,Vicinity Motor Corp,"건설장비 및 대형차, 기차, 배",521020.0,2,1,4,4,4,3,0,0,0,0,0,13
+FCAP,First Capital Inc,은행,551010.0,0,0,0,0,6,2,2,2,2,2,2,2
+SLS,Sellas Life Sciences Group Inc,생명과학 및 메디컬 리서치,562020.0,1,1,4,4,4,3,3,3,3,3,3,3
+SEED,Origin Agritech Ltd,식품 및 담배,541020.0,1,1,4,4,4,3,3,3,3,11,11,13
+BLPH,Bellerophon Therapeutics Inc,생명과학 및 메디컬 리서치,562020.0,1,1,4,4,4,3,3,3,3,3,3,3
+LNG,Cheniere Energy Inc,오일 및 가스 장비 및 서비스,501030.0,0,0,0,0,0,0,8,8,8,8,8,8
+NHC,National Healthcare Corp,헬스케어 업체 및 서비스,561020.0,2,3,3,3,3,7,7,7,7,7,7,7
+BRG,Bluerock Residential Growth REIT Inc Class A,주택 및 상업용 리츠,601020.0,2,3,3,5,5,7,7,9,10,10,9,10
+FSP,Franklin Street Properties Corp,주택 및 상업용 리츠,601020.0,1,2,1,1,1,1,3,1,1,1,11,3
+PW,Power REIT,주택 및 상업용 리츠,601020.0,0,0,0,0,0,5,8,8,8,8,8,8
+SACH,Sachem Capital Corp,은행,551010.0,2,3,3,5,5,7,7,9,10,10,10,10
+PLG,Platinum Group Metals Ltd,메탈&마이닝,512010.0,1,1,4,4,4,3,3,3,3,3,3,3
+PZG,Paramount Gold Nevada Corp,메탈&마이닝,512010.0,1,1,4,4,4,3,3,3,3,11,11,11

@@ -1,0 +1,74 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+UPS,United Parcel Service Inc Class B,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,5,5
+UNP,Union Pacific Corp,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+GM,General Motors Co,자동차 및 자동차 부품,531010.0,0,0,0,0,6,5,5,5,5,5,5,13
+F,Ford Motor Co,자동차 및 자동차 부품,531010.0,1,3,3,3,3,4,4,4,4,4,4,4
+NSC,Norfolk Southern Corp,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+FDX,FedEx Corp,화물 및 물류 서비스,524050.0,0,3,3,3,3,3,3,3,3,3,3,3
+STT,State Street Corp,투자은행 및 서비스,551020.0,1,3,3,3,3,7,7,7,7,7,7,7
+APTV,Aptiv PLC,자동차 및 자동차 부품,531010.0,0,0,0,0,6,5,5,5,5,5,5,5
+DB,Deutsche Bank AG,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+DAL,Delta Air Lines Inc,운송업,524060.0,2,2,2,2,2,2,2,9,9,9,9,9
+LUV,Southwest Airlines Co,운송업,524060.0,2,2,2,2,2,6,6,9,9,9,9,9
+ZTO,ZTO Express (Cayman) Inc ADR,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+URI,United Rentals Inc,전문 및 상업 서비스,522030.0,0,0,0,0,6,5,5,5,5,5,5,5
+WAB,Westinghouse Air Brake Technologies Corp,"건설장비 및 대형차, 기차, 배",521020.0,1,3,3,3,3,7,7,7,7,7,7,7
+KNX,Knight-Swift Transportation Holdings Inc Class A,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+XPO,XPO Logistics Inc,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+ALK,Alaska Air Group Inc,운송업,524060.0,2,2,2,2,2,6,6,6,6,6,6,6
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050.0,0,0,0,0,0,7,7,7,7,7,12,12
+BWXT,BWX Technologies Inc,우주항공 및 국방,521010.0,0,0,0,0,0,0,0,0,0,0,12,12
+R,Ryder System Inc,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,10,10,10,10
+ATCO,Atlas Corp,화물 및 물류 서비스,524050.0,1,1,1,5,5,4,4,4,4,4,4,4
+KEX,Kirby Corp,화물 및 물류 서비스,524050.0,2,2,2,2,2,2,2,9,9,9,9,9
+MATX,Matson Inc,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,5,5
+SAVE,Spirit Airlines Inc,운송업,524060.0,2,2,2,2,2,2,2,2,2,2,2,2
+EURN,Euronav NV,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+DAC,Danaos Corp,화물 및 물류 서비스,524050.0,1,3,3,5,5,4,4,4,4,4,4,4
+CMRE,Costamare Inc,화물 및 물류 서비스,524050.0,1,1,1,5,5,4,4,4,4,4,4,4
+FRO,Frontline Ltd,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+SFL,SFL Corporation Ltd,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,2,2,2,2,2,2,2
+GSL,Global Ship Lease Inc Class A,화물 및 물류 서비스,524050.0,1,1,1,5,5,4,4,4,4,4,4,4
+NMM,Navios Maritime Partners Units,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+DHT,DHT Holdings Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,1,5,5,4,4,4,4,4,4,4
+STNG,Scorpio Tankers Inc,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+INSW,International Seaways Inc,오일 및 가스 장비 및 서비스,501030.0,2,1,4,4,4,1,8,8,8,8,8,8
+GNK,Genco Shipping & Trading Ltd,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+KNOP,KNOT Offshore Partners Common Units,오일 및 가스 장비 및 서비스,501030.0,2,2,2,2,2,6,6,6,6,6,6,6
+LPG,Dorian LPG Ltd,오일 및 가스 장비 및 서비스,501030.0,0,0,0,5,5,4,4,4,4,4,4,4
+SB,Safe Bulkers Inc,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,7,7,7,7
+TNK,Teekay Tankers Ltd Class A,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+DSX,Diana Shipping Inc,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,7,7,7,7
+TK,Teekay Corp,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+NETI,Eneti Inc,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+NAT,Nordic American Tanker Ltd,오일 및 가스 장비 및 서비스,501030.0,1,1,1,1,1,1,1,1,1,1,1,1
+TSLA,Tesla Inc,자동차 및 자동차 부품,531010.0,0,0,0,0,6,5,5,5,5,5,5,5
+CSX,CSX Corp,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+ODFL,Old Dominion Freight Line Inc,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,0,5
+EXPD,Expeditors International of Washington Inc,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,0,0
+UAL,United Airlines Holdings Inc,운송업,524060.0,2,2,2,2,2,2,2,9,9,9,9,9
+AAL,American Airlines Group Inc,운송업,524060.0,2,2,2,2,2,6,6,6,6,6,6,6
+CAR,Avis Budget Group Inc,운송업,524060.0,0,0,0,5,6,5,5,5,5,5,5,5
+FSLR,First Solar Inc,재생에너지,502010.0,0,0,0,0,0,0,0,0,0,5,0,0
+RGLD,Royal Gold Inc,메탈&마이닝,512010.0,0,0,0,0,0,0,0,0,0,0,0,0
+SAIA,Saia Inc,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,5,5
+LSTR,Landstar System Inc,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+JBLU,JetBlue Airways Corp,운송업,524060.0,2,2,2,2,2,6,6,6,6,6,6,6
+ALGT,Allegiant Travel Co,운송업,524060.0,0,3,3,5,5,4,4,4,4,4,4,13
+WERN,Werner Enterprises Inc,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+HUBG,Hub Group Inc Class A,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,5,5
+FWRD,Forward Air Corp,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,5,5
+SBLK,Star Bulk Carriers Corp,화물 및 물류 서비스,524050.0,0,0,0,5,6,5,5,5,7,7,7,7
+GOGL,Golden Ocean Group Ltd,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+AAWW,Atlas Air Worldwide Holdings Inc,화물 및 물류 서비스,524050.0,0,3,3,3,3,3,3,3,3,3,3,3
+ARCB,ArcBest Corp,화물 및 물류 서비스,524050.0,0,0,0,0,6,5,5,5,5,5,5,5
+ATSG,Air Transport Services Group Inc,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+SKYW,SkyWest Inc,운송업,524060.0,2,2,2,2,2,2,2,9,9,9,12,12
+MRTN,Marten Transport Ltd,화물 및 물류 서비스,524050.0,0,0,0,0,0,0,0,0,0,0,0,0
+HTLD,Heartland Express Inc,화물 및 물류 서비스,524050.0,2,1,1,1,1,1,1,1,1,1,1,1
+BLNK,Blink Charging Co,전기 유틸리티,591010.0,0,0,0,5,6,5,5,5,5,5,5,13
+HA,Hawaiian Holdings Inc,운송업,524060.0,2,2,2,2,2,6,6,6,6,6,6,6
+EGLE,Eagle Bulk Shipping Inc,화물 및 물류 서비스,524050.0,1,1,1,1,1,1,1,1,1,1,1,1
+DSKE,Daseke Inc,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,10,10,10,10
+YELL,Yellow Corp,화물 및 물류 서비스,524050.0,1,3,3,3,3,7,7,7,10,10,10,10
+WKHS,Workhorse Group Inc,자동차 및 자동차 부품,531010.0,0,0,0,0,0,0,0,0,0,11,11,11

@@ -1,0 +1,84 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+ORCL,Oracle Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+NOW,ServiceNow Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SNAP,Snap Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+VMW,VMware Inc Class A,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,5,5,5,5,5,5,13
+PANW,Palo Alto Networks Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+HUBS,HubSpot Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+PAYC,Paycom Software Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+TYL,Tyler Technologies Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+RNG,RingCentral Inc Class A,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+ZEN,Zendesk Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+FICO,Fair Isaac Corp,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+GWRE,Guidewire Software Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,13
+DLB,Dolby Laboratories Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+WK,Workiva Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+NCR,NCR Corp,소프트웨어 및 IT서비스,572010.0,2,2,2,5,5,4,4,9,9,9,9,9
+TDC,Teradata Corp,소프트웨어 및 IT서비스,572010.0,2,2,4,5,5,7,8,8,8,8,8,8
+NEWR,New Relic Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,6,5,5,5,5,5,5,5
+BB,BlackBerry Ltd,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,2,8,8,8,8,12,12
+BOX,Box Inc Class A,소프트웨어 및 IT서비스,572010.0,2,2,4,4,4,7,7,7,7,7,7,7
+ENV,Envestnet Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,13
+SAIL,SailPoint Technologies Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+QTWO,Q2 Holdings Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+AYX,Alteryx Inc Class A,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,0,0,0,0,0,0,0
+VCRA,Vocera Communications Inc,커뮤니케이션 및 네트워킹,571020.0,1,1,1,1,1,7,7,7,7,7,7,7
+EGHT,8x8 Inc,커뮤니케이션 및 네트워킹,571020.0,0,3,3,3,3,3,3,3,3,3,3,13
+AVYA,Avaya Holdings Corp,커뮤니케이션 및 네트워킹,571020.0,2,2,4,4,4,4,4,4,4,4,12,12
+DFIN,Donnelley Financial Solutions Inc,전문 및 상업 서비스,522030.0,2,2,4,5,5,4,4,4,4,4,4,4
+YEXT,Yext Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,5,5,5,10,10,10,10
+MSFT,Microsoft Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ADBE,Adobe Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+INTU,Intuit Inc,핀테크,573010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ATVI,Activision Blizzard Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,4,4,3,3,3,3,3,3,3
+WDAY,Workday Inc Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,13
+FTNT,Fortinet Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ADSK,Autodesk Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+SNPS,Synopsys Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CDNS,Cadence Design Systems Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+EA,Electronic Arts Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,4,4,3,3,3,3,3,3,3
+TTD,Trade Desk Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ANSS,ANSYS Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+ROKU,Roku Inc Class A,미디어 및 출판,533020.0,1,3,3,3,3,3,3,3,3,3,3,3
+TTWO,Take-Two Interactive Software Inc,레저 상품,532050.0,0,3,3,3,3,3,3,3,3,3,3,3
+SSNC,SS&C Technologies Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,13
+SPLK,Splunk Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,0,0,0,0,0,0,0
+NUAN,Nuance Communications Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+NLOK,NortonLifeLock Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,2,2,9,9,9,9,9
+PTC,PTC Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,13
+CTXS,Citrix Systems Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,0,0,0,0,0,0,0
+OTEX,Open Text Corp,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,13
+PCTY,Paylocity Holding Corp,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ZNGA,Zynga Inc Class A,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+COUP,Coupa Software Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+AZPN,Aspen Technology Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,13
+FIVN,Five9 Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+MANH,Manhattan Associates Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+PEGA,Pegasystems Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+DSGX,Descartes Systems Group Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+NTNX,Nutanix Inc Class A,소프트웨어 및 IT서비스,572010.0,2,2,4,2,6,6,6,6,6,6,6,6
+RPD,Rapid7 Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+MIME,Mimecast Ltd,소프트웨어 및 IT서비스,572010.0,1,3,1,1,1,7,7,7,7,7,7,7
+VG,Vonage Holdings Corp,통신 서비스,574010.0,1,1,1,1,1,7,7,7,7,7,7,7
+CDK,CDK Global Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,2,2,2,2,2,2,2
+ALTR,Altair Engineering Inc Class A,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+APPS,Digital Turbine Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+SPSC,SPS Commerce Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+QLYS,Qualys Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,13
+MNDT,Mandiant Inc,소프트웨어 및 IT서비스,572010.0,2,2,4,5,5,4,4,4,4,4,4,4
+VRNS,Varonis Systems Inc,소프트웨어 및 IT서비스,572010.0,1,1,3,1,1,1,1,1,1,1,1,3
+ACIW,ACI Worldwide Inc,핀테크,573010.0,0,3,3,3,3,3,3,3,3,3,3,13
+APPN,Appian Corp Class A,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+ALRM,Alarm.com Holdings Inc,소프트웨어 및 IT서비스,572010.0,1,3,3,3,3,3,3,3,3,3,3,3
+VRNT,Verint Systems Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+BLKB,Blackbaud Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,2,2,2,2,2,2,2
+MARA,Marathon Digital Holdings Inc,핀테크,573010.0,2,2,4,5,5,4,4,4,4,4,4,4
+EPAY,Bottomline Technologies Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,5,5,5,5,5,5,5
+RIOT,Riot Blockchain Inc,핀테크,573010.0,1,1,4,1,1,1,1,1,1,1,1,1
+IDCC,InterDigital Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,2,2,2,2,2,2,2,2,2,2
+EVBG,Everbridge Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+LPSN,LivePerson Inc,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,3,3,3,3,3,3,3
+PRGS,Progress Software Corp,소프트웨어 및 IT서비스,572010.0,0,3,3,3,3,7,7,7,7,7,7,13
+MGNI,Magnite Inc,소프트웨어 및 IT서비스,572010.0,1,1,1,1,1,1,1,1,1,1,1,1
+XPER,Xperi Holding Corp,소프트웨어 및 IT서비스,572010.0,2,2,2,5,5,4,4,4,4,11,11,11
