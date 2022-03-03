@@ -1,0 +1,31 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+JPM,JPMorgan Chase & Co,은행,551010.0,2,2,2,2,2,6,8,8,8,8,8,8
+BAC,Bank of America Corp,은행,551010.0,2,2,2,2,2,0,8,8,8,8,8,8
+WFC,Wells Fargo & Co,은행,551010.0,1,1,1,1,1,1,1,9,9,9,9,9
+C,Citigroup Inc,은행,551010.0,0,0,4,4,4,7,7,7,7,11,11,11
+PNC,PNC Financial Services Group Inc,은행,551010.0,2,2,0,0,0,0,8,8,8,8,8,8
+TFC,Truist Financial Corp,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,은행,551010.0,2,2,2,5,5,2,2,2,2,2,2,2
+BK,Bank of New York Mellon Corp,투자은행 및 서비스,551020.0,1,3,3,3,3,3,3,3,3,3,3,3
+DFS,Discover Financial Services,은행,551010.0,2,2,2,2,2,2,2,2,2,2,2,2
+STT,State Street Corp,투자은행 및 서비스,551020.0,1,3,3,3,3,5,5,5,5,5,5,5
+FRC,First Republic Bank,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+KEY,KeyCorp,은행,551010.0,0,0,0,0,0,0,0,0,0,7,7,7
+RF,Regions Financial Corp,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+MTB,M&T Bank Corp,은행,551010.0,1,1,4,4,4,7,7,7,10,10,10,10
+CFG,Citizens Financial Group Inc,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+CMA,Comerica Inc,은행,551010.0,1,3,3,3,3,3,3,3,10,10,10,10
+WAL,Western Alliance Bancorp,은행,551010.0,2,2,2,5,5,6,6,6,6,6,6,6
+FHN,First Horizon Corp,은행,551010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CFR,Cullen/Frost Bankers Inc,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+SNV,Synovus Financial Corp,은행,551010.0,1,3,3,3,3,1,1,1,10,10,10,13
+NYCB,New York Community Bancorp Inc,은행,551010.0,1,1,1,1,6,4,4,4,4,4,4,4
+SIVB,SVB Financial Group,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+FITB,Fifth Third Bancorp,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+NTRS,Northern Trust Corp,투자은행 및 서비스,551020.0,0,0,0,0,0,0,0,0,0,0,0,0
+HBAN,Huntington Bancshares Inc,은행,551010.0,0,0,4,4,4,7,7,7,7,7,7,7
+SBNY,Signature Bank,은행,551010.0,2,2,2,5,5,6,6,6,6,6,12,12
+EWBC,East West Bancorp Inc,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+FCNCA,First Citizens BancShares Inc (Delaware) Class A,은행,551010.0,2,2,2,2,2,6,6,6,6,6,6,6
+ZION,Zions Bancorporation NA,은행,551010.0,0,0,0,0,0,0,0,0,0,0,0,0
+BPOP,Popular Inc,은행,551010.0,2,2,2,2,2,2,8,8,8,8,8,8

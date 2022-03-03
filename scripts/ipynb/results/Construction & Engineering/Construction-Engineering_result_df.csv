@@ -1,0 +1,41 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+HD,Home Depot Inc,전문품 상점,534030.0,0,0,0,0,0,0,0,0,0,0,0,0
+LOW,Lowe's Companies Inc,전문품 상점,534030.0,0,0,0,0,0,0,0,0,0,0,0,0
+JCI,Johnson Controls International PLC,"건설장비 및 대형차, 기차, 배",521020.0,0,3,3,5,5,4,4,4,4,4,4,4
+PHG,Koninklijke Philips NV ADR,헬스케어 장비 및 용품,561010.0,0,0,0,0,0,0,0,9,9,9,9,9
+VMC,Vulcan Materials Co,건축 자재,512020.0,0,0,0,0,0,7,7,7,7,7,7,7
+MLM,Martin Marietta Materials Inc,건축 자재,512020.0,0,0,0,5,5,7,7,7,7,7,7,7
+NVR,NVR Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+J,Jacobs Engineering Group Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,0,0,0,0,0,0,0
+PWR,Quanta Services Inc,건설 및 엔지니어링,522010.0,0,3,3,5,5,7,7,7,7,11,11,11
+CSL,Carlisle Companies Inc,주택건설,532030.0,0,0,0,0,0,7,7,7,7,7,7,7
+FND,Floor & Decor Holdings Inc Class A,전문품 상점,534030.0,0,3,3,5,5,7,0,0,0,11,11,11
+ACM,AECOM,건설 및 엔지니어링,522010.0,0,3,3,5,5,7,7,7,7,11,11,11
+OC,Owens Corning,주택건설,532030.0,2,3,3,3,3,2,2,2,2,2,2,2
+BLD,TopBuild Corp,건설 및 엔지니어링,522010.0,0,0,0,0,0,0,0,0,0,0,0,0
+MTZ,MasTec Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,7,7,7,7,7,7,7
+TOL,Toll Brothers Inc,주택건설,532030.0,0,3,3,3,3,2,8,8,8,8,8,8
+KBR,KBR Inc,소프트웨어 및 IT서비스,572010.0,0,0,0,0,0,7,7,7,7,7,7,7
+EME,EMCOR Group Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,7,7,7,7,7,7,7
+LPX,Louisiana-Pacific Corp,종이 및 임산물,513010.0,0,3,3,5,5,7,7,7,7,11,11,11
+STN,Stantec Inc,건설 및 엔지니어링,522010.0,0,3,3,5,5,4,4,4,4,11,11,11
+EXP,Eagle Materials Inc,건축 자재,512020.0,2,3,3,3,3,2,2,2,2,2,2,2
+SKY,Skyline Champion Corp,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,12,12
+SUM,Summit Materials Inc Class A,건축 자재,512020.0,2,2,2,2,2,2,2,2,2,2,2,2
+SWX,Southwest Gas Holdings Inc,천연가스 유틸리티,591020.0,1,1,1,1,1,6,6,6,6,6,6,6
+MTH,Meritage Homes Corp,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,0,0
+FIX,Comfort Systems USA Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,0,0,0,0,0,12,12
+FLR,Fluor Corp,건설 및 엔지니어링,522010.0,1,1,1,1,1,1,1,1,1,1,1,1
+DY,Dycom Industries Inc,건설 및 엔지니어링,522010.0,2,2,4,4,4,3,3,3,3,3,3,3
+TPH,Tri Pointe Homes Inc (Delaware),주택건설,532030.0,0,3,3,3,3,7,8,8,8,8,8,8
+BTU,Peabody Energy Corp,석유,501010.0,1,1,1,1,1,1,1,1,1,1,1,1
+CCS,Century Communities Inc,주택건설,532030.0,0,3,3,5,5,7,8,8,8,11,11,11
+GVA,Granite Construction Inc,건설 및 엔지니어링,522010.0,1,1,1,1,1,1,1,1,1,1,1,1
+ASPN,Aspen Aerogels Inc,주택건설,532030.0,0,3,3,5,5,4,4,4,4,11,11,11
+TPC,Tutor Perini Corp,건설 및 엔지니어링,522010.0,1,1,1,1,6,5,5,5,5,5,5,5
+TSCO,Tractor Supply Co,전문품 상점,534030.0,0,0,0,0,0,0,0,0,0,0,0,0
+CVCO,Cavco Industries Inc,주택건설,532030.0,0,0,0,0,0,0,0,0,0,0,12,12
+NVEE,NV5 Global Inc,건설 및 엔지니어링,522010.0,0,0,0,0,0,0,0,0,0,0,12,12
+MYRG,MYR Group Inc,건설 및 엔지니어링,522010.0,0,3,3,5,5,4,4,4,4,11,11,11
+FRTA,Forterra Inc,건축 자재,512020.0,0,3,3,5,5,4,4,4,4,4,4,13
+TGLS,Tecnoglass Inc,주택건설,532030.0,2,3,3,5,5,4,4,4,10,10,10,10

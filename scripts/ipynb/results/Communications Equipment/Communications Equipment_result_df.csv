@@ -1,0 +1,21 @@
+Symbol,Name,Industry,IndustryCode,cluster_3,cluster_4,cluster_5,cluster_6,cluster_7,cluster_8,cluster_9,cluster_10,cluster_11,cluster_12,cluster_13,cluster_14
+ANET,Arista Networks Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,2,8,8,8,8,8,13
+MSI,Motorola Solutions Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,1,8,8,8,8,8,8
+UI,Ubiquiti Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,1,8,8,8,8,8,8
+JNPR,Juniper Networks Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,2,2,6,5,5,5,5,5,5,5
+CIEN,Ciena Corp,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,1,8,8,8,8,8,8
+CALX,Calix Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,7,7,7,7,7,7,7
+POLY,Plantronics Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,0,0,0,0,0,9,9,9,9,9
+CSCO,Cisco Systems Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,2,8,8,8,8,8,13
+FFIV,F5 Inc,소프트웨어 및 IT서비스,572010.0,2,2,2,2,2,2,2,2,2,2,2,2
+LITE,Lumentum Holdings Inc,커뮤니케이션 및 네트워킹,571020.0,1,1,1,1,1,1,1,1,1,1,1,1
+VIAV,Viavi Solutions Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,1,8,8,8,8,8,8
+VSAT,ViaSat Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,0,5,5,6,6,6,6,6,6,6
+COMM,CommScope Holding Company Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,0,0,0,0,0,0,0,0,0,0
+INFN,Infinera Corp,커뮤니케이션 및 네트워킹,571020.0,0,0,4,4,4,3,3,3,3,3,3,3
+EXTR,Extreme Networks Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,2,2,6,5,5,5,5,11,11,11
+ADTN,ADTRAN Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,4,4,6,4,4,4,4,4,4,4
+HLIT,Harmonic Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,7,8,8,8,8,12,12
+CLFD,Clearfield Inc,커뮤니케이션 및 네트워킹,571020.0,1,3,3,3,3,7,7,7,7,7,7,7
+NTGR,NETGEAR Inc,커뮤니케이션 및 네트워킹,571020.0,2,2,2,2,2,2,2,2,10,10,10,10
+RBBN,Ribbon Communications Inc,커뮤니케이션 및 네트워킹,571020.0,0,0,4,4,4,3,3,3,3,3,3,3
