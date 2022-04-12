@@ -1,0 +1,1406 @@
+,Theme,etf_names
+0,5G,FIVG
+1,5G,NXTG
+2,5G,TENG
+3,5G,WUGI
+4,5G,CWC
+5,Aerospace & Defense,ITA
+6,Aerospace & Defense,XAR
+7,Aerospace & Defense,PPA
+8,Aerospace & Defense,DFEN
+9,Aerospace & Defense,SHLD
+10,Aggressive,AOA
+11,Aggressive,CLSA
+12,Aggressive,DUDE
+13,Aggressive,QPX
+14,Aggressive,ARMR
+15,Aggressive,WIZ
+16,Aggressive,PWS
+17,Aggressive,EAOA
+18,Aggressive,BOB
+19,Aggressive,TAEQ
+20,Agriculture,MOO
+21,Agriculture,VEGI
+22,Agriculture,VEGN
+23,Agriculture,FTAG
+24,Agriculture,KROP
+25,Agriculture,EATV
+26,Agriculture,YUMY
+27,Airlines,JETS
+28,Asset Management & Custody Banks,BIZD
+29,Asset Management & Custody Banks,PSP
+30,Asset Management & Custody Banks,BDCZ
+31,Asset Management & Custody Banks,BDCX
+32,Asset Management & Custody Banks,PEX
+33,Banks,KBWB
+34,Banks,FTXO
+35,Big Tech,FNGU
+36,Big Tech,BULZ
+37,Big Tech,FNGO
+38,Big Tech,FNGS
+39,Big Tech,FNGD
+40,Big Tech,FNGG
+41,Big Tech,BERZ
+42,Biotechnology,IBB
+43,Biotechnology,XBI
+44,Biotechnology,FBT
+45,Biotechnology,LABU
+46,Biotechnology,BBH
+47,Biotechnology,PBE
+48,Biotechnology,SBIO
+49,Biotechnology,LABD
+50,Biotechnology,BBP
+51,Biotechnology,CHB
+52,Blockchain,BLOK
+53,Blockchain,BLCN
+54,Blockchain,LEGR
+55,Blockchain,BKCH
+56,Blockchain,BLKC
+57,Broad Maturities,AGG
+58,Broad Maturities,BND
+59,Broad Maturities,BNDX
+60,Broad Maturities,TIP
+61,Broad Maturities,LQD
+62,Broad Maturities,MUB
+63,Broad Maturities,MBB
+64,Broad Maturities,SCHP
+65,Broad Maturities,TLT
+66,Broad Maturities,IUSB
+67,Broad Maturities,PFF
+68,Broad Maturities,GOVT
+69,Broad Maturities,EMB
+70,Broad Maturities,VTEB
+71,Broad Maturities,HYG
+72,Broad Maturities,VMBS
+73,Broad Maturities,SCHZ
+74,Broad Maturities,FPE
+75,Broad Maturities,USHY
+76,Broad Maturities,JNK
+77,Broad Maturities,SPAB
+78,Broad Maturities,USIG
+79,Broad Maturities,PGX
+80,Broad Maturities,CWB
+81,Broad Maturities,FIXD
+82,Broad Maturities,HYLB
+83,Broad Maturities,SPMB
+84,Broad Maturities,ANGL
+85,Broad Maturities,BOND
+86,Broad Maturities,IAGG
+87,Broad Maturities,SPIP
+88,Broad Maturities,FALN
+89,Broad Maturities,EMLC
+90,Broad Maturities,HYD
+91,Broad Maturities,VWOB
+92,Broad Maturities,TOTL
+93,Broad Maturities,FBND
+94,Broad Maturities,FMB
+95,Broad Maturities,PZA
+96,Broad Maturities,PFFD
+97,Broad Maturities,PCY
+98,Broad Maturities,HYLS
+99,Broad Maturities,BAB
+100,Broad Maturities,EAGG
+101,Broad Maturities,CMF
+102,Broad Maturities,IVOL
+103,Broad Maturities,HYMB
+104,Broad Maturities,ICVT
+105,Broad Maturities,HYDW
+106,Broad Maturities,PGF
+107,Broad Maturities,FLCB
+108,Broad Maturities,JPHY
+109,Broad Maturities,QLTA
+110,Broad Maturities,LQDH
+111,Broad Maturities,HYEM
+112,Broad Maturities,HTRB
+113,Broad Maturities,PSK
+114,Broad Maturities,EBND
+115,Broad Maturities,IGOV
+116,Broad Maturities,UCON
+117,Broad Maturities,PTBD
+118,Broad Maturities,JAGG
+119,Broad Maturities,AGGY
+120,Broad Maturities,PFXF
+121,Broad Maturities,GTO
+122,Broad Maturities,DIAL
+123,Broad Maturities,FLCO
+124,Broad Maturities,IGHG
+125,Broad Maturities,JMBS
+126,Broad Maturities,SUSC
+127,Broad Maturities,HYGV
+128,Broad Maturities,EUSB
+129,Broad Maturities,BWX
+130,Broad Maturities,CMBS
+131,Broad Maturities,GIGB
+132,Broad Maturities,AGZ
+133,Broad Maturities,CORP
+134,Broad Maturities,VTC
+135,Broad Maturities,SPHY
+136,Broad Maturities,BNDW
+137,Broad Maturities,PFFA
+138,Broad Maturities,FPEI
+139,Broad Maturities,NYF
+140,Broad Maturities,LEMB
+141,Broad Maturities,WIP
+142,Broad Maturities,EMHY
+143,Broad Maturities,MMIN
+144,Broad Maturities,IG
+145,Broad Maturities,PLW
+146,Broad Maturities,DFCF
+147,Broad Maturities,PREF
+148,Broad Maturities,FLGV
+149,Broad Maturities,GNMA
+150,Broad Maturities,CEMB
+151,Broad Maturities,FMHI
+152,Broad Maturities,FLHY
+153,Broad Maturities,GCOR
+154,Broad Maturities,JPIB
+155,Broad Maturities,NUAG
+156,Broad Maturities,SPBO
+157,Broad Retail,XRT
+158,Broad Retail,RTH
+159,Broad Retail,RETL
+160,Broad Retail,ISHP
+161,Broad Retail,EMTY
+162,Broad Technology,IGM
+163,Broad Technology,TECB
+164,Broad Technology,GTEK
+165,Broad Technology,DTEC
+166,Broad Technology,XPND
+167,Broad Technology,BTEK
+168,Broad Technology,TCHI
+169,Broad Technology,KTEC
+170,Broad Technology,TINY
+171,Broad Technology,TYNE
+172,Broad Thematic,ARKK
+173,Broad Thematic,KOMP
+174,Broad Thematic,GINN
+175,Broad Thematic,SARK
+176,Broad Thematic,IZRL
+177,Broad Thematic,GXTG
+178,Broad Thematic,TMAT
+179,Broad Thematic,MOON
+180,Broad Thematic,FMIL
+181,Broad Thematic,SSPX
+182,Broad Thematic,ENTR
+183,Broad Thematic,ANEW
+184,Broad Thematic,SXUS
+185,Broad Thematic,FITE
+186,Broad Thematic,ERSX
+187,Broad Thematic,GK
+188,Broad Thematic,FFND
+189,Broad Thematic,MVPS
+190,Broad Thematic,BNE
+191,Broad Thematic,INNO
+192,Broad Thematic,SPRX
+193,Broad Thematic,WWOW
+194,Broad Thematic,ILDR
+195,Broad Thematic,AVDG
+196,Broad Thematic,KGRO
+197,Broad Thematic,GRZZ
+198,Broad Thematic,DTOX
+199,Broad-based,SPY
+200,Broad-based,IVV
+201,Broad-based,VOO
+202,Broad-based,VTI
+203,Broad-based,QQQ
+204,Broad-based,VEA
+205,Broad-based,IEFA
+206,Broad-based,VWO
+207,Broad-based,IEMG
+208,Broad-based,IJR
+209,Broad-based,IJH
+210,Broad-based,VIG
+211,Broad-based,IWM
+212,Broad-based,VO
+213,Broad-based,EFA
+214,Broad-based,VXUS
+215,Broad-based,VGT
+216,Broad-based,VB
+217,Broad-based,XLF
+218,Broad-based,XLK
+219,Broad-based,VNQ
+220,Broad-based,VYM
+221,Broad-based,ITOT
+222,Broad-based,XLE
+223,Broad-based,XLV
+224,Broad-based,VEU
+225,Broad-based,SCHD
+226,Broad-based,RSP
+227,Broad-based,SCHX
+228,Broad-based,IXUS
+229,Broad-based,DIA
+230,Broad-based,IWB
+231,Broad-based,IWR
+232,Broad-based,SCHF
+233,Broad-based,USMV
+234,Broad-based,VV
+235,Broad-based,EEM
+236,Broad-based,VT
+237,Broad-based,ESGU
+238,Broad-based,DGRO
+239,Broad-based,SCHB
+240,Broad-based,QUAL
+241,Broad-based,DVY
+242,Broad-based,SDY
+243,Broad-based,MDY
+244,Broad-based,VGK
+245,Broad-based,XLY
+246,Broad-based,ACWI
+247,Broad-based,TQQQ
+248,Broad-based,VHT
+249,Broad-based,SCHA
+250,Broad-based,XLI
+251,Broad-based,VXF
+252,Broad-based,DFAC
+253,Broad-based,XLP
+254,Broad-based,SPLG
+255,Broad-based,XLU
+256,Broad-based,SCZ
+257,Broad-based,GSLC
+258,Broad-based,FVD
+259,Broad-based,SPDW
+260,Broad-based,MTUM
+261,Broad-based,IWV
+262,Broad-based,VFH
+263,Broad-based,XLC
+264,Broad-based,BBEU
+265,Broad-based,EWJ
+266,Broad-based,FNDX
+267,Broad-based,NOBL
+268,Broad-based,SCHM
+269,Broad-based,RDVY
+270,Broad-based,SPLV
+271,Broad-based,VSS
+272,Broad-based,HDV
+273,Broad-based,SCHE
+274,Broad-based,OEF
+275,Broad-based,VDE
+276,Broad-based,IYW
+277,Broad-based,FTCS
+278,Broad-based,XLB
+279,Broad-based,BBJP
+280,Broad-based,JEPI
+281,Broad-based,FNDF
+282,Broad-based,ESGD
+283,Broad-based,MOAT
+284,Broad-based,BBCA
+285,Broad-based,VTWO
+286,Broad-based,EFAV
+287,Broad-based,IDEV
+288,Broad-based,DGRW
+289,Broad-based,QYLD
+290,Broad-based,VDC
+291,Broad-based,FTEC
+292,Broad-based,SPYD
+293,Broad-based,EWZ
+294,Broad-based,EWT
+295,Broad-based,ESGE
+296,Broad-based,ESGV
+297,Broad-based,MCHI
+298,Broad-based,EZU
+299,Cannabis,MSOS
+300,Cannabis,MJ
+301,Cannabis,YOLO
+302,Cannabis,POTX
+303,Cannabis,CNBS
+304,Cannabis,THCX
+305,Cannabis,TOKE
+306,Cannabis,PSDN
+307,Cannabis,MJUS
+308,Cannabis,BUDX
+309,Cannabis,MJXL
+310,Cannabis,MJIN
+311,Capital Appreciation,TDSC
+312,Capital Appreciation,SWAN
+313,Capital Appreciation,DMRL
+314,Capital Appreciation,TDSD
+315,Capital Appreciation,GAL
+316,Capital Appreciation,TDSB
+317,Capital Appreciation,AGOX
+318,Capital Appreciation,TDSE
+319,Capital Appreciation,DMRI
+320,Capital Appreciation,DALI
+321,Capital Appreciation,ZHDG
+322,Capital Appreciation,RISN
+323,Capital Appreciation,SPBC
+324,Capital Appreciation,DMRM
+325,Capital Appreciation,GMOM
+326,Capital Appreciation,MPRO
+327,Capital Appreciation,LEXI
+328,Capital Appreciation,ROMO
+329,Capital Appreciation,ISWN
+330,Capital Appreciation,FFTG
+331,Capital Appreciation,TCTL
+332,Capital Appreciation,DMRE
+333,Capital Appreciation,FFHG
+334,Capital Appreciation,DMRS
+335,Capital Appreciation,TDSA
+336,Capital Appreciation,RHRX
+337,Capital Appreciation,DSCF
+338,Capital Appreciation,BFIX
+339,Capital Appreciation,MSMR
+340,Capital Appreciation,ERM
+341,Capital Appreciation,RRH
+342,Capital Appreciation,IWIN
+343,Capital Appreciation,EUCG
+344,Capital Appreciation,BITS
+345,Capital Appreciation,FOMO
+346,Capital Appreciation,WLTG
+347,Capital Appreciation,GLDB
+348,Capital Appreciation,DEFN
+349,Capital Appreciation,DWAT
+350,Capital Appreciation,QSWN
+351,Capital Appreciation,WLTH
+352,Capital Appreciation,IRBA
+353,Capital Appreciation,GDE
+354,Capital Appreciation,FATT
+355,Capital Appreciation,TEGS
+356,Capital Markets,IAI
+357,Capital Markets,KCE
+358,Carbon Credits,KRBN
+359,Carbon Credits,KEUA
+360,Carbon Credits,GRN
+361,Carbon Credits,KCCA
+362,Casinos & Gaming,BETZ
+363,Casinos & Gaming,BJK
+364,Casinos & Gaming,IBET
+365,Communications Equipment,IGN
+366,Conservative,AOK
+367,Conservative,CLSC
+368,Conservative,VSPY
+369,Conservative,EAOK
+370,Conservative,SNUG
+371,Conservative,PSMC
+372,Conservative,SAVN
+373,Construction & Engineering,PKB
+374,Construction & Engineering,FLM
+375,Consumer,PAWZ
+376,Consumer,ECON
+377,Consumer,INCO
+378,Consumer,AGNG
+379,Consumer,KBUY
+380,Consumer,BFIT
+381,Consumer,HLGE
+382,Consumer,GBUY
+383,Consumer,VICE
+384,Consumer,BAD
+385,Consumer,HART
+386,Consumer,CCON
+387,Consumer,SUBS
+388,Consumer,LUXE
+389,Consumer,EDUT
+390,Consumer,ZGEN
+391,Consumer,LIV
+392,Consumer,OND
+393,Copper Miners,COPX
+394,Cybersecurity,CIBR
+395,Cybersecurity,HACK
+396,Cybersecurity,BUG
+397,Cybersecurity,IHAK
+398,Cybersecurity,WCBR
+399,Cybersecurity,VCLO
+400,Cybersecurity,UCYB
+401,Derivative,BITO
+402,Derivative,UUP
+403,Derivative,USDU
+404,Derivative,EUO
+405,Derivative,BTF
+406,Derivative,UDN
+407,Derivative,CYB
+408,Derivative,XBTF
+409,Derivative,YCS
+410,Derivative,CEW
+411,Derivative,ULE
+412,Derivative,EUFX
+413,Derivative,CROC
+414,Derivative,YCL
+415,Digital Economy,SOCL
+416,Digital Economy,EBIZ
+417,Digital Economy,BITQ
+418,Digital Economy,DAPP
+419,Digital Economy,CRPT
+420,Digital Economy,BUYZ
+421,Digital Economy,RIGZ
+422,Digital Economy,GFOF
+423,Digital Economy,GIGE
+424,Digital Economy,NFTZ
+425,Digital Economy,SATO
+426,Digital Economy,WGMI
+427,Digital Economy,BTCR
+428,Digital Economy,DAM
+429,Digital Economy,DGIN
+430,Digital Economy,BIDS
+431,Digital Economy,VBB
+432,Digital Payments,IPAY
+433,Digital Payments,TPAY
+434,Diversified Metals & Mining,REMX
+435,Energy Equipment & Services,OIH
+436,Energy Equipment & Services,XES
+437,Energy Equipment & Services,PXJ
+438,Energy Equipment & Services,ONG
+439,Environment,ERTH
+440,Environment,CTEC
+441,Environment,GSFP
+442,Environment,EVX
+443,Environment,GBLD
+444,Environment,OCEN
+445,Extended Term,BCI
+446,Extended Term,COMB
+447,Extended Term,KOLD
+448,Extended Term,BCD
+449,Extended Term,DJCB
+450,Extended Term,BOIL
+451,Extended Term,GBUG
+452,Extended Term,IAUF
+453,FinTech,ARKF
+454,FinTech,FINX
+455,FinTech,KOIN
+456,FinTech,FNTC
+457,FinTech,EMFQ
+458,FinTech,VFIN
+459,Floating Rate,SRLN
+460,Floating Rate,FLOT
+461,Floating Rate,BKLN
+462,Floating Rate,FTSL
+463,Floating Rate,FLRN
+464,Floating Rate,USFR
+465,Floating Rate,VRP
+466,Floating Rate,JAAA
+467,Floating Rate,FLTR
+468,Floating Rate,TFLO
+469,Floating Rate,VRIG
+470,Floating Rate,FLBL
+471,Floating Rate,PFFV
+472,Floating Rate,JBBB
+473,Floating Rate,FLRT
+474,Floating Rate,SEIX
+475,Floating Rate,PVI
+476,Floating Rate,SNLN
+477,Floating Rate,AAA
+478,"Food, Beverage & Tobacco",FTXG
+479,Front Month,GSG
+480,Front Month,DJP
+481,Front Month,AGQ
+482,Front Month,UNG
+483,Front Month,UGL
+484,Front Month,BNO
+485,Front Month,USOI
+486,Front Month,RJA
+487,Front Month,RJI
+488,Front Month,UGA
+489,Front Month,JJC
+490,Front Month,JJN
+491,Front Month,JO
+492,Front Month,JJG
+493,Front Month,GSP
+494,Front Month,BCIM
+495,Front Month,BAL
+496,Front Month,JJT
+497,Front Month,GLL
+498,Front Month,JJU
+499,Front Month,SGG
+500,Front Month,JJM
+501,Front Month,NIB
+502,Front Month,JJA
+503,Front Month,COW
+504,Front Month,GAZ
+505,Front Month,RJN
+506,Front Month,ZSL
+507,Front Month,JJS
+508,Front Month,RJZ
+509,Front Month,JJP
+510,Front Month,JJE
+511,Front Month,PGM
+512,Front Month,LD
+513,Genomic Advancements,ARKG
+514,Genomic Advancements,IDNA
+515,Genomic Advancements,GNOM
+516,Genomic Advancements,HELX
+517,Genomic Advancements,WDNA
+518,Gold Miners,GDX
+519,Gold Miners,GDXJ
+520,Gold Miners,NUGT
+521,Gold Miners,RING
+522,Gold Miners,JNUG
+523,Gold Miners,SGDM
+524,Gold Miners,SGDJ
+525,Gold Miners,GOAU
+526,Gold Miners,DUST
+527,Gold Miners,JDST
+528,Gold Miners,GDXU
+529,Gold Miners,GOEX
+530,Gold Miners,GDXD
+531,Gold Miners,JGLD
+532,Growth,VUG
+533,Growth,IWF
+534,Growth,IVW
+535,Growth,SCHG
+536,Growth,VBK
+537,Growth,SPYG
+538,Growth,IWP
+539,Growth,MGK
+540,Growth,IUSG
+541,Growth,VOT
+542,Growth,IWO
+543,Growth,EFG
+544,Growth,VOOG
+545,Growth,VONG
+546,Growth,IJK
+547,Growth,IJT
+548,Growth,IWY
+549,Growth,RPG
+550,Growth,SLYG
+551,Growth,ILCG
+552,Growth,MDYG
+553,Growth,IMCG
+554,Growth,FTC
+555,Growth,SPGP
+556,Growth,NULG
+557,Growth,IVOG
+558,Growth,PWB
+559,Growth,VTWG
+560,Growth,VIOG
+561,Growth,TMFG
+562,Growth,FBCG
+563,Growth,SFY
+564,Growth,NUMG
+565,Growth,ISCG
+566,Growth,FNY
+567,Growth,RFG
+568,Growth,TCHP
+569,Growth,TMFM
+570,Growth,FYC
+571,Growth,LRGE
+572,Growth,FAD
+573,Growth,CACG
+574,Growth,FBGX
+575,Growth,FDG
+576,Growth,JSMD
+577,Growth,RZG
+578,Growth,JSML
+579,Growth,TMFS
+580,Growth,MMLG
+581,Growth,HFGO
+582,Growth,GLIN
+583,Growth,JIG
+584,Growth,LCG
+585,Growth,FGRO
+586,Growth,SFYX
+587,Growth,TGRW
+588,Growth,FFSG
+589,Growth,FRTY
+590,Growth,IWFL
+591,Growth,MID
+592,Growth,GLCN
+593,Growth,PLAT
+594,Growth,WINN
+595,Growth,RWGV
+596,Growth,BFTR
+597,Growth,ATFV
+598,Growth,BUL
+599,Growth,PGRO
+600,Growth,HIPR
+601,Growth,CBTG
+602,Growth,ESGY
+603,Growth,MSTQ
+604,Growth,NWLG
+605,Growth,STLG
+606,Growth,WGRO
+607,Growth,GGRW
+608,Growth,TAAG
+609,Growth,MMSC
+610,Growth,IVSG
+611,Growth,IVDG
+612,Growth,AILG
+613,Health Care Equipment,IHI
+614,Health Care Equipment,MDEV
+615,Health Care Equipment & Services,EDOC
+616,Health Care Equipment & Services,IEHS
+617,Health Care Equipment & Services,FDHT
+618,Health Care Equipment & Services,EKG
+619,Health Care Equipment & Supplies,XHE
+620,Health Care Providers & Services,XHS
+621,Health Care Technology,HTEC
+622,Health Care Technology,GDOC
+623,"Hotels, Resorts & Cruise Lines",CRUZ
+624,"Hotels, Resorts & Cruise Lines",TRYP
+625,"Hotels, Resorts & Cruise Lines",BEDZ
+626,"Hotels, Resorts & Cruise Lines",JRNY
+627,"Hotels, Resorts & Cruise Lines",OOTO
+628,"Hotels, Resorts & Cruise Lines",HOTL
+629,"Hotels, Restaurants & Leisure",PEJ
+630,Housing,ITB
+631,Housing,XHB
+632,Housing,NAIL
+633,Housing,HOMZ
+634,Housing,RESI
+635,In Specie,FXF
+636,In Specie,FXE
+637,In Specie,FXY
+638,In Specie,FXC
+639,In Specie,FXB
+640,In Specie,FXA
+641,Income,HNDL
+642,Income,PCEF
+643,Income,MDIV
+644,Income,YYY
+645,Income,YLD
+646,Income,IYLD
+647,Income,CVY
+648,Income,INKM
+649,Income,CEFS
+650,Income,HIPS
+651,Income,CYA
+652,Income,AHHX
+653,Income,QDPL
+654,Income,WBII
+655,Income,GYLD
+656,Income,THY
+657,Income,FCEF
+658,Income,MAMB
+659,Income,IDIV
+660,Income,VPC
+661,Income,CEFD
+662,Income,TWIO
+663,Income,RULE
+664,Income,MFUL
+665,Income,HYIN
+666,Income,FIVR
+667,Income,TRPL
+668,Income,HOM
+669,Income,CHLD
+670,Income,SUNY
+671,Income & Capital Appreciation,DRSK
+672,Income & Capital Appreciation,TAIL
+673,Income & Capital Appreciation,GDMA
+674,Income & Capital Appreciation,AMAX
+675,Income & Capital Appreciation,MRSK
+676,Income & Capital Appreciation,WBIT
+677,Income & Capital Appreciation,RHTX
+678,Income & Capital Appreciation,LCR
+679,Income & Capital Appreciation,OPPX
+680,Income & Capital Appreciation,RORO
+681,Income & Capital Appreciation,GDMN
+682,Income & Capital Appreciation,FAIL
+683,Industrial REITs,INDS
+684,Inflation,RLY
+685,Inflation,PFIX
+686,Inflation,RAAX
+687,Inflation,PPI
+688,Inflation,RINF
+689,Inflation,CPI
+690,Infrastructure,PAVE
+691,Infrastructure,IGF
+692,Infrastructure,NFRA
+693,Infrastructure,IFRA
+694,Infrastructure,GRID
+695,Infrastructure,GII
+696,Infrastructure,TOLZ
+697,Infrastructure,SIMS
+698,Infrastructure,EMIF
+699,Infrastructure,OBOR
+700,Infrastructure,DOZR
+701,Infrastructure,GLIF
+702,Insurance,KIE
+703,Insurance,IAK
+704,Intermediate,VCIT
+705,Intermediate,IEF
+706,Intermediate,BIV
+707,Intermediate,IGIB
+708,Intermediate,IEI
+709,Intermediate,VGIT
+710,Intermediate,SPIB
+711,Intermediate,SPTI
+712,Intermediate,SCHR
+713,Intermediate,GVI
+714,Intermediate,TDTT
+715,Intermediate,ITM
+716,Intermediate,IBDO
+717,Intermediate,IBDP
+718,Intermediate,TIPX
+719,Intermediate,IBDQ
+720,Intermediate,UITB
+721,Intermediate,BSCP
+722,Intermediate,IBDR
+723,Intermediate,PHB
+724,Intermediate,TDTF
+725,Intermediate,BSCQ
+726,Intermediate,MUNI
+727,Intermediate,IBDS
+728,Intermediate,SHYD
+729,Intermediate,GBF
+730,Intermediate,BSCR
+731,Intermediate,VBND
+732,Intermediate,SCHI
+733,Intermediate,BSJP
+734,Intermediate,IBDT
+735,Intermediate,SKOR
+736,Intermediate,MMIT
+737,Intermediate,BSCS
+738,Intermediate,IBD
+739,Intermediate,UBND
+740,Intermediate,IBMN
+741,Intermediate,BSJQ
+742,Intermediate,TBX
+743,Intermediate,IBDU
+744,Intermediate,IBMO
+745,Intermediate,KORP
+746,Intermediate,IBDV
+747,Intermediate,BSCT
+748,Intermediate,JPIE
+749,Intermediate,PIFI
+750,Intermediate,PST
+751,Intermediate,DFNM
+752,Intermediate,JMUB
+753,Intermediate,IMTB
+754,Intermediate,IIGD
+755,Intermediate,IBMP
+756,Intermediate,BSCU
+757,Intermediate,IBMQ
+758,Intermediate,FFIU
+759,Intermediate,FLMI
+760,Intermediate,IBTF
+761,Intermediate,BTC
+762,Intermediate,IBHD
+763,Intermediate,IBTG
+764,Intermediate,BSMP
+765,Intermediate,IBTK
+766,Intermediate,MMCA
+767,Intermediate,BSJR
+768,Intermediate,IBHE
+769,Intermediate,TYO
+770,Intermediate,IIGV
+771,Intermediate,MBND
+772,Intermediate,AHYB
+773,Intermediate,IBDW
+774,Intermediate,IBTH
+775,Intermediate,BSMQ
+776,Intermediate,INMU
+777,Intermediate,BSCV
+778,Intermediate,TYD
+779,Intermediate,BSMS
+780,Intermediate,IBHF
+781,Intermediate,BSMR
+782,Intermediate,BSJS
+783,Intermediate,IBTI
+784,Intermediate,BSMT
+785,Intermediate,IBTJ
+786,Intermediate,IBHG
+787,Intermediate,UST
+788,Intermediate,BSMU
+789,Intermediate,BSJT
+790,Intermediate,IBHH
+791,Intermediate,IBHI
+792,Intermediate,BSMV
+793,Intermediate,IBTL
+794,Internet,FDN
+795,Internet,KWEB
+796,Internet,ARKW
+797,Internet,METV
+798,Internet,EMQQ
+799,Internet,PNQI
+800,Internet,SNSR
+801,Internet,CWEB
+802,Internet,OGIG
+803,Internet,WEBL
+804,Internet,FDNI
+805,Internet,XWEB
+806,Internet,WEBS
+807,Internet,FMQQ
+808,Internet,MTVR
+809,Internet,VERS
+810,Internet,EWEB
+811,Internet,PUNK
+812,Internet & Direct Marketing Retail,ONLN
+813,Internet & Direct Marketing Retail,IBUY
+814,Internet & Direct Marketing Retail,AWAY
+815,Internet & Direct Marketing Retail,CLIX
+816,Internet & Direct Marketing Retail,AWYX
+817,Internet Services & Infrastructure,IVES
+818,Internet Services & Infrastructure,IDAT
+819,Internet Services & Infrastructure,BYTE
+820,Laddered,USO
+821,Laddered,UCO
+822,Laddered,WEAT
+823,Laddered,SCO
+824,Laddered,CORN
+825,Laddered,USL
+826,Laddered,OILK
+827,Laddered,UCIB
+828,Laddered,SOYB
+829,Laddered,BDRY
+830,Laddered,TAGS
+831,Laddered,CANE
+832,Laddered,UNL
+833,Laddered,GRU
+834,Laddered,SBUG
+835,Laddered,FUE
+836,Life Sciences Tools & Services,GERM
+837,Life Sciences Tools & Services,BBC
+838,Long-Term,SPTL
+839,Long-Term,BLV
+840,Long-Term,VCLT
+841,Long-Term,TFI
+842,Long-Term,VGLT
+843,Long-Term,TLH
+844,Long-Term,IGLB
+845,Long-Term,EDV
+846,Long-Term,TBT
+847,Long-Term,SPLB
+848,Long-Term,TBF
+849,Long-Term,LTPZ
+850,Long-Term,PWZ
+851,Long-Term,IGBH
+852,Long-Term,TMV
+853,Long-Term,ZROZ
+854,Long-Term,TMF
+855,Long-Term,GOVZ
+856,Long-Term,ILTB
+857,Long-Term,TTT
+858,Long-Term,MLN
+859,Long-Term,RVNU
+860,Long-Term,DFIP
+861,Long-Term,FLMB
+862,Long-Term,SCHQ
+863,Long-Term,LKOR
+864,Long-Term,UBT
+865,Long-Term,TYA
+866,Long-Term,LGOV
+867,Long-Term,TBJL
+868,Long-Term,TFJL
+869,Long/Short Broad-based,WTMF
+870,Long/Short Broad-based,DBMF
+871,Long/Short Broad-based,FMF
+872,Long/Short Broad-based,KMLM
+873,Long/Short Broad-based,CLSE
+874,Long/Short Broad-based,QLS
+875,Long/Short Broad-based,QMN
+876,Long/Short Broad-based,QED
+877,Long/Short Broad-based,FUT
+878,Long/Short Broad-based,CTA
+879,Long/Short Broad-based,EVNT
+880,Long/Short Commodities,FAAR
+881,Long/Short Commodities,FAAR
+882,Long/Short Currency,DBV
+883,Long/Short Equity,FTLS
+884,Long/Short Equity,CCOR
+885,Long/Short Equity,BTAL
+886,Long/Short Equity,EOPS
+887,Long/Short Equity,MSVX
+888,Long/Short Equity,LBAY
+889,Long/Short Equity,ASPY
+890,Long/Short Equity,DBEH
+891,Long/Short Equity,CBLS
+892,Long/Short Equity,RALS
+893,Long/Short Equity,DIVA
+894,Long/Short Equity,TRDF
+895,Low Carbon,LCTU
+896,Low Carbon,CRBN
+897,Low Carbon,EMCR
+898,Low Carbon,PABU
+899,Low Carbon,LCTD
+900,Low Carbon,SMOG
+901,Low Carbon,LOWC
+902,Low Carbon,NETZ
+903,Low Carbon,JZRO
+904,Low Carbon,JCTR
+905,Low Carbon,TEMP
+906,Low Carbon,ECLN
+907,Low Carbon,GPAL
+908,Low Carbon,BECO
+909,Low Carbon,NTZO
+910,Low Carbon,KGHG
+911,Low Carbon,BSEA
+912,Low Carbon,CLMA
+913,Low Carbon,NZRO
+914,MLPs,AMLP
+915,MLPs,AMJ
+916,MLPs,EMLP
+917,MLPs,MLPA
+918,MLPs,MLPX
+919,MLPs,TPYP
+920,MLPs,AMZA
+921,MLPs,MLPB
+922,MLPs,ATMP
+923,MLPs,UMI
+924,MLPs,ENFR
+925,MLPs,AMUB
+926,MLPs,AMNA
+927,MLPs,AMTR
+928,MLPs,AMND
+929,MLPs,MLPR
+930,MLPs,MLPO
+931,MLPs,PYPE
+932,MLPs,IMLP
+933,Media & Entertainment,PBS
+934,Media & Entertainment,IEME
+935,Media & Entertainment,SUBZ
+936,Media & Entertainment,MRAD
+937,Media & Entertainment,VPOP
+938,Merger Arbitrage,MNA
+939,Merger Arbitrage,ARB
+940,Merger Arbitrage,MRGR
+941,Merger Arbitrage,MARB
+942,Metals & Mining,XME
+943,Metals & Mining,PICK
+944,Metals & Mining,GMET
+945,Metals & Mining,MNM
+946,Millennials,MILN
+947,Millennials,GENY
+948,Mobility,LIT
+949,Mobility,DRIV
+950,Mobility,IDRV
+951,Mobility,KARS
+952,Mobility,BATT
+953,Mobility,HAIL
+954,Mobility,CARZ
+955,Mobility,HDRO
+956,Mobility,FDRV
+957,Mobility,HJEN
+958,Mobility,HYDR
+959,Mobility,MOTO
+960,Mobility,EKAR
+961,Mobility,VCAR
+962,Mobility,CLNR
+963,Mobility,WBAT
+964,Moderate,AOR
+965,Moderate,AOM
+966,Moderate,CLSM
+967,Moderate,PSMB
+968,Moderately Aggressive,NTSX
+969,Moderately Aggressive,OCIO
+970,Moderately Aggressive,NTSI
+971,Moderately Aggressive,NTSE
+972,Moderately Aggressive,PSMG
+973,Moderately Aggressive,EAOR
+974,Moderately Aggressive,QPT
+975,Moderately Conservative,PSMM
+976,Moderately Conservative,EAOM
+977,Moderately Conservative,GHTA
+978,Mortgage REITs,REM
+979,Mortgage REITs,MORT
+980,Mortgage REITs,MVRL
+981,Natural Resources,GUNR
+982,Natural Resources,GNR
+983,Natural Resources,IGE
+984,Natural Resources,NANR
+985,Natural Resources,HAP
+986,Natural Resources,FTRI
+987,Natural Resources,GRES
+988,Nuclear Energy,URA
+989,Nuclear Energy,URNM
+990,Nuclear Energy,NLR
+991,Oil & Gas Equipment & Services,IEZ
+992,Oil & Gas Exploration & Production,GUSH
+993,Oil & Gas Exploration & Production,IEO
+994,Oil & Gas Refining & Marketing,CRAK
+995,"Oil, Gas & Consumable Fuels",XOP
+996,"Oil, Gas & Consumable Fuels",NRGU
+997,"Oil, Gas & Consumable Fuels",FCG
+998,"Oil, Gas & Consumable Fuels",PXE
+999,"Oil, Gas & Consumable Fuels",DIG
+1000,"Oil, Gas & Consumable Fuels",FILL
+1001,"Oil, Gas & Consumable Fuels",DRIP
+1002,"Oil, Gas & Consumable Fuels",OILU
+1003,"Oil, Gas & Consumable Fuels",NRGD
+1004,"Oil, Gas & Consumable Fuels",DUG
+1005,"Oil, Gas & Consumable Fuels",DDG
+1006,"Oil, Gas & Consumable Fuels",OILD
+1007,Optimized,PDBC
+1008,Optimized,DBC
+1009,Optimized,COMT
+1010,Optimized,DBA
+1011,Optimized,DBB
+1012,Optimized,DBO
+1013,Optimized,COM
+1014,Optimized,CMDY
+1015,Optimized,USCI
+1016,Optimized,GCC
+1017,Optimized,CPER
+1018,Optimized,DBE
+1019,Optimized,OIL
+1020,Optimized,GSCE
+1021,Optimized,DBP
+1022,Optimized,DGP
+1023,Optimized,DGL
+1024,Optimized,BCM
+1025,Optimized,CCRV
+1026,Optimized,PBUG
+1027,Optimized,DBS
+1028,Optimized,SDCI
+1029,Optimized,DZZ
+1030,Optimized,DGZ
+1031,"Pharma, Biotech & Life Sciences",BIB
+1032,"Pharma, Biotech & Life Sciences",CNCR
+1033,"Pharma, Biotech & Life Sciences",IBBQ
+1034,"Pharma, Biotech & Life Sciences",BIS
+1035,"Pharma, Biotech & Life Sciences",PSY
+1036,"Pharma, Biotech & Life Sciences",PSIL
+1037,"Pharma, Biotech & Life Sciences",CHNA
+1038,"Pharma, Biotech & Life Sciences",MSGR
+1039,"Pharma, Biotech & Life Sciences",XDNA
+1040,"Pharma, Biotech & Life Sciences",PSYK
+1041,Pharmaceuticals,IHE
+1042,Pharmaceuticals,PPH
+1043,Pharmaceuticals,PJP
+1044,Pharmaceuticals,XPH
+1045,Pharmaceuticals,PILL
+1046,Pharmaceuticals,FTXH
+1047,Physically Held,GLD
+1048,Physically Held,IAU
+1049,Physically Held,SLV
+1050,Physically Held,GLDM
+1051,Physically Held,SGOL
+1052,Physically Held,IAUM
+1053,Physically Held,SIVR
+1054,Physically Held,PPLT
+1055,Physically Held,GLTR
+1056,Physically Held,BAR
+1057,Physically Held,AAAU
+1058,Physically Held,OUNZ
+1059,Physically Held,PALL
+1060,Physically Held,SLVO
+1061,Physically Held,GLDI
+1062,Physically Held,PLTM
+1063,Physically Held,IGLD
+1064,Physically Held,BGLD
+1065,Physically Held,WGLD
+1066,Property & Casualty Insurance,KBWP
+1067,REITs,SCHH
+1068,REITs,REET
+1069,REITs,ICF
+1070,REITs,USRT
+1071,REITs,RWR
+1072,REITs,BBRE
+1073,REITs,SRET
+1074,REITs,KBWY
+1075,REITs,FRI
+1076,REITs,NURE
+1077,REITs,SPRE
+1078,REITs,RDOG
+1079,REITs,RITA
+1080,REITs,HAUS
+1081,Regional Banks,KRE
+1082,Regional Banks,IAT
+1083,Regional Banks,DPST
+1084,Regional Banks,QABA
+1085,Regional Banks,KBWR
+1086,Remote Work,WFH
+1087,Remote Work,IWFH
+1088,Renewable Energy,ICLN
+1089,Renewable Energy,TAN
+1090,Renewable Energy,QCLN
+1091,Renewable Energy,PBW
+1092,Renewable Energy,ACES
+1093,Renewable Energy,FAN
+1094,Renewable Energy,CNRG
+1095,Renewable Energy,PBD
+1096,Renewable Energy,RNRG
+1097,Renewable Energy,FRNW
+1098,Renewable Energy,RAYS
+1099,Renewable Energy,GCLN
+1100,Renewable Energy,KLNE
+1101,Renewable Energy,SULR
+1102,Renewable Energy,SOLR
+1103,Renewable Energy,WNDY
+1104,Renewable Energy,CTEX
+1105,Renewable Energy,VCLN
+1106,Renewable Energy,SHFT
+1107,Restaurants,EATZ
+1108,Robotics & AI,BOTZ
+1109,Robotics & AI,ARKQ
+1110,Robotics & AI,ROBO
+1111,Robotics & AI,IRBO
+1112,Robotics & AI,PRNT
+1113,Robotics & AI,ROBT
+1114,Robotics & AI,AIQ
+1115,Robotics & AI,THNQ
+1116,Robotics & AI,LRNZ
+1117,Robotics & AI,UBOT
+1118,Robotics & AI,IQM
+1119,Robotics & AI,GAST
+1120,Robotics & AI,WTAI
+1121,S&P 500 Mid-Term,VIXM
+1122,S&P 500 Mid-Term,VXZ
+1123,S&P 500 Short-Term,UVXY
+1124,S&P 500 Short-Term,VXX
+1125,S&P 500 Short-Term,SVXY
+1126,S&P 500 Short-Term,VIXY
+1127,S&P 500 Short-Term,SVOL
+1128,S&P 500 Short-Term,WEIX
+1129,Semiconductors,SOXX
+1130,Semiconductors,SMH
+1131,Semiconductors,SOXL
+1132,Semiconductors,XSD
+1133,Semiconductors,PSI
+1134,Semiconductors,USD
+1135,Semiconductors,SOXS
+1136,Semiconductors,FTXL
+1137,Semiconductors,SOXQ
+1138,Semiconductors,SSG
+1139,Short-Term,VCSH
+1140,Short-Term,BSV
+1141,Short-Term,SHY
+1142,Short-Term,IGSB
+1143,Short-Term,VTIP
+1144,Short-Term,VGSH
+1145,Short-Term,MINT
+1146,Short-Term,STIP
+1147,Short-Term,SCHO
+1148,Short-Term,SUB
+1149,Short-Term,SPSB
+1150,Short-Term,ISTB
+1151,Short-Term,LMBS
+1152,Short-Term,SHYG
+1153,Short-Term,SHM
+1154,Short-Term,NEAR
+1155,Short-Term,FTSM
+1156,Short-Term,SPTS
+1157,Short-Term,SJNK
+1158,Short-Term,JMST
+1159,Short-Term,VNLA
+1160,Short-Term,PULS
+1161,Short-Term,BSCN
+1162,Short-Term,SLQD
+1163,Short-Term,BSCO
+1164,Short-Term,IBDN
+1165,Short-Term,HYS
+1166,Short-Term,STPZ
+1167,Short-Term,LDUR
+1168,Short-Term,SUSB
+1169,Short-Term,DFSD
+1170,Short-Term,BSJN
+1171,Short-Term,RAVI
+1172,Short-Term,SMMU
+1173,Short-Term,BSJO
+1174,Short-Term,SCHJ
+1175,Short-Term,USTB
+1176,Short-Term,FTSD
+1177,Short-Term,IBML
+1178,Short-Term,SMB
+1179,Short-Term,AGZD
+1180,Short-Term,MEAR
+1181,Short-Term,LDSF
+1182,Short-Term,IBMM
+1183,Short-Term,FLTB
+1184,Short-Term,FSMB
+1185,Short-Term,PGHY
+1186,Short-Term,JSCP
+1187,Short-Term,BWZ
+1188,Short-Term,EMNT
+1189,Short-Term,PFLD
+1190,Short-Term,STOT
+1191,Short-Term,SHAG
+1192,Short-Term,IBHC
+1193,Short-Term,MINC
+1194,Short-Term,IBTE
+1195,Short-Term,HSRT
+1196,Short-Term,SHYL
+1197,Short-Term,PBTP
+1198,Short-Term,IBHB
+1199,Short-Term,AVSF
+1200,Short-Term,ISHG
+1201,Short-Term,IBDD
+1202,Short-Term,OVT
+1203,Short-Term,BKSB
+1204,Short-Term,IBTD
+1205,Short-Term,ARCM
+1206,Short-Term,BSMO
+1207,Short-Term,BSMN
+1208,Short-Term,LSST
+1209,Short-Term,BSDE
+1210,Short-Term,SFIG
+1211,Short-Term,NUSA
+1212,Short-Term,HOLD
+1213,Short-Term,WINC
+1214,Short-Term,BSCE
+1215,Short-Term,SBND
+1216,Short-Term,BBSA
+1217,Short-Term,TBUX
+1218,Short-Term,IBCE
+1219,Short-Term,FHYS
+1220,Short-Term,FCSH
+1221,Short-Term,GSIG
+1222,Short-Term,EMSH
+1223,Short-Term,FSIG
+1224,Silver Miners,SIL
+1225,Silver Miners,SILJ
+1226,Silver Miners,SLVP
+1227,Silver Miners,SILX
+1228,Silver Miners,SINV
+1229,Software,IGV
+1230,Software,PSJ
+1231,Software,SWAR
+1232,Software & Services,SKYY
+1233,Software & Services,WCLD
+1234,Software & Services,XSW
+1235,Software & Services,FCLD
+1236,Software & Services,CLDS
+1237,Software & Services,CLDL
+1238,Software & Services,SKYU
+1239,Software & Services,BIGY
+1240,Space,ARKX
+1241,Space,UFO
+1242,Space,ROKT
+1243,Specialized REITs,SRVR
+1244,Specialized REITs,VPN
+1245,Steel Producers,SLX
+1246,Tactical Asset Allocation,RPAR
+1247,Tactical Asset Allocation,QAI
+1248,Tactical Asset Allocation,DALT
+1249,Tactical Asset Allocation,FLSP
+1250,Tactical Asset Allocation,TRTY
+1251,Tactical Asset Allocation,GAA
+1252,Tactical Asset Allocation,HDG
+1253,Tactical Asset Allocation,VEGA
+1254,Tactical Asset Allocation,ALTY
+1255,Tactical Asset Allocation,UPAR
+1256,Tactical Asset Allocation,HTUS
+1257,Tactical Asset Allocation,FORH
+1258,Tactical Asset Allocation,ALTS
+1259,Tactical Asset Allocation,MCRO
+1260,Telecoms,IYZ
+1261,Telecoms,XTL
+1262,Telecoms,LTL
+1263,Timber,WOOD
+1264,Timber,CUT
+1265,Transportation,IYT
+1266,Transportation,XTN
+1267,Transportation,FTXR
+1268,Transportation,TPOR
+1269,Transportation,BOAT
+1270,Transportation,SEA
+1271,Ultra-Short Term,JPST
+1272,Ultra-Short Term,SHV
+1273,Ultra-Short Term,BIL
+1274,Ultra-Short Term,ICSH
+1275,Ultra-Short Term,GSY
+1276,Ultra-Short Term,VUSB
+1277,Ultra-Short Term,BSCM
+1278,Ultra-Short Term,GBIL
+1279,Ultra-Short Term,SGOV
+1280,Ultra-Short Term,BSJM
+1281,Ultra-Short Term,CLTL
+1282,Ultra-Short Term,GSST
+1283,Ultra-Short Term,ULST
+1284,Ultra-Short Term,IBMK
+1285,Ultra-Short Term,VALT
+1286,Ultra-Short Term,OPER
+1287,Ultra-Short Term,FUMB
+1288,Ultra-Short Term,ULTR
+1289,Ultra-Short Term,BSMM
+1290,Ultra-Short Term,BSBE
+1291,Ultra-Short Term,IBTB
+1292,Ultra-Short Term,AWTM
+1293,Ultra-Short Term,BKUI
+1294,Ultra-Short Term,BILS
+1295,Ultra-Short Term,USI
+1296,Ultra-Short Term,FLUD
+1297,Value,VTV
+1298,Value,IWD
+1299,Value,VBR
+1300,Value,IVE
+1301,Value,VOE
+1302,Value,EFV
+1303,Value,IWN
+1304,Value,IWS
+1305,Value,SPYV
+1306,Value,VLUE
+1307,Value,IUSV
+1308,Value,SCHV
+1309,Value,IJS
+1310,Value,IJJ
+1311,Value,VONV
+1312,Value,DFAT
+1313,Value,MGV
+1314,Value,SLYV
+1315,Value,DFIV
+1316,Value,RPV
+1317,Value,VOOV
+1318,Value,AVUV
+1319,Value,MDYV
+1320,Value,AVDV
+1321,Value,NULV
+1322,Value,IVLU
+1323,Value,VIOV
+1324,Value,IWX
+1325,Value,FTA
+1326,Value,VTWV
+1327,Value,PWV
+1328,Value,IVOV
+1329,Value,ILCV
+1330,Value,XSVM
+1331,Value,JVAL
+1332,Value,VFVA
+1333,Value,FVAL
+1334,Value,IMCV
+1335,Value,AIVL
+1336,Value,ISCV
+1337,Value,NUMV
+1338,Value,RZV
+1339,Value,XMVM
+1340,Value,VLU
+1341,Value,FYT
+1342,Value,FNK
+1343,Value,PY
+1344,Value,QVAL
+1345,Value,FLV
+1346,Value,SPVU
+1347,Value,AVLV
+1348,Value,OSCV
+1349,Value,SVAL
+1350,Value,FAB
+1351,Value,ISVL
+1352,Value,RFV
+1353,Value,IVAL
+1354,Value,AIVI
+1355,Value,FBCV
+1356,Value,GVAL
+1357,Value,EWJV
+1358,Value,AVES
+1359,Value,ABEQ
+1360,Value,SPDV
+1361,Value,SPVM
+1362,Value,DEEP
+1363,Value,WBIF
+1364,Value,DBLV
+1365,Value,ZIG
+1366,Value,JAVA
+1367,Value,FIVA
+1368,Value,FOVL
+1369,Value,IWDL
+1370,Value,AVIV
+1371,Value,KVLE
+1372,Value,RWVG
+1373,Value,CVAR
+1374,Value,PVAL
+1375,Value,REVS
+1376,Value,SQLV
+1377,Value,UVDV
+1378,Value,FPAG
+1379,Value,EEMD
+1380,Value,STLV
+1381,Value,HVAL
+1382,Value,NVQ
+1383,Value,CFCV
+1384,Value,USVT
+1385,Value,AVSC
+1386,Value,DMDV
+1387,Value,AILV
+1388,Value,DFSV
+1389,Value,DISV
+1390,Variable,FTGC
+1391,Variable,HCOM
+1392,Variable,HGER
+1393,Variable,GLDX
+1394,Video Games & eSports,ESPO
+1395,Video Games & eSports,HERO
+1396,Video Games & eSports,GAMR
+1397,Video Games & eSports,NERD
+1398,Video Games & eSports,BNGE
+1399,Water,PHO
+1400,Water,FIW
+1401,Water,CGW
+1402,Water,PIO
+1403,Water,EBLU
+1404,Water,AQWA
