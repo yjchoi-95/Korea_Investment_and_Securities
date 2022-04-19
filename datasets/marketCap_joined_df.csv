@@ -1,0 +1,3765 @@
+Symbol,Name,marketCap
+NVDA,NVIDIA Corp,604733636608.0
+QCOM,Qualcomm Inc,184945606656.0
+NXPI,NXP Semiconductors NV,49431625728.0
+AMD,Advanced Micro Devices Inc,137993584640.0
+MRVL,Marvell Technology Inc,57167450112.0
+AAPL,Apple Inc,2770712920064.0
+SWKS,Skyworks Solutions Inc,22282590208.0
+DLR,Digital Realty Trust Inc,39518990336.0
+CCI,Crown Castle International Corp,72428584960.0
+HPE,Hewlett Packard Enterprise Co,21820334080.0
+LITE,Lumentum Holdings Inc,6749927936.0
+SBAC,SBA Communications Corp Class A,33651402752.0
+ROG,Rogers Corp,5107885568.0
+CIEN,Ciena Corp,9884633088.0
+JNPR,Juniper Networks Inc,10880379904.0
+KEYS,Keysight Technologies Inc,30325864448.0
+NOK,Nokia Oyj ADR Series A,31615956992.0
+FB,Meta Platforms Inc Class A,605589143552.0
+INTC,Intel Corp,193507868672.0
+TMUS,T-Mobile US Inc,156768272384.0
+ANET,Arista Networks Inc,37742587904.0
+BCE,BCE Inc,47495995392.0
+SQ,Block Inc Class A,64155488256.0
+AMT,American Tower Corp,106698948608.0
+AVGO,Broadcom Inc,238880636928.0
+DOX,Amdocs Ltd,9933619200.0
+VZ,Verizon Communications Inc,223614681088.0
+RDWR,Radware Ltd,1455398784.0
+VIAV,Viavi Solutions Inc,3966979584.0
+RBBN,Ribbon Communications Inc,648004992.0
+VOD,Vodafone Group PLC ADR,49981075456.0
+STM,STMicroelectronics NV ADR,40829497344.0
+TSLA,Tesla Inc,879490695168.0
+SE,Sea Ltd ADR Class A,72043012096.0
+NATI,National Instruments Corp,5270004736.0
+NPTN,NeoPhotonics Corp,820486144.0
+WIT,Wipro Ltd ADR,39969554432.0
+ORAN,Orange SA ADR,33128480768.0
+PYPL,PayPal Holdings Inc,134083018752.0
+SILC,Silicom Ltd,290817664.0
+VIV,Telefonica Brasil SA ADR,16014777344.0
+UI,Ubiquiti Inc,14538827776.0
+TETCU,Tech Energy Transition Units,
+TEO,Telecom Argentina SA ADR Class B,2317370368.0
+ERIC,Telefonaktiebolaget LM Ericsson ADR Class B,41039298560.0
+TSM,Taiwan Semiconductor Manufacturing Co Ltd ADR,621127204864.0
+UBER,Uber Technologies Inc,67108753408.0
+TTM,Tata Motors Ltd ADR,23824723968.0
+SWIR,Sierra Wireless Inc,548249536.0
+U,Unity Software Inc,31479971840.0
+UNIT,Uniti Group Inc,2655798784.0
+UMC,United Microelectronics Corp ADR,24184315904.0
+LOV,Spark Networks SE ADR,61973364.0
+SPLK,Splunk Inc,19843612672.0
+SPOT,Spotify Technology SA,31168976896.0
+ATEN,A10 Networks Inc,1026760704.0
+CRNT,Ceragon Networks Ltd,163621984.0
+CHTR,Charter Communications Inc Class A,108998172672.0
+CHT,Chunghwa Telecom Co Ltd ADR,33636304896.0
+NET,Cloudflare Inc Class A,34160482304.0
+COMM,CommScope Holding Company Inc,1775051392.0
+CMTL,Comtech Telecommunications Corp,546969984.0
+GLW,Corning Inc,34270701568.0
+COUP,Coupa Software Inc,9756260352.0
+CRWD,CrowdStrike Holdings Inc Class A,41418625024.0
+DZSI,DZS Inc,427918400.0
+DAN,Dana Inc,3041895168.0
+DDOG,Datadog Inc Class A,51279831040.0
+DE,Deere & Co,119352369152.0
+DELL,Dell Technologies Inc Class C,44763660288.0
+CASA,Casa Systems Inc,357786624.0
+CMBM,Cambium Networks Corp,623782848.0
+ALLT,Allot Ltd,355319648.0
+ASX,ASE Technology Holding Co Ltd ADR,15638609920.0
+AKAM,Akamai Technologies Inc,17978413056.0
+AKTS,Akoustis Technologies Inc,278961216.0
+GOOG,Alphabet Inc Class C,1796034396160.0
+CTS,CTS Corp,1086291200.0
+ATUS,Altice USA Inc Class A,6337862656.0
+BBY,Best Buy Co Inc,24210057216.0
+DLA,Delta Apparel Inc,212482368.0
+DB,Deutsche Bank AG,34448519168.0
+LGIH,LGI Homes Inc,2947980032.0
+LSCC,Lattice Semiconductor Corp,7608386560.0
+LLNW,Limelight Networks Inc,536586144.0
+LUMN,Lumen Technologies Inc,10146749440.0
+MTSI,MACOM Technology Solutions Holdings Inc,4037472768.0
+IBM,International Business Machines Corp,116656046080.0
+MCG,Membership Collective Group Inc Class A,1903781888.0
+MCHP,Microchip Technology Inc,39501266944.0
+MU,Micron Technology Inc,100658479104.0
+EMKR,EMCORE Corp,146110896.0
+GL,Globe Life Inc,10504845312.0
+ESTC,Elastic NV,8358404608.0
+FSLR,First Solar Inc,7254691328.0
+INSG,Inseego Corp,480425824.0
+IHS,IHS Holding Ltd,4002258944.0
+IIVI,II-VI Inc,7180370944.0
+IPGP,IPG Photonics Corp,7819348992.0
+INFN,Infinera Corp,1690519808.0
+INFY,Infosys Ltd ADR,95163817984.0
+AIR,AAR Corp,1485792256.0
+HEI,HEICO Corp,17627973632.0
+NOC,Northrop Grumman Corp,60973441024.0
+MRCY,Mercury Systems Inc,2982973184.0
+MAXR,Maxar Technologies Inc,1948078848.0
+RTX,Raytheon Technologies Corp,140053708800.0
+LMT,Lockheed Martin Corp,105382379520.0
+KTOS,Kratos Defense and Security Solutions Inc,2105282176.0
+KAMN,Kaman Corp,1155783296.0
+SPR,Spirit AeroSystems Holdings Inc Class A,5175665664.0
+HII,Huntington Ingalls Industries Inc,7248406016.0
+HXL,Hexcel Corp,4534492160.0
+PSN,Parsons Corp,3255894784.0
+GD,General Dynamics Corp,58641481728.0
+BA,Boeing Co,122453319680.0
+TXT,Textron Inc,15112337408.0
+AJRD,Aerojet Rocketdyne Holdings Inc,2969667072.0
+CW,Curtiss-Wright Corp,5307169280.0
+TDG,TransDigm Group Inc,34982162432.0
+TGI,Triumph Group Inc,1462153728.0
+AXON,Axon Enterprise Inc,9620381696.0
+BWXT,BWX Technologies Inc,4064264448.0
+NPK,National Presto Industries Inc,578895104.0
+SPCE,Virgin Galactic Holdings Inc Class A,2100209664.0
+ASTR,Astra Space Inc Class A,826608064.0
+VEC,Vectrus Inc,517091936.0
+DCO,Ducommun Inc,536663200.0
+TLS,Telos Corp,703599808.0
+RADA,Rada Electronic Industries Ltd,521789088.0
+ROLLP,RBC BEARINGS Pref Shs,
+SAIC,Science Applications International Corp,4603712000.0
+SWBI,Smith & Wesson Brands Inc,857713856.0
+PLTR,Palantir Technologies Inc Class A,26583912448.0
+TDY,Teledyne Technologies Inc,19452420096.0
+LDOS,Leidos Holdings Inc,12260016128.0
+OSK,Oshkosh Corp,7674621952.0
+ATI,Allegheny Technologies Inc,3039954688.0
+BLL,Ball Corp,29888940032.0
+BAH,Booz Allen Hamilton Holding Corp Class A,9905067008.0
+CACI,CACI International Inc Class A,5827342848.0
+CAE,CAE Inc,7918260224.0
+ESLT,Elbit Systems Ltd,7642752000.0
+HON,Honeywell International Inc,128521691136.0
+OSIS,OSI Systems Inc,1440212352.0
+IRDM,Iridium Communications Inc,4567579136.0
+MANT,ManTech International Corp Class A,3209426176.0
+INGR,Ingredion Inc,5765336064.0
+BYND,Beyond Meat Inc,3681419520.0
+CTVA,Corteva Inc,37005369344.0
+AGCO,AGCO Corp,9634903040.0
+HYFM,Hydrofarm Holdings Group Inc,861448448.0
+LNN,Lindsay Corp,1404416256.0
+OTLY,Oatly Group AB ADR,4355479040.0
+ADM,Archer-Daniels-Midland Co,42593099776.0
+FMC,FMC Corp,14671428608.0
+NTR,Nutrien Ltd,41924624384.0
+BG,Bunge Ltd,14168632320.0
+CF,CF Industries Holdings Inc,15326384128.0
+GRWG,GrowGeneration Corp,528701856.0
+MOS,Mosaic Co,16527692800.0
+TTC,Toro Co,10295769088.0
+CNHI,CNH Industrial NV,21113849856.0
+DNA,Ginkgo Bioworks Holdings Inc Class A,7686394368.0
+SMG,Scotts Miracle-Gro Co,7749541888.0
+TRMB,Trimble Inc,16528876544.0
+TSN,Tyson Foods Inc Class A,34390769664.0
+TTCF,Tattooed Chef Inc Class A,987068096.0
+SAFM,Sanderson Farms Inc,4060181504.0
+DAR,Darling Ingredients Inc,10470595584.0
+SQM,Sociedad Quimica y Minera de Chile SA ADR Series B,18377949184.0
+GSS,Golden Star Resources Ltd,451327520.0
+PDI,PIMCO Dynamic Income Fund,1694352000.0
+K,Kellogg Co,22144499712.0
+BCPC,Balchem Corp,4459917824.0
+LOCL,Local Bounti Corp,493892800.0
+MDLZ,Mondelez International Inc Class A,92263317504.0
+AAME,Atlantic American Corp,55429792.0
+PTON,Peloton Interactive Inc Class A,10840401920.0
+PAYC,Paycom Software Inc,20055908352.0
+PH,Parker-Hannifin Corp,38689865728.0
+MOH,Molina Healthcare Inc,17835581440.0
+PSA,Public Storage,62363258880.0
+O,Realty Income Corp,37844021248.0
+MTD,Mettler-Toledo International Inc,32550508544.0
+PRU,Prudential Financial Inc,43772399616.0
+PLNT,Planet Fitness Inc Class A,8014646272.0
+MAA,Mid-America Apartment Communities Inc,24648048640.0
+AVO,Mission Produce Inc,915384320.0
+POOL,Pool Corp,18077282304.0
+PLUG,Plug Power Inc,12374362112.0
+PLMR,Palomar Holdings Inc,1329982720.0
+MPWR,Monolithic Power Systems Inc,19973019648.0
+PKG,Packaging Corp of America,13965547520.0
+NEO,Neogenomics Inc,2655741440.0
+OLPX,Olaplex Holdings Inc,12884724736.0
+FIZZ,National Beverage Corp,4241494016.0
+EYE,National Vision Holdings Inc,3179849472.0
+NOAC,Natural Order Acquisition Corp,281606240.0
+ON,ON Semiconductor Corp,25272721408.0
+NFG,National Fuel Gas Co,5557124096.0
+ORLY,O'Reilly Automotive Inc,44539817984.0
+NSC,Norfolk Southern Corp,65284079616.0
+ODFL,Old Dominion Freight Line Inc,33807484928.0
+MCO,Moody's Corp,60036030464.0
+PTCT,PTC Therapeutics Inc,2907804928.0
+PNC,PNC Financial Services Group Inc,85919399936.0
+OMC,Omnicom Group Inc,17709981696.0
+OMI,Owens & Minor Inc,3112551680.0
+OTIS,Otis Worldwide Corp,33890717696.0
+ONL,Orion Office Reit Inc,942816192.0
+OBNK,Origin Bancorp Inc,1015266432.0
+RF,Regions Financial Corp,23097839616.0
+SEM,Select Medical Holdings Corp,3094725120.0
+RBLX,Roblox Corp Class A,39546073088.0
+UPS,United Parcel Service Inc Class B,185987710976.0
+VEEV,Veeva Systems Inc Class A,35047428096.0
+VMI,Valmont Industries Inc,4586549760.0
+UPST,Upstart Holdings Inc,8572743680.0
+UNH,UnitedHealth Group Inc,446814126080.0
+URI,United Rentals Inc,22686160896.0
+UNP,Union Pacific Corp,154479853568.0
+TRV,Travelers Companies Inc,41189724160.0
+PATH,UiPath Inc Class A,19559491584.0
+TYL,Tyler Technologies Inc,19147405312.0
+TKC,Turkcell Iletisim Hizmetleri AS ADR,2942825472.0
+TFC,Truist Financial Corp,83652665344.0
+TREX,Trex Company Inc,10031295488.0
+VRSK,Verisk Analytics Inc,30912288768.0
+VGFC,Very Good Food Company Inc,70638200.0
+VFF,Village Farms International Inc,467900704.0
+EBAY,eBay Inc,36420911104.0
+ZI,ZoomInfo Technologies Inc Class A,22318059520.0
+ZM,Zoom Video Communications Inc Class A,42342109184.0
+ZG,Zillow Group Inc Class A,14869019648.0
+ZVIA,Zevia PBC Class A,563346880.0
+ZBRA,Zebra Technologies Corp Class A,22788526080.0
+WLFC,Willis Lease Finance Corp,211885296.0
+WAB,Westinghouse Air Brake Technologies Corp,16343101440.0
+WDC,Western Digital Corp,16472392704.0
+WSBF,Waterstone Financial Inc,497275712.0
+VITL,Vital Farms Inc,652138176.0
+COCO,Vita Coco Company Inc,669508480.0
+TRU,TransUnion,19271129088.0
+RMTI,Rockwell Medical Inc,31957972.0
+STX,Seagate Technology Holdings PLC,23628357632.0
+SITE,SiteOne Landscape Supply Inc,7914688000.0
+SSD,Simpson Manufacturing Co Inc,5098517504.0
+SPG,Simon Property Group Inc,52587151360.0
+SXT,Sensient Technologies Corp,3371349760.0
+TT,Trane Technologies PLC,35369328640.0
+SIVBP,SVB Finl Group DS Repstg 1 40th Perp Pfd Ser A,
+SSNC,SS&C Technologies Holdings Inc,19105771520.0
+ROSS,Ross Acquisition II Corp Class A,418312480.0
+SFM,Sprouts Farmers Market Inc,3294801664.0
+TTD,Trade Desk Inc Class A,39394312192.0
+TSCO,Tractor Supply Co,24803702784.0
+TITN,Titan Machinery Inc,680212032.0
+TWI,Titan International Inc,688669696.0
+TXN,Texas Instruments Inc,150045278208.0
+TDOC,Teladoc Health Inc,11340563456.0
+TTWO,Take-Two Interactive Software Inc,19263172608.0
+TWN,Taiwan Closed Fund,262007968.0
+RUN,Sunrun Inc,4678312960.0
+SUI,Sun Communities Inc,22421624832.0
+SWK,Stanley Black & Decker Inc,26791211008.0
+LSF,Laird Superfood Inc,56769708.0
+CERN,Cerner Corp,26784061440.0
+CDAY,Ceridian HCM Holding Inc,10632050688.0
+CNC,Centene Corp,47769100288.0
+CELH,Celsius Holdings Inc,4307105280.0
+CBOE,Cboe Global Markets Inc,12834485248.0
+CVNA,Carvana Co Class A,24975888384.0
+CARR,Carrier Global Corp,38318473216.0
+COF,Capital One Financial Corp,64212447232.0
+CAC,Camden National Corp,714548288.0
+CALM,Cal-Maine Foods Inc,2076893952.0
+CDZI,Cadiz Inc,96043640.0
+CDNS,Cadence Design Systems Inc,39376191488.0
+CSX,CSX Corp,75233878016.0
+CME,CME Group Inc Class A,85957459968.0
+CDW,CDW Corp,23900823552.0
+IGR,CBRE Global Real Estate Income Fund,972360640.0
+BRCN,Burcon NutraScience Corp,125582552.0
+CB,Chubb Ltd,84116897792.0
+BR,Broadridge Financial Solutions Inc,16913400832.0
+CI,Cigna Corp,72740806656.0
+CMI,Cummins Inc,31254183936.0
+CCK,Crown Holdings Inc,14928984064.0
+CAG,Conagra Brands Inc,16933338112.0
+CMP,Compass Minerals International Inc,1811869696.0
+CMCSA,Comcast Corp Class A,216566824960.0
+COIN,Coinbase Global Inc Class A,51135975424.0
+CTSH,Cognizant Technology Solutions Corp Class A,45822672896.0
+CGNX,Cognex Corp,11182537728.0
+CSGP,CoStar Group Inc,26061826048.0
+CFG,Citizens Financial Group Inc,22651871232.0
+CINF,Cincinnati Financial Corp,19253127168.0
+BLDR,Builders FirstSource Inc,13171437568.0
+AWK,American Water Works Company Inc,26873069568.0
+AVD,American Vanguard Corp,460909152.0
+AIG,American International Group Inc,48979279872.0
+AXP,American Express Co,146378358784.0
+ALLY,Ally Financial Inc,16336067584.0
+ALL,Allstate Corp,35018256384.0
+ALG,Alamo Group Inc,1642728192.0
+AGFY,Agrify Corp,147195328.0
+AGTI,Agiliti Inc,2296879616.0
+AFL,Aflac Inc,41879916544.0
+AFRM,Affirm Holdings Inc Class A,12279962624.0
+AMG,Affiliated Managers Group Inc,5729394176.0
+AAP,Advance Auto Parts Inc,13985024000.0
+ADBE,Adobe Inc,225533968384.0
+ATVI,Activision Blizzard Inc,63479455744.0
+ACN,Accenture PLC Class A,206114504704.0
+AMP,Ameriprise Financial Inc,33375356928.0
+BXP,Boston Properties Inc,18307936256.0
+AON,Aon PLC Class A,60118224896.0
+BKNG,Booking Holdings Inc,104524283904.0
+BLK,BlackRock Inc,115326861312.0
+BILL,Bill.com Holdings Inc,24860160000.0
+BERY,Berry Global Group Inc,8442455552.0
+BHIL,Benson Hill Inc,462953408.0
+BK,Bank of New York Mellon Corp,49430794240.0
+ADP,Automatic Data Processing Inc,85111136256.0
+AJG,Arthur J Gallagher & Co,31966423040.0
+ACGL,Arch Capital Group Ltd,17924339712.0
+AMAT,Applied Materials Inc,117159329792.0
+DFS,Discover Financial Services,35758080000.0
+MA,Mastercard Inc Class A,368725688320.0
+JCI,Johnson Controls International PLC,46708002816.0
+INVH,Invitation Homes Inc,24706238464.0
+ISRG,Intuitive Surgical Inc,100433616896.0
+IFF,International Flavors & Fragrances Inc,33500932096.0
+ICE,Intercontinental Exchange Inc,70141607936.0
+IBKR,Interactive Brokers Group Inc Class A,30092959744.0
+IQV,IQVIA Holdings Inc,45830496256.0
+IDXX,IDEXX Laboratories Inc,42865709056.0
+HBAN,Huntington Bancshares Inc,23150278656.0
+HUM,Humana Inc,53139853312.0
+JBT,John Bean Technologies Corp,4205778688.0
+KKR,KKR & Co Inc,36079370240.0
+KLAC,KLA Corp,55366291456.0
+MMC,Marsh & McLennan Companies Inc,76461842432.0
+MKL,Markel Corp,16842336256.0
+MSCI,MSCI Inc,43428577280.0
+MGPI,MGP Ingredients Inc,1731445760.0
+MTB,M&T Bank Corp,23216060416.0
+LYV,Live Nation Entertainment Inc,25896556544.0
+LAD,Lithia Motors Inc Class A,9411490816.0
+LMNR,Limoneira Co,250071568.0
+LBRDK,Liberty Broadband Corp Series C,26825846784.0
+LW,Lamb Weston Holdings Inc,9549925376.0
+LRCX,Lam Research Corp,78601043968.0
+HIG,Hartford Financial Services Group Inc,23329134592.0
+FIS,Fidelity National Information Services Inc,67896479744.0
+FAST,Fastenal Co,29862461440.0
+EXPD,Expeditors International of Washington Inc,18127923200.0
+EXPE,Expedia Group Inc,29876774912.0
+EQR,Equity Residential,33427949568.0
+EFX,Equifax Inc,26981656576.0
+ENPH,Enphase Energy Inc,19417882624.0
+ENR,Energizer Holdings Inc,2240526336.0
+EA,Electronic Arts Inc,37726584832.0
+ELAT,Elanco Animal Health Units,
+ECL,Ecolab Inc,52415971328.0
+ETN,Eaton Corporation PLC,60654960640.0
+DRE,Duke Realty Corp,20980201472.0
+DKNG,DraftKings Inc Class A,9024900096.0
+DOV,Dover Corp,23215904768.0
+FDX,FedEx Corp,60534816768.0
+FITB,Fifth Third Bancorp,32917262336.0
+FRC,First Republic Bank,30795956224.0
+HAIN,Hain Celestial Group Inc,3433829376.0
+HCA,HCA Healthcare Inc,73221038080.0
+GPN,Global Payments Inc,41846865920.0
+GPC,Genuine Parts Co,18096138240.0
+GME,GameStop Corp Class A,8939915264.0
+FDP,Fresh Del Monte Produce Inc,1317483008.0
+FBHS,Fortune Brands Home & Security Inc,12112902144.0
+FSR,Fisker Inc Class A,3456787968.0
+HA,Hawaiian Holdings Inc,975091776.0
+IP,International Paper Co,17903169536.0
+JBLU,JetBlue Airways Corp,4805448192.0
+RYAAY,Ryanair Holdings PLC ADR,27842041856.0
+SABR,Sabre Corp,2910932992.0
+LUV,Southwest Airlines Co,26880481280.0
+SAVE,Spirit Airlines Inc,2816361728.0
+SNCY,Sun Country Airlines Holdings Inc,1667848192.0
+UAL,United Airlines Holdings Inc,15196263424.0
+PAC,Grupo Aeroportuario del Pacifico SAB de CV ADR Series B,7589429760.0
+AZUL,Azul SA ADR,1789552896.0
+AIRT,Air T Inc,68732120.0
+ALK,Alaska Air Group Inc,7143980032.0
+ALGT,Allegiant Travel Co,3117053440.0
+AAL,American Airlines Group Inc,11286168576.0
+VLRS,Controladora Vuela Compania de Aviacion SAB de CV ADR,2178914816.0
+CPA,Copa Holdings SA Class A,3773183232.0
+DAL,Delta Air Lines Inc,26861389824.0
+ERJ,Embraer SA ADR,2666415104.0
+HTGC,Hercules Capital Inc,2042140416.0
+PSEC,Prospect Capital Corp,3224191744.0
+FSK,FS KKR Capital Corp,6220808192.0
+TSLX,Sixth Street Specialty Lending Inc,1714281728.0
+NMFC,New Mountain Finance Corp,1321811456.0
+ARCC,Ares Capital Corp,9938463744.0
+GBDC,Golub Capital Bdc Inc,2698360064.0
+GSBD,Goldman Sachs BDC Inc,2037398272.0
+OCSL,Oaktree Specialty Lending Corp,1341885824.0
+MAIN,Main Street Capital Corp,2942673664.0
+GAIN,Gladstone Investment Corp,517001824.0
+PFLT,PennantPark Floating Rate Capital Ltd,512053088.0
+OWLT,Owlet Inc Class A,197484000.0
+AINV,Apollo Investment Corp,866856448.0
+CODI,Compass Diversified Holdings,1622387200.0
+PTRS,Partners Bancorp,178564992.0
+PRTC,PureTech Health PLC ADR,1076360832.0
+PAX,Patria Investments Ltd Class A,2403012096.0
+STEP,StepStone Group Inc Class A,2059950848.0
+SSSS,SuRo Capital Corp,333283968.0
+CGBD,TCG BDC Inc,733615808.0
+NEWT,Newtek Business Services Corp,593978496.0
+BCSF,Bain Capital Specialty Finance Inc,1026540544.0
+BBDC,Barings BDC Inc,721742912.0
+TCPC,BlackRock TCP Capital Corp,786790592.0
+BX,Blackstone Inc,147329499136.0
+OWL,Blue Owl Capital Inc Class A,4641246720.0
+BBU,Brookfield Business Partners Units,3508172544.0
+CNNE,Cannae Holdings Inc,2550910976.0
+CSWC,Capital Southwest Corp,580724032.0
+CG,Carlyle Group Inc,16671728640.0
+EQT,EQT Corp,8562043904.0
+FDUS,Fidus Investment Corp,444027552.0
+GLAD,Gladstone Capital Corp,385581440.0
+GHM,Graham Corp,98082360.0
+HLNE,Hamilton Lane Inc Class A,2900749824.0
+ATNI,ATN International Inc,549718848.0
+BAC,Bank of America Corp,383050678272.0
+WFC,Wells Fargo & Co,224793526272.0
+SBNY,Signature Bank,20091758592.0
+NYCB,New York Community Bancorp Inc,5329140736.0
+JPM,JPMorgan Chase & Co,448945848320.0
+FHN,First Horizon Corp,9641572352.0
+C,Citigroup Inc,131874578432.0
+CMA,Comerica Inc,12794355712.0
+ZION,Zions Bancorporation NA,11321663488.0
+EWBC,East West Bancorp Inc,12679391232.0
+STT,State Street Corp,36115202048.0
+SNV,Synovus Financial Corp,7544869888.0
+NTRS,Northern Trust Corp,25232887808.0
+FCNCA,First Citizens BancShares Inc (Delaware) Class A,7464395264.0
+WAL,Western Alliance Bancorp,9877307392.0
+CFR,Cullen/Frost Bankers Inc,9127203840.0
+GILD,Gilead Sciences Inc,76655165440.0
+REGN,Regeneron Pharmaceuticals Inc,67056291840.0
+BIIB,Biogen Inc,31452727296.0
+INCY,Incyte Corp,14583223296.0
+ALKS,Alkermes Plc,3730534144.0
+UTHR,United Therapeutics Corp,9135203328.0
+ALNY,Alnylam Pharmaceuticals Inc,17779886080.0
+VRTX,Vertex Pharmaceuticals Inc,58790690816.0
+AGIO,Agios Pharmaceuticals Inc,1641202816.0
+IONS,Ionis Pharmaceuticals Inc,4602034176.0
+NBIX,Neurocrine Biosciences Inc,8207866880.0
+ACAD,ACADIA Pharmaceuticals Inc,4210199808.0
+BNTX,BioNTech SE ADR,37476151296.0
+AVXL,Anavex Life Sciences Corp,921339328.0
+FOLD,Amicus Therapeutics Inc,2577410816.0
+TECH,Bio-Techne Corp,16254108672.0
+SAGE,SAGE Therapeutics Inc,2491240448.0
+SRPT,Sarepta Therapeutics Inc,6846856192.0
+PRTA,Prothena Corporation PLC,1651750272.0
+IRWD,Ironwood Pharmaceuticals Inc Class A,1746145536.0
+LGND,Ligand Pharmaceuticals Inc,2008400128.0
+NTLA,Intellia Therapeutics Inc,6720815616.0
+EBS,Emergent BioSolutions Inc,2401036032.0
+HALO,Halozyme Therapeutics Inc,4736074752.0
+YMAB,Y-mAbs Therapeutics Inc,334312256.0
+RARE,Ultragenyx Pharmaceutical Inc,4856556544.0
+VNDA,Vanda Pharmaceuticals Inc,758243008.0
+TVTX,Travere Therapeutics Inc,1713726976.0
+ENTA,Enanta Pharmaceuticals Inc,1238999808.0
+INSM,Insmed Inc,2722555904.0
+GRTS,Gritstone bio Inc,368493888.0
+BPMC,Blueprint Medicines Corp,4792354816.0
+MYOV,Myovant Sciences Ltd,1241944192.0
+MYGN,Myriad Genetics Inc,2095384704.0
+BHVN,Biohaven Pharmaceutical Holding Company Ltd,9028044800.0
+EXAS,Exact Sciences Corp,13497748480.0
+GOSS,Gossamer Bio Inc,662938560.0
+GBT,Global Blood Therapeutics Inc,1962359424.0
+BCRX,BioCryst Pharmaceuticals Inc,3202860544.0
+MNKD,MannKind Corp,989948672.0
+FMTX,Forma Therapeutics Holdings Inc,537535040.0
+NKTR,Nektar Therapeutics,2004288896.0
+IMVT,Immunovant Inc,621000000.0
+KDNY,Chinook Therapeutics Inc,695747968.0
+IOVA,Iovance Biotherapeutics Inc,2624920320.0
+CHRS,Coherus BioSciences Inc,1000513728.0
+CRNX,Crinetics Pharmaceuticals Inc,875898176.0
+PRAX,Praxis Precision Medicines Inc,572360000.0
+KRTX,Karuna Therapeutics Inc,3118772480.0
+KROS,Keros Therapeutics Inc,1216030464.0
+KZR,Kezar Life Sciences Inc,754879616.0
+KNSA,Kiniksa Pharmaceuticals Ltd Class A,725394816.0
+KOD,Kodiak Sciences Inc,2760152320.0
+CTMX,CytomX Therapeutics Inc,264911344.0
+KRON,Kronos Bio Inc,387105952.0
+KRYS,Krystal Biotech Inc,1591755264.0
+ICPT,Intercept Pharmaceuticals Inc,438772960.0
+CRL,Charles River Laboratories International Inc,16524063744.0
+REPL,Replimune Group Inc,794375936.0
+RIGL,Rigel Pharmaceuticals Inc,427515008.0
+RCKT,Rocket Pharmaceuticals Inc,1227631488.0
+MCRB,Seres Therapeutics Inc,725592128.0
+STOK,Stoke Therapeutics Inc,662973824.0
+AKRO,Akero Therapeutics Inc,633222656.0
+SNDX,Syndax Pharmaceuticals Inc,800926656.0
+XENE,Xenon Pharmaceuticals Inc,1578632576.0
+ALXO,ALX Oncology Holdings Inc,606277504.0
+ADCT,ADC Therapeutics SA,1148523776.0
+BLUE,bluebird bio Inc,449387744.0
+APLS,Apellis Pharmaceuticals Inc,4379158528.0
+OPK,OPKO Health Inc,2057649792.0
+PTGX,Protagonist Therapeutics Inc,1305843584.0
+ATRA,Atara Biotherapeutics Inc,1280423808.0
+RDUS,Radius Health Inc,330448544.0
+RXRX,Recursion Pharmaceuticals Inc Class A,1913000576.0
+ARWR,Arrowhead Pharmaceuticals Inc,5205394944.0
+ARQT,Arcutis Biotherapeutics Inc,770523968.0
+RCUS,Arcus Biosciences Inc,2031615616.0
+ARCT,Arcturus Therapeutics Holdings Inc,612881600.0
+IMGO,Imago BioSciences Inc,746348864.0
+VCYT,Veracyte Inc,2087956736.0
+VCEL,Vericel Corp,1665688448.0
+VERV,Verve Therapeutics Inc,1425379840.0
+VKTX,Viking Therapeutics Inc,293380864.0
+IMPL,Impel Neuropharma Inc,186619152.0
+IGMS,IGM Biosciences Inc,543408832.0
+RGEN,Repligen Corp,10256016384.0
+VIR,Vir Biotechnology Inc,3936870400.0
+IDYA,IDEAYA Biosciences Inc,566680256.0
+GLPG,Galapagos NV ADR,4247519232.0
+PACB,Pacific Biosciences of California Inc,2422166016.0
+FLGT,Fulgent Genetics Inc,2051810560.0
+GTHX,G1 Therapeutics Inc,416291360.0
+ZNTL,Zentalis Pharmaceuticals Inc,2267993344.0
+PRQR,ProQR Therapeutics NV,92138880.0
+GBIO,Generation Bio Co,267476048.0
+INFI,Infinity Pharmaceuticals Inc,100587400.0
+PMVP,PMV Pharmaceuticals Inc,710203264.0
+RXDX,Prometheus Biosciences Inc,1608188928.0
+OYST,Oyster Point Pharma Inc,262162288.0
+ORGO,Organogenesis Holdings Inc Class A,962257152.0
+VTGN,VistaGen Therapeutics Inc,295558976.0
+TWST,Twist Bioscience Corp,2742691840.0
+TPTX,Turning Point Therapeutics Inc,1654594432.0
+INBX,Inhibrx Inc,865753536.0
+MORF,Morphic Holding Inc,1523187456.0
+RVMD,Revolution Medicines Inc,1554797952.0
+MRTX,Mirati Therapeutics Inc,5607709184.0
+MDXG,MiMedx Group Inc,513619520.0
+MRUS,Merus NV,1093246464.0
+MRSN,Mersana Therapeutics Inc,296995744.0
+MGTA,Magenta Therapeutics Inc,176919680.0
+MDGL,Madrigal Pharmaceuticals Inc,1442653312.0
+KYMR,Kymera Therapeutics Inc,2063705984.0
+KURA,Kura Oncology Inc,853910912.0
+RUBY,Rubius Therapeutics Inc,500552512.0
+SANA,Sana Biotechnology Inc,1278399360.0
+SGMO,Sangamo Therapeutics Inc,831804288.0
+KPTI,Karyopharm Therapeutics Inc,837066368.0
+DTIL,Precision BioSciences Inc,273452864.0
+JNCE,Jounce Therapeutics Inc,404312000.0
+SPRO,Spero Therapeutics Inc,310306560.0
+NRIX,Nurix Therapeutics Inc,728969920.0
+NVTA,Invitae Corp,2374631936.0
+ITCI,Intra-Cellular Therapies Inc,4317554688.0
+SURF,Surface Oncology Inc,162857248.0
+STRO,Sutro Biopharma Inc,403939712.0
+TIL,Instil Bio Inc,1513602944.0
+RLAY,Relay Therapeutics Inc,2191132416.0
+TBPH,Theravance Biopharma Inc,682447232.0
+INO,Inovio Pharmaceuticals Inc,685858368.0
+IPHA,Innate Pharma SA ADR,280947808.0
+PGEN,Precigen Inc,430015040.0
+FATE,Fate Therapeutics Inc,3474982912.0
+CRSP,CRISPR Therapeutics AG,4485247488.0
+BLU,BELLUS Health Inc,730773504.0
+BEEM,Beam Global,120726592.0
+BTAI,BioXcel Therapeutics Inc,492173472.0
+BBIO,BridgeBio Pharma Inc,1257019648.0
+CCCC,C4 Therapeutics Inc,1104287360.0
+CVM,CEL-SCI Corp,233952736.0
+CDMO,Avid Bioservices Inc,1293211520.0
+CPRX,Catalyst Pharmaceuticals Inc,781634432.0
+CLDX,Celldex Therapeutics Inc,1476912384.0
+CERE,Cerevel Therapeutics Holdings Inc Class A,4579039744.0
+CLVS,Clovis Oncology Inc,235261984.0
+COGT,Cogent Biosciences Inc,265806176.0
+CGEM,Cullinan Oncology Inc,594982912.0
+RNA,Avidity Biosciences Inc,748477696.0
+AUTL,Autolus Therapeutics PLC ADR,322301984.0
+DAWN,Day One Biopharmaceuticals Inc,811268608.0
+TCRT,Alaunos Therapeutics Inc,
+LBPS,4D Pharma PLC ADR,77418912.0
+AADI,Aadi Bioscience Inc,394060864.0
+AGLE,Aeglea Bio Therapeutics Inc,166208400.0
+AFMD,Affimed NV,509137248.0
+AGEN,Agenus Inc,603552832.0
+AKBA,Akebia Therapeutics Inc,304430400.0
+ALBO,Albireo Pharma Inc,611324416.0
+AUPH,Aurinia Pharmaceuticals Inc,2362587392.0
+ALDX,Aldeyra Therapeutics Inc,217845376.0
+ALLO,Allogene Therapeutics Inc,1422309632.0
+ALPN,Alpine Immune Sciences Inc,220904704.0
+AMTI,Applied Molecular Transport Inc.,301758464.0
+ABUS,Arbutus Biopharma Corp,404454272.0
+ASND,Ascendis Pharma A/S ADR,6930913792.0
+IMMP,Immutep Ltd ADR,193498896.0
+DVAX,Dynavax Technologies Corp,1500599552.0
+EDIT,Editas Medicine Inc,1080012288.0
+DCPH,Deciphera Pharmaceuticals Inc,519894336.0
+DNLI,Denali Therapeutics Inc,4259755008.0
+SABS,SAB Biotherapeutics Inc,222590976.0
+SQZ,SQZ Biotechnologies Co,177943520.0
+TKNO,Alpha Teknova Inc,387964832.0
+GMAB,Genmab A/S ADR,21683281920.0
+ALGS,Aligos Therapeutics Inc,105688176.0
+GTH,Genetron Holdings Ltd ADR,305718624.0
+SELB,Selecta Biosciences Inc,244962896.0
+SNSE,Sensei Biotherapeutics Inc,124528984.0
+SESN,Sesen Bio Inc,136792416.0
+ROIV,Roivant Sciences Ltd,4930480640.0
+STTK,Shattuck Labs Inc,206162928.0
+SBTX,Silverback Therapeutics Inc,148967728.0
+SGLY,Singularity Future Technology Ltd,
+SLDB,Solid Biosciences Inc,116913752.0
+SRNE,Sorrento Therapeutics Inc,915944640.0
+SPPI,Spectrum Pharmaceuticals Inc,110030872.0
+AMPE,Ampio Pharmaceuticals Inc,109067824.0
+AKYA,Akoya Biosciences Inc,446493600.0
+RLYB,Rallybio Corp,410942688.0
+GRCL,Gracell Biotechnologies Inc ADR,250422784.0
+DYN,Dyne Therapeutics Inc,335965824.0
+ATOS,Atossa Therapeutics Inc,163344960.0
+ATHA,Athira Pharma Inc,365293760.0
+PRVB,Provention Bio Inc,398626848.0
+PBYI,Puma Biotechnology Inc,87904040.0
+QTRX,Quanterix Corp,1188494592.0
+RANI,Rani Therapeutics Holdings Inc Class A,319135680.0
+ANIK,Anika Therapeutics Inc,436857568.0
+RETA,Reata Pharmaceuticals Inc Class A,920348672.0
+EGRX,Eagle Pharmaceuticals Inc,620125504.0
+RLMD,Relmada Therapeutics Inc,537331776.0
+RPTX,Repare Therapeutics Inc,583874048.0
+APLT,Applied Therapeutics Inc,58984876.0
+EWTX,Edgewise Therapeutics Inc,565915776.0
+RVNC,Revance Therapeutics Inc,921845248.0
+ANVS,Annovis Bio Inc,114137032.0
+GMDA,Gamida Cell Ltd,205173856.0
+STVN,Stevanato Group SpA,4306669056.0
+ABCM,Abcam PLC ADR,3905671168.0
+VRCA,Verrica Pharmaceuticals Inc,226757376.0
+FEIM,Frequency Electronics Inc,88847416.0
+AVRO,AVROBIO Inc,71153576.0
+VIRX,Viracta Therapeutics Inc,103726528.0
+RCEL,AVITA Medical Inc,217097616.0
+VOR,Vor Biopharma Inc,307265472.0
+HOWL,Werewolf Therapeutics Inc,186989008.0
+ATAI,ATAI Life Sciences NV,899271808.0
+ADMA,ADMA Biologics Inc,319176832.0
+ACIU,AC Immune SA,315312736.0
+FBIO,Fortress Biotech Inc,183318096.0
+ZYME,Zymeworks Inc,339378656.0
+ARGX,argenx SE ADR,14777601024.0
+EVLO,Evelo Biosciences Inc,209028208.0
+EFTR,eFFECTOR Therapeutics Inc,178442912.0
+ABSI,Absci Corp,812953408.0
+TERN,Terns Pharmaceuticals Inc,97279104.0
+SMMT,Summit Therapeutics Inc,198360224.0
+EIGR,Eiger BioPharmaceuticals Inc,146435696.0
+SYNH,Syneos Health Inc Class A,9225477120.0
+SYRS,Syros Pharmaceuticals Inc,94779216.0
+TCRR,TCR2 Therapeutics Inc,112750184.0
+TGTX,TG Therapeutics Inc,1426571136.0
+TALS,Talaris Therapeutics Inc,379566080.0
+TSHA,Taysha Gene Therapies Inc,282783168.0
+TNYA,Tenaya Therapeutics Inc,594036480.0
+AVTE,Aerovate Therapeutics Inc,230678272.0
+ACRS,Aclaris Therapeutics Inc,727380352.0
+TNXP,Tonix Pharmaceuticals Holding Corp,98207088.0
+FULC,Fulcrum Therapeutics Inc,426573408.0
+TCDA,Tricida Inc,546732864.0
+ADVM,Adverum Biotechnologies Inc,136431408.0
+ACET,Adicet Bio Inc,558573504.0
+ADPT,Adaptive Biotechnologies Corp,2070406400.0
+ADAP,Adaptimmune Therapeutics PLC ADR,484232384.0
+ADGI,Adagio Therapeutics Inc,710900288.0
+VBIV,VBI Vaccines Inc,375665312.0
+VALN,Valneva SE ADR,1685822848.0
+ABOS,Acumen Pharmaceuticals Inc,207612640.0
+PRLD,Prelude Therapeutics Inc,461766592.0
+DBTX,Decibel Therapeutics Inc,101189000.0
+AXSM,Axsome Therapeutics Inc,1175981056.0
+IPSC,Century Therapeutics Inc,652964736.0
+CNTA,Centessa Pharmaceuticals PLC ADR,845967424.0
+CLLS,Cellectis SA ADR,253100384.0
+KNTE,Kinnate Biopharma Inc,413802080.0
+HZNP,Horizon Therapeutics PLC,21885956096.0
+CTLT,Catalent Inc,17728299008.0
+CSTL,Castle Biosciences Inc,1105370112.0
+CRBU,Caribou Biosciences Inc,662715008.0
+FIXX,Homology Medicines Inc,210884608.0
+LABP,Landos Biopharma Inc,85532712.0
+LRMR,Larimar Therapeutics Inc,148236048.0
+LPTX,Leap Therapeutics Inc,197833424.0
+LEGN,Legend Biotech Corp ADR,6070447616.0
+LIAN,LianBio ADR,413942528.0
+CRDF,Cardiff Oncology Inc,127989280.0
+LCTX,Lineage Cell Therapeutics Inc,252836992.0
+LGVN,Longeveron Inc Class A,138032960.0
+LYEL,Lyell Immunopharma Inc,1471688576.0
+MEIP,MEI Pharma Inc,268348912.0
+CARA,Cara Therapeutics Inc,550090048.0
+CADL,Candel Therapeutics Inc,119349560.0
+CABA,Cabaletta Bio Inc,81878328.0
+HRTX,Heron Therapeutics Inc,868486272.0
+HBIO,Harvard Bioscience Inc,228130704.0
+KMDA,Kamada Ltd,274026304.0
+IKNA,Ikena Oncology Inc,384576608.0
+DBVT,DBV Technologies SA ADR,159310256.0
+IMRX,Immuneering Corp Class A,230564960.0
+CTKB,Cytek Biosciences Inc,1935015296.0
+CYT,Cyteir Therapeutics Inc,212225408.0
+IMCR,Immunocore Holdings PLC ADR,1067550272.0
+INMB,INmune Bio Inc,196097856.0
+CVAC,CureVac NV,3075151360.0
+CUE,Cue Biopharma Inc,212798016.0
+CNTB,Connect Biopharma Holdings Ltd ADR,254651456.0
+CKPT,Checkpoint Therapeutics Inc,174248048.0
+CGEN,Compugen Ltd,253810752.0
+CDAK,Codiak BioSciences  Inc.,107579496.0
+DNAY,Codex DNA Inc,276073824.0
+ICLR,ICON PLC,20824813568.0
+CLSD,Clearside Biomedical Inc,99643056.0
+JANX,Janux Therapeutics Inc,685757504.0
+MRVI,Maravai LifeSciences Holdings Inc Class A,3924051200.0
+MRNS,Marinus Pharmaceuticals Inc,414410304.0
+MTNB,Matinas BioPharma Holdings Inc,146075520.0
+ORTX,Orchard Therapeutics PLC ADR,133028936.0
+BLI,Berkeley Lights Inc,497288576.0
+NUVB,Nuvation Bio Inc Class A,1137697536.0
+OCGN,Ocugen Inc,725037056.0
+OLK,Olink Holding AB (publ) ADR,2142125952.0
+OMGA,Omega Therapeutics Inc,512146944.0
+OVID,Ovid Therapeutics Inc,215852272.0
+PDSB,PDS Biotechnology Corp,194230848.0
+DSGN,Design Therapeutics Inc,808776128.0
+PASG,Passage Bio Inc,219306992.0
+PHAT,Phathom Pharmaceuticals Inc,558191296.0
+PLRX,Pliant Therapeutics Inc,401834848.0
+PSTX,Poseida Therapeutics Inc,238774064.0
+MTEM,Molecular Templates Inc,149771312.0
+MEDP,Medpace Holdings Inc,6261686784.0
+MGTX,MeiraGTx Holdings PLC,654727872.0
+MREO,Mereo Biopharma Group PLC ADR,130682408.0
+VIVO,Meridian Bioscience Inc,1120016896.0
+HARP,Harpoon Therapeutics Inc,177169920.0
+HRMY,Harmony Biosciences Holdings Inc,2217824000.0
+MESO,Mesoblast Ltd ADR,512690112.0
+BNR,Burning Rock Biotech Ltd ADR,790382848.0
+BRKR,Bruker Corp,10042594304.0
+BTX,Brooklyn Immunotherapeutics Inc,113455488.0
+MIRM,Mirum Pharmaceuticals Inc,645853248.0
+GLUE,Monte Rosa Therapeutics Inc,600391168.0
+MBIO,Mustang Bio Inc,89120776.0
+BDTX,Black Diamond Therapeutics Inc,130786328.0
+BMEA,Biomea Fusion Inc,175140144.0
+NGM,NGM Biopharmaceuticals Inc,1221587072.0
+NRXP,NRX Pharmaceuticals Inc,177019008.0
+NSTG,NanoString Technologies Inc,1661254400.0
+GH,Guardant Health Inc,7115919872.0
+NAUT,Nautilus Biotechnology Inc,486734656.0
+BCYC,Bicycle Therapeutics PLC ADR,1396191744.0
+NLTX,Neoleukin Therapeutics Inc,119222960.0
+OLMA,Olema Pharmaceuticals Inc,192977600.0
+BITF,Bitfarms Ltd,725012224.0
+CAN,Canaan Inc ADR,830737600.0
+MARA,Marathon Digital Holdings Inc,2622222080.0
+RIOT,Riot Blockchain Inc,2089167360.0
+EBON,Ebang International Holdings Inc Class A,273177472.0
+WMT,Walmart Inc,371561234432.0
+VYGR,Voyager Therapeutics Inc,135128336.0
+HUT,Hut 8 Mining Corp,1148831744.0
+BABA,Alibaba Group Holding Ltd ADR,339536216064.0
+ARBK,Argo Blockchain PLC ADR,439060928.0
+HIVE,HIVE Blockchain Technologies Ltd,768686016.0
+ING,ING Groep NV ADR,56445730816.0
+GS,Goldman Sachs Group Inc,120168128512.0
+SDIG,Stronghold Digital Mining Inc Class A,230185152.0
+RY,Royal Bank of Canada,162505687040.0
+HOOD,Robinhood Markets Inc Class A,11156261888.0
+MOGO,Mogo Inc,176366432.0
+CUBI,Customers Bancorp Inc,1971322112.0
+BTCM,BIT Mining Ltd ADR Class A,210505728.0
+BTBT,Bit Digital Inc,296194944.0
+BKKT,Bakkt Holdings Inc Class A,388717248.0
+SHEL,Shell PLC ADR,205585219584.0
+SAP,SAP SE ADR,144811884544.0
+RIO,Rio Tinto PLC ADR,128196861952.0
+BBVA,Banco Bilbao Vizcaya Argentaria SA ADR,40131301376.0
+SAN,Banco Santander SA ADR,67096768512.0
+SLNHP,Soluna Holdings 9.0 Cumulative Perpetual Pref Shs Series A,
+KERN,Akerna Corp,41492924.0
+UBS,UBS Group AG,71597604864.0
+SONY,Sony Group Corp ADR,133981757440.0
+OCFT,OneConnect Financial Technology Co Ltd ADR,623990400.0
+LFC,China Life Insurance Co Ltd ADR,109751156736.0
+IBN,ICICI Bank Ltd ADR,69467553792.0
+HD,Home Depot Inc,367113011200.0
+HDB,HDFC Bank Ltd ADR,121839321088.0
+GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,
+CORZ,Core Scientific Inc,
+FTFT,Future Fintech Group Inc,56326944.0
+MBTC,Nocturne Acquisition Corp,149142000.0
+BCS,Barclays PLC ADR,45641940992.0
+MUFG,Mitsubishi UFJ Financial Group Inc ADR,84220960768.0
+MIGI,Mawson Infrastructure Group Inc,304294848.0
+LYG,Lloyds Banking Group PLC ADR,49883959296.0
+KR,Kroger Co,33593845760.0
+X,United States Steel Corp,6299130880.0
+AER,AerCap Holdings NV,15270717440.0
+HESM,Hess Midstream LP Class A,7855280640.0
+HPQ,HP Inc,39530106880.0
+MS,Morgan Stanley,181754036224.0
+PAGP,Plains GP Holdings LP Class A,2257871360.0
+PYT,Merrill Lynch Depositor PPLUS Floating Rate TRUPS Series GSC-2,
+ZTS,Zoetis Inc Class A,92936142848.0
+UZD,United States Cellular 6 250 Senior Notes due 2069,
+WES,Western Midstream Partners Common Units,10904013824.0
+EXCVV,Exelon Corp,
+FOXA,Fox Corp Class A,23508779008.0
+OXY,Occidental Petroleum Corp,38508036096.0
+SBR,Sabine Royalty Units,712198784.0
+SIRI,Sirius XM Holdings Inc,24676853760.0
+LLY,Eli Lilly and Co,224502579200.0
+KO,Coca-Cola Co,262441009152.0
+JNJ,Johnson & Johnson,435958579200.0
+CTXS,Citrix Systems Inc,12716756992.0
+DVA,DaVita Inc,10893569024.0
+VALE,Vale SA ADR,84004642816.0
+KHC,Kraft Heinz Co,42339540992.0
+FYBR,Frontier Communications Parent Inc,6814094848.0
+CNQ,Canadian Natural Resources Ltd,62006431744.0
+FANG,Diamondback Energy Inc,23637903360.0
+APH,Amphenol Corp Class A,45184114688.0
+FLEX,Flex Ltd,8000591360.0
+NLSN,Nielsen Holdings PLC,6442740224.0
+KMI,Kinder Morgan Inc,38977982464.0
+CAT,Caterpillar Inc,108128903168.0
+LEVLP,Level One Bancorp  Depositary Shares 1 100th 7 50 Non Cumulative Perpetual,
+KDP,Keurig Dr Pepper Inc,54024269824.0
+GM,General Motors Co,70326173696.0
+FMX,Fomento Economico Mexicano SAB de CV ADR,70486441984.0
+EPD,Enterprise Products Partners Units,52698435584.0
+EVTL,Vertical Aerospace Ltd,1466036480.0
+NGL,NGL Energy Partners Units,292882432.0
+DIS,Walt Disney Co,274642042880.0
+VLO,Valero Energy Corp,36680765440.0
+JEF,Jefferies Financial Group Inc,9081692160.0
+BKR,Baker Hughes Co Class A,24828887040.0
+VTRS,Viatris Inc,18177130496.0
+CEG,Constellation Energy Corp,
+GE,General Electric Co,106194313216.0
+OTEX,Open Text Corp,12003172352.0
+SYY,Sysco Corp,41605578752.0
+STZ,Constellation Brands Inc Class A,44466343936.0
+LOW,Lowe's Companies Inc,152233132032.0
+ENB,Enbridge Inc,84053966848.0
+CQP,Cheniere Energy Partners Units,23223566336.0
+CIXX,CI Financial Corp,3522383360.0
+ARMK,Aramark,9239520256.0
+AMBP,Ardagh Metal Packaging SA,5906145792.0
+REYN,Reynolds Consumer Products Inc,6091430400.0
+BP,BP PLC ADR,110913454080.0
+MGIC,Magic Software Enterprises Ltd,922142144.0
+BAM,Brookfield Asset Management Inc Class A,89006628864.0
+TTE,TotalEnergies SE ADR,154406502400.0
+BRX,Brixmor Property Group Inc,7314813952.0
+SO,Southern Co,69787828224.0
+XOM,Exxon Mobil Corp,334796226560.0
+THC,Tenet Healthcare Corp,8680419328.0
+F,Ford Motor Co,69914206208.0
+HAL,Halliburton Co,29077790720.0
+TFX,Teleflex Inc,14865792000.0
+PSX,Phillips 66,39685234688.0
+MSI,Motorola Solutions Inc,36111863808.0
+SUN,Sunoco Common Units,3505789184.0
+BKI,Black Knight Inc,10177464320.0
+LVS,Las Vegas Sands Corp,35303976960.0
+WY,Weyerhaeuser Co,30572083200.0
+CS,Credit Suisse Group AG ADR,23798876160.0
+MPLX,MPLX Common Units,33818556416.0
+MEOH,Methanex Corp,3805545728.0
+CSTE,Caesarstone Ltd,403988416.0
+GSK,GlaxoSmithKline PLC ADR,108154576896.0
+SCCO,Southern Copper Corp,51263000576.0
+RCL,Royal Caribbean Cruises Ltd,21086355456.0
+ECOL,US Ecology Inc,1477296640.0
+BMY,Bristol-Myers Squibb Co,145626415104.0
+WMB,Williams Companies Inc,36548104192.0
+OHI,Omega Healthcare Investors Inc,6803589632.0
+MO,Altria Group Inc,91323088896.0
+NEM,Newmont Corporation,51314941952.0
+AMX,America Movil SAB de CV ADR Series L,59863744512.0
+BTI,British American Tobacco PLC ADR,106886668288.0
+MMM,3M Co,90239516672.0
+EOG,EOG Resources Inc,66355056640.0
+NWL,Newell Brands Inc,10600968192.0
+BNS,Bank of Nova Scotia,88414142464.0
+IEP,Icahn Enterprises Units,15312186368.0
+PRGO,Perrigo Company PLC,4991108096.0
+PSHG,Performance Shipping Inc,14892399.0
+SMP,Standard Motor Products Inc,1036592832.0
+JAZZ,Jazz Pharmaceuticals PLC,8747739136.0
+GIS,General Mills Inc,40794886144.0
+ST,Sensata Technologies Holding PLC,8941170688.0
+DLTR,Dollar Tree Inc,30809974784.0
+POST,Post Holdings Inc,6789412352.0
+AZN,AstraZeneca PLC ADR,178304958464.0
+CPB,Campbell Soup Co,13285523456.0
+NLOK,NortonLifeLock Inc,17150137344.0
+YUM,Yum! Brands Inc,35084599296.0
+PFG,Principal Financial Group Inc,19665469440.0
+DISH,DISH Network Corp Class A,16376996864.0
+CM,Canadian Imperial Bank of Commerce,57279295488.0
+MAR,Marriott International Inc Class A,55799271424.0
+VORB,Virgin Orbit Holdings Inc,2495048192.0
+EHC,Encompass Health Corp,6381448704.0
+XPO,XPO Logistics Inc,7613369344.0
+CDK,CDK Global Inc,5115621888.0
+IRM,Iron Mountain Inc,12638858240.0
+TGT,Target Corp,99930898432.0
+TD,Toronto-Dominion Bank,152390729728.0
+DVN,Devon Energy Corp,35380019200.0
+VST,Vistra Corp,10424765440.0
+TRGP,Targa Resources Corp,14319908864.0
+SRE,Sempra Energy,43152011264.0
+KRC,Kilroy Realty Corp,7986668032.0
+ET,Energy Transfer Units,32131635200.0
+ITW,Illinois Tool Works Inc,68793294848.0
+DCUE,Dominion Energy Units Series A,60729212928.0
+MGP,MGM Growth Properties LLC Class A,6003249152.0
+EQNR,Equinor ASA ADR,99725328384.0
+WMPN,William Penn Bancorp,191452976.0
+SCI,Service Corporation International,10358122496.0
+NBHC,National Bank Holdings Corp Class A,1389764608.0
+FE,FirstEnergy Corp,23262541824.0
+CVX,Chevron Corp,263457390592.0
+OMF,OneMain Holdings Inc,6739746304.0
+AXL,American Axle & Manufacturing Holdings Inc,849754432.0
+AMCR,Amcor PLC,17513857024.0
+NXST,Nexstar Media Group Inc Class A,7229564416.0
+BURL,Burlington Stores Inc,14994774016.0
+BYD,Boyd Gaming Corp,7677725184.0
+BSX,Boston Scientific Corp,60889821184.0
+WCN,Waste Connections Inc,31109531648.0
+MPC,Marathon Petroleum Corp,45833641984.0
+SHW,Sherwin-Williams Co,70918774784.0
+WBA,Walgreens Boots Alliance Inc,40916434944.0
+BHF,Brighthouse Financial Inc,4449909248.0
+VICI,VICI Properties Inc,17711118336.0
+VEON,VEON Ltd ADR,2518747392.0
+NVS,Novartis AG ADR,192854769664.0
+LEA,Lear Corp,9970280448.0
+CCO,Clear Channel Outdoor Holdings Inc,1525080960.0
+CLF,Cleveland-Cliffs Inc,9236680704.0
+SUZ,Suzano SA ADR,15363533824.0
+ROP,Roper Technologies Inc,46644412416.0
+RPRX,Royalty Pharma PLC Class A,16798176256.0
+LPLA,LPL Financial Holdings Inc,14714260480.0
+VTR,Ventas Inc,19982751744.0
+STOR,STORE Capital Corp,8192358912.0
+SLB,Schlumberger NV,55152832512.0
+FUN,Cedar Fair Units,3498075136.0
+ACI,Albertsons Companies Inc Class A,14056429568.0
+DTM,DT Midstream Inc,4955605504.0
+PBFX,PBF Logistics Units,929629248.0
+DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures Exp 15 Sep 2078,
+LAMR,Lamar Advertising Co Class A,11074534400.0
+PM,Philip Morris International Inc,170068099072.0
+DGX,Quest Diagnostics Inc,15504508928.0
+TV,Grupo Televisa SAB ADR,5919654400.0
+PFE,Pfizer Inc,279520935936.0
+HRL,Hormel Foods Corp,25750370304.0
+VNT,Vontier Corp,4642387456.0
+ARE,Alexandria Real Estate Equities Inc,29368733696.0
+MODV,ModivCare Inc,1516458368.0
+DHT,DHT Holdings Inc,921784704.0
+XRX,Xerox Holdings Corp,3670206720.0
+A,Agilent Technologies Inc,40612491264.0
+CNI,Canadian National Railway Co,86029148160.0
+PIAI,Prime Impact Acquisition I Class A,399028448.0
+HTZ,Hertz Global Holdings Inc,9457093632.0
+BHC,Bausch Health Companies Inc,8906845184.0
+TJX,TJX Companies Inc,81103904768.0
+PG,Procter & Gamble Co,375716773888.0
+PEAK,Healthpeak Properties Inc,17311657984.0
+ABT,Abbott Laboratories,217110642688.0
+FLS,Flowserve Corp,4220683520.0
+GTN,Gray Television Inc,2109155840.0
+PARR,Par Pacific Holdings Inc,890828288.0
+AL,Air Lease Corp Class A,4719062016.0
+PGRE,Paramount Group Inc,1953087488.0
+DHIL,Diamond Hill Investment Group Inc Class A,561010304.0
+HGV,Hilton Grand Vacations Inc,6007429120.0
+SCHW,Charles Schwab Corp,165881233408.0
+HPP,Hudson Pacific Properties Inc,3656422400.0
+MMP,Magellan Midstream Partners Units,10117634048.0
+LNT,Alliant Energy Corp,14238029824.0
+RXT,Rackspace Technology Inc,2629600768.0
+BMO,Bank of Montreal,75898306560.0
+GRC,Gorman-Rupp Co,971648192.0
+LH,Laboratory Corporation of America Holdings,25386508288.0
+PNR,Pentair PLC,9756582912.0
+STAR,iStar Inc,1723002368.0
+CLX,Clorox Co,17591140352.0
+ES,Eversource Energy,28264292352.0
+NIMC,NiSource Units Series A,
+ELC,Entergy Louisiana Collateral Mortgage Bonds 4.875 Series Exp 01 Sept 2066,
+CYH,Community Health Systems Inc,1713440768.0
+MMX,Maverix Metals Inc,663594752.0
+KOF,Coca-Cola Femsa SAB de CV ADR Series L,11004147712.0
+DEO,Diageo PLC ADR,115390685184.0
+ESGR,Enstar Group Ltd,4927394304.0
+ETR,Entergy Corp,21002514432.0
+SGMS,Scientific Games Corp,5950954496.0
+DCP,DCP Midstream Units,6509603840.0
+XRAY,DENTSPLY SIRONA Inc,11704219648.0
+MX,MagnaChip Semiconductor Corp,855883456.0
+DHR,Danaher Corp,194007662592.0
+HEES,H&E Equipment Services Inc,1382469760.0
+GATX,GATX Corp,3662889984.0
+CRK,Comstock Resources Inc,1732961920.0
+SVC,Service Properties Trust,1363659904.0
+XYL,Xylem Inc,16102504448.0
+BANC,Banc of California Inc,1218686464.0
+HTA,Healthcare Trust Of America Inc Class A,6779726848.0
+ARW,Arrow Electronics Inc,8673709056.0
+PFSI,PennyMac Financial Services Inc,3577169408.0
+ABG,Asbury Automotive Group Inc,3729011968.0
+SPH,Suburban Propane Partners Common Units,938159104.0
+LEG,Leggett & Platt Inc,5131013120.0
+ADTN,ADTRAN Inc,996479552.0
+IVZ,Invesco Ltd,10524583936.0
+SYK,Stryker Corp,94479753216.0
+AVNT,Avient Corp,4816107008.0
+CAR,Avis Budget Group Inc,10990912512.0
+EL,Estee Lauder Companies Inc Class A,108980969472.0
+STLD,Steel Dynamics Inc,12226567168.0
+SCS,Steelcase Inc Class A,1355240704.0
+NFE,New Fortress Energy Inc Class A,4627525632.0
+FTV,Fortive Corp,23359455232.0
+BRO,Brown & Brown Inc,18639087616.0
+LNC,Lincoln National Corp,12570568704.0
+CL,Colgate-Palmolive Co,66804215808.0
+GT,Goodyear Tire & Rubber Co,4506313728.0
+SBGI,Sinclair Broadcast Group Inc Class A,2155863296.0
+SOFO,Sonic Foundry Inc,29923734.0
+TCI,Transcontinental Realty Investors Inc,331145152.0
+LSI,Life Storage Inc,10886274048.0
+TNL,Travel + Leisure Co,5059609600.0
+LTH,Life Time Group Holdings Inc,3162322688.0
+REAX,Real Brokerage Inc,463215968.0
+ED,Consolidated Edison Inc,29368240128.0
+RLGY,Realogy Holdings Corp,2011143040.0
+AM,Antero Midstream Corp,4746389504.0
+STE,STERIS plc,22683772928.0
+COST,Costco Wholesale Corp,224624918528.0
+GFLU,GFL Environmental Units,
+EEX,Emerald Holding Inc,234947232.0
+PCG,PG&E Corp,25385865216.0
+ONCR,Oncorus Inc,69942392.0
+PWR,Quanta Services Inc,14172951552.0
+CCS,Century Communities Inc,2077308160.0
+EIX,Edison International,22817275904.0
+CLR,Continental Resources Inc,20969725952.0
+KODK,Eastman Kodak Co,349215776.0
+ALLE,Allegion PLC,10613716992.0
+AA,Alcoa Corp,13597626368.0
+CNK,Cinemark Holdings Inc,2058763392.0
+DUK,Duke Energy Corp,76861546496.0
+CNO,CNO Financial Group Inc,3088990464.0
+CHNG,Change Healthcare Inc,6310888960.0
+CHDN,Churchill Downs Inc,8437368832.0
+CVE,Cenovus Energy Inc,31296339968.0
+NRG,NRG Energy Inc,9470372864.0
+CUBE,CubeSmart,11243528192.0
+KIM,Kimco Realty Corp,14368154624.0
+TMO,Thermo Fisher Scientific Inc,221135798272.0
+NS,NuStar Energy Units,1817716608.0
+AROC,Archrock Inc,1283236480.0
+ARNC,Arconic Corp (PITTSBURGH),3422492160.0
+KMB,Kimberly-Clark Corp,44607762432.0
+CC,Chemours Co,4851348992.0
+TROX,Tronox Holdings PLC,3478933248.0
+DHC,Diversified Healthcare Trust,695475520.0
+EDR,Endeavor Group Holdings Inc Class A,8253437440.0
+AEE,Ameren Corp,21929998336.0
+MLCO,Melco Resorts & Entertainment Ltd ADR,5182424576.0
+RGA,Reinsurance Group of America Inc,7560096256.0
+UNM,Unum Group,5837132800.0
+ACC,American Campus Communities Inc,6949499904.0
+HIW,Highwoods Properties Inc,4387217408.0
+APD,Air Products and Chemicals Inc,53985869824.0
+ENLC,EnLink Midstream Common Units,4142763520.0
+USAC,USA Compression Partners Common Units,1572956800.0
+MSN,Emerson Radio Corp,15361171.0
+VOYA,Voya Financial Inc,7680853504.0
+SWCH,Switch Inc Class A,6320256000.0
+NEU,NewMarket Corp,3270403328.0
+BXSL,Blackstone Secured Lending Fund,4970420736.0
+VMC,Vulcan Materials Co,24403122176.0
+COTY,Coty Inc Class A,7529979392.0
+BGB,Blackstone Strategic Credit Fund,580637184.0
+M,Macy's Inc,7326104576.0
+DBD,Diebold Nixdorf Inc,708331904.0
+FLR,Fluor Corp,3003590912.0
+FNF,Fidelity National Financial Inc,13600629760.0
+BEN,Franklin Resources Inc,15264569344.0
+BBWI,Bath & Body Works Inc,13432768512.0
+BAX,Baxter International Inc,42784215040.0
+FLO,Flowers Foods Inc,5929629696.0
+ENIC,Enel Chile SA ADR,2517660672.0
+ENDP,Endo International PLC,724380096.0
+MSC,Studio City International Holdings Ltd ADR Class A,458311584.0
+EW,Edwards Lifesciences Corp,67259506688.0
+AGM,Federal Agricultural Mortgage Corp Class C,1307831040.0
+TAYD,Taylor Devices Inc,35530940.0
+EPC,Edgewell Personal Care Co,1940163968.0
+FTAI,Fortress Transportation and Infrastructure Investors LLC,2614395392.0
+WTRG,Essential Utilities Inc,11403764736.0
+EC,Ecopetrol SA ADR,30642446336.0
+DPRO,Draganfly Inc,40839388.0
+MGM,MGM Resorts International,20262348800.0
+LDHAU,LDH Growth I Units,
+JBI,Janus International Group Inc,1481741824.0
+NCR,NCR Corp,5526839808.0
+ITT,ITT Inc,7438499840.0
+PKOH,Park Ohio Holdings Corp,234865856.0
+RBA,Ritchie Bros Auctioneers Inc,6345512960.0
+PINC,Premier Inc Class A,4473480704.0
+NWS,News Corp Class B,13312983040.0
+MRO,Marathon Oil Corp,16512770048.0
+AMH,American Homes 4 Rent Class A,15377131520.0
+AXS,AXIS Capital Holdings Ltd,4754939904.0
+PPG,PPG Industries Inc,35436847104.0
+OKE,ONEOK Inc,28058355712.0
+WU,Western Union Co,7967778816.0
+R,Ryder System Inc,4025923840.0
+NBR,Nabors Industries Ltd,1015467136.0
+CTAS,Cintas Corp,38407512064.0
+SLMBP,SLM Floating Rate Non Cumulative Pref Shs Series B,3767527424.0
+TWNK,Hostess Brands Inc Class A,2894846720.0
+PEG,Public Service Enterprise Group Inc,32751855616.0
+CAH,Cardinal Health Inc,14487519232.0
+CNP,CenterPoint Energy Inc,16922783744.0
+CSL,Carlisle Companies Inc,11995132928.0
+CURO,CURO Group Holdings Corp,574208320.0
+OVV,Ovintiv Inc,10899787776.0
+HUN,Huntsman Corp,7995196416.0
+RSG,Republic Services Inc,37519224832.0
+CHK,Chesapeake Energy Corp,7936273408.0
+RDN,Radian Group Inc,4217912064.0
+PVH,PVH Corp,6803222528.0
+ALSN,Allison Transmission Holdings Inc,4154760960.0
+PXD,Pioneer Natural Resources Co,54698221568.0
+IGT,International Game Technology PLC,5890947072.0
+AMCX,AMC Networks Inc Class A,1788535680.0
+LYB,LyondellBasell Industries NV Class A,33049499648.0
+MDWT,Midwest Holding Inc,79610024.0
+RIG,Transocean Ltd,2372928000.0
+AESC,AES Units,
+ATO,Atmos Energy Corp,14353083392.0
+BIP,Brookfield Infrastructure Partners Units,18579353600.0
+BGS,B&G Foods Inc,2000771456.0
+AXTA,Axalta Coating Systems Ltd,6418947072.0
+LBRT,Liberty Oilfield Services Inc Class A,2159657216.0
+SRC,Spirit Realty Capital Inc,5618277376.0
+SWN,Southwestern Energy Co,4750106112.0
+MTN,Vail Resorts Inc,10989302784.0
+SEE,Sealed Air Corp,9379819520.0
+GFF,Griffon Corp,1261770368.0
+PLL,Piedmont Lithium Inc,785376640.0
+MERC,Mercer International Inc,823488896.0
+PRPB,CC Neuberger Principal Holdings II Class A,1073065024.0
+SLGN,Silgan Holdings Inc,4706778624.0
+NEWR,New Relic Inc,4638343680.0
+VABK,Virginia National Bankshares Corp,190622496.0
+TEN,Tenneco Inc Class A,797318272.0
+CALB,California BanCorp,176156720.0
+LADR,Ladder Capital Corp Class A,1431510016.0
+DXC,DXC Technology Co,8967452672.0
+TEVA,Teva Pharmaceutical Industries Ltd ADR,9900836864.0
+DTP,DTE Energy Company 6.25% Units,
+VRT,Vertiv Holdings Co Class A,7821532160.0
+KAR,KAR Auction Services Inc,1480501888.0
+THS,TreeHouse Foods Inc,2128721280.0
+COP,Conocophillips,119220076544.0
+GIB,CGI Inc Class A,20477605888.0
+JOB,GEE Group Inc,66070408.0
+BNL,Broadstone Net Lease Inc,3522071552.0
+CLBK,Columbia Financial Inc,2357078784.0
+BWG,BrandywineGLOBAL Global Income Opptys Fd Inc,182358944.0
+MAS,Masco Corp,13735763968.0
+MMLP,Martin Midstream Partners Units,119124592.0
+CENT,Central Garden & Pet Co,2290598912.0
+KGC,Kinross Gold Corp,7233375232.0
+KFFB,Kentucky First Federal Bancorp,63766872.0
+CVI,CVR Energy Inc,2208666112.0
+CABO,Cable One Inc,9072557056.0
+UAN,CVR Partners Units,1062789376.0
+CHD,Church & Dwight Co Inc,23611940864.0
+COFS,ChoiceOne Financial Services Inc,197005984.0
+TMST,TimkenSteel Corp,719466304.0
+CNX,CNX Resources Corp,3400320000.0
+CMS,CMS Energy Corp,18078126080.0
+TRI,Thomson Reuters Corp,49529065472.0
+PHG,Koninklijke Philips NV ADR,29227882496.0
+NNN,National Retail Properties Inc,7435623424.0
+MTDR,Matador Resources Co,5221451776.0
+IPG,Interpublic Group of Companies Inc,13812926464.0
+STWD,Starwood Property Trust Inc,7602627072.0
+AVY,Avery Dennison Corp,15050584064.0
+WFRD,Weatherford International PLC,2372868608.0
+RGLD,Royal Gold Inc,7157091328.0
+SBRA,Sabra Health Care REIT Inc,2927078400.0
+OVBC,Ohio Valley Banc Corp,146322896.0
+AEP,American Electric Power Company Inc,42778890240.0
+AAT,American Assets Trust Inc,2109266944.0
+H,Hyatt Hotels Corp Class A,10789785600.0
+L,Loews Corp,15172588544.0
+MHK,Mohawk Industries Inc,9741274112.0
+HHC,Howard Hughes Corp,5207400448.0
+SEAS,SeaWorld Entertainment Inc,5176510976.0
+AQNU,Algonquin Power and Utilities Units,
+RPM,RPM International Inc,10962808832.0
+WLKP,Westlake Chemical Partners Units,946563072.0
+MT,ArcelorMittal SA ADR,28316338176.0
+RRC,Range Resources Corp,5320601600.0
+GEL,Genesis Energy Units Class A,1419464832.0
+DOC,Physicians Realty Trust,3782362112.0
+MUR,Murphy Oil Corp,5192911872.0
+MUSA,Murphy Usa Inc,4619359232.0
+GLT,Glatfelter Corp,624241920.0
+GRFS,Grifols SA ADR Class B,10360675328.0
+ASGN,ASGN Inc,5703387136.0
+JGGCU,Jaguar Global Growth I Units,
+FAF,First American Financial Corp,7592583168.0
+WEC,WEC Energy Group Inc,28272439296.0
+GPI,Group 1 Automotive Inc,3043270656.0
+GIC,Global Industrial Co,1221376000.0
+PAG,Penske Automotive Group Inc,7506246144.0
+DRI,Darden Restaurants Inc,18318176256.0
+NERV,Minerva Neurosciences Inc,29905120.0
+TECK,Teck Resources Ltd Class B,19126220800.0
+JSM,Navient 6 Prcnt Senior Notes Exp 15 Dec 2043,6304392192.0
+GOLD,Barrick Gold Corp,37592924160.0
+ACM,AECOM,10132880384.0
+ATY,AcuityAds Holdings Inc,163115152.0
+FSS,Federal Signal Corp,2257221120.0
+MTG,MGIC Investment Corp,5043280896.0
+PRIM,Primoris Services Corp,1405799296.0
+LEGH,Legacy Housing Corp,619039488.0
+FRT,Federal Realty Investment Trust,9188496384.0
+ACHC,Acadia Healthcare Company Inc,4713524736.0
+LAZ,Lazard Ltd Class A,3904068352.0
+SUM,Summit Materials Inc Class A,4040763648.0
+OPCH,Option Care Health Inc,4291817728.0
+LOPE,Grand Canyon Education Inc,3143773696.0
+CCL,Carnival Corp,25020463104.0
+GPOR,Gulfport Energy Corp,1296300416.0
+HLF,Herbalife Nutrition Ltd,4695008768.0
+PRGS,Progress Software Corp,1969843584.0
+CSV,Carriage Services Inc,845931776.0
+PRLHU,Pearl Holdings Acquisition Units,
+CPE,Callon Petroleum Co,3395817472.0
+PBI,Pitney Bowes Inc,850393920.0
+CLMT,Calumet Specialty Products Partners Units,1286357632.0
+CE,Celanese Corp,16654830592.0
+RL,Ralph Lauren Corp Class A,9020291072.0
+HUBB,Hubbell Inc,9973518336.0
+PRG,PROG Holdings Inc,2083244800.0
+PPL,PPL Corp,21282799616.0
+HEP,Holly Energy Patners Units,1958020736.0
+QRTEA,Qurate Retail Inc Series A,2698199040.0
+THG,Hanover Insurance Group Inc,4994459648.0
+PMVC,PMV Consumer Acquisition Corp Class A,215250000.0
+EBTC,Enterprise Bancorp Inc,477359552.0
+CSTM,Constellium SE Class A,2592688896.0
+SUP,Superior Industries International Inc,98373256.0
+SMLP,Summit Midstream Partners Units,171932528.0
+XELA,Exela Technologies Inc,189385360.0
+EVRG,Evergy Inc,14196149248.0
+EEA,European Equity Closed Fund,67755656.0
+SF,Stifel Financial Corp,8060007424.0
+TTMI,TTM Technologies Inc,1256482304.0
+TSAT,Telesat Corp Class A,268150144.0
+TPX,Tempur Sealy International Inc,7675373568.0
+TVC,Tennessee Valley Authority Power Bonds 1998 Series D due 01 June 2028,13256250.0
+FTI,TechnipFMC PLC,2997155072.0
+EVN,Eaton Vance Municipal Income Closed Fund,478783104.0
+EBC,Eastern Bankshares Inc,3914447616.0
+EXP,Eagle Materials Inc,5679703552.0
+CNR,Cornerstone Building Brands Inc,2832354304.0
+TRP,TC Energy Corp,51376357376.0
+NUE,Nucor Corp,31919200256.0
+MTH,Meritage Homes Corp,3434859776.0
+OGS,ONE Gas Inc,4017990912.0
+CIA,Citizens Inc Class A,213596096.0
+CLH,Clean Harbors Inc,5163708416.0
+SNY,Sanofi SA ADR,131331948544.0
+KMT,Kennametal Inc,2751084032.0
+ORI,Old Republic International Corp,8071266816.0
+RAD,Rite Aid Corp,549905024.0
+DOOR,Masonite International Corp,2286113024.0
+SWX,Southwest Gas Holdings Inc,3956431616.0
+MMS,Maximus Inc,4694896640.0
+TPH,Tri Pointe Homes Inc (Delaware),2496159488.0
+ZD,Ziff Davis Inc,4858727936.0
+AFG,American Financial Group Inc,11533970432.0
+LII,Lennox International Inc,9615782912.0
+ZBH,Zimmer Biomet Holdings Inc,24440145920.0
+NJR,New Jersey Resources Corp,3866982144.0
+UHS,Universal Health Services Inc Class B,10625067008.0
+EAT,Brinker International Inc,1862571648.0
+KEX,Kirby Corp,3812239616.0
+WPP,WPP PLC ADR,18732165120.0
+VOC,VOC Energy Units,98600000.0
+WWW,Wolverine World Wide Inc,2133364736.0
+CBT,Cabot Corp,3960326144.0
+WBS,Webster Financial Corp,11044517888.0
+BGCP,BGC Partners Inc Class A,1578207232.0
+VGR,Vector Group Ltd,1758211840.0
+BKH,Black Hills Corp,4230647808.0
+ARI,Apollo Commercial Real Estate Finance Inc,1806031488.0
+LXU,LSB Industries Inc,1076552832.0
+GNL,Global Net Lease Inc,1458744320.0
+VSCO,Victoria's Secret & Co,5344809472.0
+WH,Wyndham Hotels & Resorts Inc,8046843904.0
+NHI,National Health Investors Inc,2445212672.0
+GTES,Gates Industrial Corporation PLC,4376105472.0
+CIB,Bancolombia SA ADR,8144278016.0
+ADNT,Adient PLC,4283817472.0
+ATGE,Adtalem Global Education Inc,1168972800.0
+XELB,Xcel Brands Inc,25622026.0
+TSE,Trinseo PLC,2185752064.0
+SAFE,Safehold Inc,3536690432.0
+HR,Healthcare Realty Trust Inc,4551670784.0
+TRN,Trinity Industries Inc,2931873792.0
+SM,SM Energy Co,4317186048.0
+WAFD,Washington Federal Inc,2286743040.0
+VNO,Vornado Realty Trust,8376714752.0
+HSY,Hershey Co,41890914304.0
+ACT,Enact Holdings Inc,3606905856.0
+KF,Korea Closed Fund,157278144.0
+SXC,SunCoke Energy Inc,640556032.0
+WNC,Wabash National Corp,837150848.0
+FITBI,Fifth Third Bancorp Depositary Shares Representing 1/1000th Perp Pref Shs,18195009536.0
+ESI,Element Solutions Inc,5756919808.0
+EAF,GrafTech International Ltd,2532195584.0
+LPI,Laredo Petroleum Inc,1263736448.0
+EPR,EPR Properties,3333328640.0
+SWZ,Swiss Helvetia Closed Fund,120231936.0
+CNA,CNA Financial Corp,12903405568.0
+AFBI,Affinity Bancshares Inc,103914168.0
+AU,AngloGold Ashanti Ltd ADR,8977090560.0
+DPCSU,DP Cap Acquisition I Units,
+TOL,Toll Brothers Inc,6509068800.0
+HBANP,Huntington Bancshares 4.500 Depositary Shares Rep Perp Prf Shs Series H,
+MCB,Metropolitan Bank Holding Corp,1142661376.0
+BAK,Braskem SA ADR Class A,8095991296.0
+CNDT,Conduent Inc,936293632.0
+REGI,Renewable Energy Group Inc,1787116288.0
+CR,Crane Co,5984291328.0
+ALNA,Allena Pharmaceuticals Inc,34414100.0
+Y,Alleghany Corp,9230919680.0
+CTRA,Coterra Energy Inc,18899417088.0
+CAAP,Corporacion America Airports SA,915488384.0
+OFC,Corporate Office Properties Trust,2832836352.0
+BLBD,Blue Bird Corp,547290496.0
+GNW,Genworth Financial Inc Class A,2075208704.0
+BON,Bon Natural Life Ltd,32320400.0
+TPL,Texas Pacific Land Corp,8211218944.0
+REG,Regency Centers Corp,11156239360.0
+CNSL,Consolidated Communications Holdings Inc,810754368.0
+RYAM,Rayonier Advanced Materials Inc,326972864.0
+VNOM,Viper Energy Partners Units,2182937344.0
+MDB,MongoDB Inc Class A,28699160576.0
+BECN,Beacon Roofing Supply Inc,3837980160.0
+CECE,CECO Environmental Corp,201963312.0
+SNX,TD Synnex Corp,9768577024.0
+PGTI,PGT Innovations Inc,1096553344.0
+PDCE,PDC Energy Inc,5680240128.0
+ALB,Albemarle Corp,26633095168.0
+AEL,American Equity Investment Life Holding Co,3917946880.0
+BC,Brunswick Corp,7314801664.0
+WE,WeWork Inc Class A,5445711360.0
+MCY,Mercury General Corp,2901983744.0
+AUD,Audacy Inc Class A,326786464.0
+NRZ,New Residential Investment Corp,4903755776.0
+PLTK,Playtika Holding Corp,7627385344.0
+CRC,California Resources Corp,3321030656.0
+ACGLN,Arch Capital Group Depositary Shares Rep1000 Non Cumu Pref Shs Series G,
+NOG,Northern Oil and Gas Inc,1904403200.0
+APG,APi Group Corp,4896359936.0
+AMC,AMC Entertainment Holdings Inc Class A,9111607296.0
+AMN,AMN Healthcare Services Inc,4735536640.0
+USM,United States Cellular Corp,2653177344.0
+IBOC,International Bancshares Corp,2662689792.0
+NOVT,Novanta Inc,4871107072.0
+SSL,Sasol Ltd ADR,14201078784.0
+SPIR,Spire Global Inc Class A,422745408.0
+NWBI,Northwest Bancshares Inc,1779475840.0
+PENN,Penn National Gaming Inc,8104464384.0
+PDS,Precision Drilling Corp,709656704.0
+PTVE,Pactiv Evergreen Inc,1862908160.0
+SGML,Sigma Lithium Corp,974668672.0
+GLP,Global Partners Units,912757312.0
+GMRE,Global Medical REIT Inc,1031178816.0
+ATKR,Atkore Inc,4783021568.0
+TURN,180 Degree Capital Corp,76244320.0
+PRI,Primerica Inc,5981929984.0
+OMP,Oasis Midstream Partners LP Unit,1160256896.0
+NVT,nVent Electric PLC,5647715840.0
+RNER,Mount Rainier Acquisition Corp,220479056.0
+SQFTP,Presidio Property Trus 9.375 Cumulative Redeemable Perpetual Cumulative,
+NAACU,North Atlantic Acquisition Units,
+ASH,Ashland Global Holdings Inc,5403452416.0
+AGO,Assured Guaranty Ltd,4029692672.0
+FSBW,FS Bancorp Inc,252669872.0
+MDT,Medtronic PLC,137561931776.0
+NWE,NorthWestern Corp,3167736832.0
+BXMT,Blackstone Mortgage Trust Inc Class A,5238931456.0
+NYT,New York Times Co Class A,7043012608.0
+BSRR,Sierra Bancorp,409156736.0
+SNN,Smith & Nephew PLC ADR,14674623488.0
+RS,Reliance Steel & Aluminum Co,10140631040.0
+BIG,Big Lots Inc,1155950336.0
+DTG,DTE Energy 2021 4 375 Junior Subordinated Debentures Series E,
+SWM,Schweitzer-Mauduit International Inc,957905280.0
+TCBIO,Texas Capital Bancshares Depositary Shares 5 75 Non Cum Pref Shs Series B,
+TCBI,Texas Capital Bancshares Inc,3358313728.0
+WTFC,Wintrust Financial Corp,5794791936.0
+CWK,Cushman & Wakefield PLC,4804583424.0
+YVR,Liquid Media Group Ltd,11314813.0
+CMLS,Cumulus Media Inc Class A,216510640.0
+REXR,Rexford Industrial Realty Inc,11660541952.0
+MHO,M/I Homes Inc,1407547648.0
+DALN,Dallasnews Corp Series A,34255936.0
+NEPT,Neptune Wellness Solutions Inc,43502416.0
+NCMI,National Cinemedia Inc,253720864.0
+CPG,Crescent Point Energy Corp,3831172096.0
+FOR,Forestar Group Inc,930826816.0
+OPINL,Office Properties Income 6 375 Senior Notes due 2050,
+EVRI,Everi Holdings Inc,2030642304.0
+SGRY,Surgery Partners Inc,4205972224.0
+BSBR,Banco Santander Brasil SA ADR,45846704128.0
+GCI,Gannett Co Inc,853968000.0
+WTI,W&T Offshore Inc,634956864.0
+NEXA,Nexa Resources SA,1172085248.0
+MET,MetLife Inc,57892315136.0
+EML,Eastern Co,157820768.0
+ESGRO,Enstar Group Depository Shares 7 Perpetual Non Cumulative Preference Shs Series,3661534208.0
+EAI,Entergy Arkansas First Mortgage Bonds 4.875 Series Exp 01 Sept 2066,1174504960.0
+EPRT,Essential Properties Realty Trust Inc,3010172160.0
+OII,Oceaneering International Inc,1425125504.0
+EMP,Entergy Mississippi 4.90 First Mortgage Bonds Exp 1 Oct 2066,217092304.0
+APO,Apollo Global Management Inc,39377997824.0
+BCH,Banco de Chile ADR,10546173952.0
+EXK,Endeavour Silver Corp,698890048.0
+OTRA,OTR Acquisition Corp Class A,134869776.0
+STC,Stewart Information Services Corp,1803834880.0
+SBH,Sally Beauty Holdings Inc,1962972672.0
+NTRSO,Northern Trust DS Representing 1 1000th Non Cumulative Perpetual Pref Shs,
+ROST,Ross Stores Inc,33308416000.0
+UP,Wheels Up Experience Inc Class A,857632576.0
+BBBY,Bed Bath & Beyond Inc,1569461760.0
+VSTO,Vista Outdoor Inc,2113080192.0
+TGB,Taseko Mines Ltd,553714240.0
+AVA,Avista Corp,3038786304.0
+TPR,Tapestry Inc,10308809728.0
+SKT,Tanger Factory Outlet Centers Inc,1706393856.0
+BANR,Banner Corp,2125018880.0
+IMPP,Imperial Petroleum Inc,
+NTCO,Natura & Co Holding SA ADR,6074068480.0
+DY,Dycom Industries Inc,2665559296.0
+OIS,Oil States International Inc,394032640.0
+MIC,Macquarie Infrastructure Holdings LLC,317405280.0
+ITCB,Itau Corpbanca ADR,2070771072.0
+TUGC,SAI.TECH Global Corp Class A,57601420.0
+USCB,US Century Bank Class A,257490112.0
+PKE,Park Aerospace Corp,266979520.0
+YPF,YPF SA ADR Class D,1608650240.0
+WF,Woori Financial Group Inc ADR,9031151616.0
+CVR,Chicago Rivet & Machine Co,26341588.0
+TSQ,Townsquare Media Inc Class A,202054208.0
+NGD,New Gold Inc,1307327872.0
+AVAL,Grupo Aval Acciones y Valores SA ADR,5937886720.0
+BLD,TopBuild Corp,7507251712.0
+KRG,Kite Realty Group Trust,4680286720.0
+NYC,New York City REIT Inc Class A,150569120.0
+TRIB,Trinity Biotech PLC ADR Class A,23200888.0
+CHCO,City Holding Co,1203257472.0
+CVGI,Commercial Vehicle Group Inc,252944336.0
+KOS,Kosmos Energy Ltd,2092246144.0
+BPYPN,Brookfield Ppty Partners 5 750 Cum Red Perp Series 3 Class A,
+CVU,CPI Aerostructures Inc,29137030.0
+VMW,VMware Inc Class A,51925229568.0
+GLDD,Great Lakes Dredge & Dock Corp,902562112.0
+UA,Under Armour Inc Class C,7799419392.0
+CMPR,Cimpress PLC,1741051776.0
+TNET,TriNet Group Inc,5549932544.0
+HP,Helmerich and Payne Inc,3622387200.0
+TIGO,Millicom International Cellular SA,2692212992.0
+ACCO,ACCO Brands Corp,779249536.0
+HMPT,Home Point Capital Inc,544159232.0
+PTEN,Patterson-UTI Energy Inc,2809362688.0
+MTX,Minerals Technologies Inc,2289892608.0
+PEI,Pennsylvania Real Estate Investment Trust,70022792.0
+PATK,Patrick Industries Inc,1645274880.0
+PBCT,People's United Financial Inc,8868677632.0
+CPS,Cooper-Standard Holdings Inc,286811456.0
+THO,Thor Industries Inc,5295993856.0
+COKE,Coca-Cola Consolidated Inc,5521103360.0
+PLCE,Children's Place Inc,951045056.0
+KBH,KB Home,3408127232.0
+PSB,PS Business Parks Inc,4364015104.0
+VLY,Valley National Bancorp,5717703680.0
+KREF,KKR Real Estate Finance Trust Inc,1257827968.0
+CCSI,Consensus Cloud Solutions Inc,1206314752.0
+KTB,Kontoor Brands Inc,2730605568.0
+POLA,Polar Power Inc,37469428.0
+PZZA,Papa John's International Inc,4256394496.0
+PK,Park Hotels & Resorts Inc,4405603840.0
+STNE,StoneCo Ltd Class A,3846191104.0
+NMRK,Newmark Group Inc Class A,3419672064.0
+OGE,OGE Energy Corp,7280365056.0
+FMAO,Farmers & Merchants Bancorp Inc,412238592.0
+CPF,Central Pacific Financial Corp,816368448.0
+HSC,Harsco Corp,1245082112.0
+AGRO,Adecoagro SA,912797120.0
+BSMX,Banco Santander Mexico SA Institucion de Banca Multiple Grupo Financiero,7616856064.0
+ENS,EnerSys,2976795648.0
+BBD,Banco Bradesco SA ADR,38661226496.0
+KW,Kennedy-Wilson Holdings Inc,3080962304.0
+SUMR,Summer Infant Inc,18183564.0
+NTIP,Network-1 Technologies Inc,67719872.0
+BSAC,Banco Santander-Chile ADR,9388995584.0
+EDN,Empresa Distribuidora y Comercializadora Norte SA ADR Class B,543840064.0
+KMPR,Kemper Corp,3200477696.0
+ESRT,Empire State Realty Trust Inc Class A,1575098496.0
+UGP,Ultrapar Participacoes SA ADR,3068639232.0
+BRFS,BRF SA ADR,2905988352.0
+CRM,Salesforce Inc,203303993344.0
+PAM,Pampa Energia SA ADR,1107475200.0
+AYI,Acuity Brands Inc,6406469632.0
+HCC,Warrior Met Coal Inc,1560838016.0
+UONEK,Urban One Inc Class D,242679904.0
+WMS,Advanced Drainage Systems Inc,8261427712.0
+LSPD,Lightspeed Commerce Inc,4255516160.0
+SJI,South Jersey Industries Inc,2756100608.0
+GGAL,Grupo Financiero Galicia SA ADR Class B,2640438272.0
+AIBBU,AIB Acquisition Units,
+SHG,Shinhan Financial Group Co Ltd ADR,17454776320.0
+SIGIP,Selective Ins Group DS Repstg 1 1000 Interest 4.60% Non Cum Pref Shs Series B,
+GURE,Gulf Resources Inc,53499148.0
+NGVT,Ingevity Corp,2520209664.0
+ATTO,Atento SA,373649984.0
+IBP,Installed Building Products Inc,3180749824.0
+MLAIU,McLaren Technology Acquisition Units,
+IBA,Industrias Bachoco SAB de CV ADR Series B,2040000000.0
+MWA,Mueller Water Products Inc Series A,1993588864.0
+SFNC,Simmons First National Corp Class A,3293324544.0
+SIM,Grupo Simec SAB de CV ADR,4118742016.0
+GOOS,Canada Goose Holdings Inc,2958771968.0
+EXTN,Exterran Corp,196824272.0
+PNW,Pinnacle West Capital Corp,7715691520.0
+GPCO,Golden Path Acquisition Corp,74580000.0
+GFI,Gold Fields Ltd ADR,10901164032.0
+WTBA,West Bancorporation Inc,495154080.0
+NAT,Nordic American Tanker Ltd,265865664.0
+GDEN,Golden Entertainment Inc,1542910720.0
+AMKR,Amkor Technology Inc,5171703296.0
+WTM,White Mountains Insurance Group Ltd,3166666752.0
+OXLCP,Oxford Lane Capital 6 25 Series 2027 Pref Shs,
+RM,Regional Management Corp,524531392.0
+MGY,Magnolia Oil & Gas Corp Class A,3788753664.0
+CDE,Coeur Mining Inc,1361856256.0
+TRS,TriMas Corp,1376992256.0
+FULTP,Fulton Financial 1 40th DS Cum Prf Shs Series A,
+QVCD,QVC 6.375% Senior Secured Notes Exp 13 Sep 2067,
+HUSA,Houston American Energy Corp,12509708.0
+RUSHA,Rush Enterprises Inc Class A,2720831744.0
+BLNGU,Belong Acquisition Units,
+REZI,Resideo Technologies Inc,3518686976.0
+DK,Delek US Holdings Inc,1403184256.0
+BHE,Benchmark Electronics Inc,860529664.0
+TALO,Talos Energy Inc,994860224.0
+TAC,TransAlta Corp,2845499904.0
+BPYPO,Brookfield Ppty Partners 6 375 Cum Red Perp Pfd Unit Class A,
+RZA,Reinsurance Group of America 6.20% Fixed To Floating Rate Subordinated,9061726208.0
+VREX,Varex Imaging Corp,927626304.0
+FTS,Fortis Inc,21359845376.0
+FL,Foot Locker Inc,4324857344.0
+IO,ION Geophysical Corp,14550832.0
+SYNA,Synaptics Inc,8530533376.0
+CACC,Credit Acceptance Corp,7805002752.0
+FIVE,Five Below Inc,9335513088.0
+FPH,Five Point Holdings LLC Class A,432008768.0
+JXN,Jackson Financial Inc Class A,3855088384.0
+CSAN,Cosan SA ADR,7908663296.0
+FCNCO,First Citizens BancShares 5 625 Non Cumulative Perpetual Prf Shs Series C,
+NOVA,Sunnova Energy International Inc,1924239232.0
+BLMN,Bloomin' Brands Inc,1979547264.0
+OZK,Bank Ozk,6140849152.0
+TPC,Tutor Perini Corp,567925056.0
+MXE,Mexico Equity and Income Closed Fund,39557888.0
+TRTN,Triton International Ltd,4161199872.0
+JRVR,James River Group Holdings Ltd,997909824.0
+BCC,Boise Cascade Co,3120898816.0
+G,Genpact Ltd,8344222208.0
+MTW,Manitowoc Company Inc,597455872.0
+DNB,Dun & Bradstreet Holdings Inc,8235709952.0
+GPRK,GeoPark Ltd,892299968.0
+ACIW,ACI Worldwide Inc,3969027840.0
+RFP,Resolute Forest Products Inc,922636480.0
+GEO,Geo Group Inc,789125376.0
+AGNC,AGNC Investment Corp,7196488704.0
+ACEVU,ACE Convergence Acquisition Unit,
+ALTG,Alta Equipment Group Inc Class A,417164224.0
+RELI,Reliance Global Group Inc,69790352.0
+WGO,Winnebago Industries Inc,2237762816.0
+ARLP,Alliance Resource Partners Units,1723492224.0
+HAYW,Hayward Holdings Inc,4175083264.0
+MRCC,Monroe Capital Corp,236763056.0
+HCAT,Health Catalyst Inc,1523658624.0
+GVA,Granite Construction Inc,1628222592.0
+ATRS,Antares Pharma Inc,617252480.0
+NMIH,NMI Holdings Inc Class A,2169363712.0
+WRLD,World Acceptance Corp,1421346816.0
+GTE,Gran Tierra Energy Inc,477288480.0
+HTLD,Heartland Express Inc,1129127680.0
+SP,SP Plus Corp,623302656.0
+HOG,Harley-Davidson Inc,6302801408.0
+PBAXU,Phoenix Biotech Acquisition Units,
+ARCO,Arcos Dorados Holdings Inc Class A,1454402944.0
+WNEB,Western New England Bancorp Inc,209687936.0
+PECO,Phillips Edison & Co Inc,3723568128.0
+PBAX,Phoenix Biotech Acquisition Corp Class A,229352368.0
+LPX,Louisiana-Pacific Corp,5967427584.0
+HCDI,Harbor Custom Development Inc,32828620.0
+PRTY,Party City Holdco Inc,516234976.0
+GEG,Great Elm Group Inc,51328192.0
+PII,Polaris Inc,7206570496.0
+PTOCU,Pine Technology Acquisition Units,
+ONB,Old National Bancorp,3065900800.0
+BTU,Peabody Energy Corp,2301874944.0
+MGI,MoneyGram International Inc,820611136.0
+PSFE,Paysafe Ltd,2583651840.0
+TPST,Tempest Therapeutics Inc,21076476.0
+IVH,Delaware Ivy High Income Opportunities Fund,213090192.0
+NEON,Neonode Inc,59804888.0
+DAC,Danaos Corp,2042780672.0
+CRH,CRH PLC ADR,38610235392.0
+LZB,La-Z-Boy Inc,1557781248.0
+DTE,DTE Energy Co,22484224000.0
+TAST,Carrols Restaurant Group Inc,143053056.0
+ENJ,Entergy Orleans 5% Mortgage Bonds Series Exp 01 Dec 2052,211320144.0
+CDEV,Centennial Resource Development Inc Class A,2332395264.0
+BBGI,Beasley Broadcast Group Inc Class A,55599700.0
+BZH,Beazer Homes USA Inc,518455840.0
+LANC,Lancaster Colony Corp,4381399552.0
+CENX,Century Aluminum Co,1720564608.0
+TGS,Transportadora de Gas del Sur SA ADR Class B,733188224.0
+VLYPO,Valley National 5.50% Fixed to Floating Rate Non Cum Perp Pref Shs Series B,3306911744.0
+BVN,Compania de Minas Buenaventura SAA ADR,2318901504.0
+VNTR,Venator Materials PLC,260010000.0
+KRNT,Kornit Digital Ltd,4575023104.0
+QNGY,Quanergy Systems Inc,
+CHSCN,CHS Reset Rate Pref Shs Class B Series 2,
+CHSCL,CHS Cumulative Redeemable Pref Shs Series 4 Class B,
+FMS,Fresenius Medical Care AG & Co KGaA ADR,19922460672.0
+GIII,G-III Apparel Group Ltd,1346804480.0
+CLW,Clearwater Paper Corp,535392768.0
+FLL,Full House Resorts Inc,301202016.0
+MYI,BlackRock MuniYield Quality Closed Fund III,884596096.0
+BAP,Credicorp Ltd,12164419584.0
+LPL,LG Display Co Ltd ADR,5787596288.0
+BHFAM,Brighthouse Financial DS rep 1 1 000 4 625 Cum Prf Shs Series D,
+UTMD,Utah Medical Products Inc,350054112.0
+CFRX,ContraFect Corp,123898008.0
+JOE,St Joe Co,2775720960.0
+FPI,Farmland Partners Inc,498753024.0
+MATW,Matthews International Corp Class A,1059912960.0
+SLAB,Silicon Laboratories Inc,6123323392.0
+LIND,Lindblad Expeditions Holdings Inc,860431424.0
+SKYH,Sky Harbour Group Corp Class A,
+AY,Atlantica Sustainable Infrastructure PLC,3581756160.0
+ACB,Aurora Cannabis Inc,858526400.0
+SOI,Solaris Oilfield Infrastructure Inc Class A,255336416.0
+E,Eni SpA ADR,53838024704.0
+ENVA,Enova International Inc,1608364544.0
+WTRU,Essential Utilities 6.00 Tangible Equity Units,8543134208.0
+UNVR,Univar Solutions Inc,4838111232.0
+FERG,Ferguson PLC,33347911680.0
+CANO,Cano Health Inc Class A,1123960576.0
+BOH,Bank of Hawaii Corp,3519433984.0
+LOCO,El Pollo Loco Holdings Inc,484798880.0
+EGO,Eldorado Gold Corp,1894173952.0
+STLA,Stellantis NV,57640206336.0
+NYMTL,New York Mortgage Trust 6 875 Cumulative Red Pref Shs Series F,
+GLBZ,Glen Burnie Bancorp,31678070.0
+GBLI,Global Indemnity Group LLC Class A,376519008.0
+GWRE,Guidewire Software Inc,7870115840.0
+PEGA,Pegasystems Inc,7960891392.0
+GBX,Greenbrier Companies Inc,1357172352.0
+GTY,Getty Realty Corp,1267336832.0
+PEB,Pebblebrook Hotel Trust,3008670720.0
+MACC,Mission Advancement Corp Class A,417881216.0
+OSH,Oak Street Health Inc,4102987008.0
+FOA,Finance of America Companies Inc Class A,196259200.0
+FDBC,Fidelity D&D Bancorp Inc,277259840.0
+FMN,Federated Hermes Premier Municipal Income Closed End Fund,153520992.0
+NSA,National Storage Affiliates Trust,5380634112.0
+NRP,Natural Resource Partners Units,460209408.0
+FMY,First Trust Mortgage Income Fund,53970068.0
+GER,Goldman Sachs MLP and Energy Renaissance Fund,188178928.0
+NINE,Nine Energy Service Inc,38409812.0
+NBN,Northeast Bank,307636576.0
+NBH,Neuberger Berman Municipal Fund Inc,253442384.0
+GGB,Gerdau SA ADR,9073686528.0
+VINE,Fresh Vine Wine Inc,58682000.0
+GCMG,GCM Grosvenor Inc Class A,1737984000.0
+GCP,GCP Applied Technologies Inc,2327516672.0
+NM,Navios Maritime Holdings Inc,85672520.0
+FOSLL,Fossil Group 7 Senior Notes due 2026,
+OPEN,Opendoor Technologies Inc Class A,6211895808.0
+FBRT,Franklin BSP Realty Trust Inc,583235072.0
+CCEP,Coca-Cola Europacific Partners PLC,26248861696.0
+KLXE,KLX Energy Services Holdings Inc,60218376.0
+CMCO,Columbus McKinnon Corp,1262451584.0
+CIGI,Colliers International Group Inc,6588923904.0
+TWO,Two Harbors Investment Corp,1781427840.0
+TLRY,Tilray Brands Inc,3189191168.0
+THACU,Thrive Acquisition Units,
+UNFI,United Natural Foods Inc,2351280896.0
+CGAU,Centerra Gold Inc,2544612864.0
+UGIC,UGI Units,
+CHMI,Cherry Hill Mortgage Investment Corp,136264656.0
+KRNLU,Kernel Group Holdings Units,
+USB,US Bancorp,85850144768.0
+SUPN,Supernus Pharmaceuticals Inc,1604464768.0
+DPZ,Domino's Pizza Inc,15660744704.0
+TAL,TAL Education Group ADR Class A,2005579904.0
+JAMF,Jamf Holding Corp,4070148352.0
+STL,Sterling Bancorp,5066109440.0
+KTH,Structured Products 8% Corporate-Backed Trust Securities Certificates by PECO,
+EEFT,Euronet Worldwide Inc,7307341824.0
+EFC,Ellington Financial Inc,1003836160.0
+NPO,EnPro Industries Inc,2172982272.0
+ERIE,Erie Indemnity Co Class A,9599379456.0
+ESGC,Eros STX Global Corp Class A,1201211264.0
+NVST,Envista Holdings Corp,7588789760.0
+ENSG,Ensign Group Inc,4286114816.0
+ENO,Entergy New Orleans First Mortgage Bonds 5 50 Series Pref Shs Exp 1 April 2066,212245552.0
+CPIX,Cumberland Pharmaceuticals Inc,52526376.0
+TEX,Terex Corp,2946257920.0
+DHHC,DiamondHead Holdings Corp Class A,420253120.0
+DOCN,DigitalOcean Holdings Inc,6271819264.0
+DCOMP,Dime Community Bancshares Cumulative Perpetual Pref Shs Series A,
+PLAY,Dave & Buster's Entertainment Inc,1940301568.0
+AAIC,Arlington Asset Investment Corp Class A,105141192.0
+ARRY,Array Technologies Inc,1200390144.0
+ACDI,Ascendant Digital Acquisition Corp III Class A,371624992.0
+LAZR,Luminar Technologies Inc Class A,5323551232.0
+WERN,Werner Enterprises Inc,2894752512.0
+LUCD,Lucid Diagnostics Inc,134351392.0
+WSBCP,Wesbanco DS Representing 1/40Th Perp Pfd Series A,
+WFG,West Fraser Timber Co Ltd,10474432512.0
+ANDE,Andersons Inc,1290838784.0
+AOMR,Angel Oak Mortgage Inc,427350848.0
+ARGD,Argo Group International Holdings 6 5 Senior Notes Exp 15 Sep 2042,
+JBK,Lehman 3.50% Adjustable Corporate Backed Trust Certificates Goldman Sachs,
+BGSF,BGSF Inc,146070752.0
+MFA,MFA Financial Inc,1909213952.0
+MD,MEDNAX Inc,2105118336.0
+AVYA,Avaya Holdings Corp,1196123904.0
+AUBAP,Atlantic Un Bankshares 400 Dep Shs Repstg 1 Perp Prf  Shs Series A,
+AUBN,Auburn National Bancorporation Inc,117682408.0
+FWONK,Liberty Media Corp Series C,14285838336.0
+AE,Adams Resources & Energy Inc,133698504.0
+ANF,Abercrombie & Fitch Co Class A,2240536064.0
+DDD,3D Systems Corp,2357039104.0
+AFGD,American Financial Group 5 625 Subordinated Debenture,
+COLD,Americold Realty Trust,7429441024.0
+AEO,American Eagle Outfitters Inc,3822660864.0
+ALRM,Alarm.com Holdings Inc,3547780608.0
+ALX,Alexander's Inc,1302461056.0
+VEL,Velocity Financial Inc,407860608.0
+BGSX,Build Acquisition Corp Class A,243500000.0
+VNET,VNET Group Inc ADR,1092540032.0
+CHSCP,CHS 8 Cumulative Redeemable Pref Shs,
+CMCT,Creative Media & Community Trust Corporation,175269744.0
+VAL,Valaris Ltd,3083249920.0
+BOTJ,Bank of the James,72295064.0
+LCI,Lannett Company Inc,34167012.0
+LEE,Lee Enterprises Inc,209065184.0
+VET,Vermilion Energy Inc,2770460928.0
+LCII,LCI Industries,3173467904.0
+SKIN,Beauty Health Co Class A,1994701184.0
+VPG,Vishay Precision Group Inc,429630944.0
+MNSB,MainStreet Bancshares Inc,189034064.0
+LNDC,Landec Corp,339398784.0
+BSY,Bentley Systems Inc Class B,11019963392.0
+POR,Portland General Electric Co,4535749120.0
+STET,ST Energy Transition I Ltd Class A,
+SGBX,SG Blocks Inc,23182664.0
+SLG,SL Green Realty Corp,5143961088.0
+PRCH,Porch Group Inc Class A,839428672.0
+IPB,Merrill Lynch Depositor Corporate Backed Trust Certificates Series 2003-1 Exp,
+SAIL,SailPoint Technologies Holdings Inc,3697905664.0
+SALM,Salem Media Group Inc Class A,106592728.0
+SANM,Sanmina Corp,2537089792.0
+MOMO,Hello Group Inc ADR,2005644800.0
+PSTG,Pure Storage Inc Class A,7590812672.0
+QTWO,Q2 Holdings Inc,3589685504.0
+RMBI,Richmond Mutual Bancorporation Inc,203140576.0
+REV,Revlon Inc Class A,525866048.0
+IAG,IAMGOLD Corp,1406855040.0
+RELL,Richardson Electronics Ltd,157384864.0
+RMCF,Rocky Mountain Chocolate Factory Inc (Delaware),49633400.0
+ROIC,Retail Opportunity Investments Corp,2171060992.0
+RCA,Ready Capital 7 Convertible Senior Notes Exp 15 Aug 2023,
+RTLR,Rattler Midstream Partners Units,510794240.0
+RNXT,RenovoRx Inc,32425666.0
+RPAY,Repay Holdings Corp Class A,1601645568.0
+SOFI,SoFi Technologies Inc,9595559936.0
+HAE,Haemonetics Corp,2971767552.0
+FOUR,Shift4 Payments Inc Class A,4555603456.0
+SPNT,Siriuspoint Ltd,1339210752.0
+MIDD,Middleby Corp,10535620608.0
+EXPR,Express Inc,297973664.0
+IART,Integra Lifesciences Holdings Corp,5543582208.0
+PNFP,Pinnacle Financial Partners Inc,7499435520.0
+NSIT,Insight Enterprises Inc,3312057856.0
+IMKTA,Ingles Markets Inc Class A,1601797760.0
+MCAAU,Mountain I Acquisition Units,
+DRAYU,Macondray Capital Acquisition I Units,
+LOVE,Lovesac Co,
+MLR,Miller Industries Inc,337072096.0
+MFGP,Micro Focus International PLC ADR,1953709440.0
+MIR,Mirion Technologies Inc Class A,1795764992.0
+MCW,Mister Car Wash Inc,4983435264.0
+MSEX,Middlesex Water Co,1688635520.0
+MBI,MBIA Inc,826975744.0
+MBINP,Merchants Bancorp 7 Perp Pfd Fixed Fltg Perpetual Pref Shs Series A,463727648.0
+MTAL,Metals Acquisition Corp Class A,318509024.0
+MILE,Metromile Inc,191050784.0
+MTRYU,Monterey Bio Acquisition Units,
+MTR,Mesa Royalty Trust,14126012.0
+LOAN,Manhattan Bridge Capital Inc,62704680.0
+MNTV,Momentive Global Inc,2412698624.0
+MANU,Manchester United PLC Class A,2202170624.0
+MRIN,Marin Software Inc,48801060.0
+MHLD,Maiden Holdings Ltd,226482752.0
+FLWS,1-800-Flowers.Com Inc Class A,1014746880.0
+INN,Summit Hotel Properties Inc,1035768192.0
+SLF,Sun Life Financial Inc,31488724992.0
+SHO,Sunstone Hotel Investors Inc,2496020992.0
+TRHC,Tabula Rasa HealthCare Inc,208321472.0
+SNCRL,Synchronoss Technologies 8 375 Senior Notes due 2026,
+TRTX,TPG RE Finance Trust Inc,931510336.0
+SRT,Startek Inc,199941568.0
+TGH,Textainer Group Holdings Ltd,1878982912.0
+TBLD,Thornburg Income Builder Opportunities Trust,
+TCBX,Third Coast Bancshares Inc,316011072.0
+TMBR,Timber Pharmaceuticals Inc,21537596.0
+TOACU,Talon 1 Acquisition Units,
+TNDM,Tandem Diabetes Care Inc,7313249280.0
+TRNO,Terreno Realty Corp,5210353152.0
+SASR,Sandy Spring Bancorp Inc,2145936640.0
+SJT,San Juan Basin Royalty Units,310414592.0
+SNFCA,Security National Financial Corp Class A,197540624.0
+BFS,Saul Centers Inc,1092569984.0
+SNDR,Schneider National Inc Class B,4645704192.0
+SSB,SouthState Corp,6086209024.0
+SVSVU,Spring Valley Acquisition Units,
+SPRB,Spruce Biosciences Inc,50445668.0
+SMBC,Southern Missouri Bancorp Inc,473735200.0
+SMWB,Similarweb Ltd,1049430272.0
+SSIC,Silver Spike Investment Corp,
+SGHLU,Signal Hill Acquisition Units,
+SNOA,Sonoma Pharmaceuticals Inc,10872822.0
+XPL,Solitario Zinc Corp,37327304.0
+SKIL,Skillsoft Corp Class A,834944576.0
+WBT,Welbilt Inc,3376660480.0
+WEBR,Weber Inc Class A,3044097536.0
+VG,Vonage Holdings Corp,5253154816.0
+WVE,WAVE Life Sciences Ltd,146492928.0
+VVPR,VivoPower International PLC,54623452.0
+WASH,Washington Trust Bancorp Inc,966013696.0
+WD,Walker & Dunlop Inc,4465207808.0
+VSAC,Vision Sensing Acquisition Corp Class A,129469224.0
+WOR,Worthington Industries Inc,2769880064.0
+WWACU,Worldwide Webb Acquisition Units,
+WK,Workiva Inc Class A,5789564416.0
+ZEPP,Zepp Health Corp ADR Class A,270700480.0
+ZNGA,Zynga Inc Class A,10148831232.0
+YMTX,Yumanity Therapeutics Inc,16390356.0
+WING,Wingstop Inc,4671913472.0
+WINT,Windtree Therapeutics Inc,28551588.0
+WHG,Westwood Holdings Group Inc,141850080.0
+WLL,Whiting Petroleum Corp,2753440000.0
+VRDN,Viridian Therapeutics Inc,447044928.0
+UWMC,UWM Holdings Corp Class A,7062748160.0
+UCTT,Ultra Clean Holdings Inc,2190221824.0
+UCBI,United Community Banks Inc,3820234752.0
+UIS,Unisys Corp,1238286592.0
+TMQ,Trilogy Metals Inc,
+TCN,Tricon Residential Inc,4126435584.0
+GTS,Triple-S Management Corp Class B,856403712.0
+TWIN,Twin Disc Inc,158564336.0
+VVI,Viad Corp,759415808.0
+VRNS,Varonis Systems Inc,4401357312.0
+VRNT,Verint Systems Inc,3428424192.0
+UPLD,Upland Software Inc,548563008.0
+USIO,Usio Inc,83165400.0
+USER,UserTesting Inc,1352179200.0
+UBP,Urstadt Biddle Properties Inc,781002432.0
+NAAC,North Atlantic Acquisition Corp Class A,466305696.0
+NVFY,Nova LifeStyle Inc,10097445.0
+OEG,Orbital Energy Group Inc,90646992.0
+PAR,PAR Technology Corp,1126168192.0
+SEED,Origin Agritech Ltd,42019168.0
+OFED,Oconee Federal Financial Corp,128266176.0
+OVLY,Oak Valley Bancorp,153741600.0
+OIIM,O2micro International Ltd ADR,115751008.0
+NSL,Nuveen Senior Income Fund,224332816.0
+OPBK,OP Bancorp,207024912.0
+NYMT,New York Mortgage Trust Inc,1357843968.0
+GRIL,Muscle Maker Inc,14258894.0
+NEPH,Nephros Inc,48402564.0
+NNI,Nelnet Inc Class A,3042907904.0
+NGG,National Grid PLC ADR,53113630720.0
+RICK,RCI Hospitality Holdings Inc,618444096.0
+RDVT,Red Violet Inc,344718688.0
+RPD,Rapid7 Inc,5522293248.0
+RC,Ready Capital Corp,1045031936.0
+RCC,Ready Capital 5.75% Senior Notes due 2026,
+RDIB,Reading International Inc Class B,113834400.0
+RRBI,Red River Bancshares Inc,379900832.0
+RDFN,Redfin Corp,3151772160.0
+ROCC,Ranger Oil Corp Class A,663016192.0
+RLX,RLX Technology Inc ADR Class A,5356393984.0
+RCG,RENN Fund,15117978.0
+SKM,SK Telecom Co Ltd ADR,9887248384.0
+SGH,SMART Global Holdings Inc.,667067968.0
+RCII,Rent-A-Center Inc,2666111488.0
+PFXNL,PhenixFIN 6 125 Senior Notes due 2023,
+PMT,PennyMac Mortgage Investment Trust,1533676032.0
+PSTH,Pershing Square Tontine Holdings Ltd Class A,3968000000.0
+PCRX,Pacira Biosciences Inc,2865102336.0
+PAAS,Pan American Silver Corp,5039098880.0
+PBA,Pembina Pipeline Corp,18299006976.0
+FNA,Paragon 28 Inc,1191448448.0
+PFBC,Preferred Bank,1130885632.0
+PRTG,Portage Biotech Inc,105414440.0
+PAQCU,Provident Acquisition Units,
+PRA,ProAssurance Corp,1257278080.0
+PLD,Prologis Inc,107551596544.0
+BPOPM,Popular Capital Trust II 6 125 Cumulative Monthly Income Pref Shs,
+PCOM,Points.com Inc,265533568.0
+DDT,Dillards Capital Trust I 7.50% Capital Securities Exp 01 Aug 2038,
+APPS,Digital Turbine Inc,5024536064.0
+DRH,Diamondrock Hospitality Co,2021952128.0
+DM,Desktop Metal Inc Class A,1228505344.0
+DS,Drive Shack Inc,123405160.0
+DEI,Douglas Emmett Inc,5478672896.0
+DLTH,Duluth Holdings Inc Class B,470809984.0
+DSS,DSS Inc,29386366.0
+DNN,Denison Mines Corp,1001128896.0
+DEN,Denbury Inc,3345168896.0
+EQX,Equinox Gold Corp,1939386752.0
+ESPR,Esperion Therapeutics Inc,222464896.0
+OZKAP,Bank OZK 4 625 Non Cumulative Perpetual Pref Shs Series A,
+BAND,Bandwidth Inc Class A,1531911168.0
+BDXB,Becton Dickinson and Co 20 Depository Shs Representing Mandatory Conv Pref Shs,
+BSET,Bassett Furniture Industries Inc,161459312.0
+BMA,Banco Macro SA ADR Class B,865844992.0
+BW,Babcock & Wilcox Enterprises Inc,615900672.0
+BV,Brightview Holdings Inc,1337091968.0
+BHG,Bright Health Group Inc,1860540672.0
+BYFC,Broadway Financial Corp,122723968.0
+BEP,Brookfield Renewable Partners Non Voting Units,21831424000.0
+CFBK,CF Bankshares Inc,139456368.0
+BRY,Berry Corporation (Bry),724065152.0
+BLPH,Bellerophon Therapeutics Inc,20819060.0
+BOX,Box Inc Class A,3934398976.0
+HYT,Blackrock Coporate High Yield Mutual Fund,1288948096.0
+MYN,BlackRock MuniYield New York Quality Fund,491269696.0
+AIN,Albany International Corp Class A,2870899456.0
+ATSG,Air Transport Services Group Inc,2061256448.0
+ALGM,Allegro Microsystems Inc,5256670208.0
+ATEC,Alphatec Holdings Inc,1005838080.0
+ASML,ASML Holding NV ADR,255229067264.0
+ONEM,1Life Healthcare Inc,2074963328.0
+AERI,Aerie Pharmaceuticals Inc,312559488.0
+AEFC,Aegon Funding Company 5 10 Subordinated Notes due 2049,
+ATCO,Atlas Corp,3870615296.0
+AAWW,Atlas Air Worldwide Holdings Inc,2229663744.0
+ATLC,Atlanticus Holdings Corp,1022453952.0
+ASB,Associated Banc-Corp,3756352256.0
+AMK,AssetMark Financial Holdings Inc,1735056256.0
+ASPN,Aspen Aerogels Inc,886856000.0
+AZRE,Azure Power Global Ltd,750121984.0
+AVAH,Aveanna Healthcare Holdings Inc,907928512.0
+RILYZ,B. Riley Financial 5 25 Senior Notes due 2028,
+RILYG,B. Riley Financial 5 00 Senior Notes due 2026,
+AEHL,Antelope Enterprise Holdings Ltd,7418062.0
+ANNX,Annexon Inc,253273680.0
+ABR,Arbor Realty Trust Inc,2520975616.0
+AQMS,Aqua Metals Inc,65403244.0
+APP,Applovin Corp Class A,26554720256.0
+AMPY,Amplify Energy Corp,173766032.0
+ARVL,Arrival SA,2393507072.0
+AFI,Armstrong Flooring Inc,30827348.0
+YOU,Clear Secure Inc Class A,2089872000.0
+CIO,City Office REIT Inc,767864064.0
+COLM,Columbia Sportswear Co,6264754688.0
+CIM,Chimera Investment Corp,3115037440.0
+CHS,Chico's FAS Inc,555115264.0
+CRUS,Cirrus Logic Inc,4690294272.0
+CBRL,Cracker Barrel Old Country Store Inc,2973638656.0
+COWNL,Cowen 7 75 Senior Notes Exp 2033,
+CORR,CorEnergy Infrastructure Trust Inc,51587796.0
+CVT,Cvent Holding Corp,3189967104.0
+CYXT,Cyxtera Technologies Inc Class A,1872243200.0
+CELP,Cypress Environmental Partners Units,11413696.0
+CNOB,ConnectOne Bancorp Inc,1278755072.0
+SAVA,Cassava Sciences Inc,1948818176.0
+CASS,Cass Information Systems Inc,581279104.0
+CDR,Cedar Realty Trust Inc,295205568.0
+CAKE,Cheesecake Factory Inc,2119121024.0
+CTHR,Charles & Colvard Ltd,55051148.0
+CHRB,Charah Solutions 8 50 Senior Notes due 2026,
+CHNGU,Change Healthcare Tangible Equity Units,
+CCF,Chase Corp,873885184.0
+ELY,Callaway Golf Co,4389930496.0
+CSIQ,Canadian Solar Inc,1641534336.0
+GKOS,Glaukos Corp,2522692608.0
+LANDO,Gladstone Land 6 00 Cum Redmabe Prf Shs Series B,
+GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,
+GOL,Gol Linhas Aereas Inteligentes SA ADR,1386323584.0
+SUPV,Grupo Supervielle SA ADR Class B,338285376.0
+GRVI,Grove Inc,77467944.0
+HRZN,Horizon Technology Finance Corp,322136960.0
+AJX,Great Ajax Corp,285353184.0
+GWB,Great Western Bancorp Inc,1702059264.0
+GPRE,Green Plains Inc,1442804352.0
+GLSI,Greenwich Lifesciences Inc,254593952.0
+GCBC,Greene County Bancorp Inc,329468960.0
+HBB,Hamilton Beach Brands Holding Co Class A,184141616.0
+GRAB,Grab Holdings Ltd Class A,22147254272.0
+AJXA,Great Ajax 7 25 Convertible Senior Notes Expiry 2024,
+GPMT,Granite Point Mortgage Trust Inc,608359296.0
+KTCC,Key Tronic Corp,63818064.0
+RJAC,Jackson Acquisition Co Class A,
+BTO,John Hancock Financial Opportunities Fund,835816576.0
+JBSS,John B Sanfilippo & Son Inc,930061696.0
+JSPR,Jasper Therapeutics Inc,172232064.0
+LILAK,Liberty Latin America Ltd Class C,2557808128.0
+LIN,Linde PLC,150440017920.0
+LOB,Live Oak Bancshares Inc,2746862080.0
+LIVN,LivaNova PLC,3906751744.0
+LAC,Lithium Americas Corp,3301893888.0
+LAAAU,Lakeshore Acquisition I Units,
+LKFN,Lakeland Financial Corp,2054294912.0
+LSBK,Lake Shore Bancorp Inc,84596568.0
+LGTO,Legato Merger II Corp,355159808.0
+LZ,LegalZoom.com Inc,3172488960.0
+LAZY,Lazydays Holdings Inc,212932112.0
+INVZ,Innoviz Technologies Ltd,530765184.0
+HDSN,Hudson Technologies Inc,156532128.0
+IRCP,IRSA Propiedades Comerciales SA ADR,317978496.0
+HTLF,Heartland Financial USA Inc,2128645760.0
+HFWA,Heritage Financial Corp,895693248.0
+HZN,Horizon Global Corp,142163184.0
+HMN,Horace Mann Educators Corp,1662823040.0
+HILS,Hillstream BioPharma Inc,
+INFA,Informatica Inc Class A,7261020160.0
+INCR,InterCure Ltd,312708288.0
+IHG,InterContinental Hotels Group PLC ADR,12723321856.0
+IFS,Intercorp Financial Services Inc,3670292224.0
+ITIC,Investors Title Co,373634112.0
+IVR,Invesco Mortgage Capital Inc,776235072.0
+ITRI,Itron Inc,2530721536.0
+IMPPP,Imperial Petroleum 8.75 Cumulative Redeemable Perpetual Pref Shs Series A,
+INDB,Independent Bank Corp (Massachusetts),4018112512.0
+IOR,Income Opportunity Realty Investors Inc,62484464.0
+INDO,Indonesia Energy Corp Ltd,37214800.0
+IGC,India Globalization Capital Inc,51054000.0
+FCRD,First Eagle Alternative Capital BDC Inc,134589008.0
+FCAP,First Capital Inc,136135648.0
+FA,First Advantage Corp,2621806336.0
+FVRR,Fiverr International Ltd,3004113920.0
+FLT,Fleetcor Technologies Inc,19036344320.0
+FBC,Flagstar Bancorp Inc,2388377344.0
+FCN,FTI Consulting Inc,5057553920.0
+FCX,Freeport-McMoRan Inc,62336552960.0
+FRGAP,Franchise Group 7.50 Cumulative Perpetual Pref Shs Series A,
+LULU,Lululemon Athletica Inc,40553340928.0
+WOOF,Petco Health and Wellness Company Inc Class A,5079373312.0
+QTNT,Quotient Ltd,144233120.0
+ODP,ODP Corp,2217848320.0
+OLLI,Ollie's Bargain Outlet Holdings Inc,2855779584.0
+ONEW,OneWater Marine Inc Class A,669116096.0
+ULTA,Ulta Beauty Inc,19626690560.0
+URBN,Urban Outfitters Inc,2700616960.0
+WMK,Weis Markets Inc,1645913088.0
+WINA,Winmark Corp,752727680.0
+YNDX,Yandex NV Class A,16200146944.0
+ZUMZ,Zumiez Inc,998580800.0
+SFIX,Stitch Fix Inc Class A,1563456000.0
+RVLV,Revolve Group Inc Class A,4278489088.0
+RKT,Rocket Companies Inc Class A,24404043776.0
+SFT,Shift Technologies Inc Class A,151232144.0
+SCVL,Shoe Carnival Inc,882982144.0
+SIG,Signet Jewelers Ltd,4122509056.0
+BOOT,Boot Barn Holdings Inc,2438893312.0
+CWH,Camping World Holdings Inc Class A,1471636864.0
+BGFV,Big 5 Sporting Goods Corp,386423040.0
+BJRI,BJ's Restaurants Inc,801647296.0
+ASO,Academy Sports and Outdoors Inc,3039406592.0
+CRMT,America's CAR-MART Inc,616658880.0
+CTRN,Citi Trends Inc,375208960.0
+GO,Grocery Outlet Holding Corp,2509884416.0
+HIBB,Hibbett Inc,742885760.0
+LQDT,Liquidity Services Inc,581344192.0
+GCO,Genesco Inc,952535488.0
+DBI,Designer Brands Inc Class A,933795136.0
+FTCH,Farfetch Ltd Class A,7058493440.0
+AVLR,Avalara Inc,8627272704.0
+WOLF,Wolfspeed Inc,11991717888.0
+CFLT,Confluent Inc Class A,14363583488.0
+GDYN,Grid Dynamics Holdings Inc Class A,1416618752.0
+JKHY,Jack Henry & Associates Inc,12600296448.0
+DCT,Duck Creek Technologies Inc,3205491968.0
+NCNO,nCino Inc,4493042176.0
+IRBT,iRobot Corp,1732879488.0
+FARO,FARO Technologies Inc,974995584.0
+TSEM,Tower Semiconductor Ltd,3594240768.0
+ONTO,Onto Innovation Inc,4293626880.0
+WEX,WEX Inc,8208950272.0
+PCTY,Paylocity Holding Corp,11178042368.0
+PAYO,Payoneer Global Inc,1627238528.0
+PING,Ping Identity Holding Corp,1737682304.0
+PCOR,Procore Technologies Inc,8825093120.0
+XM,Qualtrics International Inc Class A,17017418752.0
+SUMO,Sumo Logic Inc,1339567872.0
+TDC,Teradata Corp,5362070016.0
+TENB,Tenable Holdings Inc,5394813440.0
+NNDM,Nano Dimension Ltd ADR,964398592.0
+CRNC,Cerence Inc,1680845824.0
+TEAM,Atlassian Corporation PLC Class A,80943824896.0
+CNXC,Concentrix Corp,10581136384.0
+EPAY,Bottomline Technologies Inc,2559530496.0
+ALTR,Altair Engineering Inc Class A,4773355520.0
+ACLS,Axcelis Technologies Inc,2198245632.0
+LAW,CS Disco Inc,2169573888.0
+APPN,Appian Corp Class A,3864536064.0
+AIMC,Altra Industrial Motion Corp,3134967552.0
+SWI,SolarWinds Corp,2152487680.0
+SITM,SiTime Corp,4041122048.0
+SMCI,Super Micro Computer Inc,1944455680.0
+SKLZ,Skillz Inc Class A,1619966464.0
+SSYS,Stratasys Ltd,1702141952.0
+SRGA,Surgalign Holdings Inc,48177120.0
+SMTC,Semtech Corp,4415854080.0
+AZPN,Aspen Technology Inc,9485057024.0
+POWI,Power Integrations Inc,5121558016.0
+PAYA,Paya Holdings Inc Class A,831726016.0
+PAY,Paymentus Holdings Inc Class A,3538277888.0
+PLXS,Plexus Corp,2249451008.0
+AVID,Avid Technology Inc,1367318144.0
+PL,Planet Labs PBC Class A,1484254976.0
+RMBS,Rambus Inc,2877393152.0
+SPSC,SPS Commerce Inc,4617803264.0
+XPER,Xperi Holding Corp,1717427968.0
+ACST,Acasti Pharma Inc Class A,54812892.0
+VUZI,Vuzix Corp,389425984.0
+WMG,Warner Music Group Corp Class A,19320825856.0
+YELP,Yelp Inc,2622734592.0
+PLUS,ePlus inc,1230349696.0
+AGL,agilon health inc,8188023808.0
+ACMR,ACM Research Inc Class A,1566086144.0
+AEIS,Advanced Energy Industries Inc,3099454720.0
+VIRT,Virtu Financial Inc Class A,3953880064.0
+ALKT,Alkami Technology Inc,1365411072.0
+TW,Tradeweb Markets Inc Class A,19175133184.0
+ALHC,Alignment Healthcare Inc,1449252992.0
+ALIT,Alight Inc Class A,4925239808.0
+TEL,TE Connectivity Ltd,46729781248.0
+TTEC,TTEC Holdings Inc,3594203904.0
+TWKS,Thoughtworks Holding Inc,6874286080.0
+VRRM,Verra Mobility Corp Class A,2612511232.0
+VLDR,Velodyne Lidar Inc,774001216.0
+RBOT,Vicarious Surgical Inc Class A,657176960.0
+VIPS,Vipshop Holdings Ltd ADR,6558771200.0
+VECO,Veeco Instruments Inc,1378759168.0
+OLED,Universal Display Corp,6667815424.0
+AEVA,Aeva Technologies Inc,1093580928.0
+PODD,Insulet Corp,16935609344.0
+GDOT,Green Dot Corp Class A,1762442752.0
+GRMN,Garmin Ltd,23224805376.0
+FLYW,Flywire Corp,3047264000.0
+ICHR,Ichor Holdings Ltd,1096652928.0
+CHKP,Check Point Software Technologies Ltd,17221242880.0
+DSGX,Descartes Systems Group Inc,6015769088.0
+MSP,Datto Holding Corp,3998549760.0
+DIOD,Diodes Inc,3975972096.0
+DLB,Dolby Laboratories Inc Class A,7673228288.0
+DFIN,Donnelley Financial Solutions Inc,1200136960.0
+DH,Definitive Healthcare Corp Class A,2336658176.0
+CRDO,Credo Technology Group Holding Ltd,
+DADA,Dada Nexus Ltd ADR,2358034432.0
+DQ,Daqo New Energy Corp ADR,2808219648.0
+ETWO,E2open Parent Holdings Inc Class A,2742018304.0
+FN,Fabrinet,3683340800.0
+CD,Chindata Group Holdings Ltd ADR,1766592512.0
+DAVA,Endava PLC ADR Class A,7837240320.0
+ESMT,EngageSmart Inc,3602497792.0
+NVEC,NVE Corp,267954272.0
+BDC,Belden Inc,2513417984.0
+BLND,Blend Labs Inc Class A,2163415552.0
+CASH,Meta Financial Group Inc,1732710912.0
+MEI,Methode Electronics Inc,1677845888.0
+BB,BlackBerry Ltd,3958364672.0
+BNGO,Bionano Genomics Inc,
+MIME,Mimecast Ltd,5295523328.0
+OSPN,OneSpan Inc,656233536.0
+BMI,Badger Meter Inc,3003369472.0
+LPRO,Open Lending Corp Class A,2361014784.0
+CRSR,Corsair Gaming Inc,1954807552.0
+OXM,Oxford Industries Inc,1443690880.0
+BTRS,BTRS Holdings Inc,1002858432.0
+PAGS,PagSeguro Digital Ltd Class A,5675916800.0
+EDU,New Oriental Education & Technology Group Inc ADR,2542350336.0
+NVMI,Nova Ltd,3189708800.0
+BZ,Kanzhun Ltd ADR,13455410176.0
+KN,Knowles Corp,1996509824.0
+KLIC,Kulicke and Soffa Industries Inc,3168494848.0
+CLS,Celestica Inc,1488414592.0
+CZOO,Cazoo Group Ltd Class A,3414774784.0
+JBL,Jabil Inc,8706184192.0
+MTLS,Materialise NV ADR,1195981696.0
+CCCS,CCC Intelligent Solutions Holdings Inc,6169783808.0
+LTCH,Latch Inc,776521216.0
+LQDA,Liquidia Corp,311868000.0
+QFIN,360 DigiTech Inc ADR,3190118400.0
+BE,Bloom Energy Corp Class A,3072391936.0
+NIO,NIO Inc ADR Class A,37839663104.0
+BLDP,Ballard Power Systems Inc,2761978624.0
+ORA,Ormat Technologies Inc,3750420480.0
+MASI,Masimo Corp,12402241536.0
+NKLA,Nikola Corp,3263217920.0
+WKHS,Workhorse Group Inc,497595360.0
+GLBS,Globus Maritime Ltd,41977896.0
+AQUA,Evoqua Water Technologies Corp,5241916928.0
+BLNK,Blink Charging Co,1003518400.0
+LI,Li Auto Inc ADR,29415854080.0
+JKS,JinkoSolar Holding Co Ltd ADR,1870964992.0
+BFLY,Butterfly Network Inc Class A,1108584320.0
+LTHM,Livent Corp,3693604864.0
+CGNT,Cognyte Software Ltd,651337216.0
+JMIA,Jumia Technologies AG ADR,872544576.0
+CHPT,ChargePoint Holdings Inc Class A,4429141504.0
+GILT,Gilat Satellite Networks Ltd,452879008.0
+CMG,Chipotle Mexican Grill Inc,43840487424.0
+TPIC,TPI Composites Inc,382569600.0
+TSP,TuSimple Holdings Inc Class A,3670455296.0
+MASS,908 Devices Inc.,448981568.0
+MDRX,Allscripts Healthcare Solutions Inc,2555626240.0
+VC,Visteon Corp,2734707968.0
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,3363805696.0
+VIEW,View Inc Class A,564400128.0
+EMAN,eMagin Corp,85762040.0
+IRTC,iRhythm Technologies Inc,3636158464.0
+INDI,indie Semiconductor Inc Class A,1054859520.0
+ITRN,Ituran Location and Control Ltd,465466496.0
+STEM,Stem Inc,1521469056.0
+SOHU,Sohu.com Ltd ADR,711837120.0
+SCHN,Schnitzer Steel Industries Inc Class A,1118234496.0
+SHLS,Shoals Technologies Group Inc Class A,1436642176.0
+NXGN,NextGen Healthcare Inc,1280896000.0
+SMPL,Simply Good Foods Co,3577199360.0
+LC,LendingClub Corp,1729798528.0
+EOSE,Eos Energy Enterprises Inc Class A,164855312.0
+KOPN,Kopin Corp,252601152.0
+KNDI,Kandi Technologies Group Inc,247632336.0
+TTEK,Tetra Tech Inc,8158264320.0
+RMO,Romeo Power Inc Class A,269617376.0
+BNED,Barnes & Noble Education Inc,302599264.0
+ASXC,Asensus Surgical Inc,183043680.0
+GOEV,Canoo Inc Class A,1420758912.0
+AXDX,Accelerate Diagnostics Inc,189487168.0
+CNM,Core & Main Inc Class A,3527877120.0
+BEPC,Brookfield Renewable Corp Class A,5956903424.0
+ERII,Energy Recovery Inc,1079355008.0
+ARES,Ares Management Corp Class A,13729992704.0
+SCU,Sculptor Capital Management Inc Class A,406067360.0
+ENTX,Entera Bio Ltd,61022924.0
+STAA,STAAR Surgical Co,3437217536.0
+SPNS,Sapiens International Corporation NV,1660773248.0
+SPNE,SeaSpine Holdings Corp,432564160.0
+SLP,Simulations Plus Inc,799087808.0
+SKX,Skechers USA Inc Class A,7315175936.0
+SDC,SmileDirectClub Inc Class A,857723136.0
+SNPO,Snap One Holdings Corp,1448726656.0
+SGFY,Signify Health Inc Class A,2251261184.0
+SENS,Senseonics Holdings Inc,941024128.0
+AUDC,AudioCodes Ltd,924840000.0
+SWAV,Shockwave Medical Inc,5174580736.0
+SMTS,Sierra Metals Inc,216539392.0
+SGHT,Sight Sciences Inc,788142912.0
+SPXC,SPX Corp,2336065280.0
+BBAR,Banco Bbva Argentina SA ADR,641250816.0
+PYPD,PolyPid Ltd,96033792.0
+PRVA,Privia Health Group Inc,2460126976.0
+PTRA,Proterra Inc,1809765120.0
+PUK,Prudential PLC ADR,45337186304.0
+LUNG,Pulmonx Corp,1001644288.0
+QIWI,Qiwi PLC ADR Class B,455923520.0
+BLDE,Blade Air Mobility Inc Class A,471998240.0
+PERI,Perion Network Ltd,965827840.0
+QD,Qudian Inc ADR Class A,237877408.0
+RMD,Resmed Inc,34163185664.0
+RSKD,Riskified Ltd Class A,1181382016.0
+RIVN,Rivian Automotive Inc Class A,55345012736.0
+QDEL,Quidel Corp,3851777280.0
+REE,REE Automotive Ltd Class A,1037165312.0
+RPID,Rapid Micro Biosystems Inc Class A,302286784.0
+REKR,Rekor Systems Inc,204933744.0
+RNLX,Renalytix PLC ADR,412473632.0
+SOL,ReneSola Ltd ADR,395473440.0
+SHCA,Spindletop Health Acquisition Corp Class A,284624992.0
+VINP,Vinci Partners Investments Ltd Class A,745306176.0
+VVNT,Vivint Smart Home Inc Class A,1402652160.0
+ARAY,Accuray Inc,340037056.0
+VLNS,Valens Company Inc,169414832.0
+AFYA,Afya Ltd Class A,1288555008.0
+ADN,Advent Technologies Holdings Inc Class A,182462816.0
+ZIP,Ziprecruiter Inc Class A,2507094784.0
+ZETA,Zeta Global Holdings Corp Class A,2256956416.0
+XXII,22nd Century Group Inc,377575360.0
+XXII,22nd Century Group Inc,377575360.0
+YALA,Yalla Group Ltd ADR Class A,934105664.0
+WWE,World Wrestling Entertainment Inc Class A,4248790528.0
+WRAP,Wrap Technologies Inc,108045008.0
+ABIO,ARCA Biopharma Inc,26226382.0
+XPOF,Xponential Fitness Inc Class A,461709344.0
+TBLA,Taboola.com Ltd,1632463360.0
+UEIC,Universal Electronics Inc,456725280.0
+TARO,Taro Pharmaceutical Industries Ltd,1715750784.0
+SYBX,Synlogic Inc,134538752.0
+SXI,Standex International Corp,1292348672.0
+SBLK,Star Bulk Carriers Corp,2686867200.0
+AIT,Applied Industrial Technologies Inc,3669220608.0
+AMWL,American Well Corp Class A,1104825728.0
+TUFN,Tufin Software Technologies Ltd,320155584.0
+WTER,Alkaline Water Company Inc,109371536.0
+USNA,USANA Health Sciences Inc,1737558400.0
+AMSC,American Superconductor Corp,221484128.0
+TMX,Terminix Global Holdings Inc,5119009792.0
+NCTY,The9 Ltd ADR,82905280.0
+TVTY,Tivity Health Inc,1258707840.0
+TM,Toyota Motor Corp ADR,262936641536.0
+BWAY,Brainsway Ltd ADR,121837072.0
+HYLN,Hyliion Holdings Corp Class A,691518848.0
+HY,Hyster-Yale Materials Handling Inc Class A,687210624.0
+HYZN,Hyzon Motors Inc Class A,1317471360.0
+ICUI,ICU Medical Inc,4676000256.0
+DRIO,DarioHealth Corp,142715904.0
+DNMR,Danimer Scientific Inc Class A,357699488.0
+IMTX,Immatics NV,558004608.0
+IMMR,Immersion Corp,158523840.0
+KSM,DWS Strategic Municipal Income Trust,120666008.0
+DGII,Digi International Inc,694778112.0
+HIMX,Himax Technologies Inc ADR,1914978944.0
+HIMS,Hims & Hers Health Inc Class A,927804160.0
+HOLI,Hollysys Automation Technologies Ltd,865204416.0
+HMC,Honda Motor Co Ltd ADR,54108463104.0
+HNST,Honest Company Inc,519772704.0
+HBM,Hudbay Minerals Inc,2100045568.0
+IR,Ingersoll Rand Inc,21928073216.0
+JELD,JELD-WEN Holding Inc,2132088320.0
+JOBY,Joby Aviation Inc Class A,2874535680.0
+CFMS,Conformis Inc,115528400.0
+IIPR,Innovative Industrial Properties Inc,4522927616.0
+CYBE,CyberOptics Corp,268109808.0
+IPAR,Inter Parfums Inc,3051532032.0
+IVAN,Ivanhoe Capital Acquisition Corp Class A,264960000.0
+CUZ,Cousins Properties Inc,5675420672.0
+CRVL,CorVel Corp,2850068736.0
+ELP,Companhia Paranaense de Energia ADR Class B,18416979968.0
+SOLO,Electrameccanica Vehicles Corp,235256432.0
+FSV,FirstService Corp,6663514112.0
+FRSX,Foresight Autonomous Holdings Ltd ADR,81669008.0
+FRLN,Freeline Therapeutics Holdings PLC ADR,42977160.0
+FRPT,Freshpet Inc,4142491136.0
+FUTU,Futu Holdings Ltd ADR,6471168512.0
+FFBC,First Financial Bancorp,2347497728.0
+ELMS,Electric Last Mile Solutions Inc Class A,266660208.0
+ENLV,Enlivex Therapeutics Ltd,91652496.0
+EVR,Evercore Inc Class A,4811067392.0
+EVH,Evolent Health Inc Class A,2085052800.0
+FXLV,F45 Training Holdings Inc,1266858880.0
+FTCI,FTC Solar Inc,323791328.0
+FINV,FinVolution Group ADR Class A,1210015488.0
+GLNG,Golar LNG Ltd,1563822336.0
+GGPI,Gores Guggenheim Inc Class A,1108000000.0
+GRVY,Gravity Co Ltd ADR,315758016.0
+GP,GreenPower Motor Company Inc,134610176.0
+BROS,Dutch Bros Inc Class A,2557487360.0
+DCI,Donaldson Company Inc,6620080128.0
+DOLE,Dole PLC,1354852096.0
+GAMB,Gambling.com Group Ltd,394858752.0
+ESE,ESCO Technologies Inc,1852402176.0
+GLPI,Gaming and Leisure Properties Inc,10718852096.0
+GTX,Garrett Motion Inc,464548384.0
+GNRC,Generac Holdings Inc,17062690816.0
+EH,EHang Holdings Ltd ADR,859703808.0
+THRM,Gentherm Inc,2879258368.0
+GIL,Gildan Activewear Inc,7518417408.0
+NGVC,Natural Grocers By Vitamin Cottage Inc,408948832.0
+NVRO,Nevro Corp,2451314944.0
+CAMT,Camtek Ltd,1529636864.0
+CWST,Casella Waste Systems Inc Class A,3787518720.0
+MOD,Modine Manufacturing Co,535129152.0
+MNTK,Montauk Renewables Inc,1467966208.0
+NVEE,NV5 Global Inc,1615267328.0
+CVGW,Calavo Growers Inc,749900736.0
+OOMA,Ooma Inc,405552032.0
+OPRT,Oportun Financial Corp,478597312.0
+OPY,Oppenheimer Holdings Inc Class A,543976064.0
+CBAT,CBAK Energy Technology Inc,106446008.0
+OSCR,Oscar Health Inc Class A,1393281408.0
+OM,Outset Medical Inc,1689272448.0
+PJT,PJT Partners Inc Class A,1528865152.0
+CAMP,CalAmp Corp,226192688.0
+NOMD,Nomad Foods Ltd,4621137408.0
+NVO,Novo Nordisk A/S ADR,237907066880.0
+NVEI,Nuvei Corp,8876646400.0
+NVVE,Nuvve Holding Corp,125027984.0
+OI,O-I Glass Inc,2115596288.0
+OPTT,Ocean Power Technologies Inc,56990664.0
+CLBT,Cellebrite DI Ltd,1235922560.0
+LX,Lexinfintech Holdings Ltd ADR,691448960.0
+ZEV,Lightning eMotors Inc,381524512.0
+LECO,Lincoln Electric Holdings Inc,7484962816.0
+CLNE,Clean Energy Fuels Corp,1438917504.0
+LOGC,LogicBio Therapeutics Inc,21421920.0
+LOGI,Logitech International SA,13176854528.0
+RIDE,Lordstown Motors Corp Class A,590149184.0
+LU,Lufax Holding Ltd ADR,14158224384.0
+KNX,Knight-Swift Transportation Holdings Inc Class A,9122656256.0
+KRUS,Kura Sushi USA Inc,476414304.0
+LUNA,Luna Innovations Inc,219618096.0
+LXFR,Luxfer Holdings PLC,447988224.0
+CERS,Cerus Corp,897505856.0
+MSGE,Madison Square Garden Entertainment Corp Class A,2622161664.0
+MSGS,Madison Square Garden Sports Corp Class A,4248097024.0
+MKFG,Markforged Holding Corp,843763584.0
+CMMB,Chemomab Therapeutics Ltd ADR,47085304.0
+HSIC,Henry Schein Inc,10510102528.0
+RE,Everest Re Group Ltd,11539841024.0
+WST,West Pharmaceutical Services Inc,28422897664.0
+OCDX,Ortho Clinical Diagnostics Holdings PLC,3887281664.0
+PRK,Park National Corp,2129958016.0
+PDCO,Patterson Companies Inc,2712338688.0
+KIDS,OrthoPediatrics Corp,939643584.0
+OFIX,Orthofix Medical Inc,616448256.0
+LBC,Luther Burbank Corp,672463488.0
+PGC,Peapack-Gladstone Financial Corp,693020736.0
+PACW,PacWest Bancorp,6031792128.0
+PPBI,Pacific Premier Bancorp Inc,3636445696.0
+LNTH,Lantheus Holdings Inc,1925120640.0
+PFC,Premier Financial Corp (OHIO),1116374912.0
+LBAI,Lakeland Bancorp Inc,924072896.0
+PB,Prosperity Bancshares Inc,6856154112.0
+LMAT,LeMaitre Vascular Inc,936636096.0
+PNTG,Pennant Group Inc,448229536.0
+PEBO,Peoples Bancorp Inc,906133632.0
+PWP,Perella Weinberg Partners Class A,469543232.0
+LXRX,Lexicon Pharmaceuticals Inc,437754240.0
+PAHC,Phibro Animal Health Corp Class A,870017280.0
+LMND,Lemonade Inc,1791979392.0
+PIPR,Piper Sandler Companies,2677975552.0
+NHC,National Healthcare Corp,1000663680.0
+NWLI,National Western Life Group Inc Class A,770836224.0
+NTUS,Natus Medical Inc,777989440.0
+MBIN,Merchants Bancorp,854350656.0
+MBWM,Mercantile Bank Corp,590472000.0
+ORC,Orchid Island Capital Inc,674343296.0
+MC,Moelis & Co Class A,3533568000.0
+MLAB,Mesa Laboratories Inc,1379303936.0
+MMSI,Merit Medical Systems Inc,3253703424.0
+NXRT,NexPoint Residential Trust Inc,1983260672.0
+MAC,Macerich Co,3338305536.0
+OCFC,OceanFirst Financial Corp,1319798144.0
+OCUL,Ocular Therapeutix Inc,403735744.0
+MPW,Medical Properties Trust Inc,12401796096.0
+OLP,One Liberty Properties Inc,618344192.0
+MSBI,Midland States Bancorp Inc,649700992.0
+OSUR,OraSure Technologies Inc,624572928.0
+ORMP,Oramed Pharmaceuticals Inc,415518240.0
+OUT,OUTFRONT Media Inc,3595308544.0
+PFS,Provident Financial Services Inc,1820626816.0
+NCBS,Nicolet Bankshares Inc,1355636992.0
+NDSN,Nordson Corp,12921605120.0
+NFBK,Northfield Bancorp Inc,768599872.0
+MCS,Marcus Corp,578434816.0
+OFG,OFG Bancorp,1381769856.0
+TRST,TrustCo Bank Corp N Y,653236864.0
+TRMK,Trustmark Corp,2028388992.0
+UMBF,UMB Financial Corp,4950490624.0
+UMPQ,Umpqua Holdings Corp,4536065024.0
+UBSI,United Bankshares Inc,4910643200.0
+TBK,Triumph Bancorp Inc,2297087232.0
+UFCS,United Fire Group Inc,583632576.0
+UHT,Universal Health Realty Income Trust,773442688.0
+UVSP,Univest Financial Corp,867567488.0
+UE,Urban Edge Properties,2028830080.0
+UBA,Urstadt Biddle Properties Inc Class A,734150656.0
+TFSL,TFS Financial Corp,4747769856.0
+TCMD,Tactile Systems Technology Inc,309437024.0
+TSC,TriState Capital Holdings Inc,1085803264.0
+TMP,Tompkins Financial Corp,1143857408.0
+TMCI,Treace Medical Concepts Inc,1040056000.0
+TIG,Trean Insurance Group Inc,350548064.0
+XHR,Xenia Hotels & Resorts Inc,2076319616.0
+WABC,Westamerica Bancorp,1584831232.0
+EXPI,eXp World Holdings Inc,4291851008.0
+WRE,Washington Real Estate Investment Trust,1984721408.0
+VRE,Veris Residential Inc,1538811520.0
+VBTX,Veritex Holdings Inc,1925024384.0
+VCTR,Victory Capital Holdings Inc Class A,2280055040.0
+VRTS,Virtus Investment Partners Inc,1922586624.0
+WSFS,WSFS Financial Corp,3416673280.0
+SRDX,Surmodics Inc,591574464.0
+RBCAA,Republic Bancorp Inc Class A,970186048.0
+RHI,Robert Half International Inc,13312841728.0
+RNST,Renasant Corp,2018055936.0
+RHP,Ryman Hospitality Properties Inc,4785278976.0
+SEIC,SEI Investments Co,8283507712.0
+SIGA,SIGA Technologies Inc,479532480.0
+QCRH,QCR Holdings Inc,891558784.0
+QSI,Quantum-Si Inc Class A,595011264.0
+RCM,R1 RCM Inc,7015053312.0
+RWT,Redwood Trust Inc,1222435456.0
+SHC,Sotera Health Co,6167590400.0
+SBSI,Southside Bancshares Inc,1367861120.0
+STAG,STAG Industrial Inc,7023592448.0
+SYBT,Stock Yards Bancorp Inc,1459738368.0
+SBCF,Seacoast Banking Corporation of Florida,2159500032.0
+SLQT,SelectQuote Inc,462361536.0
+SFBS,ServisFirst Bancshares Inc,4584632832.0
+SILK,Silk Road Medical Inc,1100981376.0
+LTC,LTC Properties Inc,1314697856.0
+LHCG,LHC Group Inc,4002923008.0
+BRMK,Broadmark Realty Capital Inc,1182285696.0
+BKD,Brookdale Senior Living Inc,999101184.0
+BRKL,Brookline Bancorp Inc,1323755136.0
+BY,Byline Bancorp Inc,1015945152.0
+CVBF,CVB Financial Corp,3188832768.0
+CADE,Cadence Bank,6063273472.0
+CATC,Cambridge Bancorp,604604736.0
+CFFN,Capitol Federal Financial Inc,1523118720.0
+CSII,Cardiovascular Systems Inc,754648576.0
+BLFS,BioLife Solutions Inc,1097812352.0
+BANFP,BancFirst 7.2% Cumulative Pref Shs,
+TBBK,Bancorp Inc,1661548416.0
+BFC,Bank First Corp,536688896.0
+BMRC,Bank of Marin Bancorp,582083456.0
+BHLB,Berkshire Hills Bancorp Inc,1473403648.0
+BWBBP,Bridgewater Bancshares DS 1 100th Int 5 875 Non Cumu Perpl Prf Shs Series A,
+CTRE,CareTrust REIT Inc,1874673664.0
+CTBI,Community Trust Bancorp Inc,772427840.0
+CORT,Corcept Therapeutics Inc,2250159360.0
+CCRN,Cross Country Healthcare Inc,825820352.0
+CHCT,Community Healthcare Trust Inc,1058508480.0
+CBU,Community Bank System Inc,3888432128.0
+CHE,Chemed Corp,7154826240.0
+CATY,Cathay General Bancorp,3647266048.0
+CLOV,Clover Health Investments Corp Class A,1148821504.0
+CNS,Cohen & Steers Inc,3864420608.0
+COLL,Collegium Pharmaceutical Inc,696675136.0
+COLB,Columbia Banking System Inc,2801497088.0
+BRP,BRP Group Inc Class A,3302458112.0
+BOKF,BOK Financial Corp,6975608832.0
+ALRS,Alerus Financial Corp,502476544.0
+ABTX,Allegiance Bancshares Inc,851132672.0
+AMAL,Amalgamated Bank,529269248.0
+AMBC,Ambac Financial Group Inc,714935296.0
+AMTB,Amerant Bancorp Inc Class A,1235536512.0
+DIBS,1stdibs.Com Inc,413982496.0
+ME,23andMe Holding Co. Class A,2071533312.0
+AMRK,A-Mark Precious Metals Inc,834606336.0
+ATIF,ATIF Holdings Ltd,36031096.0
+ADUS,Addus Homecare Corp,1196944128.0
+ANAT,American National Group Inc,5095124480.0
+AROW,Arrow Financial Corp,558575744.0
+APAM,Artisan Partners Asset Management Inc Class A,2557115392.0
+AC,Associated Capital Group Inc Class A,830928576.0
+AUB,Atlantic Union Bankshares Corp,3051846144.0
+ARGO,Argo Group International Holdings Ltd,1382005120.0
+ATRI,Atrion Corp,1167226752.0
+AVNS,Avanos Medical Inc,1459090304.0
+AX,Axos Financial Inc,3233563904.0
+AHH,Armada Hoffler Properties Inc,851849792.0
+AIV,Apartment Investment and Management Co Class A,1009337984.0
+ABCB,Ameris Bancorp,3453209600.0
+AMRX,Amneal Pharmaceuticals Inc Class A,706524864.0
+AMPH,Amphastar Pharmaceuticals Inc,1246468992.0
+NLY,Annaly Capital Management Inc,10495531008.0
+ACRE,Ares Commercial Real Estate Corp,662725376.0
+AMEH,Apollo Medical Holdings Inc,3121859584.0
+APLE,Apple Hospitality REIT Inc,3799810304.0
+HTBK,Heritage Commerce Corp,734088640.0
+HSKA,Heska Corp,1368052224.0
+HTH,Hilltop Holdings Inc,2564640256.0
+HIFS,Hingham Institution For Savings,771285440.0
+HOMB,Home BancShares Inc,3853658112.0
+HOPE,Hope Bancorp Inc,2034985984.0
+HBNC,Horizon Bancorp Inc,897832000.0
+HLI,Houlihan Lokey Inc Class A,7432721920.0
+GOOD,Gladstone Commercial Corp,794189568.0
+LAND,Gladstone Land Corp,1024931584.0
+GSHD,Goosehead Insurance Inc Class A,3524890624.0
+GSBC,Great Southern Bancorp Inc,801916608.0
+HAFC,Hanmi Financial Corp,800031808.0
+HONE,HarborOne Bancorp Inc,766488960.0
+KRNY,Kearny Financial Corp,994412480.0
+JBGS,JBG SMITH Properties,3547978752.0
+JYNT,Joint Corp,755545152.0
+KNSL,Kinsale Capital Group Inc,4355652608.0
+NARI,Inari Medical Inc,3797490944.0
+IRT,Independence Realty Trust Inc,5176460288.0
+IBTX,Independent Bank Group Inc,3269185024.0
+ILPT,Industrial Logistics Properties Trust,1415355520.0
+INSP,Inspire Medical Systems Inc,6153383936.0
+ITGR,Integer Holdings Corp,2723728896.0
+XENT,Intersect Ent Inc,917519808.0
+GBCI,Glacier Bancorp Inc,5792250880.0
+GABC,German American Bancorp Inc,
+EIG,Employers Holdings Inc,1069078976.0
+ECPG,Encore Capital Group Inc,2063362048.0
+EFSC,Enterprise Financial Services Corp,1891365760.0
+EQC,Equity Commonwealth,3151993344.0
+ELS,Equity LifeStyle Properties Inc,14923116544.0
+ESNT,Essent Group Ltd,5013613056.0
+ESTA,Establishment Labs Holdings Inc,1257553792.0
+DBRG,DigitalBridge Group Inc Class A,3943951104.0
+DOUG,Douglas Elliman Inc,571246400.0
+EGBN,Eagle Bancorp Inc,1910621952.0
+DEA,Easterly Government Properties Inc,1763244800.0
+FSP,Franklin Street Properties Corp,584150528.0
+FLIC,First of Long Island Corp,525961728.0
+FFIC,Flushing Financial Corp,715368960.0
+FOCS,Focus Financial Partners Inc Class A,3409835008.0
+FCPT,Four Corners Property Trust Inc,2007299968.0
+FRHC,Freedom Holding Corp,3772118528.0
+FRME,First Merchants Corp,2320592128.0
+GBL,GAMCO Investors Inc Class A,578474944.0
+FMBH,First Mid Bancshares Inc,727338560.0
+FIBK,First Interstate BancSystem Inc Class A,2318223872.0
+FBK,FB Financial Corp,2122220800.0
+FRPH,FRP Holdings Inc,513371680.0
+FISI,Financial Institutions Inc,503322112.0
+FR,First Industrial Realty Trust Inc,7603724288.0
+FBP,First Bancorp,2988021760.0
+FBMS,First Bancshares Inc (Mississippi),766588480.0
+BUSE,First Busey Corp,1543144704.0
+FCF,First Commonwealth Financial Corp,1562582272.0
+FCBC,First Community Bankshares Inc,496218624.0
+FFIN,First Financial Bankshares Inc,6691956736.0
+FFWM,First Foundation Inc,1481119488.0
+FHB,First Hawaiian Inc,3708699136.0
+CGC,Canopy Growth Corp,3543658240.0
+CRON,Cronos Group Inc,1416580864.0
+OGI,OrganiGram Holdings Inc,500934400.0
+HITI,High Tide Inc,303868096.0
+GNLN,Greenlane Holdings Inc Class A,50710624.0
+CRDL,Cardiol Therapeutics Inc Class A,100804224.0
+ZYNE,Zynerba Pharmaceuticals Inc,111287248.0
+CLVR,Clever Leaves Holdings Inc,43341040.0
+PW,Power REIT,200708000.0
+IMCC,IM Cannabis Corp,153414448.0
+CRBP,Corbus Pharmaceuticals Holdings Inc,46648548.0
+SNDL,Sundial Growers Inc,1256600064.0
+UVV,Universal Corp,1311328384.0
+HUGE,FSD Pharma Inc Class B,33762124.0
+FLGC,Flora Growth Corp,112556328.0
+MYMD,MyMD Pharmaceuticals Inc,166368368.0
+BRDG,Bridge Investment Group Holdings Inc Class A,528414592.0
+TGLS,Tecnoglass Inc,964937920.0
+STN,Stantec Inc,5858390016.0
+SKY,Skyline Champion Corp,4170211840.0
+MYRG,MYR Group Inc,1557260416.0
+FIX,Comfort Systems USA Inc,3145684736.0
+CVCO,Cavco Industries Inc,2606450688.0
+FND,Floor & Decor Holdings Inc Class A,11071321088.0
+MCRI,Monarch Casino & Resort Inc,1412537216.0
+RRR,Red Rock Resorts Inc Class A,3051673600.0
+NAPA,Duckhorn Portfolio Inc,2242266112.0
+HCSG,Healthcare Services Group Inc,1187406336.0
+SAM,Boston Beer Company Inc Class A,5187502080.0
+NTNX,Nutanix Inc Class A,5687229440.0
+COUR,Coursera Inc,2880689152.0
+ATXI,Avenue Therapeutics Inc,12750586.0
+YQ,17 Education & Technology Group Inc ADR,74465496.0
+RH,RH,8772540416.0
+PSO,Pearson PLC ADR,6508497408.0
+NTGR,NETGEAR Inc,769669504.0
+OTTR,Otter Tail Corp,2521893376.0
+OMER,Omeros Corp,390263936.0
+ONON,On Holding AG Class A,8379302400.0
+PD,PagerDuty Inc,2923320064.0
+DAO,Youdao Inc ADR,1635077504.0
+YUMC,Yum China Holdings Inc,21611851776.0
+ZME,Zhangmen Education Inc ADR Class A,29760288.0
+ZOM,Zomedica Corp,285149440.0
+SCHL,Scholastic Corp,1441359872.0
+RKLB,Rocket Lab USA Inc Class A,4258463232.0
+ROVR,Rover Group Inc Class A,857965120.0
+RSI,Rush Street Interactive Inc Class A,633997312.0
+TAK,Takeda Pharmaceutical Co Ltd ADR,47772131328.0
+TFII,TFI International Inc,9940200448.0
+SRAD,Sportradar Group AG Class A,3981764352.0
+CENTA,Central Garden & Pet Co Class A,2352603392.0
+CAPR,Capricor Therapeutics Inc,96113816.0
+CHUY,Chuy's Holdings Inc,560198592.0
+CMPS,Compass Pathways PLC ADR,603433152.0
+AMRN,Amarin Corporation PLC ADR,1345808384.0
+ABEV,Ambev SA ADR,45642231808.0
+AAN,Aaron's Company Inc,659887872.0
+ACEL,Accel Entertainment Inc,1222873600.0
+ARCE,Arco Platform Ltd Class A,1133019520.0
+BFAM,Bright Horizons Family Solutions Inc,8007973888.0
+BCOV,Brightcove Inc,374338080.0
+ARQQ,Arqit Quantum Inc,1765073024.0
+BRPM,B. Riley Principal 150 Merger Corp Class A,218837568.0
+BALY,Bally's Corp,1924464384.0
+MGNI,Magnite Inc,1753112960.0
+JACK,Jack in the Box Inc,1923986816.0
+MDU,MDU Resources Group Inc,5498611200.0
+MYTE,MYT Netherlands Parent BV ADR,1220061568.0
+LSTR,Landstar System Inc,5913311232.0
+RACE,Ferrari NV,40435404800.0
+ENVX,Enovix Corp,2169975296.0
+ZGN,Ermenegildo Zegna NV,2231595264.0
+GOTU,Gaotu Techedu Inc ADR Class A,525626144.0
+GNUS,Genius Brands International Inc,277351520.0
+GNTX,Gentex Corp,7280086016.0
+ABST,Absolute Software Corp,473295712.0
+SCWX,SecureWorks Corp Class A,1212511616.0
+VHC,VirnetX Holding Corp,135342496.0
+FORG,ForgeRock Inc Class A,1174423040.0
+AUID,Ipsidy Inc,137380704.0
+MYSZ,My Size Inc,8245183.0
+CIFR,Cipher Mining Inc,756389632.0
+DGHI,Digihost Technology Inc,92609520.0
+GLOB,Globant SA,10511866880.0
+ANGI,Angi Inc Class A,4270340352.0
+GOED,1847 Goedeker Inc,218093344.0
+WRBY,Warby Parker Inc Class A,3380776192.0
+SOND,Sonder Holdings Inc Class A,
+GIM,Templeton Global Income Fund,515012992.0
+UXIN,Uxin Ltd ADR,437119104.0
+VTEX,VTEX Class A,1555484288.0
+DIDI,DiDi Global Inc ADR Class A,20643469312.0
+BLCT,BlueCity Holdings Ltd ADR,55327648.0
+ML,MoneyLion Inc Class A,545933952.0
+NRDY,Nerdy Inc Class A,386665120.0
+IGACU,IG Acquisition Unit,
+YRD,Yiren Digital Ltd ADR,231795840.0
+RELY,Remitly Global Inc,2074299904.0
+IMXI,International Money Express Inc,604690560.0
+MITK,Mitek Systems Inc,685403136.0
+UEPS,Net 1 UEPS Technologies Inc,276431552.0
+REX,REX American Resources Corp,514241600.0
+MEG,Montrose Environmental Group Inc,1358963712.0
+PCTTU,PureCycle Technologies Unit,
+OFLX,Omega Flex Inc,1460039552.0
+SIFY,Sify Technologies Ltd ADR,543069248.0
+VEV,Vicinity Motor Corp,131197304.0
+VTNR,Vertex Energy Inc,302516640.0
+XL,XL Fleet Corp Class A,246771648.0
+TNC,Tennant Co,1408380544.0
+SND,Smart Sand Inc,94605104.0
+SMED,Sharps Compliance Corp,122297712.0
+RAAS,Cloopen Group Holding Ltd ADR,373119904.0
+ADES,Advanced Emissions Solutions Inc,117340920.0
+ABM,ABM Industries Inc,2817931520.0
+ARIS,Aris Water Solutions Inc Class A,257778240.0
+LOOP,Loop Industries Inc,337195424.0
+HCCI,Heritage-Crystal Clean Inc,679454976.0
+NU,Nu Holdings Ltd Class A,40003342336.0
+SUNL,Sunlight Financial Holdings Inc Class A,275649728.0
+CND,Concord Acquisition Corp Class A,361332992.0
+KPLT,Katapult Holdings Inc,212489840.0
+PEGR,Project Energy Reimagined Acquisition Corp Class A,319285344.0
+IDRA,Idera Pharmaceuticals Inc,27470954.0
+MLNK,Meridianlink Inc,1538766208.0
+SOVO,Sovos Brands Inc,1395350144.0
+SWTX,SpringWorks Therapeutics Inc,2739240448.0
+MYE,Myers Industries Inc,609905728.0
+PDEX,Pro-Dex Inc,72580976.0
+PLYA,Playa Hotels & Resorts NV,1376674688.0
+PTLO,Portillos Inc Class A,965720128.0
+REI,Ring Energy Inc,299916992.0
+OCX,OncoCyte Corp,142958672.0
+CARE,Carter Bankshares Inc,413062432.0
+CHX,ChampionX Corp,4368753664.0
+CVLG,Covenant Logistics Group Inc Class A,359760608.0
+BSL,Blackstone Senior Floating Rate Term Fund,213997136.0
+ACA,Arcosa Inc,2190301952.0
+BRBR,Bellring Brands Inc,979585088.0
+BATL,Battalion Oil Corp,294232096.0
+AIZ,Assurant Inc,9229656064.0
+ARCH,Arch Resources Inc Class A,1734701568.0
+HBANM,Huntington Bancshares Dep Shs Rep 1 1000 Prf Shs Series I,
+GATEU,Marblegate Acquisition Units,
+KMF,Kayne Anderson NextGen Energy & Infrastructure Inc,351149408.0
+TREE,Lendingtree Inc,1512645760.0
+EPAM,Epam Systems Inc,24273154048.0
+ECC,Eagle Point Credit Company Inc,478025856.0
+GNOG,Golden Nugget Online Gaming Inc Class A,376754528.0
+EVO,Evotec SE ADR,5394827776.0
+ALTO,Alto Ingredients Inc,407682240.0
+AQB,AquaBounty Technologies Inc,113641112.0
+ZY,Zymergen Inc,402435936.0
+ONVO,Organovo Holdings Inc,23939988.0
+HGEN,Humanigen Inc,116149128.0
+EVGN,Evogene Ltd,51861968.0
+DYNS,Dynamics Special Purpose Corp Class A,290824480.0
+MNST,Monster Beverage Corp,43691008000.0
+DECK,Deckers Outdoor Corp,8201538560.0
+FOXF,Fox Factory Holding Corp,5294156800.0
+GGG,Graco Inc,12016595968.0
+VICR,Vicor Corp,4393044480.0
+SNBR,Sleep Number Corp,1595934080.0
+TXRH,Texas Roadhouse Inc,6320283648.0
+WTS,Watts Water Technologies Inc Class A,4714869248.0
+KWR,Quaker Chemical Corp,3617194240.0
+MSA,MSA Safety Inc,5355730944.0
+SHOO,Steven Madden Ltd,3406296832.0
+DV,DoubleVerify Holdings Inc,4319712768.0
+SHAK,Shake Shack Inc Class A,2962506752.0
+WDFC,WD-40 Co,2954289408.0
+AWR,American States Water Co,3160269824.0
+RRX,Regal Rexnord Corp,10590099456.0
+UFPT,UFP Technologies Inc,543616448.0
+THRY,Thryv Holdings Inc,1062811840.0
+FWRD,Forward Air Corp,2707142400.0
+CWT,California Water Service Group,3075989760.0
+LKQ,LKQ Corp,15673472000.0
+DIN,Dine Brands Global Inc,1332595840.0
+CFX,Colfax Corp,6359992320.0
+PACK,Ranpak Holdings Corp Class A,2194535680.0
+JJSF,J & J Snack Foods Corp,2946929152.0
+EPAC,Enerpac Tool Group Corp Class A,1027835840.0
+IIIN,Insteel Industries Inc,739638912.0
+DORM,Dorman Products Inc,2901799936.0
+ROCK,Gibraltar Industries Inc,1618328448.0
+FLNC,Fluence Energy Inc Class A,689785600.0
+HSII,Heidrick & Struggles International Inc,849683328.0
+FELE,Franklin Electric Co Inc,3929894400.0
+FORR,Forrester Research Inc,998617408.0
+CIVI,Civitas Resources Inc,4257447168.0
+GHL,Greenhill & Co Inc,355267808.0
+LPG,Dorian LPG Ltd,504163456.0
+FOE,Ferro Corp,1802954880.0
+MTRN,Materion Corp,1715870720.0
+ZWS,Zurn Water Solutions Corp,4053090304.0
+TELZ,Tellurian 8 25 Senior Notes due 2028,
+JOUT,Johnson Outdoors Inc Class A,841064000.0
+KAI,Kadant Inc,2445100032.0
+TR,Tootsie Roll Industries Inc,2231788288.0
+ARCB,ArcBest Corp,2219328512.0
+ARLO,Arlo Technologies Inc,735933696.0
+LFST,Lifestance Health Group Inc,3090470656.0
+GOLF,Acushnet Holdings Corp,3253700864.0
+AOSL,Alpha and Omega Semiconductor Ltd,1362397952.0
+MBUU,Malibu Boats Inc Class A,1402720128.0
+IESC,IES Holdings Inc,904496576.0
+SWIM,Latham Group Inc,2024266368.0
+HEAR,Turtle Beach Corp,346754080.0
+UTZ,UTZ Brands Inc Class A,2104445184.0
+PYCR,Paycor HCM Inc,4697399808.0
+CTOS,Custom Truck One Source Inc,1889456128.0
+HAYN,Haynes International Inc,483029344.0
+DSP,Viant Technology Inc Class A,106782192.0
+PWSC,PowerSchool Holdings Inc Class A,3430370816.0
+INNV,InnovAge Holding Corp,651836736.0
+MGRC,McGrath RentCorp,1826496384.0
+CLB,Core Laboratories NV,1296571648.0
+PPBT,Purple Biotech Ltd ADR,51263140.0
+HRT,HireRight Holdings Corp,1045572864.0
+MCFT,Mastercraft Boat Holdings Inc,524416992.0
+SGC,Superior Group of Companies Inc,317188032.0
+CSWI,CSW Industrials Inc,1821301888.0
+ULCC,Frontier Group Holdings Inc,3023718656.0
+DTC,Solo Brands Inc Class A,691667776.0
+GMS,GMS Inc,2242787072.0
+DNUT,Krispy Kreme Inc,2324788992.0
+ACVA,ACV Auctions Inc Class A,1621091584.0
+KBAL,Kimball International Inc Class B,336040608.0
+PDFS,PDF Solutions Inc,1100566016.0
+STER,Sterling Check Corp,2021565696.0
+GOGO,Gogo Inc,1417307136.0
+BRC,Brady Corp Class A,2555801600.0
+NRC,National Research Corp,970115840.0
+MOV,Movado Group Inc,881746112.0
+NSSC,NAPCO Security Technologies Inc,718090624.0
+GRBK,Green Brick Partners Inc,1107583232.0
+SHYF,Shyft Group Inc,1545990400.0
+SHEN,Shenandoah Telecommunications Co,1139211136.0
+WLDN,Willdan Group Inc,392708256.0
+RVP,Retractable Technologies Inc,155653424.0
+PCYO,Pure Cycle Corp,284394528.0
+KFRC,Kforce Inc,1536536448.0
+RMNI,Rimini Street Inc,419905696.0
+TPG,TPG Inc Class A,
+NDLS,Noodles & Co Class A,423998560.0
+NGMS,NeoGames SA,609689536.0
+SCL,Stepan Co,2426734592.0
+VERU,Veru Inc,485780256.0
+RUTH,Ruth's Hospitality Group Inc,794772480.0
+UEC,Uranium Energy Corp,815124672.0
+MODN,Model N Inc,923908480.0
+CURV,Torrid Holdings Inc,978717888.0
+TCX,Tucows Inc,821836224.0
+HURN,Huron Consulting Group Inc,972703104.0
+IAS,Integral Ad Science Holding Corp,2931036672.0
+DSEY,Diversey Holdings Ltd,3279062272.0
+CRAI,CRA International Inc,656850944.0
+BOOM,DMC Global Inc,697020160.0
+IEA,Infrastructure and Energy Alternatives Inc,489822720.0
+IOSP,Innospec Inc,2265588992.0
+DENN,Denny's Corp,1043335168.0
+DMRC,Digimarc Corp,500328768.0
+BYRN,Byrna Technologies Inc,199065184.0
+FC,Franklin Covey Co,656985216.0
+ATEX,Anterix Inc,1000968832.0
+FWRG,First Watch Restaurant Group Inc,950088768.0
+ATOM,Atomera Inc,377010624.0
+AWH,Aspira Women's Health Inc,119975896.0
+GATO,Gatos Silver Inc,243353424.0
+AOUT,American Outdoor Brands Inc,241852528.0
+EWCZ,European Wax Center Inc Class A,869853056.0
+EBET,Esports Technologies Inc,160707088.0
+AMSWA,American Software Inc Class A,709148416.0
+HCKT,Hackett Group Inc,560391296.0
+INST,Instructure Holdings Inc,3283112960.0
+CRXT,Clarus Therapeutics Holdings Inc,29551734.0
+CNTY,Century Casinos Inc,326947392.0
+NMTR,9 Meters Biopharma Inc,178967600.0
+CNVY,Convey Health Solutions Holdings Inc,457463744.0
+CRGY,Crescent Energy Co Class A,602094464.0
+CTT,CatchMark Timber Trust Inc Class A,389151680.0
+ANIP,ANI Pharmaceuticals Inc,649955520.0
+POWWP,AMMO 8 75 Cumulative Redeemable Perpetual Prf Shs Series A,
+ROAD,Construction Partners Inc Class A,1389907840.0
+HLTH,Cue Health Inc,1536811520.0
+CHEF,Chefs' Warehouse Inc,1258513152.0
+FLMN,Falcon Minerals Corp Class A,254608080.0
+SEEL,Seelos Therapeutics Inc,116044504.0
+TG,Tredegar Corp,388036448.0
+ATCX,Atlas Technical Consultants Inc Class A,336161984.0
+FTHM,Fathom Holdings Inc,225613072.0
+PRTK,Paratek Pharmaceuticals Inc,188208368.0
+URG,Ur-Energy Inc,265053536.0
+SFST,Southern First Bancshares Inc,447343360.0
+ULH,Universal Logistics Holdings Inc,484012608.0
+XPRO,Expro Group Holdings NV,1560230144.0
+CLPR,Clipper Realty Inc,142641216.0
+FNCH,Finch Therapeutics Group Inc,395972352.0
+SOPA,Society Pass Inc,69441008.0
+GTBP,GT Biopharma Inc,81349184.0
+FHTX,Foghorn Therapeutics Inc.,515306208.0
+FORA,Forian Inc,248441200.0
+AVTX,Avalo Therapeutics Inc,96930432.0
+FBRX,Forte Biosciences Inc,22039850.0
+CSSEP,Chicken Soup for the Soul Entertainment 9 75 Cumulative Redeemable Perpetual,86352400.0
+USFD,US Foods Holding Corp,8296737280.0
+AUR,Aurora Innovation Inc Class A,5709818368.0
+FSBC,Five Star Bancorp,526876032.0
+OTLK,Outlook Therapeutics Inc,298267136.0
+USLM,United States Lime & Minerals Inc,667077056.0
+AURA,Aura Biosciences Inc,542146880.0
+SMLR,Semler Scientific Inc,509734080.0
+ATER,Aterian Inc,
+TYRA,Tyra Biosciences Inc,500966816.0
+OEC,Orion Engineered Carbons SA,1176892288.0
+CELC,Celcuity Inc,164257088.0
+REVG,REV Group Inc,883635392.0
+RYI,Ryerson Holding Corp,881530816.0
+DMS,Digital Media Solutions Inc Class A,274794720.0
+BFST,Business First Bancshares Inc,546897152.0
+RFL,Rafael Holdings Inc Class B,76590000.0
+RBB,RBB Bancorp,506840896.0
+STRL,Sterling Construction Company Inc,839935552.0
+DRVN,Driven Brands Holdings Inc,4969512448.0
+DFH,Dream Finders Homes Inc Class A,1690367872.0
+PLOW,Douglas Dynamics Inc,830763200.0
+DRRX,DURECT Corp,159436208.0
+REPX,Riley Exploration Permian Inc,473707520.0
+RPHM,Reneo Pharmaceuticals Inc,123340696.0
+CDRE,Cadre Holdings Inc,802852416.0
+RRGB,Red Robin Gourmet Burgers Inc,254602448.0
+RGS,Regis Corp,76221600.0
+PZN,Pzena Investment Management Inc Class A,645934976.0
+PYXS,Pyxis Oncology Inc,239831760.0
+THRX,Theseus Pharmaceuticals Inc,433469120.0
+UUUU,Energy Fuels Inc,1037579648.0
+PPTA,Perpetua Resources Corp,219665488.0
+TRDA,Entrada Therapeutics Inc,366127296.0
+CCRD,CoreCard Corp,294949344.0
+CRMD,CorMedix Inc,151203008.0
+PLSE,Pulse Biosciences Inc,189936624.0
+BRLT,Brilliant Earth Group Inc Class A,112412456.0
+TARS,Tarsus Pharmaceuticals Inc,319459648.0
+TH,Target Hospitality Corp,303474272.0
+EVI,EVI Industries Inc,274893856.0
+ESTE,Earthstone Energy Inc Class A,695196288.0
+ELYM,Eliem Therapeutics Inc,212699952.0
+BLFY,Blue Foundry Bancorp,408156992.0
+STGW,Stagwell Inc Class A,880711552.0
+PRTH,Priority Technology Holdings Inc,464408736.0
+THRN,Thorne Healthtech Inc,269031936.0
+RENT,Rent the Runway Inc Class A,364980160.0
+HNI,HNI Corp,1839077888.0
+LTRPA,Liberty Tripadvisor Holdings Inc Series A,206454832.0
+MPX,Marine Products Corp,414363680.0
+HUBG,Hub Group Inc Class A,2740642048.0
+VMD,Viemed Healthcare Inc,167159728.0
+XOMA,XOMA Corp,223283088.0
+VINC,Vincerx Pharma Inc,131592088.0
+ICFI,ICF International Inc,1700655488.0
+WEAV,Weave Communications Inc,664240576.0
+HRTG,Heritage Insurance Holdings Inc,156686720.0
+AMOT,Allied Motion Technologies Inc,519599904.0
+MDVL,MedAvail Holdings Inc,42045696.0
+AFIB,Acutus Medical Inc,60098736.0
+ISO,IsoPlexis Corp,233339840.0
+MNMD,Mind Medicine (MindMed) Inc,509096608.0
+MBII,Marrone Bio Innovations Inc,107267080.0
+MRTN,Marten Transport Ltd,1386803584.0
+HOFT,Hooker Furnishings Corp,253229648.0
+XLO,Xilio Therapeutics Inc,366709824.0
+MMAT,Meta Materials Inc,503455392.0
+HLLY,Holley Inc,1381565568.0
+LVLU,Lulu's Fashion Lounge Holdings Inc,403037344.0
+KRT,Karat Packaging Inc,346489504.0
+VTYX,Ventyx Biosciences Inc,602552064.0
+VERA,Vera Therapeutics Inc Class A,407253248.0
+KLDO,Kaleido Biosciences Inc,66873212.0
+KALA,Kala Pharmaceuticals Inc,45745412.0
+KIND,Nextdoor Holdings Inc Class A,2726661120.0
+VALU,Value Line Inc,556518976.0
+APYX,Apyx Medical Corp,344468320.0
+GWRS,Global Water Resources Inc,340417472.0
+INFU,InfuSystem Holdings Inc,218057680.0
+AIRS,Airsculpt Technologies Inc,749473536.0
+EGAN,eGain Corp,387331616.0
+VIA,Via Renewables Inc Class A,177525360.0
+ANGN,Angion Biomedica Corp,64106912.0
+IRMD,IRadimed Corp,603514048.0
+NATH,Nathan's Famous Inc,226950528.0
+AEHR,Aehr Test Systems,346835744.0
+STRA,Strategic Education Inc,1320554880.0
+SMRT,SmartRent Inc Class A,1688555392.0
+SMSI,Smith Micro Software Inc,218261600.0
+LEU,Centrus Energy Corp Class A,598118144.0
+ABGI,ABG Acquisition I Corp Class A,188299520.0
+SONX,Sonendo Inc,137727872.0
+SGTX,Sigilon Therapeutics Inc,52017972.0
+SIMO,Silicon Motion Technology Corp ADR,2617294592.0
+AZZ,AZZ Inc,1194288000.0
+CCJ,Cameco Corp,8663512064.0
+VIGL,Vigil Neuroscience Inc,
+TUP,Tupperware Brands Corp,860780352.0
+AMLX,Amylyx Pharmaceuticals Inc,
+SEAT,Vivid Seats Inc Class A,787951616.0
+APEI,American Public Education Inc,323669152.0
+BBSI,Barrett Business Services Inc,448343936.0
+UNF,UniFirst Corp,3388854528.0
+LFG,Archaea Energy Inc Class A,1849285248.0
+ASTE,Astec Industries Inc,1235212544.0
+VAXX,Vaxxinity Inc Class A,737316736.0
+AVNW,Aviat Networks Inc,316998368.0
+ALV,Autoliv Inc,8636723200.0
+TRC,Tejon Ranch Co,435987808.0
+MNRL,Brigham Minerals Inc Class A,1065650944.0
+TCRX,TScan Therapeutics Inc,123593592.0
+SST,System1 Inc Class A,
+THR,Thermon Group Holdings Inc,568477696.0
+ALPP,Alpine 4 Holdings Inc Class A,323970080.0
+HGTY,Hagerty Inc Class A,4473704448.0
+MUX,McEwen Mining Inc,392650784.0
+HLMN,Hillman Solutions Corp,1846251776.0
+MRBK,Meridian Corp,221895904.0
+GENC,Gencor Industries Inc,153319536.0
+NCLH,Norwegian Cruise Line Holdings Ltd,8792252416.0
+NEXT,NextDecade Corp,260042992.0
+GOGL,Golden Ocean Group Ltd,2242878720.0
+LL,LL Flooring Holdings Inc,418870080.0
+LEN,Lennar Corp Class A,26525112320.0
+KLR,Kaleyra Inc,342215776.0
+MVBF,MVB Financial Corp,465799520.0
+MSM,MSC Industrial Direct Co Inc Class A,4426434048.0
+MGEE,MGE Energy Inc,2616060160.0
+LICY,Li-Cycle Holdings Corp,1189582208.0
+INSW,International Seaways Inc,799745472.0
+IPI,Intrepid Potash Inc,581951808.0
+LAUR,Laureate Education Inc,2263088128.0
+III,Information Services Group Inc,349810016.0
+LWLG,Lightwave Logic Inc,718284608.0
+SJW,SJW Group,1919315968.0
+SEMR,SEMrush Holdings Inc Class A,2425981440.0
+RWAY,Runway Growth Finance Corp,549120576.0
+CRTO,Criteo SA ADR,1902429696.0
+COMP,Compass Inc Class A,3328352256.0
+RGF,Real Good Food Company Inc Class A,37574572.0
+RGP,Resources Connection Inc,534605760.0
+DXPE,DXP Enterprises Inc,498765952.0
+SHPW,Shapeways Holdings Inc,163242176.0
+SEB,Seaboard Corp,4406494720.0
+CIDM,Cinedigm Corp Class A,138148096.0
+FREY,FREYR Battery SA,1064539904.0
+PNM,PNM Resources Inc,3803344384.0
+PLXP,PLx Pharma Inc,159990544.0
+EPM,Evolution Petroleum Corp,234076640.0
+OPAD,Offerpad Solutions Inc Class A,939079296.0
+RLGT,Radiant Logistics Inc,324209600.0
+QMCO,Quantum Corp,166376000.0
+PIRS,Pieris Pharmaceuticals Inc,237084640.0
+PHVS,Pharvaris NV,599627648.0
+EVC,Entravision Communications Corp Class A,533915008.0
+ENOB,Enochian Biosciences Inc,391647744.0
+ELEV,Elevation Oncology Inc,87792768.0
+CPSI,Computer Programs and Systems Inc,410155200.0
+SHOP,Shopify Inc Class A,106648190976.0
+AMWD,American Woodmark Corp,882993984.0
+NX,Quanex Building Products Corp,738105600.0
+ETD,Ethan Allen Interiors Inc,632763008.0
+ASR,Grupo Aeroportuario del Sureste SAB de CV ADR Series B,6580269568.0
+ETRN,Equitrans Midstream Corp,3226457344.0
+OMAB,Grupo Aeroportuario del Centro Norte SAB de CV ADR Series B,2819104000.0
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo SABESP ADR,4675208704.0
+CIG,Companhia Energetica de Minas Gerais CEMIG ADR,4609424896.0
+NWN,Northwest Natural Holding Co,1432953984.0
+CP,Canadian Pacific Railway Ltd,66991140864.0
+UTL,Unitil Corp,769419392.0
+NWPX,Northwest Pipe Co,285950400.0
+PKX,Posco Holdings Inc ADR,17823418368.0
+RAIN,Rain Therapeutics Inc,191354240.0
+POWL,Powell Industries Inc,268249680.0
+ZIM,ZIM Integrated Shipping Services Ltd,8149367296.0
+SHLX,Shell Midstream Partners Units,5360542720.0
+BIPC,Brookfield Infrastructure Corp Class A,4939159040.0
+CIAN,Cian PLC ADR,586169984.0
+DNOW,NOW Inc,1028198720.0
+APOG,Apogee Enterprises Inc,1145888512.0
+INDT,Indus Realty Trust Inc,782380608.0
+MSB,Mesabi Trust,291920000.0
+MRC,MRC Global Inc,633223872.0
+LBTYK,Liberty Global PLC Class C,15030390784.0
+ECVT,Ecovyst Inc,1366488192.0
+SENEB,Seneca Foods Corp Class B,416585248.0
+PCYG,Park City Group Inc,159459792.0
+RNDB,Randolph Bancorp Inc,113022208.0
+PFTA,Portage Fintech Acquisition Corp Class A,313203552.0
+REVE,Alpine Acquisition Corp,136564512.0
+ASGI,Aberdeen Standard Global Infrastructure Income Fd,60506872.0
+BBN,BlackRock Taxable Municipal Bond Trust,1307433344.0
+CPSH,CPS Technologies Corp,46065104.0
+EDF,Virtus Stone Harbor Emerging Markets Income Fund,109485352.0
+AVACU,Avalon Acquisition Units,
+UBCP,United Bancorp Inc,100701496.0
+USAK,USA Truck Inc,225559408.0
+ARTAU,Artisan Acquisition Units,
+AAIN,Arlington Asset Investment 6 000 Senior Notes Due 2026,
+LHX,L3harris Technologies Inc,43134177280.0
+HFRO,Highland Income Fund,823505984.0
+GBAB,Guggenheim Taxable Muni Bd & Inv Grade Dbt Trust,416896416.0
+GBR,New Concept Energy Inc,13137741.0
+DWSN,Dawson Geophysical Co,55563164.0
+NVSAU,New Vista Acquisition Units,
+EFSCP,Enterprise Finl Svcs DRC Rep Non Cum Perp Pfd Series A,
+MACK,Merrimack Pharmaceuticals Inc,80997608.0
+MCD,McDonald's Corp,189344415744.0
+MLP,Maui Land & Pineapple Company Inc,197682432.0
+MMYT,MakeMyTrip Ltd,2756572416.0
+OZON,Ozon Holdings PLC ADR,4159679744.0
+HHR,HeadHunter Group PLC ADR,2134801152.0
+JOBS,51job Inc ADR,3206638848.0
+SY,So-Young International Inc ADR,258994320.0
+RERE,ATRenew Inc ADR Class A,1102043264.0
+YMM,Full Truck Alliance Co Ltd ADR Class A,9240583168.0
+PHAS,PhaseBio Pharmaceuticals Inc,71173200.0
+LHDX,Lucira Health Inc,172195984.0
+VACC,Vaccitech PLC ADR,333445152.0
+TLIS,Talis Biomedical Corp,53365856.0
+ASMB,Assembly Biosciences Inc,74664248.0
+IFRX,InflaRx NV,140070576.0
+EVAX,Evaxion Biotech A/S ADR,75209872.0
+ESSA,ESSA Bancorp Inc,188834400.0
+ENZ,Enzo Biochem Inc,161895808.0
+PMO,Putnam Municipal Opportunities Trust,417035616.0
+RKDA,Arcadia Biosciences Inc,22177544.0
+ESSC,East Stone Acquisition Corp,73760480.0
+WPM,Wheaton Precious Metals Corp,19133964288.0
+FNV,Franco-Nevada Corp,27392153600.0
+QSR,Restaurant Brands International Inc,18020433920.0
+KB,KB Financial Group Inc ADR,20944252928.0
+AYLA,Ayala Pharmaceuticals Inc,73439032.0
+ACER,Acer Therapeutics Inc,35059992.0
+AEM,Agnico Eagle Mines Ltd,23828678656.0
+MEOAU,Minority Equality Opportunities Acquisition Units,
+TCS,Container Store Group Inc,444672736.0
+TS,Tenaris SA ADR,15425343488.0
+RAND,Rand Capital Corp,37566748.0
+TOPS,Top Ships Inc,40230320.0
+SBSW,Sibanye Stillwater Ltd ADR,11524000768.0
+SGA,Saga Communications Inc Class A,133302896.0
+ASAI,Sendas Distribuidora SA ADR,3188973824.0
+TRQ,Turquoise Hill Resources Ltd,4115174144.0
+INT,World Fuel Services Corp,1872153856.0
+SLI,Standard Lithium Ltd,954225984.0
+CDXC,Chromadex Corp,177557904.0
+SID,Companhia Siderurgica Nacional ADR,7254229504.0
+ZNH,China Southern Airlines Co Ltd ADR Class H,18590838784.0
+EVA,Enviva Inc,4287469056.0
+NETI,Eneti Inc,275630880.0
+BBQ,BBQ Holdings Inc,165821008.0
+CX,Cemex SAB de CV ADR,7968388608.0
+HTOO,Fusion Fuel Green PLC Class A,77823536.0
+MNSO,MINISO Group Holding Ltd ADR Class A,2883148800.0
+LTRY,Lottery.com Inc,186911664.0
+LYTS,LSI Industries Inc,188441408.0
+LGO,Largo Inc,606482624.0
+OHPA,Orion Acquisition Corp Class A,502492512.0
+MPLN,Multiplan Corp Class A,2610548736.0
+ICAD,ICAD Inc,131322160.0
+IGIC,International General Insurance Holdings Ltd,390594336.0
+SRLP,Sprague Resources Common Units,441788992.0
+CAPL,CrossAmerica Partners Common Units,784737088.0
+DJCO,Daily Journal Corp,433997344.0
+HMTV,Hemisphere Media Group Inc Class A,260151952.0
+MVST,Microvast Holdings Inc,1923340672.0
+LEV,Lion Electric Co,1606688512.0
+SEV,Sono Group NV,434627936.0
+WBX,Wallbox NV Class A,2290902016.0
+TMC,TMC the metals company Inc,344646272.0
+FFIE,Faraday Future Intelligent Electric Inc,1378534272.0
+NMG,Nouveau Monde Graphite Inc,391315200.0
+WMC,Western Asset Mortgage Capital Corp,116851008.0
+MITT,AG Mortgage Investment Trust Inc,221489168.0
+IMO,Imperial Oil Ltd,30725136384.0
+NVGS,Navigator Holdings Ltd,736312448.0
+SSRM,SSR Mining Inc,3821070848.0
+AGI,Alamos Gold Inc Class A,2857410304.0
+AG,First Majestic Silver Corp,2907414016.0
+BTG,B2Gold Corp,4232876288.0
+OR,Osisko Gold Royalties Ltd,2069073024.0
+SAND,Sandstorm Gold Ltd,1253886080.0
+TX,Ternium SA ADR,8347016192.0
+ERF,Enerplus Corp,3024300032.0
+CRESY,Cresud SACIF y A ADR,656327488.0
+BODY,Beachbody Company Inc Class A,680829632.0
+FSM,Fortuna Silver Mines Inc,1067391424.0
+DMAQR,Deep Medicine Acquisition Rights,
+PSLV,Sprott Physical Silver Trust USD,3520696320.0
+PHYS,Sprott Physical Gold Trust,5037385216.0
+ELVT,Elevate Credit Inc,124089416.0
+GTEC,Greenland Technologies Holding Corp,56420912.0
+PUMP,ProPetro Holding Corp,1288002688.0
+VTOL,Bristow Group Inc,858119360.0
+XERS,Xeris Biopharma Holdings Inc,300548704.0
+SLHGP,Skylight Health Group Skylight Health Group 9.25 Cumulative Redeemable,
+AVDL,Avadel Pharmaceuticals PLC ADR,396271904.0
+DRUG,Bright Minds Biosciences Inc,28676642.0
+AQST,Aquestive Therapeutics Inc,99606720.0
+HROWL,Harrow Health 8.625% Senior Notes due 2026,
+GBNH,Greenbrook TMS Inc,65332976.0
+CRVS,Corvus Pharmaceuticals Inc,88442152.0
+EYPT,EyePoint Pharmaceuticals Inc,330858144.0
+ENVB,Enveric Biosciences Inc,10431908.0
+UVE,Universal Insurance Holdings Inc,388348288.0
+HT,Hersha Hospitality Trust Class A,369993664.0
+AHT,Ashford Hospitality Trust Inc,278292224.0
+BHR,Braemar Hotels & Resorts Inc,370892256.0
+BRG,Bluerock Residential Growth REIT Inc Class A,726456320.0
+PSTL,Postal Realty Trust Inc Class A,320233440.0
+BRT,BRT Apartments Corp,403936256.0
+WSR,Whitestone REIT,551540096.0
+PINE,Alpine Income Property Trust Inc,213176480.0
+AFB,AllianceBernstein National Municipal Income Fund,378282880.0
+CSTR,CapStar Financial Holdings Inc,468832032.0
+CBNK,Capital Bancorp Inc,343242912.0
+INBK,First Internet Bancorp,489258560.0
+CCBG,Capital City Bank Group Inc,464828384.0
+SPFI,South Plains Financial Inc,504501728.0
+HBCP,Home Bancorp Inc,339747520.0
+AMNB,American National Bankshares Inc,413686528.0
+CCNEP,CNB FINL Depositary Shs REP 1 40 Prf Series A,
+SHBI,Shore Bancshares Inc,389183968.0
+FNLC,First Bancorp Inc,340445440.0
+NRIM,Northrim BanCorp Inc,263875712.0
+EQBK,Equity Bancshares Inc Class A,542602240.0
+ESQ,Esquire Financial Holdings Inc,270032128.0
+MPB,Mid Penn Bancorp Inc,456757280.0
+MCBC,Macatawa Bank Corp,314888064.0
+OSBC,Old Second Bancorp Inc,667066752.0
+CZNC,Citizens & Northern Corp,394562528.0
+CIVB,Civista Bancshares Inc,366659296.0
+PVBC,Provident Bancorp Inc (Maryland),305876000.0
+FRST,Primis Financial Corp,354857216.0
+PCB,PCB Bancorp,354714240.0
+INTZ,Intrusion Inc,66715148.0
+SPI,SPI Energy Co Ltd,77077816.0
+GWH,Ess Tech Inc,687211008.0
+ACHR,Archer Aviation Inc Class A,678766656.0
+LILM,Lilium NV Class A,1230196352.0
+CO,Global Cord Blood Corp,509298688.0
+OCAX,OCA Acquisition Corp Class A,187248752.0
+MARK,Remark Holdings Inc,91624160.0
+BSGAU,Blue Safari Group Acquisition Units,
+BGRY,Berkshire Grey Inc Class A,721210880.0
+ACAH,Atlantic Coastal Acquisition Corp Class A,419606240.0
+EXAI,Exscientia PLC ADR,2394517248.0
+KSS,Kohls Corp,8080905216.0
+NVTS,Navitas Semiconductor Corp,1283300608.0
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,217257104.0
+PFSW,PFSweb Inc,238431136.0
+GLOP,Gaslog Partners Units,207417584.0
+NVAC,Northview Acquisition Corp,
+NWFL,Norwood Financial Corp,233027968.0
+NATR,Natures Sunshine Products Inc,348379360.0
+TRCA,Twin Ridge Capital Acquisition Corp Class A,258369200.0
+STRS,Stratus Properties Inc,308205600.0
+SRI,Stoneridge Inc,392185760.0
+TELL,Tellurian Inc,1197512448.0
+TK,Teekay Corp,320840032.0
+WPRT,Westport Fuel Systems Inc,273270400.0
+IHRT,iHeartMedia Inc Class A,2905727744.0
+PLBC,Plumas Bancorp,226785408.0
+OXLCM,Oxford Lane Cap 6 75 Pref Shs Series 2024,470892704.0
+CNXN,PC Connection Inc,1271680128.0
+SLCRU,Silver Crest Acquisition Units,
+SAR,Saratoga Investment Corp,305713120.0
+DMLP,Dorchester Minerals Units,852499584.0
+DGICB,Donegal Group Inc Class B,416053088.0
+DTW,Dte Energy Company Series E 5 25 Junior Subordinated Debentures due 2077,4411298304.0
+ECCC,Eagle Point Credit Company 6 50 Term Pref Shs Series C,
+CDRO,Codere Online Luxembourg SA,234634384.0
+CBAN,Colony Bankcorp Inc,248733712.0
+CULL,Cullman Bancorp  Inc.,88574448.0
+CONN,Conn's Inc,667665536.0
+CWBC,Community West Bancshares,119334232.0
+CPSS,Consumer Portfolio Services Inc,226751936.0
+EBF,Ennis Inc,485076256.0
+AZEK,Azek Company Inc Class A,4568842240.0
+BBLN,Babylon Holdings Ltd Class A,2012584448.0
+BWSN,Babcock And Wilcox Enterprises 8 125 Senior Notes due 2026,
+T,AT&T Inc,171741052928.0
+AOD,Aberdeen Total Dynamic Dividend Fund,1014246208.0
+ALSA,Alpha Star Acquisition Corp,
+AMST,Amesite Inc,15612045.0
+CHMG,Chemung Financial Corp,215247296.0
+BBI,Brickell Biotech Inc,26000848.0
+BUR,Burford Capital Ltd,2065641600.0
+CEIX,CONSOL Energy Inc,1088539904.0
+CMCL,Caledonia Mining Corporation PLC,154163504.0
+HOFV,Hall of Fame Resort & Entertainment Co,104034832.0
+HWKN,Hawkins Inc,850208448.0
+LMST,Limestone Bancorp Inc,145202016.0
+LOMA,Loma Negra Compania Industrial Argentina SA ADR,1513692928.0
+KFS,Kingsway Financial Services Inc,124882024.0
+KWAC,Kingswood Acquisition Corp Class A,147396224.0
+FTHY,First Trust High Yield Opportunities 2027 Term Closed End Fd,664373376.0
+FPF,First Trust Intermediate Duration Preferred & Inc,1294923392.0
+FKWL,Franklin Wireless Corp,46493144.0
+GIA,Gigcapital5 Inc,293677280.0
+GROY,Gold Royalty Corp,566515456.0
+MYNA,Mynaric AG ADR,218232048.0
+MNTS,Momentus Inc Class A,221564112.0
+RDW,Redwire Corp,331716832.0
+ASTS,AST SpaceMobile Inc Class A,306758304.0
+SATS,EchoStar Corp Class A,2205267456.0
+NP,Neenah Inc,790857216.0
+DXCM,Dexcom Inc,39447252992.0
+EGLE,Eagle Bulk Shipping Inc,699664704.0
+TNK,Teekay Tankers Ltd Class A,376741760.0
+SFL,SFL Corporation Ltd,1199851648.0
+SB,Safe Bulkers Inc,534003968.0
+SBBA,Scorpio Tankers 7.00% Senior Notes Due 2025,
+CMRE,Costamare Inc,1728744320.0
+EURN,Euronav NV,2012746368.0
+FLNG,FLEX LNG Ltd,1163560064.0
+NMM,Navios Maritime Partners Units,938525888.0
+KNOP,KNOT Offshore Partners Common Units,506424096.0
+GRIN,Grindrod Shipping Holdings Ltd,376284064.0
+GSL,Global Ship Lease Inc Class A,944896320.0
+FRO,Frontline Ltd,1530553216.0
+EDUC,Educational Development Corp,62757016.0
+PUCK,Goal Acquisitions Corp,322326880.0
+CATO,Cato Corp Class A,366494336.0
+VRA,Vera Bradley Inc,261409056.0
+KELYB,Kelly Services Inc Class B,846743104.0
+PRDO,Perdoceo Education Corp,721385664.0
+SPTN,SpartanNash Co,971577152.0
+KOP,Koppers Holdings Inc,615965120.0
+LYLT,Loyalty Ventures Inc,595699392.0
+VRTV,Veritiv Corp,1387346944.0
+FF,FutureFuel Corp,325598208.0
+ZEUS,Olympic Steel Inc,251343936.0
+MPAA,Motorcar Parts of America Inc,311114528.0
+FRGI,Fiesta Restaurant Group Inc,252864032.0
+NESR,National Energy Services Reunited Corp,878894720.0
+NR,Newpark Resources Inc,339507232.0
+USX,US Xpress Enterprises Inc Class A,180235024.0
+MESA,Mesa Air Group Inc,161838000.0
+WTTR,Select Energy Services Inc Class A,793732864.0
+LAKE,Lakeland Industries Inc,150920704.0
+VOXX,VOXX International Corp Class A,291043552.0
+VSEC,VSE Corp,598349120.0
+NTB,Bank of N T Butterfield & Son Ltd,1877045632.0
+ORRF,Orrstown Financial Services Inc,275119552.0
+SD,SandRidge Energy Inc,440460768.0
+BRBS,Blue Ridge Bankshares Inc,317671296.0
+TIPT,Tiptree Inc,423414752.0
+VLGEA,Village Super Market Inc Class A,327245248.0
+SMMF,Summit Financial Group Inc,352774080.0
+GRNA,Greenlight Biosciences Holdings PBC,
+HBT,HBT Financial Inc,543907712.0
+HOVNP,Hovnanian Enterprises 1000 Depositary Shares Representing 1 7.625% Pref Shs,3169842688.0
+FLXS,Flexsteel Industries Inc,158792624.0
+KVHI,KVH Industries Inc,156673536.0
+AMR,Alpha Metallurgical Resources Inc,1562009984.0
+MG,Mistras Group Inc,195897040.0
+BVH,Bluegreen Vacations Holding Corp Class A,611676480.0
+TDW,Tidewater Inc,587817216.0
+ATRO,Astronics Corp,418720544.0
+PLPC,Preformed Line Products Co,278806592.0
+OCN,Ocwen Financial Corp,323406368.0
+ODC,Oil-Dri Corporation of America,231555136.0
+SBOW,SilverBow Resources Inc,389330592.0
+PFIS,Peoples Financial Services Corp,344792640.0
+LCUT,Lifetime Brands Inc,298566816.0
+MEC,Mayville Engineering Company Inc,215198448.0
+FRBK,Republic First Bancorp Inc,309760544.0
+BHB,Bar Harbor Bankshares,440462048.0
+NODK,NI Holdings Inc,371789824.0
+UTI,Universal Technical Institute Inc,296806688.0
+UNTY,Unity Bancorp Inc,305321504.0
+LINC,Lincoln Educational Services Corp,190894960.0
+UIHC,United Insurance Holdings Corp,152948528.0
+EGY,VAALCO Energy Inc,324723808.0
+NLSP,NLS Pharmaceutics AG,15338439.0
+ONCT,Oncternal Therapeutics Inc,94405952.0
+HBP,Huttig Building Products Inc,258889360.0
+PCSB,PCSB Financial Corp,290575584.0
+IVC,Invacare Corp,72140576.0
+BELFB,Bel Fuse Inc Class B,153878720.0
+ACTG,Acacia Research Corp,210765568.0
+CIX,CompX International Inc Class A,272313376.0
+BBCP,Concrete Pumping Holdings Inc,428415840.0
+ASLE,AerSale Corp,666673216.0
+ARTNA,Artesian Resources Corp Class A,434485344.0
+CVCY,Central Valley Community Bancorp,276922816.0
+SBT,Sterling Bancorp Inc,301685632.0
+BCBP,BCB Bancorp Inc,311535424.0
+SMFG,Sumitomo Mitsui Financial Group Inc ADR,51405524992.0
+SYNL,Synalloy Corp,174913824.0
+MBNKP,Medallion Bank Fixed to Floating Rate Non Cumulative Perpetual Pref Shs Series F,
+TTSH,Tile Shop Holdings Inc,342476384.0
+LSEA,Landsea Homes Corp,310083360.0
+ASC,Ardmore Shipping Corp,128864624.0
+LFVN,LifeVantage Corp,68335424.0
+TBNK,Territorial Bancorp Inc,233567696.0
+PKBK,Parke Bancorp Inc,283674304.0
+CBFV,CB Financial Services Inc,138199360.0
+PBFS,Pioneer Bancorp Inc,290430688.0
+OESX,Orion Energy Systems Inc,96635472.0
+CTXR,Citius Pharmaceuticals Inc,224886192.0
+CVEO,Civeo Corp,323479552.0
+RVSB,Riverview Bancorp Inc,171776432.0
+SPOK,Spok Holdings Inc,191502160.0
+NC,NACCO Industries Inc Class A,218370176.0
+MULN,Mullen Automotive Inc,25020026.0
+BSVN,Bank7 Corp,212906224.0
+BFIN,BankFinancial Corp,142900336.0
+BWFG,Bankwell Financial Group Inc,269557728.0
+DHX,DHI Group Inc,277435744.0
+DLHC,DLH Holdings Corp,203555952.0
+APRN,Blue Apron Holdings Inc Class A,186900320.0
+CVLY,Codorus Valley Bancorp Inc,210333488.0
+HNRG,Hallador Energy Co,88470416.0
+FRAF,Franklin Financial Services Corp,147639920.0
+UBFO,United Security Bancshares,143907136.0
+HWBK,Hawthorn Bancshares Inc,168732992.0
+FUNC,First United Corp,157176080.0
+INZY,Inozyme Pharma Inc,170149200.0
+HTBX,Heat Biologics Inc,68335416.0
+FONR,Fonar Corp,111119328.0
+AGFS,AgroFresh Solutions Inc,97884592.0
+FBIZ,First Business Financial Services Inc,280319936.0
+VWTR,Vidler Water Resources Inc,213059280.0
+FET,Forum Energy Technologies Inc,105769424.0
+ASYS,Amtech Systems Inc,119912776.0
+ATNM,Actinium Pharmaceuticals Inc,110814928.0
+LIFE,aTyr Pharma Inc,143400000.0
+HSON,Hudson Global Inc,83385760.0
+AAOI,Applied Optoelectronics Inc,99363264.0
+HURC,Hurco Companies Inc,215205952.0
+JAQC,Jupiter Acquisition Corp,194856000.0
+FARM,Farmer Bros Co,104509336.0
+ACNB,ACNB Corp,278850880.0
+BRID,Bridgford Foods Corp,100389744.0
+BCLI,Brainstorm Cell Therapeutics Inc,109922336.0
+SRRA,Sierra Oncology Inc,464446752.0
+AXR,AMREP Corp,93245264.0
+SHCR,Sharecare Inc Class A,1047614976.0
+STSA,Satsuma Pharmaceuticals Inc,161430528.0
+WSTG,Wayside Technology Group Inc,133810152.0
+SGMA,SigmaTron International Inc,37661688.0
+DIT,AMCON Distributing Co,95256864.0
+WYY,WidePoint Corp,38288848.0
+SNRHU,Senior Connect Acquisition I Units,
+WVVIP,Willamette Valley Vineyards Redeemable Pref Shs Series A,40455432.0
+SRTS,Sensus Healthcare Inc,
+BWMN,Bowman Consulting Group Ltd,184490560.0
+SWKH,SWK Holdings Corp,234540112.0
+CSPI,CSP Inc,35155680.0
+IMBIL,iMedia Brands 8 5 Senior Notes Due 2026,
+METCL,Ramaco Resources 9 00 Senior Notes due 2026,
+CVV,CVD Equipment Corp,30093480.0
+RDBX,Redbox Entertainment Inc Class A,96702008.0
+XSPA,XpresSpa Group Inc,128907640.0
+SAL,Salisbury Bancorp Inc,157422112.0
+SANW,S&W Seed Co,86334672.0
+RBCN,Rubicon Technology Inc,22060034.0
+CFFI,C&F Financial Corp,
+SIF,SIFCO Industries Inc,36402668.0
+SBFG,SB Financial Group Inc,135370176.0
+SMHI,SEACOR Marine Holdings Inc,101158744.0
+APT,Alpha Pro Tech Ltd,58090236.0
+USAP,Universal Stainless & Alloy Products Inc,83036072.0
+AHPI,Allied Healthcare Products Inc,13084140.0
+TLK,Telkom Indonesia (Persero) Tbk PT ADR Series B,30441482240.0
+UBOH,United Bancshares Inc,104813760.0
+AP,Ampco-Pittsburgh Corp,114562800.0
+AAMC,Altisource Asset Management Corp,36794524.0
+ALYA,Alithya Group Inc Class A,244909472.0
+AATC,Autoscope Technologies Corp,39727568.0
+TAIT,Taitron Components Inc Class A,20590292.0
+ASUR,Asure Software Inc,142774784.0
+TGA,TransGlobe Energy Corp,241565168.0
+ARKR,Ark Restaurants Corp,59311056.0
+AGTC,Applied Genetic Technologies Corp,105015824.0
+TZOO,Travelzoo,115230832.0
+APTX,Aptinyx Inc,224816112.0
+TC,TuanChe Ltd ADR,43263312.0
+TRT,Trio-Tech International,26821722.0
+TPHS,Trinity Place Holdings Inc,66639464.0
+TREC,Trecora Resources,213765024.0
+TRMR,Tremor International Ltd ADR,1106949120.0
+TRIN,Trinity Capital Inc,475301376.0
+TSBK,Timberland Bancorp Inc,227916768.0
+ASRT,Assertio Holdings Inc,113816952.0
+ULBI,Ultralife Corp,77187360.0
+UNAM,Unico American Corp,14482268.0
+BCML,BayCom Corp,237752368.0
+ZTR,Virtus Total Return Fund,430868928.0
+STRR,Star Equity Holdings Inc,7675403.0
+SGU,Star Group Units,393445056.0
+VIRC,Virco Mfg Corp,49272120.0
+AEMD,Aethlon Medical Inc,21556220.0
+SLNG,Stabilis Solutions Inc,70057552.0
+BPRN,Bank Of Princeton,200041536.0
+SIOX,Sio Gene Therapies Inc,49016964.0
+ACOR,Acorda Therapeutics Inc,21284180.0
+SMID,Smith-Midland Corp,119696440.0
+TFFP,TFF Pharmaceuticals Inc,145887856.0
+BRCC,BRC Inc Class A,
+TESS,TESSCO Technologies Inc,50931196.0
+SYF,Synchrony Financial,22951606272.0
+BTN,Ballantyne Strong Inc,54870752.0
+VWE,Vintage Wine Estates Inc,501831296.0
+SSBI,Summit State Bank,109964304.0
+SSY,SunLink Health Systems Inc,9735810.0
+KEQU,Kewaunee Scientific Corp,39699848.0
+FNCB,FNCB Bancorp Inc,186267648.0
+KARO,Karooooo Ltd,978983296.0
+PIK,Kidpik Corp,31690172.0
+MRAM,Everspin Technologies Inc,198240912.0
+KINS,Kingstone Companies Inc,55245936.0
+EVOL,Evolving Systems Inc,21204956.0
+EVLV,Evolv Technologies Holdings Inc Class A,536264000.0
+JRSH,Jerash Holdings (US) Inc,80172952.0
+GSM,Ferroglobe PLC,1405271296.0
+JAKK,JAKKS Pacific Inc,119459496.0
+EKSO,Ekso Bionics Holdings Inc,32292434.0
+LIVE,Live Ventures Inc,53039704.0
+LWAY,Lifeway Foods Inc,77946248.0
+LPTH,LightPath Technologies Inc Class A,62627240.0
+LMB,Limbach Holdings Inc,77384544.0
+ESBK,Elmira Savings Bank,80467712.0
+EEIQ,Elite Education Group International Ltd,29253004.0
+EBMT,Eagle Bancorp Montana Inc,151320416.0
+LYRA,Lyra Therapeutics Inc,57350284.0
+LCNB,LCNB Corp,281322336.0
+LNSR,LENSAR Inc,64425396.0
+LFAC,LF Capital Acquisition II Corp Class A,
+LGL,LGL Group Inc,55221084.0
+EB,Eventbrite Inc Class A,1427988224.0
+EVBN,Evans Bancorp Inc,224959648.0
+ESP,Espey MFG and Electronics Corp,33180004.0
+LARK,Landmark Bancorp Inc,136492096.0
+EPSN,Epsilon Energy Ltd,132759744.0
+FFNW,First Financial Northwest Inc,157840816.0
+GEOS,Geospace Technologies Corp,65168132.0
+GOVX,GeoVax Labs Inc,12635449.0
+GNE,Genie Energy Ltd Class B,158835024.0
+HNNA,Hennessy Advisors Inc,75303960.0
+HE,Hawaiian Electric Industries Inc,4510171648.0
+GET,Getnet Adquirencia e Servicos para Meios de Pagamento SA ADR,1185368448.0
+HIL,Hill International Inc,108254784.0
+GIFI,Gulf Island Fabrication Inc,60341372.0
+GHG,GreenTree Hospitality Group Ltd ADR Class A,566774976.0
+HALL,Hallmark Financial Services Inc,73235176.0
+GTIM,Good Times Restaurants Inc,54422300.0
+HMNF,HMN Financial Inc,114956392.0
+HSBC,HSBC Holdings PLC ADR,152951635968.0
+FORTY,Formula Systems 1985 Ltd ADR,1677468288.0
+INOD,Innodata Inc,143098944.0
+ISSC,Innovative Solutions and Support Inc,122794368.0
+INSE,Inspired Entertainment Inc,367320480.0
+FCUV,Focus Universal Inc,451198688.0
+ICD,Independence Contract Drilling Inc,35478916.0
+IMTE,Integrated Media Technology Ltd,58588760.0
+MYFW,First Western Financial Inc,307344512.0
+FUSB,First US Bancshares Inc,67777616.0
+FSFG,First Savings Financial Group Inc,187634448.0
+FNWB,First Northwest Bancorp,219872384.0
+ISDR,Issuer Direct Corp,98225848.0
+FXNC,First National Corp,135462912.0
+FGBI,First Guaranty Bancshares Inc,223308944.0
+ISTR,Investar Holding Corp,206870000.0
+LINK,Interlink Electronics Inc,65364748.0
+FSI,Flexible Solutions International Inc,41912480.0
+BDL,Flanigan's Enterprises Inc,54830176.0
+HOUR,Hour Loop Inc,
+FRD,Friedman Industries Inc,66362236.0
+IRIX,IRIDEX Corp,77107304.0
+ICCC,ImmuCell Corp,62709068.0
+PHX,PHX Minerals Inc Class A,77481376.0
+OXBR,Oxbridge Re Holdings Ltd,32108104.0
+PFIN,P&F Industries Inc Class A,18896862.0
+IMOS,ChipMOS Technologies Inc ADR,1201764096.0
+PCTI,PCTEL Inc,90467424.0
+SNP,China Petroleum & Chemical Corp ADR,78964015104.0
+COHN,Cohen & Company Inc,25707730.0
+OBE,Obsidian Energy Ltd,
+OBCI,Ocean Bio-Chem Inc,85277336.0
+JVA,Coffee Holding Co Inc,24033206.0
+CODA,Coda Octopus Group Inc,71114664.0
+CBD,Companhia Brasileira de Distribuicao ADR,1117383296.0
+TCFC,Community Financial Corp(Maryland),229637376.0
+ORGS,Orgenesis Inc,70883880.0
+ORGN,Origin Materials Inc Class A,752889152.0
+ORN,Orion Group Holdings Inc,94109680.0
+CZWI,Citizens Community Bancorp Inc,167723328.0
+CLAS,Class Acceleration Corp Class A,315028608.0
+OPNT,Opiant Pharmaceuticals Inc,131270984.0
+OCC,Optical Cable Corp,36526820.0
+OPHC,OptimumBank Holdings Inc,20389360.0
+CIZN,Citizens Holding Co,100491944.0
+IPDN,Professional Diversity Network Inc,16549319.0
+TARA,Protara Therapeutics Inc,59212140.0
+CARV,Carver Bancorp Inc,29471684.0
+PROV,Provident Financial Holdings Inc,125356264.0
+CUK,Carnival PLC ADR,23228704768.0
+PBPB,Potbelly Corp,159854448.0
+PBIP,Prudential Bancorp Inc,110869200.0
+CPHC,Canterbury Park Holding Corp,99378296.0
+CAJ,Canon Inc ADR,25623134208.0
+RFIL,RF Industries Ltd,71416056.0
+QUMU,Qumu Corp,35564000.0
+QRHC,Quest Resource Holding Corp,134858176.0
+PMD,Psychemedics Corp,39183568.0
+CGRN,Capstone Green Energy Corp,52232728.0
+PDLB,Ponce Financial Group Inc,178465840.0
+PWOD,Penns Woods Bancorp Inc,170021952.0
+PEBK,Peoples Bancorp of North Carolina Inc,159203360.0
+CXDC,China XD Plastics Company Ltd,2560921.0
+PATI,Patriot Transportation Holding Inc,27359278.0
+PLG,Platinum Group Metals Ltd,145897856.0
+PESI,Perma-Fix Environmental Services Inc,74267736.0
+PPIH,Perma-Pipe International Holdings Inc,70987048.0
+PBR,Petroleo Brasileiro SA Petrobras ADR,91178958848.0
+MSVB,Mid-Southern Bancorp Inc,44837672.0
+MBCN,Middlefield Banc Corp,153141440.0
+MXC,Mexco Energy Corp,23232286.0
+DAIO,Data I/O Corp,40691164.0
+MN,Manning & Napier Inc Class A,157326928.0
+MGYR,Magyar Bancorp Inc,85670688.0
+MNSBP,MainStreet Bancshares Depositary Shares Representing Pref Shs,
+MLVF,Malvern Bancorp Inc,124015152.0
+MNTX,Manitex International Inc,141939328.0
+DXYN,Dixie Group Inc Class A,65560040.0
+MHH,Mastech Digital Inc,214348112.0
+MOTS,Motus GI Holdings Inc,21251712.0
+NICK,Nicholas Financial Inc,87932000.0
+NOA,North American Construction Group Ltd,426604512.0
+NTIC,Northern Technologies International Corp,118080264.0
+CWCO,Consolidated Water Co Ltd,148152208.0
+CNFR,Conifer Holdings Inc,21065970.0
+CNCE,Concert Pharmaceuticals Inc,107098776.0
+CTG,Computer Task Group Inc,127344416.0
+NSYS,Nortech Systems Inc,26875846.0
+CMT,Core Molding Technologies Inc,67495392.0
+NOAH,Noah Holdings Ltd ADR Class A,1813723520.0
+NE,Noble Corp (Cayman Island),1528959360.0
+NMR,Nomura Holdings Inc ADR,14386752512.0
+NWG,Natwest Group PLC ADR,38266978304.0
+CEQP,Crestwood Equity Partners Units,1761730944.0
+NAII,Natural Alternatives International Inc,77144768.0
+NHTC,Natural Health Trends Corp,90009304.0
+CRWS,Crown Crafts Inc,70140096.0
+NTWK,NetSol Technologies Inc,44865556.0
+NBSE,NeuBase Therapeutics Inc,45161740.0
+NGS,Natural Gas Services Group Inc,148119632.0
+NTP,Nam Tai Property Inc,350181376.0
+NKSH,National Bankshares Inc,224638352.0
+CYCCP,Cyclacel Pharmaceuticals 6 Conv Pref Shs,11884188.0
+CYAN,Cyanotech Corp,16414551.0
+NSEC,National Security Group Inc,40344796.0
+EGLX,Enthusiast Gaming Holdings Inc,438158784.0
+AGS,PlayAGS Inc,290998176.0
