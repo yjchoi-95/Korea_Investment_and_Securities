@@ -7,6 +7,8 @@ if(!require(dplyr)) install.packages("dplyr"); library(dplyr)
 if(!require(stringr)) install.packages("stringr"); library(stringr)
 if(!require(reshape)) install.packages("reshape"); library(reshape) # functions: cast
 if(!require(echarts4r)) install.packages("echarts4r"); library(echarts4r)
+if(!require(htmlwidgets)) install.packages("htmlwidgets"); library(htmlwidgets)
+if(!require(webshot2)) install.packages("webshot2"); library(webshot2)
 
 
 ## stringr encoding error 발생 시
@@ -179,12 +181,13 @@ temp_df2 %>%
 
 
 # 25. temp_df2의 category 비중을 연도별로 pie chart로 표현 (timeline 옵션 활용) ####
-temp_df2 %>% 
+save_fig <- temp_df2 %>% 
   group_by(year) %>% 
   e_charts(category, timeline = TRUE) %>% 
   e_tooltip() %>% 
   e_pie(cnts)
 
+htmlwidgets::saveWidget(widget = save_fig, file = "els_category.html")
 
 # 26. 위에서 도출한 long format 데이터를 wide format으로 변경하시오####
 temp_df3 <- temp_df2 %>% cast(year~category); temp_df3
@@ -311,10 +314,11 @@ for_plot %>%
 
 # 39. 앞에서 출력한 그래프에, 기준가를 표시하는 line을 추가 ####
 for_plot$base <- rep(for_plot$price[1], nrow(for_plot))
-for_plot %>% 
+save_fig2 <- for_plot %>% 
   e_chart(Date) %>% 
   e_line(price) %>% 
   e_line(base)
 
+htmlwidgets::saveWidget(widget = save_fig2, file = "stock_price_plot.html")
 
 ### end of script
